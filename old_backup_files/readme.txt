@@ -11,3 +11,10 @@ For the first iteration, I automatically added the most common words with a give
 - I try to match the tenor to the character (e.g., 书面语 vs. 口语);
 - I try to make the hint match the most common context in which the reader will encounter the character (not always possible).
 - I try my best to make hints apolitical and unoffensive.
+
+I get hints from:
+
+- Sometimes I write them myself (off the top of my head), or I encounter words/chengyu in my reading that I think would make a good hint.
+- Sometimes I use Pleco, YouDao, 《现代汉语词典》 or other dictionaries or example sentence databases.
+- Sometimes Google autocomplete gives good suggestions (or Google image search).
+- Now that AI is a thing (I started this project before these modern AIs existed), I ask ChatGPT for hints; sometimes they're good, but othertimes they need refinement, or ChatGPT completely misses the best possible hint.
