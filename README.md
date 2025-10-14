@@ -6,7 +6,7 @@ This simplified Chinese character corpus is intended to make a suitable "endgame
 
 ## Method
 
-The MteH corpus is designed to have no "missing" characters: all the characters not in this corpus are necessarily very rare, and likely very niche.  To this end, the MteH corpus merges the following 20 corpora:
+The MteH corpus is designed to have no "missing" characters: all the characters not in this corpus are necessarily very rare, and likely very niche.  To this end, the MteH corpus merges the following 17 corpora:
 
 1. all 2905 characters from the HSK 1.0 syllabus (before 2010; 11 levels);
 2. all 2663 characters from the HSK 2.0 syllabus (after 2010; 6 levels);
