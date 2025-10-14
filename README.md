@@ -27,3 +27,5 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 20. the 300 most common Chinese surnames, based on Chinese census data (c. 2018) (sourced from [Sina](https://news.sina.cn/2018-04-08/detail-ifyuwqez6882483.d.html); there was one two-character surname 欧阳, and the characters 薄 and 路 appear twice in Sina's list; all these characters were included).
 
 The original author (Rebecca J. Stones) has manually checked every single character.  The following characters were manually removed (some are not simplified Mandarin characters, and some were simply too rare to include): 冇吋呎呣啰喆埗埼堃嬛屌崁嵺旻昇槃欸氹滘潟燊珪瑄璟畑瞭磡祇祐竜脩萩蒐辻迺邨镕鳚鼩.
+
+The characters are primarily ordered in [unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620) so that characters with similar components are grouped together as much as possible.  The only exceptions are variant characters, which were reordered to be adjacent.
