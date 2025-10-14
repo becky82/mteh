@@ -29,3 +29,5 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 The original author (Rebecca J. Stones) has manually checked every single character.  The following characters were manually removed (some are not simplified Mandarin characters, and some were too rare, and didn't make the final cut): 乜亍仄伢伫佘佚侬俸俾倭偃僖冇冼剌匝厝叻吋吖吡呎呣咣咤咩唏唑唷啵啶喆喏嗬嗲嗳嘤噶噻囡圩圻坂垭埕埗埚埤埼堀堃夔夥妤姝姣婕婧嫔嬛嬷宕宸寮寰尻屌岐岘岙岚岣岬岱峁峪崁崧嵋嵺巽帼幡庾弁弋徨徵忒恁慵憩懋揆摺敕斛於旻昕昱昶晏晟暹曜曦杩枋枰栾桢梓棣椤楮榭槃槭樽檎檗忻歆毓氐氹汴汶汾沂沅沱泗泾洙洮洵浚浜浠浼涔淄淞淦渚渥渭溴滘滢漳潍潞潟潲潼澍澶濂濑濠濮瀹灏灞炅炜烃烨焘煜燊燮爻猷玑玟玮珂珉珪琛琮琰瑄瑛瑾璁璐璜璟甬町畈畑畿疃瘛皋睇瞑矽砷硒硪磡礅祇祐祚祯祺禺秕稔稷竜竦筠筱粳绫缁缇罡羟羧羯翊肽胤胥脩臧艄艮芊芪芮芷芾苓苣苫苷苻茛茱荀荃荻莆莒莘莪菀菅萩萱萼蒐蒴蓟蓼蔷蔺蔻蕙薏薨薹藜藩蝽螯蟮衢衲褚谌谝谟豉蹇轲轶辻迺邨邬邯郅郜郴郸鄞鄢鄱酚酰醚醛鋈钊钡钰钵钼铉铎铵锷镓镕闾陂陇隍隳隽雉雯霏霖霰靼鞅鞑鞯颍飧飨餮饕馀馥骞鳎鳚鹛麝麽麾黜鼩.
 
 The characters are primarily ordered in [unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620) so that characters with similar components are grouped together as much as possible.  The only exceptions are variant characters, which were reordered to be adjacent.
+
+This project include character structure data from the [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) project.
