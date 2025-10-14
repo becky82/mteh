@@ -1,3 +1,26 @@
+# Each line represents a Chinese character entry with six fields, separated by spaces.
+# Fields:
+# 1. Character: the Chinese character itself
+# 2. Pinyin: the pronunciation of the character (in cases of 多音字, the pronunciation used in the hint is given); capitalized if part of a proper noun (e.g., yī, Shàng).
+# 3. Hint: a short phrase or idiom (up to 4 characters) that helps remember or illustrate the character; the character may appear multiple times in the hint
+# 4. Frequency: usage frequency from the Jun Da modern Chinese database (numerical; lower = more common)
+# 5. HSK level: based on HSK 3.0 standards: numbers 1 through 6 denote HSK1–HSK6; "+" denotes HSK7–9; "n" denotes a non-HSK character
+# 6. Character structure: coded number corresponding to the character's structure as sourced from Make Me a Hanzi:
+#    1: ⿱ (top-bottom)  
+#    2: ⿳ (top-middle-bottom)  
+#    3: ⿰ (left-right)  
+#    4: ⿲ (left-middle-right)  
+#    5: ⿴ (enclosure)  
+#    6: ⿵ (bottom enclosure)  
+#    7: ⿶ (left enclosure)  
+#    8: ⿸ (upper-left enclosure)  
+#    9: ⿷ (upper-right enclosure)  
+#    10: ⿺ (bottom-left enclosure)  
+#    11: ⿹ (bottom-right enclosure)  
+#    12: none (simple or single-component character)  
+#    13: ⿻ (overlapping components)
+
+
 一 yī 一朝一夕 2 1 12
 丁 dīng 拉丁语 1168 + 1
 七 qī 乱七八糟 530 1 13
