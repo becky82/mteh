@@ -8,9 +8,9 @@ This simplified Chinese character corpus is intended to make a suitable "endgame
 
 The MteH corpus is designed to have no "missing" characters: all the characters not in this corpus are necessarily very rare, and likely very niche.  To this end, the MteH corpus merges the following 20 corpora:
 
-1. all 2905 characters from the HSK 1.0 syllabus;
-2. all 2663 characters from the HSK 2.0 syllabus;
-3. all 3000 characters from the HSK 3.0 syllabus;
+1. all 2905 characters from the HSK 1.0 syllabus (before 2010; 11 levels);
+2. all 2663 characters from the HSK 2.0 syllabus (after 2010; 6 levels);
+3. all 3000 characters from the HSK 3.0 syllabus (introduced 2021; 9 levels);
 4. Heisig and Richardson's *Remembering Simplified Hanzi 1* and *Remembering Simplified Hanzi 2* (3018 characters);
 5. the [Taiwanese TOCFL vocabulary list](https://www.roc-taiwan.org/at_de/post/634.html) (extracted from 7989 simplified-character words; 妳 and 牠 were excluded);
 6. the top 3500 characters from [Jun Da's modern corpus](https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO) (後 was excluded);
