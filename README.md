@@ -1,11 +1,14 @@
 # More than enough Hanzi (MteH)
 
-**A curated set of ~4300 simplified Chinese characters for learners.**  
+**A curated set of ~4300 simplified Chinese characters for Chinese language learners.**  
 
 ---
 
 ## Purpose
+
 This simplified character corpus is intended to be a set of simplified Chinese characters which will make a good "finishing line" for advanced students.  Basically, if you learn these characters, you're practically "done" studying simplified Chinese characters.
+
+## Construction
 
 This list of characters merges the following corpora:
 
@@ -27,4 +30,4 @@ This list of characters merges the following corpora:
 19. the 2480 characters listed as for Chinese primary school children (2016) (sourced from [Sohu](https://www.sohu.com/a/62481121_101008));
 20. the 300 most common Chinese surnames, based on Chinese census data (c. 2018) (sourced from [Sina](https://news.sina.cn/2018-04-08/detail-ifyuwqez6882483.d.html); there was one two-character surname 欧阳, and the characters 薄 and 路 appear twice in Sina's list; all these characters were included).
 
-These characters were manually removed (some are not simplified Mandarin characters, and some were simply too rare to include)  : 冇 (U+5187) 吋 (U+540B) 呎 (U+544E) 呣 (U+5463) 啰 (U+5570) 喆 (U+5586) 埗 (U+57D7) 埼 (U+57FC) 堃 (U+5803) 嬛 (U+5B1B) 屌 (U+5C4C) 崁 (U+5D01) 嵺 (U+5D7A) 旻 (U+65FB) 昇 (U+6607) 槃 (U+69C3) 欸 (U+6B38) 氹 (U+6C39) 滘 (U+6ED8) 潟 (U+6F5F) 燊 (U+71CA) 珪 (U+73EA) 瑄 (U+7444) 璟 (U+749F) 畑 (U+7551) 瞭 (U+77AD) 磡 (U+78E1) 祇 (U+7947) 祐 (U+7950) 竜 (U+7ADC) 脩 (U+8129) 萩 (U+8429) 蒐 (U+8490) 辻 (U+8FBB) 迺 (U+8FFA) 邨 (U+90A8) 镕 (U+9555) 鳚 (U+9CDA) 鼩 (U+9F29).
+The original author (Rebecca J. Stones) has manually checked every single character.  Some characters were manually removed (some are not simplified Mandarin characters, and some were simply too rare to include)  : 冇 (U+5187) 吋 (U+540B) 呎 (U+544E) 呣 (U+5463) 啰 (U+5570) 喆 (U+5586) 埗 (U+57D7) 埼 (U+57FC) 堃 (U+5803) 嬛 (U+5B1B) 屌 (U+5C4C) 崁 (U+5D01) 嵺 (U+5D7A) 旻 (U+65FB) 昇 (U+6607) 槃 (U+69C3) 欸 (U+6B38) 氹 (U+6C39) 滘 (U+6ED8) 潟 (U+6F5F) 燊 (U+71CA) 珪 (U+73EA) 瑄 (U+7444) 璟 (U+749F) 畑 (U+7551) 瞭 (U+77AD) 磡 (U+78E1) 祇 (U+7947) 祐 (U+7950) 竜 (U+7ADC) 脩 (U+8129) 萩 (U+8429) 蒐 (U+8490) 辻 (U+8FBB) 迺 (U+8FFA) 邨 (U+90A8) 镕 (U+9555) 鳚 (U+9CDA) 鼩 (U+9F29).
