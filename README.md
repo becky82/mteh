@@ -1,20 +1,16 @@
 # More than enough Hanzi (MteH)
 
-**A curated set of ~4300 simplified Chinese characters for Chinese language learners.**  
+**A curated set of ~4300 simplified Chinese characters for language learners.**  
 
----
+This simplified Chinese character corpus is intended to make a suitable "endgame corpus" for advanced students.  Basically, if you learn these characters, you're practically "done for life" studying simplified Chinese characters (congratulations!).  Obviously, there are more simplified Chinese characters than this (in proper nouns, scientific terms, chengyu, Chinese history, etc.), but at a certain point you've got to draw the line and say "this is my endgame".
 
-## Purpose
+## Method
 
-This simplified character corpus is intended to be a set of simplified Chinese characters which will make a good "finishing line" for advanced students.  Basically, if you learn these characters, you're practically "done" studying simplified Chinese characters.
+The MteH corpus is designed to have no "missing" characters: all the characters not in this corpus are necessarily very rare, and likely very niche.  To this end, the MteH corpus merges the following 20 corpora:
 
-## Construction
-
-This list of characters merges the following corpora:
-
-1. HSK 1.0 (2905 characters);
-2. HSK 2.0 (2663 characters);
-3. HSK 3.0 (3000 characters);
+1. all 2905 characters from the HSK 1.0 syllabus;
+2. all 2663 characters from the HSK 2.0 syllabus;
+3. all 3000 characters from the HSK 3.0 syllabus;
 4. Heisig and Richardson's *Remembering Simplified Hanzi 1* and *Remembering Simplified Hanzi 2* (3018 characters);
 5. the [Taiwanese TOCFL vocabulary list](https://www.roc-taiwan.org/at_de/post/634.html) (extracted from 7989 simplified-character words; 妳 and 牠 were excluded);
 6. the top 3500 characters from [Jun Da's modern corpus](https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO) (後 was excluded);
@@ -30,4 +26,4 @@ This list of characters merges the following corpora:
 19. the 2480 characters listed as for Chinese primary school children (2016) (sourced from [Sohu](https://www.sohu.com/a/62481121_101008));
 20. the 300 most common Chinese surnames, based on Chinese census data (c. 2018) (sourced from [Sina](https://news.sina.cn/2018-04-08/detail-ifyuwqez6882483.d.html); there was one two-character surname 欧阳, and the characters 薄 and 路 appear twice in Sina's list; all these characters were included).
 
-The original author (Rebecca J. Stones) has manually checked every single character.  These characters were manually removed (some are not simplified Mandarin characters, and some were simply too rare to include): 冇吋呎呣啰喆埗埼堃嬛屌崁嵺旻昇槃欸氹滘潟燊珪瑄璟畑瞭磡祇祐竜脩萩蒐辻迺邨镕鳚鼩.
+The original author (Rebecca J. Stones) has manually checked every single character.  The following characters were manually removed (some are not simplified Mandarin characters, and some were simply too rare to include): 冇吋呎呣啰喆埗埼堃嬛屌崁嵺旻昇槃欸氹滘潟燊珪瑄璟畑瞭磡祇祐竜脩萩蒐辻迺邨镕鳚鼩.
