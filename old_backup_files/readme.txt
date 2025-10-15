@@ -3,7 +3,7 @@ This was my (Rebecca J. Stones) original version that I had been working on offl
 For the first iteration, I automatically added the most common words with a given character.  I found this wasn't suitable as many hints were like "x树" and there's many different possible x's, but it was a good starting point.  I've gone through this list manually while doing handwriting practice (I think I'm up to 4 times now), I've found:
 
 - ideally we can use the hint as a cloze phrase e.g. from [blank]绒服 we can infer the blank is 羽 (this is not always possible with 4-character hints);
-- since they're hints, we don't have to (and it's often better not to) preserve grammatical accuracy (but, if it's easy to be grammatical, we might as well);
+- since they're hints, we don't have to (and it's often better not to) preserve grammatical accuracy, e.g. 虽然但是 and 青蛙蝌蚪 (but, if it's easy to be grammatical, we might as well);
 - longer hints are almost always better;
 - collocations often make excellent hints (e.g., single character adjectives: 不[blank]不矮 is 不高不矮);
 - commonly occurring chengyu that contain unique characters make excellent hints (根深蒂固 is great for 蒂);
