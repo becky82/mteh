@@ -1,0 +1,23 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.8)  15 OCT 2025 16:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\def\datafile{mteh_input_HSK5.txt}\input{main.tex}^^M
+
+! Emergency stop.
+<read *> 
+         
+<*> ...tafile{mteh_input_HSK5.txt}\input{main.tex}
+                                                  ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 476191
+ 305 string characters out of 5812073
+ 298158 words of memory out of 5000000
+ 20860 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 15i,0n,26p,84b,18s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

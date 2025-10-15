@@ -1,0 +1,116 @@
+% 8 different versions are created: HSK5, HSK6, HSK7-9, all; and "answers" and "no answers".
+
+% Default: hide answers
+\newif\ifshowanswers
+\showanswersfalse
+
+% Turn on answers if bash defines \answerson
+\ifdefined\answerson
+  \showanswerstrue
+\fi
+
+
+\documentclass{article}
+
+\usepackage[margin=0.7in]{geometry}
+
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Sans CJK SC}
+
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usepackage{graphicx}
+
+% https://tex.stackexchange.com/questions/30720/footnote-without-a-marker
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+% #1 = occurrence frequency [1..7238]
+% #2 = HSK level
+\newcommand{\tikzbox}[2]{%
+    \begin{tikzpicture}[baseline={(current bounding box.center)}]
+      \begin{scope}
+        \draw[rounded corners] (-0.5cm,-0.5cm) rectangle (0.5cm,0.5cm);
+        \clip[rounded corners] (-0.5cm,-0.5cm) rectangle (0.5cm,0.5cm);
+        \fill[black] (-0.5cm,-0.5cm) rectangle (-0.45cm,0.5cm - 0.000142857 * #1 * 1cm);
+      \end{scope}
+        \node[anchor=north east] at (0.68cm,0.68cm) {\small #2};
+    \end{tikzpicture}%
+}
+
+\newcommand{\square}[1]{%
+  \raisebox{-0.18em}{%
+    \smash{\includegraphics[height=1em]{square#1.pdf}}%
+  }%
+}
+
+\usepackage{pgfmath}
+\newcounter{charcount}
+\setcounter{charcount}{0}
+
+% #1 = character
+% #2 = pinyin
+% #3 = example word/phrase
+% #4 = occurrence frequency [1..7238]
+% #5 = HSK level
+\newcommand{\character}[5]{%
+  \begin{minipage}{0.08\textwidth}%
+  \centering\huge%
+
+  \tikzbox{#4}{#5}\\[0.1em]
+
+  \large #2 \\[0.1em]
+
+  \normalsize #3
+
+  % https://tex.stackexchange.com/questions/74707/how-to-concatenate-strings-into-a-single-command
+  \global\expandafter\def\expandafter\reptemp\expandafter{\reptemp#1}
+  \end{minipage}
+  \stepcounter{charcount}
+  \pgfmathparse{Mod(\value{charcount},10)==0?1:0}
+  \ifnum\pgfmathresult=1
+    \\[0.4em]
+
+    \global\expandafter\def\expandafter\reptemp\expandafter{\reptemp \quad}
+
+  \fi%
+  \ifnum\value{charcount} = 50
+
+      \ifshowanswers
+        \blfootnote{\fontsize{8.5}{9}\selectfont\reptemp}
+      \fi
+
+      \def\reptemp{}
+
+  \fi
+  \ifnum\value{charcount} = 100
+      \setcounter{charcount}{0}
+
+      \ifshowanswers
+        \blfootnote{\fontsize{8.5}{9}\selectfont\reptemp}
+      \fi
+
+      \def\reptemp{}
+      \newpage
+  \fi
+}
+
+\begin{document}
+
+\centering
+
+\def\reptemp{}
+
+\input{\datafile}  % expected to be provided by a bash call
+
+% \input{mteh_input.txt}
+
+\ifshowanswers
+  \blfootnote{\reptemp}
+\fi
+
+\end{document}
