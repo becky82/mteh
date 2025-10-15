@@ -27,3 +27,7 @@ I uploaded a photo of what I've been doing for handwriting practice and editing 
 - For the characters I couldn't remember correctly, I color the boxes in blue, then handwrite those characters;
 - This page shows my editing process: in orange pen, I note changes I'd like to make to the hints;
 - And when I make the changes, I tick them off.
+
+------
+
+These files are obsolete now, and no longer being updated.
