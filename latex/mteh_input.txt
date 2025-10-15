@@ -3179,7 +3179,7 @@
 \character{苦}{kǔ}{\square{2}不堪言}{634}{3}
 \character{苯}{běn}{芳香\square{2}环}{3686}{}
 \character{英}{yīng}{超级\square{2}雄}{371}{2}
-\character{苹}{píng}{\square{2}果手机}{2478}{3}
+\character{苹}{Píng}{\square{2}果手机}{2478}{3}
 \character{茁}{zhuó}{\square{2}壮成长}{4472}{}
 \character{茂}{mào}{植物\square{2}盛}{2309}{+}
 \character{范}{fàn}{\square{2}围之内}{705}{3}
@@ -3198,7 +3198,7 @@
 \character{茶}{chá}{茉莉花\square{2}}{1272}{1}
 \character{茸}{róng}{毛\square{2}\square{2}}{3343}{}
 \character{茹}{rú}{含辛\square{2}苦}{3532}{}
-\character{荆}{jīng}{\square{1}棘密丛}{2551}{+}
+\character{荆}{jīng}{\square{1}棘丛}{2551}{+}
 \character{草}{cǎo}{打\square{2}惊蛇}{789}{2}
 \character{荐}{jiàn}{向你推\square{2}}{2367}{+}
 \character{荒}{huāng}{\square{2}谬结论}{1328}{+}
@@ -3287,7 +3287,7 @@
 \character{蕨}{jué}{\square{2}类植物}{4289}{}
 \character{蕴}{yùn}{\square{2}含深意}{2633}{+}
 \character{蕾}{lěi}{芭\square{2}舞}{3329}{+}
-\character{薄}{báo}{\square{2}弱环节}{1433}{4}
+\character{薄}{bó}{\square{2}弱环节}{1433}{4}
 \character{薇}{Wēi}{赵\square{2}歌曲}{3193}{}
 \character{薛}{Xuē}{\square{2}宝钗}{1953}{}
 \character{薪}{xīn}{工资\square{2}水}{2167}{6}
