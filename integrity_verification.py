@@ -21,6 +21,18 @@ error_characters = set()
 variant_characters = set()
 two_char_hint_chars = set()
 capital_pinyin_chars = set()
+non_chinese_hint_chars = set()
+
+# Regex to match Chinese characters OR Chinese punctuation# Regex to match Chinese characters or allowed punctuation
+chinese_or_punct_re = re.compile(
+    r'['
+    r'\u4e00-\u9fff'  # CJK Unified Ideographs
+    r'\u3000-\u303F'  # CJK Symbols and Punctuation
+    r'\uFF00-\uFFEF'  # Fullwidth punctuation
+    r'\u2000-\u206F'  # General punctuation (includes …, —)
+    r'\u00B7'         # middle dot
+    r']'
+)
 
 unicode_out_of_order = []
 variant_map = {}  # key: variant char, value: original char
@@ -98,6 +110,13 @@ with open(file_path, "r", encoding="utf-8") as f:
             skip_unicode_check = True
         else:
             skip_unicode_check = False
+
+            # Detect non-Chinese/non-punctuation characters
+            non_chinese_chars = [c for c in hint if not chinese_or_punct_re.match(c)]
+            if non_chinese_chars:
+                sample = ''.join(non_chinese_chars).strip()
+                print(f"Line {line_no}: WARNING - Character '{char}': Hint contains non-Chinese characters or non-Chinese punctuation: {sample}")
+                non_chinese_hint_chars.add(char)
 
             # Collect Chinese characters in hint
             chinese_chars_in_hint = chinese_char_re.findall(hint)
@@ -190,6 +209,12 @@ if extra_hint_chars:
     print("  " + " ".join(sorted(extra_hint_chars)))
 else:
     print("\nAll hint characters also appear in the main 'character' field.")
+
+if non_chinese_hint_chars:
+    print("\nCharacters whose hints contain non-Chinese characters or punctuation:")
+    print("  " + " ".join(sorted(non_chinese_hint_chars)))
+else:
+    print("\nNo hints contained non-Chinese characters or punctuation.")
 
 # List characters that were out of Unicode order
 if unicode_out_of_order:
