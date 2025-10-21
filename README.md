@@ -30,8 +30,8 @@ The original author (Rebecca J. Stones) has manually checked every single charac
 
 The characters are primarily ordered in [unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620) so that characters with similar components are grouped together as much as possible.  The only exceptions are variant characters, which were reordered to be adjacent.
 
-This project include character structure data from the [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) project.
+This project includes character structure data from the [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) project, licensed under an MIT License.
 
 ## License
 
-© 2025 Rebecca J. Stones.  This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  The Make Me a Hanzi data, by Skishore, is licensed under an MIT License.
+© 2025 Rebecca J. Stones.  This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
