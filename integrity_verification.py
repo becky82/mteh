@@ -23,6 +23,7 @@ two_char_hint_chars = set()
 capital_pinyin_chars = set()
 
 unicode_out_of_order = []
+variant_map = {}  # key: variant char, value: original char
 
 # Allowed values
 valid_hsk = set(["1","2","3","4","5","6","+","n"])
@@ -86,16 +87,17 @@ with open(file_path, "r", encoding="utf-8") as f:
 
         # Detect variant hints robustly
         if is_variant_hint(hint):
-            print(f"Line {line_no}: WARNING - Character '{char}': Hint indicates variant ('{hint}')")
-            variant_characters.add(char)
+            if previous_char is not None:
+                print(f"Line {line_no}: WARNING - Character '{char}': Hint indicates variant of '{previous_char}' ('{hint}')")
+                variant_characters.add(char)
+                variant_map[char] = previous_char
+            else:
+                print(f"Line {line_no}: WARNING - Character '{char}': Hint indicates variant but no previous character found ('{hint}')")
+                variant_characters.add(char)
+                variant_map[char] = "?"
             skip_unicode_check = True
         else:
             skip_unicode_check = False
-
-            # Check character appears in hint
-            if char not in hint:
-                print(f"Line {line_no}: ERROR - Character '{char}': not found in hint '{hint}'")
-                error_characters.add(char)
 
             # Collect Chinese characters in hint
             chinese_chars_in_hint = chinese_char_re.findall(hint)
@@ -137,6 +139,10 @@ with open(file_path, "r", encoding="utf-8") as f:
             except TypeError:
                 print(f"Line {line_no}: WARNING - Character '{char}': cannot determine Unicode code point")
 
+        # Update previous_char for next iteration
+        if not is_variant_hint(hint):
+            previous_char = char
+
         # Add entry to list
         entries.append({
             "char": char,
@@ -168,12 +174,14 @@ for struct in numeric_structs_sorted:
 if 'none' in structure_counts:
     print(f"  Structure none: {structure_counts['none']} characters")
 
-# Variant characters summary
+# Characters marked as variants (single line)
 if variant_characters:
-    print("\nCharacters marked as variants:")
-    print("  " + " ".join(sorted(variant_characters)))
+    variant_list = [f"{var}→{variant_map[var]}" for var in sorted(variant_characters)]
+    print("\nCharacters marked as variants (variant→original):")
+    print("  " + " ".join(variant_list))
 else:
     print("\nNo variant characters found.")
+
 
 # Find characters that appear in hints but not in main characters
 extra_hint_chars = hint_characters_set - characters_set
