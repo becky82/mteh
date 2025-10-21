@@ -19,6 +19,7 @@ characters_set = set()
 hint_characters_set = set()
 error_characters = set()
 variant_characters = set()
+two_char_hint_chars = set()
 
 unicode_out_of_order = []
 
@@ -103,6 +104,11 @@ with open(file_path, "r", encoding="utf-8") as f:
             if not (2 <= hint_len <= 4):
                 print(f"Line {line_no}: WARNING - Character '{char}': Hint '{hint}' contains {hint_len} Chinese characters (expected 2–4)")
 
+
+            if hint_len == 2:
+                print(f"Line {line_no}: WARNING - Character '{char}': Hint contains exactly 2 Chinese characters")
+                two_char_hint_chars.add(char)
+
             # Warn for non-Chinese characters
             non_chinese_chars = [c for c in hint if not chinese_char_re.match(c)]
             sample = ''.join(non_chinese_chars).strip()
@@ -178,6 +184,13 @@ if unicode_out_of_order:
     print("  " + " ".join(unicode_out_of_order))
 else:
     print("\nNo characters had Unicode order issues.")
+
+# Characters with 2-character hints
+if two_char_hint_chars:
+    print("\nCharacters with exactly 2-character hints:")
+    print("  " + " ".join(sorted(two_char_hint_chars)))
+else:
+    print("\nNo characters had exactly 2-character hints.")
 
 # List characters that caused errors
 if error_characters:
