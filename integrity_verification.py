@@ -20,6 +20,7 @@ hint_characters_set = set()
 error_characters = set()
 variant_characters = set()
 two_char_hint_chars = set()
+capital_pinyin_chars = set()
 
 unicode_out_of_order = []
 
@@ -78,6 +79,10 @@ with open(file_path, "r", encoding="utf-8") as f:
         if structure not in valid_structure:
             print(f"Line {line_no}: WARNING - Character '{char}': Structure code '{structure}' is unexpected")
         structure_counts[structure] += 1
+
+        # Check pinyin capitalization
+        if pinyin and pinyin[0].isupper():
+            capital_pinyin_chars.add(char)
 
         # Detect variant hints robustly
         if is_variant_hint(hint):
@@ -191,6 +196,13 @@ if two_char_hint_chars:
     print("  " + " ".join(sorted(two_char_hint_chars)))
 else:
     print("\nNo characters had exactly 2-character hints.")
+
+# Characters whose pinyin starts with a capital letter
+if capital_pinyin_chars:
+    print("\nCharacters with pinyin starting with a capital letter:")
+    print("  " + " ".join(sorted(capital_pinyin_chars)))
+else:
+    print("\nNo characters had pinyin starting with a capital letter.")
 
 # List characters that caused errors
 if error_characters:
