@@ -30,7 +30,7 @@ The original author (Rebecca J. Stones) has manually checked every single charac
 
 The characters are primarily ordered in [unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620) so that characters with similar components are grouped together as much as possible.  The only exceptions are variant characters, which were reordered to be adjacent.
 
-This project includes character structure data from the [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) project, licensed under an MIT License.
+This project includes character structure data from the [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) project, licensed under an MIT License, and character frequency data from Jun Da's [modern corpus]( http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO).
 
 ## License
 
