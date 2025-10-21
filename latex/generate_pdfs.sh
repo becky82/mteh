@@ -1,12 +1,14 @@
 #!/bin/bash
 
-./generate_latex_code.py
+python3 ./generate_latex_code.py
 
 # (this only needs to be done once to generate square0.pdf through square12.pdf)
 #
 # for i in {0..12}; do
 #     xelatex -interaction=nonstopmode "square${i}.tex"
 # done
+
+xelatex mteh.tex
 
 # HSK5 with answers
 xelatex -interaction=nonstopmode -jobname=mteh_HSK5_answers "\def\datafile{mteh_input_HSK5.txt}\def\answerson{1}\input{mteh_bulk.tex}"

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.8)  15 OCT 2025 17:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.8)  21 OCT 2025 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1445,6 +1445,8 @@ File: square2.pdf Graphic file (type pdf)
 <use square2.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square2.pdf Graphic file (type pdf)
 <use square2.pdf>
 File: square11.pdf Graphic file (type pdf)
@@ -1719,6 +1721,8 @@ File: square9.pdf Graphic file (type pdf)
 <use square9.pdf>
 File: square12.pdf Graphic file (type pdf)
 <use square12.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square6.pdf Graphic file (type pdf)
@@ -7880,6 +7884,8 @@ File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
  [35]
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
@@ -8152,10 +8158,10 @@ File: square11.pdf Graphic file (type pdf)
 <use square11.pdf>
 File: square11.pdf Graphic file (type pdf)
 <use square11.pdf>
-File: square11.pdf Graphic file (type pdf)
-<use square11.pdf>
 File: square2.pdf Graphic file (type pdf)
 <use square2.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
@@ -8290,8 +8296,6 @@ File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
-File: square1.pdf Graphic file (type pdf)
-<use square1.pdf>
 File: square10.pdf Graphic file (type pdf)
 <use square10.pdf>
  [37]
@@ -8345,6 +8349,8 @@ File: square9.pdf Graphic file (type pdf)
 <use square9.pdf>
 File: square9.pdf Graphic file (type pdf)
 <use square9.pdf>
+File: square11.pdf Graphic file (type pdf)
+<use square11.pdf>
 File: square11.pdf Graphic file (type pdf)
 <use square11.pdf>
 File: square11.pdf Graphic file (type pdf)
@@ -8855,8 +8861,12 @@ File: square6.pdf Graphic file (type pdf)
 <use square6.pdf>
 File: square6.pdf Graphic file (type pdf)
 <use square6.pdf>
+File: square6.pdf Graphic file (type pdf)
+<use square6.pdf>
 File: square4.pdf Graphic file (type pdf)
 <use square4.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
@@ -9215,6 +9225,8 @@ File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square2.pdf Graphic file (type pdf)
 <use square2.pdf>
 File: square1.pdf Graphic file (type pdf)
@@ -9449,10 +9461,10 @@ File: square2.pdf Graphic file (type pdf)
 ) [43]
 (./mteh_all_noanswers.aux) ) 
 Here is how much of TeX's memory you used:
- 25000 strings out of 476191
- 602746 string characters out of 5812073
+ 25009 strings out of 476191
+ 603372 string characters out of 5812073
  1058502 words of memory out of 5000000
- 45486 multiletter control sequences out of 15000+600000
+ 45495 multiletter control sequences out of 15000+600000
  469921 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,8n,107p,457b,587s stack positions out of 5000i,500n,10000p,200000b,80000s

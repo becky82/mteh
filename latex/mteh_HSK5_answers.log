@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.8)  15 OCT 2025 17:27
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.8)  21 OCT 2025 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1212,6 +1212,8 @@ File: square9.pdf Graphic file (type pdf)
 <use square9.pdf>
 File: square9.pdf Graphic file (type pdf)
 <use square9.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square6.pdf Graphic file (type pdf)
@@ -3248,6 +3250,8 @@ File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square4.pdf Graphic file (type pdf)
 <use square4.pdf>
 File: square4.pdf Graphic file (type pdf)
@@ -3308,8 +3312,6 @@ File: square11.pdf Graphic file (type pdf)
 <use square11.pdf>
 
 [13]
-File: square11.pdf Graphic file (type pdf)
-<use square11.pdf>
 File: square11.pdf Graphic file (type pdf)
 <use square11.pdf>
 File: square11.pdf Graphic file (type pdf)
@@ -3579,6 +3581,8 @@ File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
 File: square1.pdf Graphic file (type pdf)
 <use square1.pdf>
+File: square1.pdf Graphic file (type pdf)
+<use square1.pdf>
 File: square2.pdf Graphic file (type pdf)
 <use square2.pdf>
 File: square12.pdf Graphic file (type pdf)
@@ -3719,7 +3723,7 @@ File: square12.pdf Graphic file (type pdf)
 Here is how much of TeX's memory you used:
  19395 strings out of 476191
  463954 string characters out of 5812073
- 1061955 words of memory out of 5000000
+ 1061931 words of memory out of 5000000
  39869 multiletter control sequences out of 15000+600000
  471776 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
