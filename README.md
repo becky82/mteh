@@ -1,6 +1,6 @@
 # More than enough Hanzi (MteH)
 
-**A curated set of ~4300 simplified Chinese characters for advanced language learners.**  
+**A curated set of ~4270 simplified Chinese characters for advanced language learners.**  
 
 This simplified Chinese character corpus is intended to make a suitable "endgame corpus" for advanced students.  Basically, if you learn these characters, you're practically "done for life" studying simplified Chinese characters (congratulations!).  Obviously, there are more simplified Chinese characters than this (in proper nouns, scientific terms, chengyu, Chinese history, etc.), but at a certain point you've got to draw the line and say "this is my endgame".
 
