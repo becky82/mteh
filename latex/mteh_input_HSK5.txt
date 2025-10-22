@@ -20,12 +20,12 @@
 \character{中}{Zhōng}{\square{12}国制造}{14}{1}
 \character{丰}{fēng}{\square{12}富多彩}{1189}{3}
 \character{临}{lín}{欢迎光\square{1}}{839}{4}
-\character{为}{wèi}{\square{12}什么?}{18}{2}
+\character{为}{wèi}{\square{12}什么？}{18}{2}
 \character{主}{zhǔ}{社会\square{2}义}{87}{2}
 \character{丽}{lì}{非常美\square{2}}{834}{3}
 \character{举}{jǔ}{一\square{2}一动}{586}{2}
 \character{久}{jiǔ}{好\square{12}不见}{637}{2}
-\character{么}{me}{什\square{2}？}{63}{1}
+\character{么}{me}{怎\square{2}回事}{63}{1}
 \character{义}{yì}{资本主\square{12}}{208}{3}
 \character{之}{zhī}{三天\square{2}后}{44}{4}
 \character{乎}{hū}{几\square{12}所有}{458}{4}
@@ -59,7 +59,7 @@
 \character{亲}{qīn}{母\square{2}节}{362}{3}
 \character{人}{rén}{风土\square{0}情}{7}{1}
 \character{亿}{yì}{\square{1}万富翁}{1057}{2}
-\character{什}{shén}{\square{1}么？}{156}{1}
+\character{什}{shén}{这是\square{1}么}{156}{1}
 \character{仅}{jǐn}{不\square{1}如此}{494}{3}
 \character{今}{jīn}{迄\square{2}为止}{336}{1}
 \character{介}{jiè}{自我\square{2}绍}{831}{1}
@@ -76,7 +76,7 @@
 \character{价}{jià}{\square{1}格上涨}{409}{3}
 \character{任}{rèn}{\square{1}重道远}{186}{3}
 \character{份}{fèn}{哪个省\square{1}}{784}{2}
-\character{仿}{fǎng}{\square{1}佛}{1259}{5}
+\character{仿}{fǎng}{\square{1}佛梦中}{1259}{5}
 \character{企}{qǐ}{国有\square{2}业}{450}{4}
 \character{休}{xiū}{\square{1}息一下}{1082}{1}
 \character{众}{zhòng}{唤起群\square{2}}{510}{3}
@@ -211,7 +211,7 @@
 \character{勤}{qín}{\square{1}奋好学}{1565}{5}
 \character{包}{bāo}{\square{10}括在内}{454}{1}
 \character{化}{huà}{文\square{1}差异}{178}{3}
-\character{北}{Běi}{\square{1}京}{315}{1}
+\character{北}{Běi}{\square{1}京故宫}{315}{1}
 \character{匹}{pǐ}{一\square{8}马}{1908}{5}
 \character{区}{qū}{地理\square{8}域}{265}{3}
 \character{医}{yī}{他住\square{8}院}{482}{1}
@@ -251,7 +251,7 @@
 \character{又}{yòu}{你\square{0}来了}{126}{2}
 \character{叉}{chā}{交\square{5}双臂}{2231}{5}
 \character{及}{jí}{力所能\square{12}}{198}{3}
-\character{友}{yǒu}{朋\square{9}}{594}{1}
+\character{友}{yǒu}{忠实朋\square{9}}{594}{1}
 \character{双}{shuāng}{一\square{1}鞋子}{581}{3}
 \character{反}{fǎn}{化学\square{9}应}{237}{3}
 \character{发}{fā}{经济\square{9}展}{47}{2}
@@ -1049,7 +1049,7 @@
 \character{笔}{bǐ}{一支铅\square{2}}{956}{2}
 \character{符}{fú}{标点\square{2}号}{1205}{4}
 \character{笨}{bèn}{\square{2}鸟先飞}{2323}{4}
-\character{第}{dì}{﻿\square{2}一人称}{114}{1}
+\character{第}{dì}{\square{2}一人称}{114}{1}
 \character{等}{děng}{男女平\square{2}}{158}{1}
 \character{筑}{zhù}{建\square{2}学}{1130}{5}
 \character{答}{dá}{回\square{2}问题}{559}{1}
@@ -1293,7 +1293,7 @@
 \character{赔}{péi}{\square{1}偿损失}{1734}{5}
 \character{赛}{sài}{参加比\square{2}}{1064}{3}
 \character{赞}{zàn}{点\square{2}留言}{1179}{4}
-\character{赠}{zèng}{买一\square{1}一}{2123}{5}
+\character{赠}{zèng}{\square{1}送礼品}{2123}{5}
 \character{赢}{yíng}{\square{2}得胜利}{1836}{3}
 \character{走}{zǒu}{我\square{2}啦！}{207}{1}
 \character{赶}{gǎn}{\square{11}紧回家}{908}{3}
@@ -1335,8 +1335,8 @@
 \character{运}{yùn}{\square{11}动身体}{345}{2}
 \character{近}{jìn}{远\square{11}闻名}{374}{2}
 \character{返}{fǎn}{\square{11}回首页}{1430}{5}
-\character{还}{hái}{大\square{11}是小}{80}{1}
-\character{这}{zhè}{\square{11}个那个}{11}{1}
+\character{还}{hái}{\square{11}没开始}{80}{1}
+\character{这}{zhè}{快来\square{11}里}{11}{1}
 \character{进}{jìn}{与时俱\square{11}}{81}{1}
 \character{远}{yuǎn}{山高路\square{11}}{386}{1}
 \character{违}{wéi}{\square{11}反规定}{1184}{5}

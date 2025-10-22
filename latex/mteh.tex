@@ -1,4 +1,49 @@
+% this needs to be changed manually
+\providecommand{\version}{0.1.1}
+
+
+
+% this version is mostly used so I don't have to generate 8 different versions each time (like mteh_bulk.tex which is called from bash)
+
 \documentclass{article}
+
+
+
+% This adds footnotes with page numbers and project details
+
+\usepackage{fancyhdr}
+\usepackage{hyperref} % for clickable link
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header/footer fields
+
+% Footer: left, center, right
+\fancyfoot[L]{MteH~--~v\version~--~CC BY-SA 4.0~--~\href{https://github.com/becky82/mteh}{GitHub: becky82/mteh}}
+\fancyfoot[R]{\thepage}
+
+% Optional: remove the line at the top of the footer
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt} % thin line above footer
+
+
+
+% This adds metadata to the pdfs
+
+\usepackage{hyperref}
+
+% PDF metadata
+\hypersetup{
+    pdftitle={More than enough Hanzi (MteH)},      % Title of the PDF
+    pdfauthor={Rebecca J. Stones (originator)},    % Author
+    pdfcreator={XeLaTeX},
+    pdfinfo={
+        Project={\href{https://github.com/becky82/mteh}{https://github.com/becky82/mteh}},
+        License={CC BY-SA 4.0},
+        Version={\version}
+    }
+}
+
+
 
 \usepackage[margin=0.7in]{geometry}
 

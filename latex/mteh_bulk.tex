@@ -12,6 +12,44 @@
 
 \documentclass{article}
 
+
+% This adds footnotes with page numbers and project details
+
+\usepackage{fancyhdr}
+\usepackage{hyperref} % for clickable link
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header/footer fields
+
+% Footer: left, center, right
+\fancyfoot[L]{MteH~--~\hsklevel~--~v\version~--~CC BY-SA 4.0~--~\href{https://github.com/becky82/mteh}{GitHub: becky82/mteh}}
+\fancyfoot[R]{\thepage}
+
+% Optional: remove the line at the top of the footer
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt} % thin line above footer
+
+
+
+% This adds metadata to the pdfs
+
+\usepackage{hyperref}
+
+% PDF metadata
+\hypersetup{
+    pdftitle={More than enough Hanzi (MteH)},      % Title of the PDF
+    pdfauthor={Rebecca J. Stones (originator)},    % Author
+    pdfcreator={XeLaTeX},
+    pdfinfo={
+        Project={\href{https://github.com/becky82/mteh}{https://github.com/becky82/mteh}},
+        License={CC BY-SA 4.0},
+        Version={\version}
+    }
+}
+
+
+
+
 \usepackage[margin=0.7in]{geometry}
 
 \usepackage{xeCJK}

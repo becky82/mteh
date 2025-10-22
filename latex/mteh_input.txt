@@ -8,7 +8,7 @@
 \character{下}{xià}{等一\square{2}}{42}{1}
 \character{不}{bù}{\square{2}可思议}{4}{1}
 \character{与}{yǔ}{\square{10}众不同}{108}{4}
-\character{丐}{gài}{乞\square{2}}{2606}{+}
+\character{丐}{gài}{乞\square{2}要钱}{2606}{+}
 \character{丑}{chǒu}{政治\square{12}闻}{1901}{5}
 \character{专}{zhuān}{咨询\square{12}家}{485}{3}
 \character{且}{qiě}{暂\square{2}不论}{296}{2}
@@ -33,13 +33,13 @@
 \character{临}{lín}{欢迎光\square{1}}{839}{4}
 \character{丸}{wán}{一颗药\square{12}}{2462}{+}
 \character{丹}{Dān}{欧洲\square{12}麦}{1280}{+}
-\character{为}{wèi}{\square{12}什么?}{18}{2}
+\character{为}{wèi}{\square{12}什么？}{18}{2}
 \character{主}{zhǔ}{社会\square{2}义}{87}{2}
 \character{丽}{lì}{非常美\square{2}}{834}{3}
 \character{举}{jǔ}{一\square{2}一动}{586}{2}
 \character{乃}{nǎi}{此\square{10}天意}{1165}{+}
 \character{久}{jiǔ}{好\square{12}不见}{637}{2}
-\character{么}{me}{什\square{2}？}{63}{1}
+\character{么}{me}{怎\square{2}回事}{63}{1}
 \character{义}{yì}{资本主\square{12}}{208}{3}
 \character{之}{zhī}{三天\square{2}后}{44}{4}
 \character{乌}{wū}{一只\square{2}鸦}{1244}{6}
@@ -54,7 +54,7 @@
 \character{乘}{chéng}{各位\square{12}客}{1231}{5}
 \character{乙}{yǐ}{甲\square{0}丙丁}{1872}{5}
 \character{九}{jiǔ}{\square{12}牛一毛}{445}{1}
-\character{乞}{qǐ}{\square{2}丐}{2429}{+}
+\character{乞}{qǐ}{\square{2}讨为生}{2429}{+}
 \character{也}{yě}{\square{12}就是说}{31}{1}
 \character{习}{xí}{学\square{10}中文}{676}{1}
 \character{乡}{xiāng}{入\square{0}随俗}{922}{3}
@@ -76,7 +76,7 @@
 \character{井}{jǐng}{坐\square{12}观天}{1431}{6}
 \character{亚}{Yà}{\square{2}洲国家}{420}{4}
 \character{些}{xiē}{这\square{2}年}{86}{1}
-\character{亡}{wáng}{死\square{2}}{957}{6}
+\character{亡}{wáng}{\square{2}羊补牢}{957}{6}
 \character{亢}{kàng}{精神\square{2}奋}{3268}{}
 \character{交}{jiāo}{文化\square{2}流}{320}{2}
 \character{亥}{hài}{辛\square{2}革命}{3179}{}
@@ -92,7 +92,7 @@
 \character{亵}{xiè}{\square{5}渎神明}{3495}{}
 \character{人}{rén}{风土\square{0}情}{7}{1}
 \character{亿}{yì}{\square{1}万富翁}{1057}{2}
-\character{什}{shén}{\square{1}么？}{156}{1}
+\character{什}{shén}{这是\square{1}么}{156}{1}
 \character{仁}{rén}{\square{1}义之心}{1360}{+}
 \character{仅}{jǐn}{不\square{1}如此}{494}{3}
 \character{仆}{pú}{\square{1}人端茶}{1812}{+}
@@ -121,8 +121,7 @@
 \character{价}{jià}{\square{1}格上涨}{409}{3}
 \character{任}{rèn}{\square{1}重道远}{186}{3}
 \character{份}{fèn}{哪个省\square{1}}{784}{2}
-\character{仿}{fǎng}{\square{1}佛}{1259}{5}
-\character{彷}{fǎng}{variant}{3487}{}
+\character{仿}{fǎng}{\square{1}佛梦中}{1259}{5}
 \character{企}{qǐ}{国有\square{2}业}{450}{4}
 \character{伊}{Yī}{\square{1}拉克}{761}{+}
 \character{伍}{wǔ}{一支队\square{1}}{1472}{6}
@@ -147,7 +146,7 @@
 \character{伸}{shēn}{\square{1}出手}{1161}{5}
 \character{伺}{cì}{\square{1}候病人}{2782}{+}
 \character{似}{sì}{彼此相\square{1}}{431}{3}
-\character{伽}{jiā}{瑜\square{1}}{2532}{}
+\character{伽}{jiā}{练瑜\square{1}}{2532}{}
 \character{珈}{jiā}{variant}{5061}{}
 \character{佃}{diàn}{\square{1}户农民}{3245}{}
 \character{但}{dàn}{不\square{1}而且}{95}{2}
@@ -234,7 +233,7 @@
 \character{偶}{ǒu}{\square{1}尔出现}{1361}{5}
 \character{偷}{tōu}{抓住小\square{1}}{1284}{5}
 \character{偿}{cháng}{赔\square{1}损失}{1329}{5}
-\character{傀}{kuǐ}{\square{1}儡}{3946}{}
+\character{傀}{kuǐ}{\square{1}儡政权}{3946}{}
 \character{傅}{fù}{司机师\square{1}}{1887}{5}
 \character{傍}{bàng}{\square{1}晚日落}{2558}{6}
 \character{傣}{Dǎi}{\square{1}族村寨}{3836}{}
@@ -248,7 +247,7 @@
 \character{僵}{jiāng}{关节\square{1}硬}{2333}{+}
 \character{僻}{pì}{偏\square{1}地区}{2827}{+}
 \character{儒}{Rú}{\square{1}家思想}{2006}{+}
-\character{儡}{lěi}{傀\square{1}}{3992}{}
+\character{儡}{lěi}{木偶傀\square{1}}{3992}{}
 \character{儿}{ér}{\square{1}子孙子}{192}{1}
 \character{兀}{wù}{山势突\square{2}}{2859}{}
 \character{允}{yǔn}{不\square{2}许他}{1443}{6}
@@ -320,11 +319,11 @@
 \character{凝}{níng}{\square{1}视远方}{1631}{+}
 \character{几}{jǐ}{现在\square{1}点}{211}{1}
 \character{凡}{fán}{非\square{6}卓越}{1013}{6}
-\character{凤}{fèng}{\square{6}凰}{1504}{+}
+\character{凤}{fèng}{\square{6}凰神兽}{1504}{+}
 \character{凫}{fú}{鸭子\square{2}水}{5226}{}
 \character{凭}{píng}{大学文\square{2}}{1410}{5}
 \character{凯}{kǎi}{\square{1}旋门}{1447}{+}
-\character{凰}{huáng}{凤\square{6}}{2453}{+}
+\character{凰}{huáng}{火凤\square{6}}{2453}{+}
 \character{凳}{dèng}{四脚\square{2}子}{2680}{+}
 \character{凶}{xiōng}{杀人\square{7}手}{1378}{6}
 \character{凸}{tū}{肚子\square{2}出}{2857}{+}
@@ -411,7 +410,7 @@
 \character{匈}{Xiōng}{\square{10}牙利}{2503}{}
 \character{匕}{bǐ}{拔出\square{11}首}{3252}{}
 \character{化}{huà}{文\square{1}差异}{178}{3}
-\character{北}{Běi}{\square{1}京}{315}{1}
+\character{北}{Běi}{\square{1}京故宫}{315}{1}
 \character{匙}{shi}{一串钥\square{11}}{2476}{+}
 \character{匠}{jiàng}{一位工\square{8}}{2110}{+}
 \character{匡}{Kuāng}{赵\square{8}胤}{3260}{}
@@ -482,7 +481,7 @@
 \character{又}{yòu}{你\square{0}来了}{126}{2}
 \character{叉}{chā}{交\square{5}双臂}{2231}{5}
 \character{及}{jí}{力所能\square{12}}{198}{3}
-\character{友}{yǒu}{朋\square{9}}{594}{1}
+\character{友}{yǒu}{忠实朋\square{9}}{594}{1}
 \character{双}{shuāng}{一\square{1}鞋子}{581}{3}
 \character{反}{fǎn}{化学\square{9}应}{237}{3}
 \character{发}{fā}{经济\square{9}展}{47}{2}
@@ -529,7 +528,7 @@
 \character{吏}{lì}{担任官\square{12}}{2311}{+}
 \character{吐}{tù}{吞吞\square{1}\square{1}}{1653}{5}
 \character{向}{xiàng}{\square{6}他道歉}{146}{2}
-\character{吒}{zha}{《哪\square{1}》}{5303}{}
+\character{吒}{zha}{哪\square{1}闹海}{5303}{}
 \character{吓}{xià}{\square{1}我一跳}{1466}{5}
 \character{吕}{Lǚ}{三国\square{2}布}{1716}{+}
 \character{吗}{ma}{你饿\square{1}？}{453}{1}
@@ -578,7 +577,7 @@
 \character{咀}{jǔ}{\square{1}嚼食物}{3498}{}
 \character{咄}{duō}{\square{1}\square{1}逼人}{3325}{}
 \character{咆}{páo}{海浪\square{1}哮}{3369}{}
-\character{咋}{zǎ}{\square{1}样？}{2830}{}
+\character{咋}{zǎ}{\square{1}办呢？}{2830}{}
 \character{和}{hé}{世界\square{1}平}{19}{1}
 \character{咎}{jiù}{归\square{2}于}{3225}{}
 \character{咏}{yǒng}{歌\square{1}比赛}{3469}{+}
@@ -614,7 +613,7 @@
 \character{哒}{dā}{嘀嘀\square{1}\square{1}}{3741}{}
 \character{哔}{Bī}{\square{1}哩\square{1}哩}{5434}{}
 \character{哗}{huá}{大声喧\square{1}}{2486}{+}
-\character{哟}{yō}{哎\square{1}！}{2524}{}
+\character{哟}{yō}{哎\square{1}妈呀}{2524}{}
 \character{呦}{yōu}{variant}{5390}{}
 \character{哥}{gē}{\square{2}\square{2}弟弟}{804}{1}
 \character{哦}{ó}{\square{1}，是你}{1913}{+}
@@ -689,7 +688,7 @@
 \character{嗤}{chī}{\square{1}之以鼻}{3254}{}
 \character{嗦}{suo}{直打哆\square{1}}{3089}{+}
 \character{嗨}{hāi}{招手说\square{1}}{3294}{}
-\character{嗯}{en}{\square{1}，对}{2042}{}
+\character{嗯}{en}{\square{1}，对啊}{2042}{}
 \character{嗷}{áo}{\square{1}\square{1}待哺}{4104}{}
 \character{嗽}{sòu}{整夜咳\square{1}}{2815}{+}
 \character{嘀}{dí}{小声\square{1}咕}{3299}{}
@@ -699,7 +698,7 @@
 \character{嘎}{Gā}{\square{1}\square{1}小姐}{2852}{}
 \character{嘘}{xū}{唏\square{1}不已}{2973}{}
 \character{嘛}{ma}{你在干\square{1}}{1628}{6}
-\character{嘞}{lei}{好\square{1}！}{5655}{}
+\character{嘞}{lei}{好\square{1}走吧}{5655}{}
 \character{嘟}{dū}{\square{1}\square{1}囔囔}{2838}{}
 \character{嘣}{bēng}{\square{1}\square{1}爆炸}{5034}{}
 \character{嘭}{pēng}{\square{1}\square{1}碰头}{4443}{}
@@ -884,7 +883,7 @@
 \character{妈}{mā}{爸爸\square{1}\square{1}}{750}{1}
 \character{妊}{rèn}{\square{1}娠期间}{3523}{}
 \character{妍}{yán}{\square{1}丽如花}{4708}{}
-\character{妒}{dù}{嫉\square{1}}{2598}{+}
+\character{妒}{dù}{嫉\square{1}之心}{2598}{+}
 \character{妓}{jì}{街头\square{1}女}{2777}{}
 \character{妖}{yāo}{口袋\square{1}怪}{1869}{+}
 \character{妙}{miào}{莫名其\square{1}}{1250}{6}
@@ -923,7 +922,7 @@
 \character{娜}{Nà}{李\square{1}获胜}{1584}{}
 \character{娟}{juān}{字迹\square{1}秀}{2564}{}
 \character{娠}{shēn}{妊\square{1}期间}{3590}{}
-\character{娥}{é}{嫦\square{1}}{2784}{+}
+\character{娥}{é}{嫦\square{1}奔月}{2784}{+}
 \character{娩}{miǎn}{分\square{1}疼痛}{4144}{}
 \character{娱}{yú}{\square{1}乐活动}{2493}{6}
 \character{娲}{wā}{女\square{1}补天}{4241}{}
@@ -952,7 +951,7 @@
 \character{嫖}{piáo}{卖淫\square{1}娼}{3463}{}
 \character{嫡}{dí}{\square{1}系子孙}{3746}{}
 \character{嫣}{yān}{\square{1}然一笑}{3520}{}
-\character{嫦}{Cháng}{\square{1}娥}{3166}{+}
+\character{嫦}{Cháng}{\square{1}娥玉兔}{3166}{+}
 \character{嫩}{nèn}{黎巴\square{1}}{2500}{+}
 \character{嬉}{xī}{小孩\square{1}戏}{3375}{+}
 \character{孀}{shuāng}{继承遗\square{1}}{4368}{}
@@ -1049,9 +1048,9 @@
 \character{尝}{cháng}{\square{2}试一下}{1621}{5}
 \character{尤}{yóu}{\square{12}其是}{1099}{5}
 \character{尧}{Yáo}{\square{2}天舜日}{3264}{}
-\character{尬}{gà}{尴\square{11}}{2729}{+}
+\character{尬}{gà}{令人尴\square{11}}{2729}{+}
 \character{就}{jiù}{那\square{1}是说}{27}{1}
-\character{尴}{gān}{\square{11}尬}{2726}{+}
+\character{尴}{gān}{\square{11}尬不已}{2726}{+}
 \character{尸}{shī}{\square{1}体解剖}{1517}{+}
 \character{尹}{Yǐn}{\square{12}明善}{2885}{}
 \character{尺}{chǐ}{身体\square{9}寸}{1474}{4}
@@ -1096,7 +1095,7 @@
 \character{峡}{xiá}{大\square{1}谷}{1727}{+}
 \character{峦}{luán}{山\square{2}起伏}{3789}{}
 \character{峨}{é}{巍\square{1}悬崖}{3063}{}
-\character{峭}{qiào}{陡\square{1}}{2990}{}
+\character{峭}{qiào}{陡\square{1}山崖}{2990}{}
 \character{峰}{fēng}{高\square{1}时期}{1473}{6}
 \character{峻}{jùn}{严\square{1}考验}{2506}{+}
 \character{崇}{chóng}{\square{2}拜偶像}{1482}{6}
@@ -1235,6 +1234,7 @@
 \character{彭}{péng}{\square{1}博社}{1501}{}
 \character{彰}{zhāng}{受到表\square{1}}{2953}{+}
 \character{影}{yǐng}{一部电\square{1}}{390}{1}
+\character{彷}{páng}{\square{1}徨迷茫}{3487}{}
 \character{役}{yì}{这场战\square{1}}{1245}{+}
 \character{彻}{chè}{\square{1}底打扫}{1240}{4}
 \character{彼}{bǐ}{\square{1}此拥抱}{1256}{5}
@@ -2363,7 +2363,7 @@
 \character{狄}{Dí}{\square{1}仁杰}{2219}{}
 \character{狈}{bèi}{狼\square{1}不堪}{3090}{+}
 \character{狐}{hú}{\square{1}假虎威}{2321}{}
-\character{狒}{fèi}{\square{1}\square{1}}{3281}{}
+\character{狒}{fèi}{\square{1}\square{1}猴子}{3281}{}
 \character{狗}{gǒu}{\square{1}汪汪叫}{1281}{2}
 \character{狙}{jū}{\square{1}击步枪}{3621}{}
 \character{狞}{níng}{面目狰\square{1}}{3457}{}
@@ -2429,10 +2429,10 @@
 \character{琪}{qí}{梁咏\square{1}}{3138}{}
 \character{琳}{lín}{\square{1}琅满目}{2400}{}
 \character{琴}{qín}{\square{2}棋书画}{1701}{5}
-\character{琵}{pí}{\square{2}琶}{3721}{}
-\character{琶}{pá}{琵\square{2}}{3612}{}
+\character{琵}{pí}{\square{2}琶弹奏}{3721}{}
+\character{琶}{pá}{一把琵\square{2}}{3612}{}
 \character{琼}{Qióng}{\square{1}斯先生}{2205}{}
-\character{瑕}{xiá}{\square{1}疵}{3842}{}
+\character{瑕}{xiá}{完美无\square{1}}{3842}{}
 \character{瑙}{nǎo}{玛\square{1}石}{3428}{}
 \character{瑚}{hú}{珊\square{1}礁}{3140}{}
 \character{瑜}{yú}{练\square{1}伽}{2875}{}
@@ -2471,7 +2471,7 @@
 \character{申}{shēn}{\square{12}请贷款}{1110}{4}
 \character{电}{diàn}{打个\square{12}话}{230}{1}
 \character{男}{nán}{\square{2}女平等}{602}{1}
-\character{甸}{diàn}{缅\square{10}}{2588}{+}
+\character{甸}{diàn}{缅\square{10}语}{2588}{+}
 \character{画}{huà}{\square{2}蛇添足}{883}{2}
 \character{畅}{chàng}{\square{1}销小说}{2122}{6}
 \character{界}{jiè}{世\square{2}冠军}{288}{3}
@@ -2561,7 +2561,7 @@
 \character{盎}{àng}{生机\square{2}然}{3410}{}
 \character{盏}{zhǎn}{一\square{2}灯}{2803}{+}
 \character{盐}{yán}{\square{2}和胡椒}{1885}{4}
-\character{监}{jiān}{\square{2}督}{838}{6}
+\character{监}{jiān}{\square{2}督管理}{838}{6}
 \character{盒}{hé}{一\square{2}火柴}{2067}{5}
 \character{盔}{kuī}{戴上头\square{2}}{3030}{}
 \character{盖}{gài}{覆\square{2}率}{1052}{4}
@@ -2675,7 +2675,7 @@
 \character{磕}{kē}{\square{1}掉牙齿}{2991}{+}
 \character{磨}{mó}{\square{9}杵成针}{1537}{6}
 \character{磷}{lín}{\square{1}酸盐}{2956}{}
-\character{磺}{huáng}{硫\square{1}}{3547}{}
+\character{磺}{huáng}{硫\square{1}气味}{3547}{}
 \character{礁}{jiāo}{珊瑚\square{1}}{2952}{+}
 \character{礴}{bó}{大气磅\square{1}}{4856}{}
 \character{示}{shì}{表\square{2}感谢}{425}{2}
@@ -2779,7 +2779,7 @@
 \character{竺}{zhú}{天\square{2}葵}{3439}{}
 \character{竿}{gān}{钓鱼\square{2}}{2934}{+}
 \character{笃}{dǔ}{\square{2}信真理}{3207}{}
-\character{笆}{bā}{篱\square{2}}{3617}{}
+\character{笆}{bā}{篱\square{2}墙}{3617}{}
 \character{笈}{jí}{负\square{2}游学}{3662}{}
 \character{笋}{sǔn}{雨后春\square{2}}{3455}{}
 \character{笑}{xiào}{哈哈大\square{2}}{346}{1}
@@ -2790,7 +2790,7 @@
 \character{笤}{tiáo}{用\square{2}帚扫}{4957}{}
 \character{符}{fú}{标点\square{2}号}{1205}{4}
 \character{笨}{bèn}{\square{2}鸟先飞}{2323}{4}
-\character{第}{dì}{﻿\square{2}一人称}{114}{1}
+\character{第}{dì}{\square{2}一人称}{114}{1}
 \character{笺}{jiān}{信\square{2}纸}{3731}{}
 \character{笼}{lóng}{挂上灯\square{2}}{1928}{+}
 \character{等}{děng}{男女平\square{2}}{158}{1}
@@ -2824,7 +2824,7 @@
 \character{篝}{gōu}{点燃\square{2}火}{4336}{}
 \character{篡}{cuàn}{\square{2}改证据}{3406}{}
 \character{篮}{lán}{打\square{2}球}{2357}{2}
-\character{篱}{lí}{\square{2}笆}{3158}{}
+\character{篱}{lí}{跳过\square{2}笆}{3158}{}
 \character{篷}{péng}{搭起帐\square{2}}{2579}{+}
 \character{簇}{cù}{一\square{2}鲜花}{2896}{+}
 \character{簧}{huáng}{弹\square{2}床垫}{3370}{}
@@ -3264,7 +3264,7 @@
 \character{蒜}{suàn}{鸡毛\square{2}皮}{3444}{+}
 \character{蒲}{pú}{\square{2}公英}{2344}{}
 \character{蒸}{zhēng}{水\square{2}发完}{2358}{+}
-\character{蒿}{hāo}{茼\square{2}}{4305}{}
+\character{蒿}{hāo}{茼\square{2}菜}{4305}{}
 \character{蓄}{xù}{储\square{2}账户}{1985}{+}
 \character{蓉}{róng}{芙\square{2}花}{2779}{}
 \character{蓑}{suō}{草编\square{2}衣}{4481}{}
@@ -3348,7 +3348,7 @@
 \character{蜈}{wú}{\square{1}蚣马陆}{3918}{}
 \character{蜒}{yán}{蜿\square{1}曲折}{3655}{}
 \character{蜓}{tíng}{蜻\square{1}点水}{4083}{}
-\character{蜕}{tuì}{羽化\square{1}成}{3624}{}
+\character{蜕}{tuì}{\square{1}变重生}{3624}{}
 \character{蜗}{wō}{\square{1}牛蛞蝓}{3723}{}
 \character{蜘}{zhī}{\square{1}蛛侠}{3043}{}
 \character{蜚}{fēi}{流言\square{2}语}{4632}{}
@@ -3372,7 +3372,7 @@
 \character{蝶}{dié}{变成蝴\square{1}}{2306}{}
 \character{螂}{láng}{讨厌蟑\square{1}}{3594}{}
 \character{螃}{páng}{\square{1}蟹横行}{3938}{}
-\character{螅}{xī}{\square{1}蟀}{3724}{}
+\character{螅}{xī}{水\square{1}虫}{3724}{}
 \character{融}{róng}{\square{1}入社会}{1225}{6}
 \character{螟}{míng}{玉米\square{1}虫}{5188}{}
 \character{螺}{luó}{\square{1}丝刀}{2386}{+}
@@ -3613,7 +3613,7 @@
 \character{赛}{sài}{参加比\square{2}}{1064}{3}
 \character{赝}{yàn}{书画\square{9}品}{4714}{}
 \character{赞}{zàn}{点\square{2}留言}{1179}{4}
-\character{赠}{zèng}{买一\square{1}一}{2123}{5}
+\character{赠}{zèng}{\square{1}送礼品}{2123}{5}
 \character{赡}{shàn}{\square{1}养父母}{3902}{+}
 \character{赢}{yíng}{\square{2}得胜利}{1836}{3}
 \character{赣}{Gàn}{江西：\square{1}}{3301}{}
@@ -3737,8 +3737,8 @@
 \character{运}{yùn}{\square{11}动身体}{345}{2}
 \character{近}{jìn}{远\square{11}闻名}{374}{2}
 \character{返}{fǎn}{\square{11}回首页}{1430}{5}
-\character{还}{hái}{大\square{11}是小}{80}{1}
-\character{这}{zhè}{\square{11}个那个}{11}{1}
+\character{还}{hái}{\square{11}没开始}{80}{1}
+\character{这}{zhè}{快来\square{11}里}{11}{1}
 \character{进}{jìn}{与时俱\square{11}}{81}{1}
 \character{远}{yuǎn}{山高路\square{11}}{386}{1}
 \character{违}{wéi}{\square{11}反规定}{1184}{5}
@@ -3923,7 +3923,7 @@
 \character{锤}{chuí}{铁\square{1}敲打}{2937}{+}
 \character{锥}{zhuī}{圆\square{1}体}{3064}{}
 \character{锦}{jǐn}{\square{1}上添花}{1947}{+}
-\character{锨}{xiān}{铁\square{1}挖坑}{4650}{}
+\character{锨}{xiān}{锹\square{1}铲类}{4650}{}
 \character{锭}{dìng}{熔炼铁\square{1}}{4199}{}
 \character{键}{jiàn}{\square{1}盘输入}{1471}{5}
 \character{锯}{jù}{木工\square{1}子}{3078}{+}
@@ -3936,7 +3936,7 @@
 \character{镂}{lòu}{\square{1}空艺术}{4301}{}
 \character{镇}{zhèn}{保持\square{1}静}{1002}{6}
 \character{镊}{niè}{\square{1}子拔除}{5395}{}
-\character{镍}{niè}{\square{1}币}{4438}{}
+\character{镍}{niè}{\square{1}币一枚}{4438}{}
 \character{镐}{gǎo}{丁字\square{1}}{4222}{}
 \character{镑}{bàng}{英\square{1}汇率}{2515}{+}
 \character{镖}{biāo}{保\square{1}护卫}{2727}{}
