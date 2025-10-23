@@ -29,7 +29,7 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 1. the [2480 characters](https://github.com/becky82/mteh/tree/main/sources/primary_school) listed as for Chinese primary school children (2016);
 1. the 300 most common Chinese surnames, based on Chinese census data (c. 2018) (sourced from [Sina](https://news.sina.cn/2018-04-08/detail-ifyuwqez6882483.d.html); there was one two-character surname 欧阳, and the characters 薄 and 路 appear twice in Sina's list; all these characters were included).
 
-The characters are primarily ordered in [unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620) so that characters with similar components are grouped together as much as possible.  The only exceptions are variant characters, which were reordered to be adjacent.
+The characters are ordered in [unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620) so that characters with similar components are grouped together as much as possible (excluding some variant characters).
 
 This project includes character structure data from the [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) project, licensed under an MIT License, and character frequency data from Jun Da's [modern corpus]( http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO).
 
