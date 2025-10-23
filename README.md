@@ -17,8 +17,8 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 1. all [3000 characters](https://github.com/becky82/mteh/tree/main/sources/HSK3.0) from the HSK 3.0 syllabus (introduced 2021; 9 levels);
 1. the [3018 characters](https://github.com/becky82/mteh/tree/main/sources/Heisig) from Heisig and Richardson's *Remembering Simplified Hanzi 1* and *Remembering Simplified Hanzi 2*;
 1. the [2501 characters](https://github.com/becky82/mteh/tree/main/sources/TOCFL) extracted from the Taiwanese TOCFL vocabulary;
-1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/JunDa) from Jun Da's modern corpus;
-1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) from the SUBTLEX character dataset, along with HanziCraft's frequency database;
+1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/JunDa) from Jun Da's modern corpus, along with HanziCraft's frequency database;
+1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) from the SUBTLEX character dataset;
 1. the [1817 characters](https://github.com/becky82/mteh/blob/main/sources/K-5) extracted from the K-5 Word Frequency Dictionary;
 1. [3654 characters](https://github.com/becky82/mteh/tree/main/sources/Leeds) extracted from the top 20000 words from the Leeds Chinese corpus by Serge Sharo;
 1. the top 20000 words from the BLCU "global" corpus (sourced from [Pleco Forums](http://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/)), which contained 3917 characters, and after filtering we obtained 3700 characters (excluded characters include 丶, 亞, 伱, 佢, 來, 係, 個, 們, 備, 傳, ...);
