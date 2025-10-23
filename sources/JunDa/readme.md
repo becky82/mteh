@@ -12,4 +12,9 @@ The threshold 3500 is fairly arbitrary, so to get an idea of what this omits, th
 
 Some characters were manually excluded, despite being relatively high up in Jun Da's corpus.
 
-Another frequency list I've used is from [HanziCraft](https://hanzicraft.com/lists/frequency) which appears to be a modified version of Jun Da's modern corpus.  For the 3500 characters relevant to MteH v0.1.1, HanziCraft adds 乓, 匾, 吝, 揖, 觑, 贻 not present in Jun Da's corpus (all included in MteH v0.1.1).  It also removes 彷, 後, 於 which are seldom-to-never used as simplified characters (not included in MteH v0.1.1), and also 甚, 著, 藉, 覆 but these are commonly used in simplified words like 甚至, 著名, 狼藉, 覆盖, respectively, so they are included in MteH v0.1.1.
+Another frequency list I've used is from [HanziCraft](https://hanzicraft.com/lists/frequency) which appears to be a modified version of Jun Da's modern corpus.  For the 3500 characters relevant to MteH v0.1.1:
+
+- HanziCraft adds 乓 [#3502], 贻 [#3504], 揖 [#3505], 觑 [#3506], 吝 [#3507],  (all included in MteH v0.1.1);
+- HanziCraft removes 後 [#2131], 於 [#2025] which are seldom-to-never used as simplified characters (not included in MteH v0.1.1);
+- HanziCraft removes 甚 [#626], 著 [#777], 覆 [#1823], 藉 [#2615] (all included in MteH v0.1.1) but these are used in simplified words like 甚至, 著名, 覆盖, 狼藉, respectively;
+- HanziCraft removes 彷 [#3487], which was added to MteH v0.1.1 as a variant of 仿, but it will likely be removed in future versions as it's mostly a traditional character.
