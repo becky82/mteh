@@ -19,9 +19,9 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 1. the [2501 characters](https://github.com/becky82/mteh/tree/main/sources/TOCFL) extracted from the [Taiwanese TOCFL vocabulary](https://www.roc-taiwan.org/at_de/post/634.html);
 1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/JunDa) from [Jun Da's modern corpus](https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO), along with HanziCraft's frequency database;
 1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) from the SUBTLEX character dataset;
+1. [2172 characters](https://github.com/becky82/mteh/tree/main/sources/Tsai) extracted from the top 3500 characters from [Chih-Hao Tsai's character corpus](https://technology.chtsai.org/charfreq/);
 1. the [1817 characters](https://github.com/becky82/mteh/blob/main/sources/K-5) extracted from the K-5 Word Frequency Dictionary;
 1. [3654 characters](https://github.com/becky82/mteh/tree/main/sources/Leeds) extracted from the top 20000 words from the Leeds Chinese corpus by Serge Sharo;
-1. [2172 characters](https://github.com/becky82/mteh/tree/main/sources/Tsai) extracted from the top 3500 characters from [Chih-Hao Tsai's character corpus](https://technology.chtsai.org/charfreq/);
 1. [3699 characters](https://github.com/becky82/mteh/tree/main/sources/BLCU) extracted from the top 20000 words from the BLCU "global" corpus, by Xun Endong et al.;
 1. [3393 characters](https://github.com/becky82/mteh/tree/main/sources/LWC) extracted from the top 20000 words from the [LWC corpus](https://lwc.daanvanesch.nl/openaccess.php);
 1. [3500 characters](https://github.com/becky82/mteh/tree/main/sources/Wikipedia) extracted from a [Chinese Wikipedia corpus](https://czielinski.github.io/hanzifreq/hanzifreq/output/frequencies.html);
