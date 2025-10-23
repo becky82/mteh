@@ -21,7 +21,7 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) from the SUBTLEX character dataset;
 1. the [1817 characters](https://github.com/becky82/mteh/blob/main/sources/K-5) extracted from the K-5 Word Frequency Dictionary;
 1. [3654 characters](https://github.com/becky82/mteh/tree/main/sources/Leeds) extracted from the top 20000 words from the Leeds Chinese corpus by Serge Sharo;
-1. the top 20000 words from the BLCU "global" corpus (sourced from [Pleco Forums](http://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/)), which contained 3917 characters, and after filtering we obtained 3700 characters (excluded characters include 丶, 亞, 伱, 佢, 來, 係, 個, 們, 備, 傳, ...);
+1. [3699 characters](https://github.com/becky82/mteh/tree/main/sources/BLCU) extracted from the top 20000 words from the BLCU "global" corpus, by Xun Endong et al.;
 1. the top 20000 words from the [Leiden Weibo Corpus](http://lwc.daanvanesch.nl/openaccess.php), which contained 3585 characters, and after filtering we obtained 3393 characters (excluded characters include 丶, 來, 係, 個, 們, 備, 傷, 內, 兩, ...);
 1. the [Chinese Wikipedia corpus](https://czielinski.github.io/hanzifreq/hanzifreq/output/frequencies.html), which contained 10000 characters, and after filtering there were 6694, of which the top 3500 characters were selected (excluded characters include 國, 為, 會, 學, 時, 電, 後, 動, 與, 區, ...);
 1. the [3500 characters](https://github.com/becky82/mteh/tree/main/sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) listed as 一级字表 (level 1) in the Chinese Ministry for Education's 《通用规范汉字表》 (2013);
