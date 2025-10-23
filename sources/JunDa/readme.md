@@ -12,7 +12,7 @@ The threshold 3500 is fairly arbitrary, so to get an idea of what this omits, th
 
 Some characters were manually excluded, despite being relatively high up in Jun Da's corpus.
 
-Another frequency list I've used is from [HanziCraft](https://hanzicraft.com/lists/frequency) which appears to be a modified version of Jun Da's modern corpus.  For the 3500 characters relevant to MteH v0.1.1:
+Another character frequency list used in the construction of MteH v0.1.1 is [HanziCraft](https://hanzicraft.com/lists/frequency), which appears to be a modified version of Jun Da's modern corpus.  For the 3500 characters relevant to MteH v0.1.1:
 
 - HanziCraft adds 乓 [#3502], 贻 [#3504], 揖 [#3505], 觑 [#3506], 吝 [#3507],  (all included in MteH v0.1.1);
 - HanziCraft removes 後 [#2131], 於 [#2025] which are seldom-to-never used as simplified characters (not included in MteH v0.1.1);
