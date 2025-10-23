@@ -4,6 +4,4 @@ The relevant paper is here:
 
 > Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, editors, WaCky! Working papers on the Web as Corpus. Gedit, Bologna. [PDF](https://ssharoff.github.io/publications/2006-wacky-paper.pdf) 
 
-The top 20000 "words" were used, and all the Chinese characters therein where extracted, resulting in 3654 characters.
-
-
+The top 20000 "words" were used, and all the Chinese characters therein where extracted, resulting in a list of 3654 characters, which were all included in MteH v0.1.1.
