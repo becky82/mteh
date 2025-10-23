@@ -27,7 +27,7 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 1. the [3500 characters](https://github.com/becky82/mteh/tree/main/sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) listed as 一级字表 (level 1) in the Chinese Ministry for Education's 《通用规范汉字表》 (2013);
 1. the [3500 characters](https://github.com/becky82/mteh/tree/main/sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) in the Chinese Ministry for Education's 《现代汉语常用字表》 (1988);
 1. the [2480 characters](https://github.com/becky82/mteh/tree/main/sources/primary_school) listed as for Chinese primary school children (2016);
-1. the 300 most common Chinese surnames, based on Chinese census data (c. 2018) (sourced from [Sina](https://news.sina.cn/2018-04-08/detail-ifyuwqez6882483.d.html); there was one two-character surname 欧阳, and the characters 薄 and 路 appear twice in Sina's list; all these characters were included).
+1. [286 characters](https://github.com/becky82/mteh/tree/main/sources/surnames) from the top-300 Chinese surnames, as in the [ChineseNames](https://psychbruce.github.io/ChineseNames/) package.
 
 The characters are ordered in [unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620) so that characters with similar components are grouped together as much as possible (excluding some variant characters).
 
