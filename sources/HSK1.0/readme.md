@@ -1,4 +1,4 @@
-The HSK1.0 syllabus 《汉语水平词汇与汉字等级大纲》 lists the Chinese HSK words in the 1.0 standards.  I sourced it from https://gjxy.gpnu.edu.cn/info/1141/1373.htm (uploaded as HSK1.0standards_汉语水平词汇与汉字等级大纲.txt).  The words split into these levels:
+The HSK1.0 syllabus 《汉语水平词汇与汉字等级大纲》 lists the Chinese HSK words in the 1.0 standards.  I sourced it from https://gjxy.gpnu.edu.cn/info/1141/1373.htm (uploaded as `HSK1.0_汉语水平词汇与汉字等级大纲.txt`).  The words split into these levels:
 
 - 甲 (basic) levels 1, 2, 3 (1033 words)
 - 乙 (elementary) levels 3, 4, 5 (+2018 words [3051 total]) [yes, they overlap]
@@ -126,8 +126,8 @@ And if we extract the characters from these words
 - 丙 levels 6, 7, 8 (+592 words [2196 total])
 - 丁 levels 9, 10, 11 (+670 words [2866 total])
 
-The 2866 characters are in HSK1.0_characters.txt.
+The 2866 characters are in HSK1.0_chars.txt.
 
-It turns out I have an old version of the HSK1.0 character list, and I forget where it came from; I call it HSK1.0_characters_mysterious_old_version.txt.  It has these characters `侯冀冯刘匈卢吕吴咋哩啥喧嗓埃埔孟宋岳崔彭戈曹朱桔欧殷沈沪浙淮潘澳秦粤耿聂萨葛蒋袁赫赵邓邢郭陕魏` (+47) but not these characters `啰嗡帕暄涵蔓账镑` (-8); total 2905.
+It turns out I have an old version of the HSK1.0 character list, and I forget where it came from; I call it `HSK1.0_chars_mysterious_old_version.txt`.  It has these characters `侯冀冯刘匈卢吕吴咋哩啥喧嗓埃埔孟宋岳崔彭戈曹朱桔欧殷沈沪浙淮潘澳秦粤耿聂萨葛蒋袁赫赵邓邢郭陕魏` (+47) but not these characters `啰嗡帕暄涵蔓账镑` (-8); total 2905.
 
 

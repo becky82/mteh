@@ -13,7 +13,7 @@ There's not strictly 5000 words here because:
 
 1. Some of these vocabulary items are not words, but grammar structures:
 
-````
+```
 虽然……但是……
 因为……所以……
 不但……而且……
@@ -32,7 +32,7 @@ There's not strictly 5000 words here because:
 虽然……但是……
 因为……所以……
 只有……才……
-````
+```
 
 2. Duplicates can be found: e.g., level 3 has `还（副词）` (adverb) and `还（动词）` (verb).  So they have different parts of speech, and even different pronunciation, but are the same characters.
 
@@ -47,6 +47,6 @@ From this we can extract the characters from each word:
 
 This directory contains
 
-- The HSK2.0 syllabus words: HSK2.0standards_words.txt (sorted by unicode)
-- The HSK2.0 syllabus characters: HSK2.0standards_chars.txt (sorted by unicode)
+- The HSK2.0 syllabus words: `HSK2.0_words.txt` (sorted by unicode);
+- The HSK2.0 syllabus characters: `HSK2.0_chars.txt` (sorted by unicode);
 - The same files, but split into HSK2.0 levels.
