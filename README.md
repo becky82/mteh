@@ -6,6 +6,8 @@ This simplified Chinese character corpus is intended to make a suitable "endgame
 
 For the time being, the MteH corpus only contains simplified Chinese characters, and in particular those you might encounter while living in mainland China or when taking an HSK exam.
 
+Included in this project are [pdfs designed for handwriting practice](https://github.com/becky82/mteh/tree/main/versions/v0.1.1).
+
 ## Method
 
 The MteH corpus is designed to have no "missing" characters: all the characters not in this corpus are necessarily very rare, and likely very niche.  To this end, the MteH corpus merges the following corpora:
