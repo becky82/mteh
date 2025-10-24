@@ -16,6 +16,7 @@ The MteH corpus is designed to have no "missing" characters: all the characters 
 1. all [2663 characters](https://github.com/becky82/mteh/tree/main/sources/HSK2.0) from the HSK 2.0 syllabus (after 2010; 6 levels);
 1. all [3000 characters](https://github.com/becky82/mteh/tree/main/sources/HSK3.0) from the HSK 3.0 syllabus (introduced 2021; 9 levels);
 1. the [3018 characters](https://github.com/becky82/mteh/tree/main/sources/Heisig) from Heisig and Richardson's *Remembering Simplified Hanzi 1* and *Remembering Simplified Hanzi 2*;
+1. [2151 characters](https://github.com/becky82/mteh/tree/main/sources/Hoenig) from Hoenig's *Learn & Remember 2,178 Characters and Their Meanings*;
 1. the [2501 characters](https://github.com/becky82/mteh/tree/main/sources/TOCFL) extracted from the [Taiwanese TOCFL vocabulary](https://www.roc-taiwan.org/at_de/post/634.html);
 1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/JunDa) from [Jun Da's modern corpus](https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO), along with HanziCraft's frequency database;
 1. the top [3500 characters](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) from the SUBTLEX character dataset;
