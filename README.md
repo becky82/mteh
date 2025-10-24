@@ -8,7 +8,7 @@ Of course, more characters exist (in names, historical terms, scientific vocabul
 
 Currently, MteH focuses entirely on **simplified Chinese characters**, especially those you’ll encounter in mainland China and in **HSK** exams.  
 
-👉 [Handwriting practice PDFs are available here.](https://github.com/becky82/mteh/tree/main/versions/v0.1.1)
+[Handwriting practice PDFs are available here.](https://github.com/becky82/mteh/tree/main/versions/v0.1.1)
 
 ---
 
