@@ -12,7 +12,7 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
 
 ## Summary
 
-The MteH corpus is built to minimize “missing” characters; any characters not included are extremely rare or niche.  The initial version (v0.1.1) merges the following corpora:
+The MteH corpus is built to minimize "missing" characters; any characters not included are extremely rare or niche.  The initial version (v0.1.1) merges the following corpora:
 
 <div align="center">
 
