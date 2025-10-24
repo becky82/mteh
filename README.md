@@ -18,24 +18,24 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 | # | Corpus | # Characters used | Source / Reference |
 |---|---------|---------------|--------------------|
-| 1 | HSK 1.0 | all 2,866 | Pre-2010, 11 levels |
-| 2 | HSK 2.0 | all 2,663 | Post-2010, 6 levels |
-| 3 | HSK 3.0 | all 3,000 | 2021 version, 9 levels |
-| 4 | Heisig & Richardson | all 3,018 | *Remembering Simplified Hanzi* I–II |
-| 5 | Hoenig | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 6 | TOCFL | 2,496 | Taiwan’s TOCFL vocabulary |
-| 7 | Jun Da | 3,477 | Modern Chinese corpus |
-| 8 | SUBTLEX | 3,500 | Film subtitle corpus |
-| 9 | Tsai | 2,168 | Top 3,500 characters |
-| 10 | K-5 | 1,816 | K-5 Word Frequency Dictionary |
-| 11 | Leeds | 3,585 | Top 20,000 words from Leeds corpus |
-| 12 | BLCU | 3,615 | BLCU Global Corpus |
-| 13 | LWC | 3,335 | LWC corpus (Daan van Esch) |
-| 14 | Wikipedia | 3,267 | Chinese Wikipedia corpus |
-| 15 | 通用规范汉字表 | all 3,500 | Ministry of Education (2013) |
-| 16 | 现代汉语常用字表 | 3,498 | Ministry of Education (1988) |
-| 17 | Primary School List | 2,467 | Mainland China (2016) |
-| 18 | Chinese Surnames | 285 | Top 300 surnames |
+| 1 | [HSK 1.0](https://github.com/becky82/mteh/tree/main/sources/HSK1.0) | all 2,866 | Pre-2010, 11 levels |
+| 2 | [HSK 2.0](https://github.com/becky82/mteh/tree/main/sources/HSK2.0) | all 2,663 | Post-2010, 6 levels |
+| 3 | [HSK 3.0](https://github.com/becky82/mteh/tree/main/sources/HSK3.0) | all 3,000 | 2021 version, 9 levels |
+| 4 | [Heisig & Richardson](https://github.com/becky82/mteh/tree/main/sources/Heisig) | all 3,018 | *Remembering Simplified Hanzi* I–II |
+| 5 | [Hoenig](https://github.com/becky82/mteh/tree/main/sources/Hoenig) | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
+| 6 | [TOCFL](https://github.com/becky82/mteh/tree/main/sources/TOCFL) | 2,496 | Taiwan's TOCFL vocabulary |
+| 7 | [Jun Da](https://github.com/becky82/mteh/tree/main/sources/JunDa) | 3,477 | Modern Chinese corpus |
+| 8 | [SUBTLEX](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) | 3,500 | Film subtitle corpus |
+| 9 | [Tsai](https://github.com/becky82/mteh/tree/main/sources/Tsai) | 2,168 | Top 3,500 characters |
+| 10 | [K-5](https://github.com/becky82/mteh/tree/main/sources/K-5) | 1,816 | K-5 Word Frequency Dictionary |
+| 11 | [Leeds](https://github.com/becky82/mteh/tree/main/sources/Leeds) | 3,585 | Top 20,000 words from Leeds corpus |
+| 12 | [BLCU](https://github.com/becky82/mteh/tree/main/sources/BLCU) | 3,615 | BLCU Global Corpus |
+| 13 | [LWC](https://github.com/becky82/mteh/tree/main/sources/LWC) | 3,335 | LWC corpus (Daan van Esch) |
+| 14 | [Wikipedia](https://github.com/becky82/mteh/tree/main/sources/Wikipedia) | 3,267 | Chinese Wikipedia corpus |
+| 15 | [通用规范汉字表](https://github.com/becky82/mteh/tree/main/sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | all 3,500 | Ministry of Education (2013) |
+| 16 | [现代汉语常用字表](https://github.com/becky82/mteh/tree/main/sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,498 | Ministry of Education (1988) |
+| 17 | [primary school](https://github.com/becky82/mteh/tree/main/sources/primary_school) | 2,467 | Mainland China (2016) |
+| 18 | [Chinese surnames](https://github.com/becky82/mteh/tree/main/sources/surnames) | 285 | Top 300 surnames |
 
 </div>
 
