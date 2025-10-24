@@ -18,9 +18,9 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 | # | Corpus | # Characters used | Source / Reference |
 |---|---------|---------------|--------------------|
-| 1 | [HSK 1.0](https://github.com/becky82/mteh/tree/main/sources/HSK1.0) | 2,866 (all) | Pre-2010, 11 levels |
-| 2 | [HSK 2.0](https://github.com/becky82/mteh/tree/main/sources/HSK2.0) | 2,663 (all) | Post-2010, 6 levels |
-| 3 | [HSK 3.0](https://github.com/becky82/mteh/tree/main/sources/HSK3.0) | 3,000 (all) | 2021 version, 9 levels |
+| 1 | [HSK 1.0](https://github.com/becky82/mteh/tree/main/sources/HSK1.0) | 2,866 | Pre-2010, 11 levels |
+| 2 | [HSK 2.0](https://github.com/becky82/mteh/tree/main/sources/HSK2.0) | 2,663 | Post-2010, 6 levels |
+| 3 | [HSK 3.0](https://github.com/becky82/mteh/tree/main/sources/HSK3.0) | 3,000 | 2021 version, 9 levels |
 | 4 | [Heisig & Richardson](https://github.com/becky82/mteh/tree/main/sources/Heisig) | 3,018 (all) | *Remembering Simplified Hanzi* I–II |
 | 5 | [Hoenig](https://github.com/becky82/mteh/tree/main/sources/Hoenig) | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
 | 6 | [TOCFL](https://github.com/becky82/mteh/tree/main/sources/TOCFL) | 2,496 | Taiwan's TOCFL vocabulary |
@@ -32,7 +32,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 12 | [BLCU](https://github.com/becky82/mteh/tree/main/sources/BLCU) | 3,615 | "balanced", written Chinese |
 | 13 | [LWC](https://github.com/becky82/mteh/tree/main/sources/LWC) | 3,335 | Sina Weibo |
 | 14 | [Wikipedia](https://github.com/becky82/mteh/tree/main/sources/Wikipedia) | 3,267 | Chinese Wikipedia |
-| 15 | [通用规范汉字表](https://github.com/becky82/mteh/tree/main/sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 (all) | Ministry of Education (2013) |
+| 15 | [通用规范汉字表](https://github.com/becky82/mteh/tree/main/sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | Ministry of Education (2013) |
 | 16 | [现代汉语常用字表](https://github.com/becky82/mteh/tree/main/sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,498 | Ministry of Education (1988) |
 | 17 | [primary school](https://github.com/becky82/mteh/tree/main/sources/primary_school) | 2,467 | mainland China (2016) |
 | 18 | [Chinese surnames](https://github.com/becky82/mteh/tree/main/sources/surnames) | 285 | top-300 surnames |
