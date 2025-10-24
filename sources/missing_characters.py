@@ -8,7 +8,7 @@ from datetime import datetime
 
 run_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-repo_base_url = "https://github.com/becky82/mteh/tree/main"
+repo_base_url = "https://github.com/becky82/mteh/tree/main/sources"
 
 # ---------------- Configuration ----------------
 MTEH_SNAPSHOT = "../versions/v0.1.1/mteh_v0.1.1.txt"
