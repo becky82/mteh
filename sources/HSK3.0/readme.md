@@ -24,6 +24,8 @@ These HSK7-9 characters (29) do not appear in the word lists:
 
 > 冯 刘 吕 吴 唐 孔 孟 宋 州 曹 杭 欧 沪 洲 浙 浦 淮 渝 潘 澳 秦 粤 蜀 袁 赵 邓 郭 韩 魏
 
+All 3000 characters are included in the MteH corpus.
+
 This is a relatively new corpus (at the time of writing), and there are multiple sources for the vocabulary and characters:
 
 - https://github.com/ivankra/hsk30
