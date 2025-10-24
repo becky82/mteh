@@ -30,10 +30,8 @@ After processing, we're left with 7317 vocabulary items.  From this, we extract 
 - 高阶级 (level 4): +612 words [total 1898];
 - 流利级 (level 5-6): +603 words [total 2501].
 
-There are a few special characters:
+These characters were excluded:
 
-- 佇立 (in 流利级) simplifies to 伫立; 伫 didn't make the v0.1.1 MteH corpus;
-- 藩籬 (in 流利级) simplifies to 藩篱; 藩 didn't make the v0.1.1 MteH corpus;
-- 唷 (in 流利级) didn't make the v0.1.1 MteH corpus;
-- 妳 (in 入门级) and 牠 (in 流利级) didn't make the v0.1.1 MteH corpus (Taiwan-specific);
+> 伫 唷 妳 牠 藩
 
+The remaining 2496 characters were added to MteH v0.1.1.
