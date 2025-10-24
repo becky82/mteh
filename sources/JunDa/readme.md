@@ -4,11 +4,9 @@ The 3503 most frequent characters were sourced from [Jun Da's modern corpus](htt
 - The character 麽 [#2725] is normally the traditional character for 么 [#63], so it was excluded;
 - The character 後 [#2131] is normally the traditional character for 后 [#48], so it was excluded.
 
-From those 3500 characters, the following (23+3) were excluded:
+From those 3500 characters, the following (23) were excluded:
 
 > 伢 侬 倭 岚 幡 忒 敕 毓 焘 玑 琛 瑛 祺 禺 绫 藩 谟 钊 镕 陇 雯 霖 鞅
->
-> 後 於 麽
 
 And the remaining 3477 characters were added to MteH v0.1.1.
 
