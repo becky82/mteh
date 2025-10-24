@@ -2,9 +2,7 @@
 
 **A curated set of ~4,270 simplified Chinese characters for advanced language learners.**  
 
-The **MteH corpus** is designed as an *“endgame”* set of characters for students who’ve already mastered the essentials and want to know when to stop. Once you’ve learned these, you’re effectively *done for life* with simplified Chinese characters — congratulations!  
-
-Of course, more characters exist (in names, historical terms, scientific vocabulary, online slang, etc.), but at some point you have to draw the line and say: *this is my endgame*.  
+The **MteH corpus** is designed as an "endgame corpus" for advanced students. Basically, if you learn these characters, you're practically "done for life" studying simplified Chinese characters (congratulations!).  Obviously, there are more simplified Chinese characters than this (in proper nouns, scientific terms, chengyu, Chinese history, online usernames, etc.), but at a certain point you've got to draw the line and say "this is my endgame".
 
 Currently, MteH focuses entirely on **simplified Chinese characters**, especially those you’ll encounter in mainland China and in **HSK** exams.  
 
