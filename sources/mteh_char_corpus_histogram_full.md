@@ -1,6 +1,6 @@
 # MteH Character Occurrence Histogram
 
-**Report generated on:** 2025-10-24 11:11:11; Python script written by ChatGPT (GPT-5-mini).
+**Report generated on:** 2025-10-24 11:17:27; Python script written by ChatGPT (GPT-5-mini).
 
 **Checking MteH snapshot:** `../versions/v0.1.1/mteh_v0.1.1.txt`
 
@@ -8,31 +8,12 @@
 
 ![Histogram](mteh_char_corpus_histogram.png)
 
-## Summary Table
 
-| # Corpora | # Characters |
+## Summary Table (Horizontal)
 
-|-----------|--------------|
-
-| 0 | 2 |
-| 1 | 242 |
-| 2 | 161 |
-| 3 | 153 |
-| 4 | 158 |
-| 5 | 133 |
-| 6 | 115 |
-| 7 | 123 |
-| 8 | 112 |
-| 9 | 123 |
-| 10 | 120 |
-| 11 | 128 |
-| 12 | 166 |
-| 13 | 194 |
-| 14 | 305 |
-| 15 | 622 |
-| 16 | 935 |
-| 17 | 452 |
-| 18 | 26 |
+| # Corpora | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| # Characters | 2 | 242 | 161 | 153 | 158 | 133 | 115 | 123 | 112 | 123 | 120 | 128 | 166 | 194 | 305 | 622 | 935 | 452 | 26 |
 
 ## Full Character Lists
 

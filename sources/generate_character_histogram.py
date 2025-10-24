@@ -82,14 +82,23 @@ report_lines = [
     f"**Report generated on:** {run_date}; Python script written by ChatGPT (GPT-5-mini).\n",
     f"**Checking MteH snapshot:** `{MTEH_FILE}`\n",
     f"**Number of corpora checked:** {num_corpora}\n",
-    f"![Histogram]({plot_file})\n",
-    "## Summary Table\n",
-    "| # Corpora | # Characters |\n",
-    "|-----------|--------------|\n"
+    f"![Histogram]({plot_file})\n"
 ]
 
-for i in range(0, num_corpora+1):
-    report_lines.append(f"| {i} | {histogram.get(i,0)} |")
+# ---------------- Horizontal summary table ----------------
+report_lines.append("\n## Summary Table (Horizontal)\n")
+
+# First row: headers
+headers = ["# Corpora"] + [str(i) for i in range(0, num_corpora+1)]
+report_lines.append("| " + " | ".join(headers) + " |")
+
+# Second row: separators
+report_lines.append("|" + "|".join(["---"] * len(headers)) + "|")
+
+# Third row: values
+values = ["# Characters"] + [str(histogram.get(i,0)) for i in range(0, num_corpora+1)]
+report_lines.append("| " + " | ".join(values) + " |")
+
 
 # ---------------- Full data ----------------
 report_lines.append("\n## Full Character Lists\n")
