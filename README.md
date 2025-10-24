@@ -26,7 +26,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 5 | [Hoenig](https://github.com/becky82/mteh/tree/main/sources/Hoenig) | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
 | 6 | [TOCFL](https://github.com/becky82/mteh/tree/main/sources/TOCFL) | 2,496 | Taiwan's TOCFL vocabulary |
 | 7 | [Jun Da](https://github.com/becky82/mteh/tree/main/sources/JunDa) | 3,477 | Modern Chinese corpus |
-| 8 | [SUBTLEX](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) | 3,480 | Film subtitle corpus |
+| 8 | [SUBTLEX](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) | 3,477 | Film subtitle corpus |
 | 9 | [Tsai](https://github.com/becky82/mteh/tree/main/sources/Tsai) | 2,168 | Usenet newsgroups (1993-1994) |
 | 10 | [K-5](https://github.com/becky82/mteh/tree/main/sources/K-5) | 1,816 | K-5 word frequency |
 | 11 | [Leeds](https://github.com/becky82/mteh/tree/main/sources/Leeds) | 3,585 | Internet corpus |
