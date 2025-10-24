@@ -40,7 +40,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 </div>
 
-Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620)**, grouping visually or structurally related forms as much as possible (excluding certain variants).  
+Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620)** (excluding variants), grouping visually or structurally related forms as much as possible.  
 
 MteH also incorporates:  
 - **Character structure data** from [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) (MIT License)  
