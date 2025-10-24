@@ -8,6 +8,8 @@ from datetime import datetime
 
 run_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
+repo_base_url = "https://github.com/becky82/mteh/tree/main"
+
 # ---------------- Configuration ----------------
 MTEH_SNAPSHOT = "../versions/v0.1.1/mteh_v0.1.1.txt"
 CORPUS_FILES = [
@@ -70,7 +72,6 @@ def main():
         "- Python script written by ChatGPT (GPT-5-mini).\n"
     ]
 
-
     for relative_path in CORPUS_FILES:
         corpus_path = os.path.join(CORPUS_BASE, relative_path)
         if not os.path.exists(corpus_path):
@@ -106,7 +107,12 @@ def main():
             print(f"Missing simplified: {simplified_missing_count}")
             print(f"Missing traditional-only: {traditional_missing_count}")
 
-        report_lines.append(f"## {relative_path}")
+
+        folder_name = os.path.dirname(relative_path)  # e.g., 'HSK1.0'
+        file_name = os.path.basename(relative_path)  # e.g., 'HSK1.0_chars.txt'
+        folder_url = f"{repo_base_url}/{folder_name}"
+
+        report_lines.append(f"## [{relative_path}]({folder_url})")
         report_lines.append(f"- Total characters in file: {total_chars}")
         report_lines.append(f"- Characters present in MteH: {len(present_in_mteh)}")
         report_lines.append(f"- Simplified characters not in MteH ({len(missing_simplified)}): {' '.join(sorted(missing_simplified)) if missing_simplified else 'None'}")
