@@ -14,7 +14,7 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
 
 The MteH corpus is built to minimize "missing" characters; any characters not included are extremely rare or niche.  The initial version (v0.1.1) merges the following corpora:
 
-<div align="center">
+<div align="left">
 
 | # | Corpus | # Characters used | Source / Reference |
 |---|---------|---------------|--------------------|
@@ -27,15 +27,15 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 7 | [Jun Da](https://github.com/becky82/mteh/tree/main/sources/JunDa) | 3,477 | Modern Chinese corpus |
 | 8 | [SUBTLEX](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) | 3,500 | Film subtitle corpus |
 | 9 | [Tsai](https://github.com/becky82/mteh/tree/main/sources/Tsai) | 2,168 | Usenet newsgroups (1993-1994) |
-| 10 | [K-5](https://github.com/becky82/mteh/tree/main/sources/K-5) | 1,816 | K-5 Word Frequency Dictionary |
-| 11 | [Leeds](https://github.com/becky82/mteh/tree/main/sources/Leeds) | 3,585 | Top 20,000 words from Leeds corpus |
-| 12 | [BLCU](https://github.com/becky82/mteh/tree/main/sources/BLCU) | 3,615 | BLCU Global Corpus |
-| 13 | [LWC](https://github.com/becky82/mteh/tree/main/sources/LWC) | 3,335 | LWC corpus (Daan van Esch) |
-| 14 | [Wikipedia](https://github.com/becky82/mteh/tree/main/sources/Wikipedia) | 3,267 | Chinese Wikipedia corpus |
+| 10 | [K-5](https://github.com/becky82/mteh/tree/main/sources/K-5) | 1,816 | K-5 word frequency |
+| 11 | [Leeds](https://github.com/becky82/mteh/tree/main/sources/Leeds) | 3,585 | Internet corpus |
+| 12 | [BLCU](https://github.com/becky82/mteh/tree/main/sources/BLCU) | 3,615 | "balanced", written Chinese |
+| 13 | [LWC](https://github.com/becky82/mteh/tree/main/sources/LWC) | 3,335 | Sina Weibo |
+| 14 | [Wikipedia](https://github.com/becky82/mteh/tree/main/sources/Wikipedia) | 3,267 | Chinese Wikipedia |
 | 15 | [通用规范汉字表](https://github.com/becky82/mteh/tree/main/sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | all 3,500 | Ministry of Education (2013) |
 | 16 | [现代汉语常用字表](https://github.com/becky82/mteh/tree/main/sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,498 | Ministry of Education (1988) |
-| 17 | [primary school](https://github.com/becky82/mteh/tree/main/sources/primary_school) | 2,467 | Mainland China (2016) |
-| 18 | [Chinese surnames](https://github.com/becky82/mteh/tree/main/sources/surnames) | 285 | Top 300 surnames |
+| 17 | [primary school](https://github.com/becky82/mteh/tree/main/sources/primary_school) | 2,467 | mainland China (2016) |
+| 18 | [Chinese surnames](https://github.com/becky82/mteh/tree/main/sources/surnames) | 285 | top-300 surnames |
 
 </div>
 
