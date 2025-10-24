@@ -7,7 +7,7 @@ The **_MteH corpus_** is designed as an "endgame corpus" for advanced students. 
 Currently, MteH focuses entirely on **simplified Chinese characters**, especially those you’ll encounter in mainland China and in **HSK** exams.
 
 - [Handwriting practice PDFs](https://github.com/becky82/mteh/tree/main/versions/v0.1.1)
-- [Current MteH corpus (text)](https://github.com/becky82/mteh/blob/main/versions/v0.1.1/mteh_v0.1.1.txt)
+- [MteH corpus (v0.1.1)](https://github.com/becky82/mteh/blob/main/versions/v0.1.1/mteh_v0.1.1.txt) (plain text)
 
 ---
 
