@@ -45,8 +45,4 @@ From this we can extract the characters from each word:
 - level 5: +620 words [1687 total];
 - level 6: +976 words [2663 total].
 
-This directory contains
-
-- The HSK2.0 syllabus words: `HSK2.0_words.txt` (sorted by unicode);
-- The HSK2.0 syllabus characters: `HSK2.0_chars.txt` (sorted by unicode);
-- The same files, but split into HSK2.0 levels.
+The MteH corpus includes all 2663 of these characters.
