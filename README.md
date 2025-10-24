@@ -16,26 +16,26 @@ The MteH corpus is built to minimize “missing” characters — any characters
 
 <div align="center">
 
-| # | Corpus | # Characters | Source / Reference |
+| # | Corpus | # Characters used | Source / Reference |
 |---|---------|---------------|--------------------|
 | 1 | HSK 1.0 | 2,905 | Pre-2010, 11 levels |
-| 2 | HSK 2.0 | 2,663 | Post-2010, 6 levels |
-| 3 | HSK 3.0 | 3,000 | 2021 version, 9 levels |
+| 2 | HSK 2.0 | all 2,663 | Post-2010, 6 levels |
+| 3 | HSK 3.0 | all 3,000 | 2021 version, 9 levels |
 | 4 | Heisig & Richardson | 3,018 | *Remembering Simplified Hanzi* I–II |
 | 5 | Hoenig | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 6 | TOCFL | 2,501 | Taiwan’s TOCFL vocabulary |
+| 6 | TOCFL | 2,496 | Taiwan’s TOCFL vocabulary |
 | 7 | Jun Da | 3,500 | Modern Chinese corpus |
 | 8 | SUBTLEX | 3,500 | Film subtitle corpus |
-| 9 | Tsai | 2,172 | Top 3,500 characters |
-| 10 | K-5 | 1,817 | K-5 Word Frequency Dictionary |
-| 11 | Leeds | 3,654 | Top 20,000 words from Leeds corpus |
-| 12 | BLCU | 3,699 | BLCU Global Corpus |
-| 13 | LWC | 3,393 | LWC corpus (Daan van Esch) |
-| 14 | Wikipedia | 3,500 | Chinese Wikipedia corpus |
-| 15 | 通用规范汉字表 | 3,500 | Ministry of Education (2013) |
-| 16 | 现代汉语常用字表 | 3,500 | Ministry of Education (1988) |
-| 17 | Primary School List | 2,480 | Mainland China (2016) |
-| 18 | Chinese Surnames | 286 | Top 300 surnames |
+| 9 | Tsai | 2,168 | Top 3,500 characters |
+| 10 | K-5 | 1,816 | K-5 Word Frequency Dictionary |
+| 11 | Leeds | 3,585 | Top 20,000 words from Leeds corpus |
+| 12 | BLCU | 3,615 | BLCU Global Corpus |
+| 13 | LWC | 3,335 | LWC corpus (Daan van Esch) |
+| 14 | Wikipedia | 3,267 | Chinese Wikipedia corpus |
+| 15 | 通用规范汉字表 | all 3,500 | Ministry of Education (2013) |
+| 16 | 现代汉语常用字表 | 3,498 | Ministry of Education (1988) |
+| 17 | Primary School List | 2,467 | Mainland China (2016) |
+| 18 | Chinese Surnames | 285 | Top 300 surnames |
 
 </div>
 
