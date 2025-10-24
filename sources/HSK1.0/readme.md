@@ -1,4 +1,4 @@
-The HSK1.0 syllabus 《汉语水平词汇与汉字等级大纲》 lists the Chinese HSK words in the 1.0 standards.  I sourced it from https://gjxy.gpnu.edu.cn/info/1141/1373.htm (uploaded as `HSK1.0_汉语水平词汇与汉字等级大纲.txt`).  The words split into these levels:
+The HSK1.0 syllabus 《汉语水平词汇与汉字等级大纲》 lists the Chinese HSK words in the 1.0 standards.  It was sourced from https://gjxy.gpnu.edu.cn/info/1141/1373.htm (uploaded as `HSK1.0_汉语水平词汇与汉字等级大纲.txt`).  The words split into these levels:
 
 - 甲 (basic) levels 1, 2, 3 (1033 words)
 - 乙 (elementary) levels 3, 4, 5 (+2018 words [3051 total]) [yes, they overlap]
