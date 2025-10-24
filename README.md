@@ -14,6 +14,8 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
 
 ## Summary
 
+The MteH corpus is built to minimize “missing” characters — any characters not included are extremely rare or niche. It merges and deduplicates the above corpora, producing a unified, comprehensive set of characters suitable for real-world use.
+
 <div align="center">
 
 | # | Corpus | # Characters | Source / Reference |
@@ -38,12 +40,6 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
 | 18 | Chinese Surnames | 286 | Top 300 surnames |
 
 </div>
-
----
-
-## Method
-
-The MteH corpus is built to minimize “missing” characters — any characters not included are *extremely rare* or *niche*. It merges and deduplicates the above corpora, producing a unified, comprehensive set of characters suitable for real-world use.  
 
 Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620)**, grouping visually or structurally related forms as much as possible (excluding certain variants).  
 
