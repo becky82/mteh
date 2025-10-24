@@ -21,7 +21,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 1 | [HSK 1.0](https://github.com/becky82/mteh/tree/main/sources/HSK1.0) | 2,866 | Pre-2010, 11 levels |
 | 2 | [HSK 2.0](https://github.com/becky82/mteh/tree/main/sources/HSK2.0) | 2,663 | Post-2010, 6 levels |
 | 3 | [HSK 3.0](https://github.com/becky82/mteh/tree/main/sources/HSK3.0) | 3,000 | 2021 version, 9 levels |
-| 4 | [Heisig & Richardson](https://github.com/becky82/mteh/tree/main/sources/Heisig) | 3,018 (all) | *Remembering Simplified Hanzi* I–II |
+| 4 | [Heisig & Richardson](https://github.com/becky82/mteh/tree/main/sources/Heisig) | 3,018 | *Remembering Simplified Hanzi* I–II |
 | 5 | [Hoenig](https://github.com/becky82/mteh/tree/main/sources/Hoenig) | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
 | 6 | [TOCFL](https://github.com/becky82/mteh/tree/main/sources/TOCFL) | 2,496 | Taiwan's TOCFL vocabulary |
 | 7 | [Jun Da](https://github.com/becky82/mteh/tree/main/sources/JunDa) | 3,477 | Modern Chinese corpus |
