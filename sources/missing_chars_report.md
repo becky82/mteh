@@ -1,6 +1,6 @@
 # MteH Missing Characters Report
 
-**Report generated on:** 2025-10-24 10:56:02
+**Report generated on:** 2025-10-24 12:33:21
 
 This report checks all listed corpus files against **MteH snapshot:** `../versions/v0.1.1/mteh_v0.1.1.txt`
 
@@ -39,8 +39,8 @@ This report checks all listed corpus files against **MteH snapshot:** `../versio
 - Traditional-only characters not in MteH (0): None
 
 ## [Hoenig/Hoenig_unicode_order.txt](https://github.com/becky82/mteh/tree/main/sources/Hoenig)
-- Total characters in file: 2176
-- Characters present in MteH: 2150
+- Total characters in file: 2177
+- Characters present in MteH: 2151
 - Simplified characters not in MteH (26): 佥 刍 啻 弋 彖 戋 敕 曷 殳 氐 沓 甬 缶 聿 臧 舛 艮 苋 衮 詈 豕 贲 隹 隽 鬲 黾
 - Traditional-only characters not in MteH (0): None
 
