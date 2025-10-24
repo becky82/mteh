@@ -1,6 +1,6 @@
 # MteH Missing Characters Report
 
-**Report generated on:** 2025-10-24 12:46:36
+**Report generated on:** 2025-10-24 13:27:32
 
 This report checks all listed corpus files against **MteH snapshot:** `../versions/v0.1.1/mteh_v0.1.1.txt`
 
@@ -57,10 +57,10 @@ This report checks all listed corpus files against **MteH snapshot:** `../versio
 - Traditional-only characters not in MteH (3): 後 於 麽
 
 ## [SUBTLEX/SUBTLEX_chars_top3500_unicode_order.txt](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX)
-- Total characters in file: 3498
-- Characters present in MteH: 3476
-- Simplified characters not in MteH (19): 侬 円 呣 啵 妳 屌 忒 洙 渥 濑 玑 珉 缇 芮 茱 菈 藩 铉 铎
-- Traditional-only characters not in MteH (3): 夥 後 於
+- Total characters in file: 3500
+- Characters present in MteH: 3480
+- Simplified characters not in MteH (18): 侬 呣 啵 嗬 坂 屌 忒 洙 渥 濑 玑 珉 缇 芮 茱 藩 铉 铎
+- Traditional-only characters not in MteH (2): 夥 於
 
 ## [Tsai/Tsai_top3500_unicode_order.txt](https://github.com/becky82/mteh/tree/main/sources/Tsai)
 - Total characters in file: 3500
