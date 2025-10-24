@@ -24,7 +24,7 @@ The MteH corpus is built to minimize “missing” characters — any characters
 | 4 | Heisig & Richardson | 3,018 | *Remembering Simplified Hanzi* I–II |
 | 5 | Hoenig | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
 | 6 | TOCFL | 2,496 | Taiwan’s TOCFL vocabulary |
-| 7 | Jun Da | 3,500 | Modern Chinese corpus |
+| 7 | Jun Da | 3,477 | Modern Chinese corpus |
 | 8 | SUBTLEX | 3,500 | Film subtitle corpus |
 | 9 | Tsai | 2,168 | Top 3,500 characters |
 | 10 | K-5 | 1,816 | K-5 Word Frequency Dictionary |
