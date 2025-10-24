@@ -21,7 +21,7 @@ The MteH corpus is built to minimize “missing” characters — any characters
 | 1 | HSK 1.0 | all 2,866 | Pre-2010, 11 levels |
 | 2 | HSK 2.0 | all 2,663 | Post-2010, 6 levels |
 | 3 | HSK 3.0 | all 3,000 | 2021 version, 9 levels |
-| 4 | Heisig & Richardson | 3,018 | *Remembering Simplified Hanzi* I–II |
+| 4 | Heisig & Richardson | all 3,018 | *Remembering Simplified Hanzi* I–II |
 | 5 | Hoenig | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
 | 6 | TOCFL | 2,496 | Taiwan’s TOCFL vocabulary |
 | 7 | Jun Da | 3,477 | Modern Chinese corpus |
