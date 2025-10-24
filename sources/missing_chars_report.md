@@ -1,6 +1,6 @@
 # MteH Missing Characters Report
 
-**Report generated on:** 2025-10-24 12:33:21
+**Report generated on:** 2025-10-24 12:46:36
 
 This report checks all listed corpus files against **MteH snapshot:** `../versions/v0.1.1/mteh_v0.1.1.txt`
 
@@ -51,10 +51,10 @@ This report checks all listed corpus files against **MteH snapshot:** `../versio
 - Traditional-only characters not in MteH (0): None
 
 ## [JunDa/JunDa_modern_top3500_unicode_order.txt](https://github.com/becky82/mteh/tree/main/sources/JunDa)
-- Total characters in file: 2526
-- Characters present in MteH: 2503
+- Total characters in file: 3503
+- Characters present in MteH: 3477
 - Simplified characters not in MteH (23): 伢 侬 倭 岚 幡 忒 敕 毓 焘 玑 琛 瑛 祺 禺 绫 藩 谟 钊 镕 陇 雯 霖 鞅
-- Traditional-only characters not in MteH (0): None
+- Traditional-only characters not in MteH (3): 後 於 麽
 
 ## [SUBTLEX/SUBTLEX_chars_top3500_unicode_order.txt](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX)
 - Total characters in file: 3498
