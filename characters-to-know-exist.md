@@ -128,7 +128,7 @@ The character
 
 is used as a simpler way of handwriting 餐 (cān).  You might also encounter other abbreviations, such as:
 
-> [...]
+> <img src="并瓶_abbreviation.jpg">
 
 where 并 is used as an abbreviation for 瓶.
 
