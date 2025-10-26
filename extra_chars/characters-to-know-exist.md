@@ -19,6 +19,8 @@ And this is no longer used:
 Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral pronoun (e.g., if you don't know which pronoun to use):
 
 > <img src="Screenshot_of_TA_pronoun.png">
+>
+> <sub>[约5000斤稻谷、房屋变“焦炭”，别小看TA的破坏力](https://finance.sina.com.cn/roll/2025-10-25/doc-infvaynn5812262.shtml?cref=cj), 环球网, 2025.</sub>
 
 ## Abbreviation characters
 
@@ -83,7 +85,9 @@ A few characters which are used in Taiwan come up from time to time e.g., if you
 
 For example:
 
-> <img src="矽谷_screenshot.png">
+> <img src="矽谷_screenshot.png">  
+>
+> <sub>[“后果将非常严重”：矽谷对AI泡沫破裂的担忧正在升温](https://www.bbc.com/zhongwen/articles/ce3y3gdv5yxo/simp), BBC, 2025.</sub>
 
 ### Zero
 
