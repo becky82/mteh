@@ -142,8 +142,9 @@ where 并 is used as an abbreviation for 瓶.
 
 Sometimes you'll see Chinese characters which are "made up" in some way, such as:
 
-> <img src="招财进宝.png">  
-> <sub>Image source: [Please help to identify the character (Characters Identified: 招財進寳)](https://chinese.stackexchange.com/q/27173/8099)</sub>
+> <img src="招财进宝.png">
+>
+> <sub>Image source: [Please help to identify the character](https://chinese.stackexchange.com/q/27173/8099)</sub>
 
 which is a decorative merging of the characters in the chengyu 招財進寳 (simplified: 招财进宝).  This is the style of writing of [讳秘字](https://zh.wikipedia.org/wiki/讳秘字) (huìmìzì), used in Daoism.
 
