@@ -4,17 +4,17 @@ There are a few characters which are nice to know exist, but they wouldn't norma
 
 These pronouncs are used in Taiwan:
 
-> - 妳 (nǐ) female "you";
-> - 牠 (tā) animal "you".
+> 妳 (nǐ) female "you";
+> 牠 (tā) animal "you".
 
 These are used in the Bible:
 
-> - 祢 (nǐ) God "you";
-> - 祂 (tā) God "He".
+> 祢 (nǐ) God "you";
+> 祂 (tā) God "He".
 
 And this is no longer used:
 
-> - 怹 (tān) formal "he".
+> 怹 (tān) formal "he".
 
 #### Abbreviation characters
 
@@ -34,6 +34,26 @@ There's also:
 > 圕 (tuān) 图书馆
 
 which is rarely seen in calligraphy.
+
+#### Multi-syllable characters
+
+Almost every character corresponds to a single syllable in Chinese.  The only exceptions that seem to exist are:
+
+> 瓩 (qiānwǎ) = 千瓦 kilowatt (1000W)
+> 瓸 (bǎiwǎ) = 百瓦 hectowatt (100W)
+> 瓧 (shíwǎ) = 十瓦 decawatt (10W)
+> 瓰 (fēnwǎ) = 分瓦 deciwatt (0.1W)
+> 瓼 (lǐwǎ) = 厘瓦 centiwatt (0.01W)
+> 瓱 (háowǎ) = 毫瓦 milliwatt (0.001W)
+> 
+> 兛 (qiānkè) = 千克 kilogram (1000g)
+> 兡 (bǎikè) = 百克 hectogram (100g)
+> 兙 (shíkè) = 十克 decagram (10g)
+> 兝 (fēnkè) = 分克 decigram (0.1g)
+> 兣 (gōnglǐ) = 厘克 (líkè) centigram (0.01g)
+> 兞 (háokè) = 毫克 milligram (0.001g)
+
+(And sometimes 圕 is pronounced 图书馆.)  These characters are extremely rare, and probably should be regarded as obsolete.
 
 -----
 
