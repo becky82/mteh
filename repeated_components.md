@@ -1,3 +1,9 @@
+A table of Chinese characters which are composed of repeated components (including simplified and traditional).
+
+- Some won't display because they're not included in your browser's font.
+- Some aren't yet Unicode.
+- Some aren't Unicode.
+
 | Component | ⿰XX | ⿱XX | ⿱X⿰XX | ⿱⿰XX⿰XX | etc. |
 | - | - | - | - | - | - |
 | く | 巜 |  |  |  | 巛 |
