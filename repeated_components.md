@@ -95,6 +95,7 @@
 | 鱼 |  | [⿱鱼鱼](https://zi.tools/zi/%E2%BF%B1%E9%B1%BC%E9%B1%BC) | 𱈜 |  |  |
 | 鹿 |  |  | 麤 |  |  |
 | 龍 | 龖 |  | 龘 | 𪚥 |  |
+| 龙 | 𱍂 |  | 𮹝 |  |  |
 | [⿹弓冫](https://en.wiktionary.org/wiki/%E2%BF%B9%E5%BC%93%E5%86%AB) | 弱 |  |  |  |  |
 
 #### Sources
