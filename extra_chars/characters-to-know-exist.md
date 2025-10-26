@@ -179,4 +179,4 @@ Some characters are mostly used for decorative purposes nowadays, such as:
 > 嬲 (niǎo)  
 > 嫐 (nǎo)
 
-You may also see things like 火炎焱燚 and in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composd of repeated components like this; they're often used decoratively.
+You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composd of repeated components like this; they're often used decoratively.
