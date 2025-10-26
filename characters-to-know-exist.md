@@ -59,11 +59,11 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 
 Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo), which has its own characters (enjoy the [Bopomofo song](https://www.youtube.com/watch?v=nKmwhmI0mBE)):
 
-> ㄅ (b) ㄆ (p) ㄇ (m) ㄈ (f) ㄉ (d) ㄊ (t) ㄋ (n) ㄌ (l)
-> ㄍ (g) ㄎ (k) ㄏ (h) ㄐ (j) ㄑ (q) ㄒ (x)
-> ㄓ (zh) ㄔ (ch) ㄕ (sh) ㄖ (r) ㄗ (z) ㄘ (c) ㄙ (s)
-> ㄧ (i) ㄨ (u) ㄩ (ü) ㄚ (a) ㄛ (o) ㄜ (e) ㄝ (ê)
-> ㄞ (ai) ㄟ (ei) ㄠ (ao) ㄡ (ou) ㄢ (an) ㄣ (en) ㄤ (ang) ㄥ (eng) ㄦ (er)
+> ㄅ (b) ㄆ (p) ㄇ (m) ㄈ (f) ㄉ (d) ㄊ (t) ㄋ (n) ㄌ (l)  
+> ㄍ (g) ㄎ (k) ㄏ (h) ㄐ (j) ㄑ (q) ㄒ (x)  
+> ㄓ (zh) ㄔ (ch) ㄕ (sh) ㄖ (r) ㄗ (z) ㄘ (c) ㄙ (s)  
+> ㄧ (i) ㄨ (u) ㄩ (ü) ㄚ (a) ㄛ (o) ㄜ (e) ㄝ (ê)  
+> ㄞ (ai) ㄟ (ei) ㄠ (ao) ㄡ (ou) ㄢ (an) ㄣ (en) ㄤ (ang) ㄥ (eng) ㄦ (er)  
 > 大家一起来唱ㄅㄆㄇㄈ
 
 -----
