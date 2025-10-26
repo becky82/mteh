@@ -165,17 +165,17 @@ Sometimes you'll see Chinese characters which are "made up" in some way, such as
 
 which is a decorative merging of the characters in the chengyu 招財進寳 (simplified: 招财进宝).  This is the style of writing of [讳秘字](https://zh.wikipedia.org/wiki/讳秘字) (huìmìzì), used in Daoism.
 
+### Swastika
+
+The swastika character is seen in Buddhist temples in China:
+
+> 卐 (wàn)  
+> 卍 (wàn)
+
 -----
 
 
 
->  蚵 孨 屌 槑 伩 烎
-
-
-> 卐 卍
-
+>  孨 屌 槑 伩 烎
+> 
 > 嬲 嫐
-
-> ta
-
-> 招財进宝 (讳秘字)
