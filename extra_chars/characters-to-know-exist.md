@@ -4,7 +4,7 @@ There are some Chinese characters which we should know exist, but they wouldn't 
 
 There has been many pronouns used throughout the Chinese speaking world, and they have evolved over time.  Some are obsolete, some are used in some parts of the world, some are used in dialects, and some are used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.
 
-| Character | Pinyin | Meaning | Person | Notes |
+| Pronoun | Pinyin | Meaning | Person | Notes |
 |------------|---------|----------|---------|--------|
 | 俺 | ǎn | I / me | 1st | Northern dialect |
 | 吾 | wú | I / me | 1st | Classical / literary |
