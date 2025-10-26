@@ -1,14 +1,17 @@
-There are a few characters which are nice to know exist, but they wouldn't normally be used on the HSK or in mainland China.  They may arise elsewhere in the world, they are used online in usernames, and they may arise in puzzles.
+There are a few characters which are nice to know exist, but they wouldn't normally be used on the HSK or in mainland China (so are not included in the MteH corpus).  They may arise outside of mainland China, and they might be found in usernames, character riddles (字谜), fiction, the Bible, etc.
 
-The first group are the pronouns:
+The first group are the pronouns.  These pronouncs are used in Taiwan:
 
-> Taiwan:
 > - 妳 (nǐ) female "you";
 > - 牠 (tā) animal "you".
-> Used in the Bible:
+
+These are used in the Bible:
+
 > - 祢 (nǐ) God "you";
 > - 祂 (tā) God "He".
-> No longer used:
+
+And this is no longer used:
+
 > - 怹 (tān) formal "he".
 
 -----
