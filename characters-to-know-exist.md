@@ -66,16 +66,83 @@ Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomof
 > ㄞ (ai) ㄟ (ei) ㄠ (ao) ㄡ (ou) ㄢ (an) ㄣ (en) ㄤ (ang) ㄥ (eng) ㄦ (er)  
 > 大家一起来唱ㄅㄆㄇㄈ
 
+### Others
+
+#### Zero
+
+零 (líng) (meaning 0) can be written as a circle:
+
+> 〇 (líng)
+
+It is often (but not always) used in dates, e.g. 二〇〇八年八月八日.
+
+#### Japanese characters
+
+The Japanese character
+
+> の
+
+is often used as a decorative 的 in China, particular in restaurant names.  You might also see the Japanese
+
+> 丼
+
+used for Japanese-style rice dishes.
+
+#### Jiong
+
+The characters
+
+> 囧 (jiǒng) and 冏 (jiǒng)
+
+are sometimes used as an "embarrassed face" emoji.
+
+#### Biang
+
+The character
+
+> 𰻞 (biáng)
+
+exclusively refers to a type of noodles 𰻞𰻞面.  It's noted for having a large number of characters, and is sometimes used as calligraphy in shops that sell 𰻞.  You'll also see "biangbiang面", perhaps because a font doesn't contain the character 𰻞.
+
+#### Shuangxi
+
+The character 
+
+> 囍 (xǐ)
+
+is decorative character used for good fortune for weddings in China; it's called 双喜 (shuāngxǐ).
+
+#### Chichu
+
+The characters in
+
+> 彳亍 (chìchù) to walk slowly
+
+seem to be derived from 行 (xíng) "to walk".
+
+#### Shorthand
+
+The character
+
+> 歺 (cān)
+
+is used as a simpler way of handwriting 餐 (cān).  You might also encounter other abbreviations, such as:
+
+> [...]
+
+where 并 is used as an abbreviation for 瓶.
+
 -----
 
-> 囧/冏 𰻞 囍 〇
 
-> 丼 の
 
 >  蚵 孨 屌 槑 伩 烎
 
-> 彳亍
 
 > 卐 卍
 
 > 嬲 嫐
+
+> ta
+
+> 招財进宝 (讳秘字)
