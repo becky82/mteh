@@ -6,13 +6,13 @@ There has been many pronouns used throughout the Chinese speaking world, and the
 
 | Character | Pinyin | Meaning | Person | Notes |
 |------------|---------|----------|---------|--------|
-| 俺 | ǎn | I / me | 1st | Northern dialect; included in MetH |
+| 俺 | ǎn | I / me | 1st | Northern dialect |
 | 吾 | wú | I / me | 1st | Classical / literary |
 | 予／余 | yú | I / me | 1st | Classical forms |
 | 朕 | zhèn | I / me | 1st | Used only by emperors |
 | 寡人 | guǎrén | I / me | 1st | Used by ancient nobility |
-| 咱 | zán | we | 1st (plural) | Common in Mainland China; included in MteH |
 | 侬 | nóng | I / me | 1st | Wu dialect |
+| 咱 | zán | we | 1st (plural) | Common in Mainland China |
 | 妳 | nǐ | you (female) | 2nd | Commonly used in Taiwan |
 | 祢 | nǐ | you (God) | 2nd | Used in the Bible |
 | 恁 | nèn | you (plural / formal) | 2nd | Used in Taiwanese Hokkien |
@@ -24,6 +24,8 @@ There has been many pronouns used throughout the Chinese speaking world, and the
 | 祂 | tā | He (God) | 3rd | Used in the Bible |
 | 怹 | tān | he / she (formal) | 3rd | Obsolete formal form |
 | 其 | qí | he / she / it / their | 3rd | Classical / legal Chinese |
+
+The pronouns 俺, 吾, 朕, and 咱 are included in MteH, and the characters 予, 余, 寡, 人, 汝, 伊, 渠, and 其 are included in MteH because they are also used outside of pronouns.
 
 Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral pronoun (e.g., if you don't know which pronoun to use):
 
