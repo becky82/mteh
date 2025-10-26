@@ -72,6 +72,19 @@ Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomof
 
 ## Others
 
+### Taiwan
+
+A few characters which are used in Taiwan come up from time to time e.g., if you're reading online:
+
+| Taiwan   | Mainland   |
+| -------- | ---------- |
+| 蚵 (é)   | 牡蛎 (mǔlì) |
+| 矽 (xī)  | 硅 (guī)    |
+
+For example:
+
+> <img src="矽谷_screenshot.png">
+
 ### Zero
 
 零 (líng) (meaning 0) can be written as a circle:
