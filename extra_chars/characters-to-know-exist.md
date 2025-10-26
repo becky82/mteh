@@ -41,9 +41,9 @@ There's a small number characters which are essentially just abbreviations:
 |-----------|--------|-------|-------|
 | 甭 | béng | 不用 | Actively used; included in MteH corpus |
 | 嫑 | biáo | 不要 | Rare; not used in standard Mandarin |
-| 孬 | nāo | 不好 | Rare; dialectal / nonstandard |
-| 甮 | fèng | 勿用 | Obsolete / rarely seen |
-| 嘦 | jiào | 只要 | Obscure / literary / not standard |
+| 孬 | nāo | 不好 | Rare; dialectal |
+| 甮 | fèng | 勿用 | Rare; obsolete |
+| 嘦 | jiào | 只要 | Rare |
 | 圕 | tuān | 图书馆 | Rare; mainly in calligraphy or decorative use |
 
 ## Multi-syllable characters
