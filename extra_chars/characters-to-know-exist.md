@@ -1,6 +1,6 @@
 There are a few characters which are nice to know exist, but they wouldn't normally be used in the HSK exam or in mainland China (so are not included in the MteH corpus).  They may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
 
-### Pronouns
+## Pronouns
 
 These pronouncs are used in Taiwan:
 
@@ -16,7 +16,7 @@ And this is no longer used:
 
 > 怹 (tān) formal "he".
 
-### Abbreviation characters
+## Abbreviation characters
 
 There's a small number characters which are essentially just abbreviations.  This one is actually used (as is included in the MteH corpus):
 
@@ -35,7 +35,7 @@ There's also:
 
 which is rarely seen in calligraphy.
 
-### Multi-syllable characters
+## Multi-syllable characters
 
 Almost every character corresponds to a single syllable in Chinese.  The only exceptions that seem to exist are:
 
@@ -55,7 +55,7 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 
 (And sometimes 圕 is pronounced 图书馆.)  These characters are extremely rare, and probably should be regarded as obsolete.
 
-### Bopomofo/Zhuyin
+## Bopomofo/Zhuyin
 
 Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo), which has its own characters (enjoy the [Bopomofo song](https://www.youtube.com/watch?v=nKmwhmI0mBE)):
 
@@ -66,9 +66,9 @@ Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomof
 > ㄞ (ai) ㄟ (ei) ㄠ (ao) ㄡ (ou) ㄢ (an) ㄣ (en) ㄤ (ang) ㄥ (eng) ㄦ (er)  
 > 大家一起来唱ㄅㄆㄇㄈ
 
-### Others
+## Others
 
-#### Zero
+### Zero
 
 零 (líng) (meaning 0) can be written as a circle:
 
@@ -76,7 +76,7 @@ Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomof
 
 It is often (but not always) used in dates, e.g. 二〇〇八年八月八日.
 
-#### Japanese characters
+### Japanese characters
 
 The Japanese character
 
@@ -88,7 +88,7 @@ is often used as a decorative 的 in China, particular in restaurant names.  You
 
 used for Japanese-style rice dishes.
 
-#### Jiong
+### Jiong
 
 The characters
 
@@ -96,7 +96,7 @@ The characters
 
 are sometimes used as an "embarrassed face" emoji.
 
-#### Biang
+### Biang
 
 The character
 
@@ -104,7 +104,7 @@ The character
 
 exclusively refers to a type of noodles 𰻞𰻞面.  It's noted for having a large number of characters, and is sometimes used as calligraphy in shops that sell 𰻞.  You'll also see "biangbiang面", perhaps because a font doesn't contain the character 𰻞.
 
-#### Shuangxi
+### Shuangxi
 
 The character 
 
@@ -114,7 +114,7 @@ is decorative character used for good fortune for weddings in China; it's called
 
 <img src="囍_example.jpg">
 
-#### Chichu
+### Chichu
 
 The characters in
 
@@ -122,7 +122,7 @@ The characters in
 
 seem to be derived from 行 (xíng) "to walk".
 
-#### Shorthand
+### Shorthand
 
 The character
 
