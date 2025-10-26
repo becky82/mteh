@@ -38,7 +38,7 @@ Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral
 There's a small number characters which are essentially just abbreviations:
 
 | Character | Pinyin | Contraction | Notes |
-|-----------|--------|-------|
+|-----------|--------|-------|-------|
 | 甭 | béng | 不用 | Actively used; included in MteH corpus |
 | 嫑 | biáo | 不要 | Rare; not used in standard Mandarin |
 | 孬 | nāo | 不好 | Rare; dialectal / nonstandard |
