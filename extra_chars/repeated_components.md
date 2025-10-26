@@ -1,0 +1,113 @@
+A table of Chinese characters which are composed of repeated components (including simplified and traditional).
+
+- Some won't display because they're not included in your browser's font.
+- Some aren't yet Unicode.
+- Some aren't Unicode.
+
+| Component | ⿰XX | ⿱XX | ⿱X⿰XX | ⿱⿰XX⿰XX | etc. |
+| - | - | - | - | - | - |
+| く | 巜 |  |  |  | 巛 |
+| 一 |  | 二 |  |  | 三亖 |
+| 丿 |  |  |  |  | 彡 |
+| 乂 |  | 爻 |  | 㸚 |  |
+| 习 | 羽 |  |  |  |  |
+| 人 | 从 | 仌 | 众 | 𠈌 | 𠆧 |
+| 先 | 兟 |  |  | 𠓙 |  |
+| 克 | 兢 |  |  |  |  |
+| 刀 | 𠚪 |  | 刕 |  |  |
+| 力 | 𠠴 |  | 劦 |  |  |
+| 匕 | 比 | 𫧇 |  |  |  |
+| 原 |  |  | 厵 |  |  |
+| 厶 | 厸 | 㕕 | 厽 |  |  |
+| 又 | 双 | 㕛 | 叒 | 叕 |  |
+| 口 | 吅 | 吕 | 品 | 㗊 | 回 |
+| 可 | 𠾳 | 哥 |  |  |  |
+| 吉 |  | 𡔯 | 嚞 |  |  |
+| 吉 | 喆 |  |  |  |  |
+| 呆 | 槑 |  |  |  |  |
+| 喜 | 囍 |  |  |  |  |
+| 因 |  |  | 𡈲 | U+ECD5 |  |
+| 土 |  | 圭 | 垚 |  | 㙓 |
+| 士 |  |  | 壵 |  |  |
+| 夕 | 𡖇 | 多 |  |  |  |
+| 大 | 夶 | 㚐 |  |  |  |
+| 天 | 𭑈 | 𰋟 | 𡙎 | 𡚌 |  |
+| 女 | 奻 | 㚣 | 姦 |  |  |
+| 子 | 孖 |  | 孨 |  | 𡥦 |
+| 小 |  |  | 尛 | 𡮐 |  |
+| 屮 | 艸 |  | 芔 | 茻 |  |
+| 山 | 屾 | 岀 |  | 𡷈 | 出 |
+| 弓 | 弜 |  |  |  | 𢎙 |
+| 心 |  |  | 惢 |  | 㤈 |
+| 戈 | [⿰戈戈](https://zi.tools/zi/%E2%BF%B0%E6%88%88%E6%88%88) | 戔 |  |  | [⿲戈戈戈](https://zi.tools/zi/%E2%BF%B2%E6%88%88%E6%88%88%E6%88%88) |
+| 手 | 𢪒 |  | 掱 |  | 抙拜 |
+| 斤 | 斦 |  |  |  |  |
+| 旡 | 兓 |  |  |  |  |
+| 日 | 昍 | 昌 | 晶 | 𣊭 | 晿 |
+| 月 | 朋 |  |  | 朤 |  |
+| 木 | 林 |  | 森 |  |  |
+| 朿 | 棘 | 棗 |  |  |  |
+| 止 | 𣥖 | 𣥕 | 歮 |  | 歨 |
+| 毛 | 㲎 |  | 毳 |  |  |
+| 水 | 沝 |  | 淼 | 㵘 | 冰𣲙㴇 |
+| 泉 |  |  | 灥 | 𤆁 |  |
+| 火 | 炏 | 炎 | 焱 | 燚 |  |
+| 爪 | [⿰爪爪](https://zi.tools/zi/%E2%BF%B0%E7%88%AA%E7%88%AA) |  | 𤔙 |  |  |
+| 牛 | 牪 | 𤘧 | 犇 | 𤛭 |  |
+| 犬 | 㹜 |  | 猋 | 𮳿 | 犾 |
+| 玄 | 玆 |  |  |  | 兹 |
+| 玉 | 𤤴 |  |  |  |  |
+| 瓜 | 㼌 |  |  |  |  |
+| 瓜 | 玨 |  |  |  |  |
+| 生 | 甡 |  |  |  |  |
+| 田 |  | 畕 | 畾 | 𤳳 |  |
+| 白 | 㿟 |  | 皛 |  |  |
+| 百 | 皕 |  | 𤾩 |  |  |
+| 目 |  |  | 瞐 |  |  |
+| 直 |  |  | 矗 | U+ECCE |  |
+| 石 | 砳 |  | 磊 | 𥗉 |  |
+| 示 | 祘 |  |  |  |  |
+| 禾 | 秝 |  |  |  |  |
+| 立 | 竝 |  |  |  |  |
+| 竞 | 競 |  |  |  |  |
+| 竹 |  |  | 𥴒 | 𥷹 |  |
+| 羊 |  | 𫅓 | 羴 |  |  |
+| 耳 | 聑 |  | 聶 |  |  |
+| 至 | 臸 | 𬛳 | 𦥏 |  |  |
+| 舌 | 𦧚 |  | 舙 |  |  |
+| 虫 | 䖵 |  | 蟲 |  |  |
+| 見 | 覞 |  |  |  |  |
+| 言 | 誩 | 𧨟 | 譶 | 𧮦 |  |
+| 豕 | 豩 |  |  |  |  |
+| 貝 | 賏 |  | 贔 |  |  |
+| 贝 | 𲂻 |  | 赑 |  |  |
+| 赤 | 赫 |  |  |  |  |
+| 足 | 踀 |  | 𨆬 |  | [U+330D4](https://zi.tools/zi/%F0%B3%83%94) |
+| 車 |  |  | 轟 |  |  |
+| 车 |  |  | 𮷛 |  |  |
+| 辛 | 辡 |  |  |  |  |
+| 金 | 鍂 |  | 鑫 | 𨰻 |  |
+| 隹 | 雔 |  | 雥 |  | 雦 |
+| 雷 |  |  | 靐 | 䨻 |  |
+| 竟 | 竸 |  |  |  |  |
+| 風 | 䬕 |  | 飍 | 𩙡 |  |
+| 风 |  |  | 𱃝 |  |  |
+| 飛 |  |  | 飝 |  |  |
+| 飞 |  | 𠃧 | 𮸽 |  |  |
+| 香 | 𩡐 | 𩡌 | 馫 |  |  |
+| 馬 | 騳 | 𩥋 | 驫 |  |  |
+| 马 | 𱄿 |  | 骉 |  |  |
+| 魚 | 䲆 | 𩺰 | 鱻 | 䲜 |  |
+| 鱼 |  | [⿱鱼鱼](https://zi.tools/zi/%E2%BF%B1%E9%B1%BC%E9%B1%BC) | 𱈜 |  |  |
+| 鹿 |  |  | 麤 |  |  |
+| 龍 | 龖 |  | 龘 | 𪚥 |  |
+| 龙 | 𱍂 |  | 𮹝 |  |  |
+| [⿹弓冫](https://en.wiktionary.org/wiki/%E2%BF%B9%E5%BC%93%E5%86%AB) | 弱 |  |  |  |  |
+
+#### Sources
+
+- [How Many Characters Are There Where The Radical Is The Same As The Main Component?](https://chinese.stackexchange.com/q/13409/8099), Chinese Stack Exchange
+- ["Four-part" composition of characters](https://chinese.stackexchange.com/q/1556/8099), Chinese Stack Exchange
+- [二叠字](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8F%A0%E5%AD%97), Wikipedia
+- [三叠字](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97), Wikipedia
+- [四叠字](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97), Wikipedia
