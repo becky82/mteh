@@ -27,7 +27,7 @@ There has been many pronouns used throughout the Chinese speaking world, and hav
 
 This list is not comprehensive.  The pronouns 俺, 吾, and 朕 are included in MteH, and the characters 予, 余, 寡, 人, 汝, 尔, 伊, 渠, and 其 are included in MteH because they are also used outside of pronouns.
 
-Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral pronoun (e.g., if you don't know which pronoun to use):
+Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral second-person pronoun:
 
 > <img src="Screenshot_of_TA_pronoun.png">
 >
