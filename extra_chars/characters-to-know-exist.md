@@ -172,10 +172,9 @@ The swastika character is seen in Buddhist temples in China:
 > 卐 (wàn)  
 > 卍 (wàn)
 
------
+### Decorative characters
 
+Some characters are mostly used for decorative purposes nowadays:
 
-
->  孨 屌 槑 伩 烎
-> 
-> 嬲 嫐
+> 嬲 (niǎo)  
+> 嫐 (nǎo)
