@@ -35,22 +35,16 @@ Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral
 
 ## Abbreviation characters
 
-There's a small number characters which are essentially just abbreviations.  This one is actually used (and is included in the MteH corpus):
+There's a small number characters which are essentially just abbreviations:
 
-> 甭 (béng) 不用
-
-But these characters are not used in standard Mandarin (outside of people saying "these characters exist"):
-
-> 嫑 (biáo) 不要
-> 孬 (nāo) 不好
-> 甮 (fèng) 勿用
-> 嘦 (jiào) 只要
-
-There's also:
-
-> 圕 (tuān) 图书馆
-
-which is rarely seen in calligraphy.
+| Character | Pinyin | Notes |
+|-----------|--------|-------|
+| 甭 | béng | 不用 | Actively used; included in MteH corpus |
+| 嫑 | biáo | 不要 | Rare; not used in standard Mandarin |
+| 孬 | nāo | 不好 | Rare; dialectal / nonstandard |
+| 甮 | fèng | 勿用 | Obsolete / rarely seen |
+| 嘦 | jiào | 只要 | Obscure / literary / not standard |
+| 圕 | tuān | 图书馆 | Rare; mainly in calligraphy or decorative use |
 
 ## Multi-syllable characters
 
