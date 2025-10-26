@@ -39,18 +39,18 @@ which is rarely seen in calligraphy.
 
 Almost every character corresponds to a single syllable in Chinese.  The only exceptions that seem to exist are:
 
-> 瓩 (qiānwǎ) = 千瓦 kilowatt (1000W)
-> 瓸 (bǎiwǎ) = 百瓦 hectowatt (100W)
-> 瓧 (shíwǎ) = 十瓦 decawatt (10W)
-> 瓰 (fēnwǎ) = 分瓦 deciwatt (0.1W)
-> 瓼 (lǐwǎ) = 厘瓦 centiwatt (0.01W)
+> 瓩 (qiānwǎ) = 千瓦 kilowatt (1000W)  
+> 瓸 (bǎiwǎ) = 百瓦 hectowatt (100W)  
+> 瓧 (shíwǎ) = 十瓦 decawatt (10W)  
+> 瓰 (fēnwǎ) = 分瓦 deciwatt (0.1W)  
+> 瓼 (lǐwǎ) = 厘瓦 centiwatt (0.01W)  
 > 瓱 (háowǎ) = 毫瓦 milliwatt (0.001W)
 > 
-> 兛 (qiānkè) = 千克 kilogram (1000g)
-> 兡 (bǎikè) = 百克 hectogram (100g)
-> 兙 (shíkè) = 十克 decagram (10g)
-> 兝 (fēnkè) = 分克 decigram (0.1g)
-> 兣 (gōnglǐ) = 厘克 (líkè) centigram (0.01g)
+> 兛 (qiānkè) = 千克 kilogram (1000g)  
+> 兡 (bǎikè) = 百克 hectogram (100g)  
+> 兙 (shíkè) = 十克 decagram (10g)  
+> 兝 (fēnkè) = 分克 decigram (0.1g)  
+> 兣 (gōnglǐ) = 厘克 (líkè) centigram (0.01g)  
 > 兞 (háokè) = 毫克 milligram (0.001g)
 
 (And sometimes 圕 is pronounced 图书馆.)  These characters are extremely rare, and probably should be regarded as obsolete.
