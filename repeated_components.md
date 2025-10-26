@@ -93,3 +93,11 @@
 | 鹿 |  |  | 麤 |  |  |
 | 龍 | 龖 |  | 龘 | 𪚥 |  |
 | [⿹弓冫](https://en.wiktionary.org/wiki/%E2%BF%B9%E5%BC%93%E5%86%AB) | 弱 |  |  |  |  |
+
+#### Sources
+
+- [How Many Characters Are There Where The Radical Is The Same As The Main Component?](https://chinese.stackexchange.com/q/13409/8099), Chinese Stack Exchange
+- ["Four-part" composition of characters](https://chinese.stackexchange.com/q/1556/8099), Chinese Stack Exchange
+- [二叠字](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8F%A0%E5%AD%97), Wikipedia
+- [三叠字](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97), Wikipedia
+- [四叠字](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97), Wikipedia
