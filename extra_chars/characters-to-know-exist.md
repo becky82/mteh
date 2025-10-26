@@ -1,4 +1,4 @@
-There are a few characters which are nice to know exist, but they wouldn't normally be used in the HSK exam or in mainland China (so are not included in the MteH corpus).  They may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
+There are some Chinese characters which we should know exist, but they wouldn't normally be used in the HSK exam or in mainland China (so are not included in the MteH corpus).  They may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
 
 ## Pronouns
 
