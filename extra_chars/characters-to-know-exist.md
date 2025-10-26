@@ -11,7 +11,7 @@ There has been many pronouns used throughout the Chinese speaking world, and the
 | 予／余 | yú | I / me | 1st | Classical forms |
 | 朕 | zhèn | I / me | 1st | Used only by emperors |
 | 寡人 | guǎrén | I / me | 1st | Used by ancient nobility |
-| 咱 | zán | we (inclusive) | 1st (plural) | Common in Mainland China; included in MteH |
+| 咱 | zán | we | 1st (plural) | Common in Mainland China; included in MteH |
 | 侬 | nóng | I / me | 1st | Wu dialect |
 | 妳 | nǐ | you (female) | 2nd | Commonly used in Taiwan |
 | 祢 | nǐ | you (God) | 2nd | Used in the Bible |
