@@ -2,20 +2,28 @@ There are some Chinese characters which we should know exist, but they wouldn't 
 
 ## Pronouns
 
-These pronouncs are used in Taiwan:
+There has been many pronouns used throughout the Chinese speaking world, and they have evolved over time.  Some are obsolete, some are used in some parts of the world, some are used in dialects, and some are used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.
 
-> 妳 (nǐ) female "you";
-> 牠 (tā) animal "you".
-
-These are used in the Bible:
-
-> 祢 (nǐ) God "you";
-> 祂 (tā) God "He".
-
-And these are no longer used:
-
-> 恁 (nèn) formal "you";
-> 怹 (tān) formal "he".
+| Character | Pinyin | Meaning | Person | Notes |
+|------------|---------|----------|---------|--------|
+| 俺 | ǎn | I / me | 1st | Northern dialect; included in MetH |
+| 吾 | wú | I / me | 1st | Classical / literary |
+| 予／余 | yú | I / me | 1st | Classical forms |
+| 朕 | zhèn | I / me | 1st | Used only by emperors |
+| 寡人 | guǎrén | I / me | 1st | Used by ancient nobility |
+| 咱 | zán | we (inclusive) | 1st (plural) | Common in Mainland China; included in MteH |
+| 侬 | nóng | I / me | 1st | Wu dialect |
+| 妳 | nǐ | you (female) | 2nd | Commonly used in Taiwan |
+| 祢 | nǐ | you (God) | 2nd | Used in the Bible |
+| 恁 | nèn / lín | you (plural / formal) | 2nd | Used in Taiwanese Hokkien |
+| 汝 | rǔ | you / thou | 2nd | Classical Chinese |
+| 牠 | tā | it (animal) | 3rd | Commonly used in Taiwan |
+| 伊 | yī | he / she | 3rd | Classical and southern dialects |
+| 佢 | keoi⁵ | he / she / it | 3rd | Cantonese |
+| 渠 | qú | he / she | 3rd | Classical Chinese |
+| 祂 | tā | He (God) | 3rd | Used in the Bible |
+| 怹 | tān | he / she (formal) | 3rd | Obsolete formal form |
+| 其 | qí | he / she / it / their | 3rd | Classical / legal Chinese |
 
 Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral pronoun (e.g., if you don't know which pronoun to use):
 
