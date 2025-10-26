@@ -1,3 +1,5 @@
+# Repeated-component characters
+
 A table of Chinese characters which are composed of repeated components (including simplified and traditional).
 
 - Some won't display because they're not included in your browser's font.
