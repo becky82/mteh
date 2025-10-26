@@ -22,7 +22,7 @@ Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral
 
 ## Abbreviation characters
 
-There's a small number characters which are essentially just abbreviations.  This one is actually used (as is included in the MteH corpus):
+There's a small number characters which are essentially just abbreviations.  This one is actually used (and is included in the MteH corpus):
 
 > 甭 (béng) 不用
 
