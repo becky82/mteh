@@ -2,7 +2,7 @@ There are some Chinese characters which we should know exist, but they wouldn't 
 
 ## Pronouns
 
-There has been many pronouns used throughout the Chinese speaking world, and have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.
+There has been many pronouns used throughout the Chinese speaking world, and have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin, we have:
 
 | Pronoun | Pinyin | Meaning | Person | Notes |
 |------------|---------|----------|---------|--------|
