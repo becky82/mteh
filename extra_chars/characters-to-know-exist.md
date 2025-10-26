@@ -163,7 +163,7 @@ is used as a simpler way of handwriting 餐 (cān).  You might also encounter ot
 
 > <img src="并瓶_abbreviation.jpg">
 
-where 并 is used as an abbreviation for 瓶.
+where 并 is used as shorthand for 瓶.
 
 ### "Made-up" characters
 
