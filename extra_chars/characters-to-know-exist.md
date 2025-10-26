@@ -12,8 +12,9 @@ These are used in the Bible:
 > 祢 (nǐ) God "you";
 > 祂 (tā) God "He".
 
-And this is no longer used:
+And these are no longer used:
 
+> 恁 (nèn) formal "you";
 > 怹 (tān) formal "he".
 
 Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral pronoun (e.g., if you don't know which pronoun to use):
