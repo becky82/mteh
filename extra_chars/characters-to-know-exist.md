@@ -69,6 +69,8 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 
 (And sometimes 圕 is pronounced 图书馆.)  These characters are extremely rare, and probably should be regarded as obsolete.
 
+There's also 粨 (百米; 100m) which may be pronounced bǎi​mǐ, but also just bǎi​.
+
 ## Bopomofo/Zhuyin
 
 Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo), which has its own characters (enjoy the [Bopomofo song](https://www.youtube.com/watch?v=nKmwhmI0mBE)):
