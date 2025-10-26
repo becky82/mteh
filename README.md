@@ -8,7 +8,7 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
 
 - [MteH corpus (v0.1.1)](https://github.com/becky82/mteh/blob/main/versions/v0.1.1/mteh_v0.1.1.txt) (plain text)
 - [Handwriting practice](https://github.com/becky82/mteh/tree/main/versions/v0.1.1) (PDFs to print out)
-- [Extra characters](https://github.com/becky82/mteh/blob/main/extra_chars/characters-to-know-exist.md); good to know, but not part of MteH
+- [Extra characters](https://github.com/becky82/mteh/blob/main/extra_chars/characters-to-know-exist.md) (good to know, but not part of MteH)
 - [Repeated-component characters](https://github.com/becky82/mteh/blob/main/extra_chars/repeated_components.md)
 
 ---
