@@ -57,26 +57,14 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 
 -----
 
-Maybe the thing to do here is make a list of "characters you should know exist, but don't really need to use" or something.
+> 囧/冏 𰻞 囍 〇
 
-    祂 牠 怹 妳 祢 矽 歺 嫑 孬 甮 嘦 圕 囧/冏 𰻞 囍 〇
+> 丼 の
 
-And even the Japanese
+>  蚵 孨 屌 槑 伩 烎
 
-    丼 の
+> 彳亍
 
-Maybe
+> 卐 卍
 
-    蚵 孨 屌 槑 伩 烎
-
-And then there's these:
-
-    瓰 兞 兡 兣 瓸 瓧 兝 粨 瓱 兙 兛 瓩
-
-    彳亍
-
-
-These are a thing too 卐 卍.
-
-嬲、嫐 and these, but they're part of MteH
-
+> 嬲 嫐
