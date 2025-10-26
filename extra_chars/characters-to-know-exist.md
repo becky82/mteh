@@ -112,6 +112,8 @@ The character
 
 is decorative character used for good fortune for weddings in China; it's called 双喜 (shuāngxǐ).
 
+<img src="囍_example.jpg">
+
 #### Chichu
 
 The characters in
