@@ -16,6 +16,10 @@ And this is no longer used:
 
 > 怹 (tān) formal "he".
 
+Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral pronoun (e.g., if you don't know which pronoun to use):
+
+> <img src="Screenshot_of_TA_pronoun.png">
+
 ## Abbreviation characters
 
 There's a small number characters which are essentially just abbreviations.  This one is actually used (as is included in the MteH corpus):
