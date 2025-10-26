@@ -16,6 +16,10 @@ And this is no longer used:
 
 > 怹 (tān) formal "he".
 
+Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral pronoun (e.g., if you don't know which pronoun to use):
+
+> <img src="Screenshot_of_TA_pronoun.png">
+
 ## Abbreviation characters
 
 There's a small number characters which are essentially just abbreviations.  This one is actually used (as is included in the MteH corpus):
@@ -112,7 +116,7 @@ The character
 
 is decorative character used for good fortune for weddings in China; it's called 双喜 (shuāngxǐ).
 
-<img src="囍_example.jpg">
+> <img src="囍_example.jpg">
 
 ### Chichu
 
@@ -133,6 +137,15 @@ is used as a simpler way of handwriting 餐 (cān).  You might also encounter ot
 > <img src="并瓶_abbreviation.jpg">
 
 where 并 is used as an abbreviation for 瓶.
+
+### "Made-up" characters
+
+Sometimes you'll see Chinese characters which are "made up" in some way, such as:
+
+> <img src="招财进宝.png">  
+> <sub>Image source: [Please help to identify the character (Characters Identified: 招財進寳)](https://chinese.stackexchange.com/q/27173/8099)</sub>
+
+which is a decorative merging of the characters in the chengyu 招財進寳 (simplified: 招财进宝).  This is the style of writing of [讳秘字](https://zh.wikipedia.org/wiki/讳秘字) (huìmìzì), used in Daoism.
 
 -----
 
