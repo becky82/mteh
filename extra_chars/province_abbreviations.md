@@ -62,4 +62,4 @@ You'll also encounter province abbreviations in the names of types of cuisine, e
 >
 > <sub>餐饮 烤鱼川湘家常菜</sub>
 
-Here 川 is the abbreviation for 四川 and 湘 is the abbreviation for 湖南.
+Here 川 is the abbreviation for 四川 (Sichuan) and 湘 is the abbreviation for 湖南 (Hunan).
