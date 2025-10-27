@@ -42,7 +42,7 @@ These are special cases:
 
 Judging from Google Image Search, 澳 and 港 are used with 粤.  Taiwan's (台) license plates don't follow the same format.  These province abbreviations aren't used on license plates:
 
-| abbrev. | province |
+| abbrev. | pinyin | province |
 |----------|------|------|
 | 蜀 | Shǔ | 四川 |
 | 黔 | Qián | 贵州 |
