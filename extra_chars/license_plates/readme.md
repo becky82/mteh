@@ -1,4 +1,4 @@
-Photos (300px x 300px) taken of Chinese characters on license plates in China.  These are included:
+Photos (300px x 300px) taken of Chinese characters on license plates in China:
 
 | 省份简称 | 省份     | 拼音   | 图片          |
 |----------|---------|--------|---------------|
@@ -34,11 +34,11 @@ Photos (300px x 300px) taken of Chinese characters on license plates in China.  
 | 贵       | 贵州     | Guì    | (I don't have a photo) |
 | 藏       | 西藏     | Zàng   | (I don't have a photo) |
 
-Also included is:
+You can also find:
 
 > ![电](电.jpg)
 
-which is not a province, but indicates an eletric vehicle.
+which is not a province, but indicates an eletric vehicle.  The character 使 also occurs on license plates for diplomats.
 
 These are special cases:
 
