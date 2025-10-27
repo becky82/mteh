@@ -1,0 +1,218 @@
+\documentclass[]{standalone}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes,calc}
+
+\usepackage{xeCJK}
+
+\usepackage{xpinyin}
+
+\usepackage{mathptmx}
+\usepackage{anyfontsize}
+% \usepackage{t1enc}
+
+\usepackage{amsmath}
+
+\begin{document}
+
+\newcommand{\element}[4]
+{
+\begin{tikzpicture}[scale=0.7]
+\node[anchor=west] at (0,0) {\textbf{\fontsize{40}{50}\selectfont #3}};
+\node[anchor=west] at (2.2,0.5) {\LARGE #1};
+\node[anchor=west] at (2.2,0.5) {\large \phantom{\pinyin{meng3}}};
+\node[anchor=west] at (2.2,-0.5) {\large \pinyin{#2}};
+\end{tikzpicture}
+}
+
+\begin{tikzpicture}[scale=0.8]
+  \tikzstyle{ElementFill} = [fill=none]
+  \tikzstyle{AlkaliMetalFill} = [fill=none]
+  \tikzstyle{AlkalineEarthMetalFill} = [fill=none]
+  \tikzstyle{MetalFill} = [fill=none]
+  \tikzstyle{MetalloidFill} = [fill=none]
+  \tikzstyle{NonmetalFill} = [fill=none]
+  \tikzstyle{HalogenFill} = [fill=none]
+  \tikzstyle{NobleGasFill} = [fill=none]
+  \tikzstyle{LanthanideActinideFill} = [fill=none]
+
+%% Element Styles
+  \tikzstyle{Element} = [ElementFill, draw,
+    node distance=2.3cm, rounded corners]
+  \tikzstyle{AlkaliMetal} = [Element, AlkaliMetalFill]
+  \tikzstyle{AlkalineEarthMetal} = [Element, AlkalineEarthMetalFill]
+  \tikzstyle{Metal} = [Element, MetalFill]
+  \tikzstyle{Metalloid} = [Element, MetalloidFill]
+  \tikzstyle{Nonmetal} = [Element, NonmetalFill]
+  \tikzstyle{Halogen} = [Element, HalogenFill]
+  \tikzstyle{NobleGas} = [Element, NobleGasFill]
+  \tikzstyle{LanthanideActinide} = [Element, LanthanideActinideFill]
+  \tikzstyle{PeriodLabel} = [font={\sffamily\LARGE}, node distance=2.0cm]
+  \tikzstyle{GroupLabel} = [font={\sffamily\LARGE}, minimum width=2.75cm, node distance=2.0cm]
+  \tikzstyle{TitleLabel} = [font={\sffamily\Huge\bfseries}]
+
+%% Group 1 - IA
+  \node[name=H, Element] {\element{H}{qing1}{氢}{氢弹}}; % Hydrogen
+  \node[name=Li, below of=H, AlkaliMetal] {\element{Li}{li3}{锂}{锂电池}}; % Lithium
+  \node[name=Na, below of=Li, AlkaliMetal] {\element{Na}{na4}{钠}{}}; % Sodium
+  \node[name=K, below of=Na, AlkaliMetal] {\element{K}{jia3}{钾}{}}; % Potassium
+  \node[name=Rb, below of=K, AlkaliMetal] {\element{Rb}{ru2}{铷}{}}; % Rubidium
+  \node[name=Cs, below of=Rb, AlkaliMetal] {\element{Cs}{se2}{铯}{}}; % Caesium
+  \node[name=Fr, below of=Cs, AlkaliMetal] {\element{Fr}{fang1}{钫}{}}; % Francium
+
+%% Group 2 - IIA
+  \node[name=Be, right of=Li, AlkalineEarthMetal, node distance=3cm] {\element{Be}{pi2}{铍}{}}; % Beryllium
+  \node[name=Mg, below of=Be, AlkalineEarthMetal] {\element{Mg}{mei3}{镁}{}}; % Magnesium
+  \node[name=Ca, below of=Mg, AlkalineEarthMetal] {\element{Ca}{gai4}{钙}{补钙}}; % Calcium
+  \node[name=Sr, below of=Ca, AlkalineEarthMetal] {\element{Sr}{si1}{锶}{}}; % Strontium
+  \node[name=Ba, below of=Sr, AlkalineEarthMetal] {\element{Ba}{bei4}{钡}{}}; % Barium
+  \node[name=Ra, below of=Ba, AlkalineEarthMetal] {\element{Ra}{lei2}{镭}{}}; % Radium
+
+%% Group 3 - IIIB
+  \node[name=Sc, right of=Ca, Metal, node distance=3cm] {\element{Sc}{kang4}{钪}{}}; % Scandium
+  \node[name=Y, below of=Sc, Metal] {\element{Y}{yi3}{钇}{}}; % Yttrium
+  \node[name=LaLu, below of=Y, LanthanideActinide] {\element{}{}{\phantom{镧}}{}}; % 镧—镥
+  \node[name=AcLr, below of=LaLu, LanthanideActinide] {\element{}{}{\phantom{铹}}{}}; % 锕—铹
+
+%% Group 4 - IVB
+  \node[name=Ti, right of=Sc, Metal, node distance=3cm] {\element{Ti}{tai4}{钛}{}}; % Titanium
+  \node[name=Zr, below of=Ti, Metal] {\element{Zr}{gao4}{锆}{}}; % Zirconium
+  \node[name=Hf, below of=Zr, Metal] {\element{Hf}{ha1}{铪}{}}; % Hafnium
+  \node[name=Rf, below of=Hf, Metal] {\element{Rf}{lu2}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𬬻}{}}; % Rutherfordium
+  
+  % \CJKfontspec{NotoSansCJK-Regular.ttc}
+
+%% Group 5 - VB
+  \node[name=V, right of=Ti, Metal, node distance=3cm] {\element{V}{fan2}{钒}{}}; % Vanadium
+  \node[name=Nb, below of=V, Metal] {\element{Nb}{ni2}{铌}{}}; % Niobium
+  \node[name=Ta, below of=Nb, Metal] {\element{Ta}{tan3}{钽}{}}; % Tantalum
+  \node[name=Db, below of=Ta, Metal] {\element{Db}{du4}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𬭊}{}}; % Dubnium
+
+%% Group 6 - VIB
+  \node[name=Cr, right of=V, Metal, node distance=3cm] {\element{Cr}{ge4}{铬}{}}; % Chromium
+  \node[name=Mo, below of=Cr, Metal] {\element{Mo}{mu4}{钼}{}}; % Molybdenum
+  \node[name=W, below of=Mo, Metal] {\element{W}{wu1}{钨}{}}; % Tungsten
+  \node[name=Sg, below of=W, Metal] {\element{Sg}{xi3}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𬭳}{}}; % Seaborgium
+
+%% Group 7 - VIIB
+  \node[name=Mn, right of=Cr, Metal, node distance=3cm] {\element{Mn}{meng3}{锰}{}}; % Manganese
+  \node[name=Tc, below of=Mn, Metal] {\element{Tc}{de2}{锝}{}}; % Technetium
+  \node[name=Re, below of=Tc, Metal] {\element{Re}{lai2}{铼}{}}; % Rhenium
+  \node[name=Bh, below of=Re, Metal] {\element{Bh}{bo1}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𬭛}{}}; % Bohrium
+
+%% Group 8 - VIIIB
+  \node[name=Fe, right of=Mn, Metal, node distance=3cm] {\element{Fe}{tie3}{铁}{地铁、钢铁}}; % Iron
+  \node[name=Ru, below of=Fe, Metal] {\element{Ru}{liao3}{钌}{}}; % Ruthenium
+  \node[name=Os, below of=Ru, Metal] {\element{Os}{e2}{锇}{}}; % Osmium
+  \node[name=Hs, below of=Os, Metal] {\element{Hs}{hei1}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𬭶}{}}; % Hassium
+
+%% Group 9 - VIIIB
+  \node[name=Co, right of=Fe, Metal, node distance=3cm] {\element{Co}{gu3}{钴}{}}; % Cobalt
+  \node[name=Rh, below of=Co, Metal] {\element{Rh}{lao3}{铑}{}}; % Rhodium
+  \node[name=Ir, below of=Rh, Metal] {\element{Ir}{yi1}{铱}{}}; % Iridium
+  \node[name=Mt, below of=Ir, Metal] {\element{Mt}{mai4}{\CJKfontspec{NotoSansCJK-Regular.ttc} 鿏}{}}; % Meitnerium
+
+%% Group 10 - VIIIB
+  \node[name=Ni, right of=Co, Metal, node distance=3cm] {\element{Ni}{nie4}{镍}{}}; % Nickel
+  \node[name=Pd, below of=Ni, Metal] {\element{Pd}{ba3}{钯}{}}; % Palladium
+  \node[name=Pt, below of=Pd, Metal] {\element{Pt}{bo2}{铂}{}}; % Platinum
+  \node[name=Ds, below of=Pt, Metal] {\element{Ds}{da2}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𫟼}{}}; % Darmstadtium
+
+%% Group 11 - IB
+  \node[name=Cu, right of=Ni, Metal, node distance=3cm] {\element{Cu}{tong2}{铜}{铜牌}}; % Copper
+  \node[name=Ag, below of=Cu, Metal] {\element{Ag}{yin2}{银}{银行}}; % Silver
+  \node[name=Au, below of=Ag, Metal] {\element{Au}{jin1}{金}{金融}}; % Gold
+  \node[name=Rg, below of=Au, Metal] {\element{Rg}{lun2}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𬬭}{}}; % Roentgenium
+
+%% Group 12 - IIB
+  \node[name=Zn, right of=Cu, Metal, node distance=3cm] {\element{Zn}{xin1}{锌}{}}; % Zinc
+  \node[name=Cd, below of=Zn, Metal] {\element{Cd}{ge2}{镉}{}}; % Cadmium
+  \node[name=Hg, below of=Cd, Metal] {\element{Hg}{gong3}{汞}{（水银）}}; % Mercury
+\node[name=Uub, below of=Hg, Metal] {\element{Cn}{ge1}{\CJKfontspec{NotoSansCJK-Regular.ttc} 鿔}{}}; % Copernicium
+
+%% Group 13 - IIIA
+  \node[name=Ga, right of=Zn, Metal, node distance=3cm] {\element{Ga}{jia1}{镓}{}}; % Gallium
+  \node[name=Al, above of=Ga, Metal] {\element{Al}{lv3}{铝}{铝罐、铝箔纸}}; % Aluminium
+  \node[name=B, above of=Al, Metalloid] {\element{B}{peng2}{硼}{}}; % Boron
+  \node[name=In, below of=Ga, Metal] {\element{In}{yin1}{铟}{}}; % Indium
+  \node[name=Tl, below of=In, Metal] {\element{Tl}{ta1}{铊}{}}; % Thallium
+  \node[name=Uut, below of=Tl, Metal] {\element{Nh}{ni3}{\CJKfontspec{NotoSansCJK-Regular.ttc} 鿭}{}}; % Nihonium
+
+%% Group 14 - IVA
+  \node[name=C, right of=B, Nonmetal, node distance=3cm] {\element{C}{tan4}{碳}{二氧化碳}}; % Carbon
+  \node[name=Si, below of=C, Metalloid] {\element{Si}{gui1}{硅}{硅片}}; % Silicon
+  \node[name=Ge, below of=Si, Metalloid] {\element{Ge}{zhe3}{锗}{}}; % Germanium
+  \node[name=Sn, below of=Ge, Metal] {\element{Sn}{xi1}{锡}{}}; % Tin
+  \node[name=Pb, below of=Sn, Metal] {\element{Pb}{qian1}{铅}{铅笔}}; % Lead
+  \node[name=Uuq, below of=Pb, Metal] {\element{Fl}{fu1}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𫓧}{}}; % Flerovium
+
+%% Group 15 - VA
+  \node[name=N, right of=C, Nonmetal, node distance=3cm] {\element{N}{dan4}{氮}{液氮}}; % Nitrogen
+  \node[name=P, below of=N, Nonmetal] {\element{P}{lin2}{磷}{}}; % Phosphorus
+  \node[name=As, below of=P, Metalloid] {\element{As}{shen1}{砷}{}}; % Arsenic
+  \node[name=Sb, below of=As, Metalloid] {\element{Sb}{ti1}{锑}{}}; % Antimony
+  \node[name=Bi, below of=Sb, Metal] {\element{Bi}{bi4}{铋}{}}; % Bismuth
+  \node[name=Uup, below of=Bi, Metal] {\element{Mc}{mo4}{\CJKfontspec{NotoSansCJK-Regular.ttc} 镆}{}}; % Moscovium
+
+%% Group 16 - VIA
+  \node[name=O, right of=N, Nonmetal, node distance=3cm] {\element{O}{yang3}{氧}{水含有氢和氧}}; % Oxygen
+  \node[name=S, below of=O, Nonmetal] {\element{S}{liu2}{硫}{火山口有硫磺}}; % Sulphur
+  \node[name=Se, below of=S, Nonmetal] {\element{Se}{xi1}{硒}{}}; % Selenium
+  \node[name=Te, below of=Se, Metalloid] {\element{Te}{di4}{碲}{}}; % Tellurium
+  \node[name=Po, below of=Te, Metalloid] {\element{Po}{po1}{钋}{}}; % Polonium
+  \node[name=Uuh, below of=Po, Metal] {\element{Lv}{li4}{\CJKfontspec{NotoSansCJK-Regular.ttc} 𫟷}{}}; % Livermorium
+
+%% Group 17 - VIIA
+  \node[name=F, right of=O, Halogen, node distance=3cm] {\element{F}{fu2}{氟}{含氟牙膏}}; % Flourine
+  \node[name=Cl, below of=F, Halogen] {\element{Cl}{lv4}{氯}{}}; % Chlorine
+  \node[name=Br, below of=Cl, Halogen] {\element{Br}{xiu4}{溴}{}}; % Bromine
+  \node[name=I, below of=Br, Halogen] {\element{I}{dian3}{碘}{}}; % Iodine
+  \node[name=At, below of=I, Halogen] {\element{At}{ai4}{砹}{}}; % Astatine
+  \node[name=Uus, below of=At, Element] {\element{Ts}{tian2}{\CJKfontspec{NotoSansCJK-Regular.ttc} 鿬}{}}; % Tennessine
+
+%% Group 18 - VIIIA
+  \node[name=Ne, right of=F, NobleGas, node distance=3cm] {\element{Ne}{nai3}{氖}{}}; % Neon
+  \node[name=He, above of=Ne, NobleGas] {\element{He}{hai4}{氦}{氦气球}}; % Helium
+  \node[name=Ar, below of=Ne, NobleGas] {\element{Ar}{ya4}{氩}{}}; % Argon
+  \node[name=Kr, below of=Ar, NobleGas] {\element{Kr}{ke4}{氪}{}}; % Krypton
+  \node[name=Xe, below of=Kr, NobleGas] {\element{Xe}{xian1}{氙}{}}; % Xenon
+  \node[name=Rn, below of=Xe, NobleGas] {\element{Rn}{dong1}{氡}{}}; % Radon
+  \node[name=Uuo, below of=Rn, Nonmetal] {\element{Og}{ao4}{\CJKfontspec{NotoSansCJK-Regular.ttc} 鿫}{}}; % Oganesson
+
+%% Lanthanide
+  \node[name=La, below of=Rf, LanthanideActinide, yshift=-1cm] {\element{La}{lan2}{镧}{}}; % Lanthanum
+  \node[name=Ce, right of=La, LanthanideActinide, node distance=3cm] {\element{Ce}{shi4}{铈}{}}; % Cerium
+  \node[name=Pr, right of=Ce, LanthanideActinide, node distance=3cm] {\element{Pr}{pu3}{镨}{}}; % Praseodymium
+  \node[name=Nd, right of=Pr, LanthanideActinide, node distance=3cm] {\element{Nd}{nv3}{钕}{}}; % Neodymium
+  \node[name=Pm, right of=Nd, LanthanideActinide, node distance=3cm] {\element{Pm}{po3}{钷}{}}; % Promethium
+  \node[name=Sm, right of=Pm, LanthanideActinide, node distance=3cm] {\element{Sm}{shan4}{钐}{}}; % Samarium
+  \node[name=Eu, right of=Sm, LanthanideActinide, node distance=3cm] {\element{Eu}{you3}{铕}{}}; % Europium
+  \node[name=Gd, right of=Eu, LanthanideActinide, node distance=3cm] {\element{Gd}{ga2}{钆}{}}; % Gadolinium
+  \node[name=Tb, right of=Gd, LanthanideActinide, node distance=3cm] {\element{Tb}{te4}{铽}{}}; % Terbium
+  \node[name=Dy, right of=Tb, LanthanideActinide, node distance=3cm] {\element{Dy}{di2}{镝}{}}; % Dysprosium
+  \node[name=Ho, right of=Dy, LanthanideActinide, node distance=3cm] {\element{Ho}{huo3}{钬}{}}; % Holmium
+  \node[name=Er, right of=Ho, LanthanideActinide, node distance=3cm] {\element{Er}{er3}{铒}{}}; % Erbium
+  \node[name=Tm, right of=Er, LanthanideActinide, node distance=3cm] {\element{Tm}{diu1}{铥}{}}; % Thulium
+  \node[name=Yb, right of=Tm, LanthanideActinide, node distance=3cm] {\element{Yb}{yi4}{镱}{}}; % Ytterbium
+  \node[name=Lu, right of=Yb, LanthanideActinide, node distance=3cm] {\element{Lu}{lu3}{镥}{}}; % Lutetium
+
+%% Actinide
+  \node[name=Ac, below of=La, LanthanideActinide] {\element{Ac}{a1}{锕}{}}; % Actinium
+  \node[name=Th, right of=Ac, LanthanideActinide, node distance=3cm] {\element{Th}{tu3}{钍}{}}; % Thorium
+  \node[name=Pa, right of=Th, LanthanideActinide, node distance=3cm] {\element{Pa}{pu2}{镤}{}}; % Protactinium
+  \node[name=U, right of=Pa, LanthanideActinide, node distance=3cm] {\element{U}{you2}{铀}{浓缩铀}}; % Uranium
+  \node[name=Np, right of=U, LanthanideActinide, node distance=3cm] {\element{Np}{na2}{镎}{}}; % Neptunium
+  \node[name=Pu, right of=Np, LanthanideActinide, node distance=3cm] {\element{Pu}{bu4}{钚}{}}; % Plutonium
+  \node[name=Am, right of=Pu, LanthanideActinide, node distance=3cm] {\element{Am}{mei2}{镅}{}}; % Americium
+  \node[name=Cm, right of=Am, LanthanideActinide, node distance=3cm] {\element{Cm}{ju4}{锔}{}}; % Curium
+  \node[name=Bk, right of=Cm, LanthanideActinide, node distance=3cm] {\element{Bk}{pei2}{锫}{}}; % Berkelium
+  \node[name=Cf, right of=Bk, LanthanideActinide, node distance=3cm] {\element{Cf}{kai1}{锎}{}}; % Californium
+  \node[name=Es, right of=Cf, LanthanideActinide, node distance=3cm] {\element{Es}{ai1}{锿}{}}; % Einsteinium
+  \node[name=Fm, right of=Es, LanthanideActinide, node distance=3cm] {\element{Fm}{fei4}{镄}{}}; % Fermium
+  \node[name=Md, right of=Fm, LanthanideActinide, node distance=3cm] {\element{Md}{men2}{钔}{}}; % Mendelevium
+  \node[name=No, right of=Md, LanthanideActinide, node distance=3cm] {\element{No}{nuo4}{锘}{}}; % Nobelium
+  \node[name=Lr, right of=No, LanthanideActinide, node distance=3cm] {\element{Lr}{lao2}{铹}{}}; % Lawrencium
+
+\end{tikzpicture}
+
+\end{document}
