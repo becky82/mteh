@@ -55,3 +55,8 @@ You can also find the character 电 on license plates:
 > ![电](./license_plate_photos/电.jpg)
 
 which is not a province, but indicates an eletric vehicle.  The character 使 also occurs on license plates for diplomats.
+
+You'll also encounter province abbreviations in the names of types of cuisine, e.g.:
+
+> ![餐饮 烤鱼川湘家常菜](.烤鱼川湘家常菜.jpg)
+
