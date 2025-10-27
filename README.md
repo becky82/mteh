@@ -10,6 +10,7 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
 - [Handwriting practice](https://github.com/becky82/mteh/tree/main/versions/v0.1.1) (PDFs to print out)
 - [Extra characters](https://github.com/becky82/mteh/blob/main/extra_chars/characters-to-know-exist.md) (good to know, but not part of MteH)
 - [Repeated-component characters](https://github.com/becky82/mteh/blob/main/extra_chars/repeated_components.md)
+- [Periodic table of the elements](https://github.com/becky82/mteh/tree/main/extra_chars/periodic_table/readme.md)
 
 ---
 
