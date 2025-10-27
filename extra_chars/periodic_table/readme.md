@@ -8,7 +8,7 @@ When a new element is officially discovered, it gets a new Chinese character.  M
 
 The majority of these characters are unknown to most people, unless their career involves physics or chemistry or something similar.  The elements that might be encountered outside of science are:
 
-| 原子序 | 元素 | 拼音 | 英文 | 常见词语 |
+| 原子序数 | 元素 | 拼音 | 英文 | 常见词语 |
 |--------|-----------|------|-------|-----------|
 | 1 | 氢 | qīng | Hydrogen | 氢弹 (hydrogen bomb) |
 | 2 | 氦 | hài | Helium | 氦气球 (helium balloon) |
