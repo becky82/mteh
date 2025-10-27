@@ -2,7 +2,7 @@
 
 Chinese provinces are assigned single-character abbreviatons.  In China, you'll most commonly see these abbreviations on license plates.  Photos (300px x 300px) taken of Chinese characters on license plates in China:
 
-| 省份简称 | 省份     | 拼音   | 图片          |
+| abbrev. | province     | pinyin   | photo          |
 |----------|---------|--------|---------------|
 | 京       | 北京     | Jīng   | ![京](./license_plate_photos/京.jpg) |
 | 吉       | 吉林     | Jí     | ![吉](./license_plate_photos/吉.jpg) |
