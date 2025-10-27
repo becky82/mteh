@@ -2,16 +2,7 @@
 
 There are some Chinese characters which we should know exist, but they wouldn't normally be used in the HSK exam or in mainland China (so are not included in the MteH corpus).  They may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
 
-### Decorative characters
-
-Some characters are mostly used for decorative purposes nowadays, such as:
-
-> 嬲 (niǎo)  
-> 嫐 (nǎo)
-
-You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composd of repeated components like this; they're often used decoratively.
-
-### Periodic table of the elements
+## Periodic table of the elements
 
 Each element on the periodic table gets its own Chinese character.  See [Chinese Characters on the Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table.md) for information about these characters.
 
@@ -200,3 +191,12 @@ The swastika character is seen in Buddhist temples in China:
 
 > 卐 (wàn)  
 > 卍 (wàn)
+
+### Decorative characters
+
+Some characters are mostly used for decorative purposes nowadays, such as:
+
+> 嬲 (niǎo)  
+> 嫐 (nǎo)
+
+You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composd of repeated components like this; they're often used decoratively.
