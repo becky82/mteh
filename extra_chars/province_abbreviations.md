@@ -2,39 +2,39 @@
 
 Chinese provinces are assigned single-character abbreviatons.  In China, you'll most commonly see these abbreviations on license plates.  Photos (300px x 300px) taken of Chinese characters on license plates in China:
 
-| abbrev. | province     | pinyin   | photo          |
+| abbrev. | pinyin | province        | photo          |
 |----------|---------|--------|---------------|
-| 京       | 北京     | Jīng   | ![京](./license_plate_photos/京.jpg) |
-| 吉       | 吉林     | Jí     | ![吉](./license_plate_photos/吉.jpg) |
-| 川       | 四川     | Chuān  | ![川](./license_plate_photos/川.jpg) |
-| 晋       | 山西     | Jìn    | ![晋](./license_plate_photos/晋.jpg) |
-| 沪       | 上海     | Hù     | ![沪](./license_plate_photos/沪.jpg) |
-| 浙       | 浙江     | Zhè    | ![浙](./license_plate_photos/浙.jpg) |
-| 湘       | 湖南     | Xiāng  | ![湘](./license_plate_photos/湘.jpg) |
-| 甘       | 甘肃     | Gān    | ![甘](./license_plate_photos/甘.jpg) |
-| 皖       | 安徽     | Wǎn    | ![皖](./license_plate_photos/皖.jpg) |
-| 苏       | 江苏     | Sū     | ![苏](./license_plate_photos/苏.jpg) |
-| 豫       | 河南     | Yù     | ![豫](./license_plate_photos/豫.jpg) |
-| 辽       | 辽宁     | Liáo   | ![辽](./license_plate_photos/辽.jpg) |
-| 陕       | 陕西     | Shǎn   | ![陕](./license_plate_photos/陕.jpg) |
-| 鲁       | 山东     | Lǔ     | ![鲁](./license_plate_photos/鲁.jpg) |
-| 云       | 云南     | Yún    | ![云](./license_plate_photos/云.jpg) |
-| 冀       | 河北     | Jì     | ![冀](./license_plate_photos/冀.jpg) |
-| 宁       | 宁夏     | Níng   | ![宁](./license_plate_photos/宁.jpg) |
-| 新       | 新疆     | Xīn    | ![新](./license_plate_photos/新.jpg) |
-| 桂       | 广西     | Guì    | ![桂](./license_plate_photos/桂.jpg) |
-| 津       | 天津     | Jīn    | ![津](./license_plate_photos/津.jpg) |
-| 渝       | 重庆     | Yú     | ![渝](./license_plate_photos/渝.jpg) |
-| 琼       | 海南     | Qióng  | ![琼](./license_plate_photos/琼.jpg) |
-| 粤       | 广东     | Yuè    | ![粤](./license_plate_photos/粤.jpg) |
-| 蒙       | 内蒙古   | Méng   | ![蒙](./license_plate_photos/蒙.jpg) |
-| 赣       | 江西     | Gàn    | ![赣](./license_plate_photos/赣.jpg) |
-| 闽       | 福建     | Mǐn    | ![闽](./license_plate_photos/闽.jpg) |
-| 青       | 青海     | Qīng   | ![青](./license_plate_photos/青.jpg) |
-| 黑       | 黑龙江   | Hēi    | ![黑](./license_plate_photos/黑.jpg) |
-| 鄂       | 湖北     | È      | (I don't have a photo) |
-| 贵       | 贵州     | Guì    | (I don't have a photo) |
-| 藏       | 西藏     | Zàng   | (I don't have a photo) |
+| 京       | Jīng   | 北京     | ![京](./license_plate_photos/京.jpg) |
+| 吉       | Jí     | 吉林     | ![吉](./license_plate_photos/吉.jpg) |
+| 川       | Chuān  | 四川     | ![川](./license_plate_photos/川.jpg) |
+| 晋       | Jìn    | 山西     | ![晋](./license_plate_photos/晋.jpg) |
+| 沪       | Hù     | 上海     | ![沪](./license_plate_photos/沪.jpg) |
+| 浙       | Zhè    | 浙江     | ![浙](./license_plate_photos/浙.jpg) |
+| 湘       | Xiāng  | 湖南     | ![湘](./license_plate_photos/湘.jpg) |
+| 甘       | Gān    | 甘肃     | ![甘](./license_plate_photos/甘.jpg) |
+| 皖       | Wǎn    | 安徽     | ![皖](./license_plate_photos/皖.jpg) |
+| 苏       | Sū     | 江苏     | ![苏](./license_plate_photos/苏.jpg) |
+| 豫       | Yù     | 河南     | ![豫](./license_plate_photos/豫.jpg) |
+| 辽       | Liáo   | 辽宁     | ![辽](./license_plate_photos/辽.jpg) |
+| 陕       | Shǎn   | 陕西     | ![陕](./license_plate_photos/陕.jpg) |
+| 鲁       | Lǔ     | 山东     | ![鲁](./license_plate_photos/鲁.jpg) |
+| 云       | Yún    | 云南     | ![云](./license_plate_photos/云.jpg) |
+| 冀       | Jì     | 河北     | ![冀](./license_plate_photos/冀.jpg) |
+| 宁       | Níng   | 宁夏     | ![宁](./license_plate_photos/宁.jpg) |
+| 新       | Xīn    | 新疆     | ![新](./license_plate_photos/新.jpg) |
+| 桂       | Guì    | 广西     | ![桂](./license_plate_photos/桂.jpg) |
+| 津       | Jīn    | 天津     | ![津](./license_plate_photos/津.jpg) |
+| 渝       | Yú     | 重庆     | ![渝](./license_plate_photos/渝.jpg) |
+| 琼       | Qióng  | 海南     | ![琼](./license_plate_photos/琼.jpg) |
+| 粤       | Yuè    | 广东     | ![粤](./license_plate_photos/粤.jpg) |
+| 蒙       | Méng   | 内蒙古   | ![蒙](./license_plate_photos/蒙.jpg) |
+| 赣       | Gàn    | 江西     | ![赣](./license_plate_photos/赣.jpg) |
+| 闽       | Mǐn    | 福建     | ![闽](./license_plate_photos/闽.jpg) |
+| 青       | Qīng   | 青海     | ![青](./license_plate_photos/青.jpg) |
+| 黑       | Hēi    | 黑龙江   | ![黑](./license_plate_photos/黑.jpg) |
+| 鄂       | È      | 湖北     | (I don't have a photo) |
+| 贵       | Guì    | 贵州     | (I don't have a photo) |
+| 藏       | Zàng   | 西藏     | (I don't have a photo) |
 
 These are special cases:
 
