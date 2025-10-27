@@ -6,6 +6,8 @@ A table of Chinese characters which are composed of repeated components (includi
 - Some aren't yet Unicode.
 - Some aren't Unicode.
 
+Many of these are most often used as decorations, e.g., in usernames, rather than for any meaning.
+
 | Component | ⿰XX | ⿱XX | ⿱X⿰XX | ⿱⿰XX⿰XX | etc. |
 | - | - | - | - | - | - |
 | く | 巜 |  |  |  | 巛 |
