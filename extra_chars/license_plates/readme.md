@@ -34,12 +34,6 @@ Photos (300px x 300px) taken of Chinese characters on license plates in China:
 | 贵       | 贵州     | Guì    | (I don't have a photo) |
 | 藏       | 西藏     | Zàng   | (I don't have a photo) |
 
-You can also find:
-
-> ![电](电.jpg)
-
-which is not a province, but indicates an eletric vehicle.  The character 使 also occurs on license plates for diplomats.
-
 These are special cases:
 
 > 港, 澳, 台
@@ -53,3 +47,9 @@ Judging from Google Image Search, 澳 and 港 are used with 粤.  Taiwan's (台)
 | 滇 | 云南 | Yún |
 | 秦 | 陕西 | Shǎn |
 | 陇 | 甘肃 | Gān |
+
+You can also find:
+
+> ![电](电.jpg)
+
+which is not a province, but indicates an eletric vehicle.  The character 使 also occurs on license plates for diplomats.
