@@ -36,7 +36,7 @@ Photos (300px x 300px) taken of Chinese characters on license plates in China.  
 
 Also included is:
 
-> 电
+> ![电](电.jpg)
 
 which is not a province, but indicates an eletric vehicle.
 
