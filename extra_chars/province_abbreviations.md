@@ -2,7 +2,7 @@
 
 Chinese provinces are assigned single-character abbreviatons.  In China, you'll most commonly see these abbreviations on license plates.  Photos (300px x 300px) taken of Chinese characters on license plates in China:
 
-| 省份简称 | 省份     | 拼音   | 图片          |
+| abbrev. | province     | pinyin   | photo          |
 |----------|---------|--------|---------------|
 | 京       | 北京     | Jīng   | ![京](./license_plate_photos/京.jpg) |
 | 吉       | 吉林     | Jí     | ![吉](./license_plate_photos/吉.jpg) |
@@ -42,13 +42,13 @@ These are special cases:
 
 Judging from Google Image Search, 澳 and 港 are used with 粤.  Taiwan's (台) license plates don't follow the same format.  These province abbreviations aren't used on license plates:
 
-| 省份简称 | 省份 | 拼音 |
+| abbrev. | pinyin | province |
 |----------|------|------|
-| 蜀 | 四川 | Chuān |
-| 黔 | 贵州 | Guì |
-| 滇 | 云南 | Yún |
-| 秦 | 陕西 | Shǎn |
-| 陇 | 甘肃 | Gān |
+| 蜀 | Shǔ | 四川 |
+| 黔 | Qián | 贵州 |
+| 滇 | Diān | 云南 |
+| 秦 | Qín | 陕西 |
+| 陇 | Lǒng | 甘肃 |
 
 You can also find the character 电 on license plates:
 
