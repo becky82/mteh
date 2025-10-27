@@ -6,7 +6,7 @@ There are some Chinese characters which we should know exist, but they wouldn't 
 
 Each element on the periodic table gets its own Chinese character.  See [Chinese Characters on the Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table.md) for information about these characters.
 
-### Province abbreviations
+## Province abbreviations
 
 Each Chinese province is assigned an abbreviation Chinese character; see [Province abbreviations](https://github.com/becky82/mteh/blob/main/extra_chars/province_abbreviations.md).
 
