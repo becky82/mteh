@@ -193,4 +193,4 @@ You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeat
 
 ### Periodic table of the elements
 
-Each element on the periodic table gets its own Chinese character.  See [Chinese Characters on the Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table) for information about these characters.
+Each element on the periodic table gets its own Chinese character.  See [Chinese Characters on the Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table.md) for information about these characters.
