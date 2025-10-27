@@ -190,3 +190,7 @@ Some characters are mostly used for decorative purposes nowadays, such as:
 > 嫐 (nǎo)
 
 You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composd of repeated components like this; they're often used decoratively.
+
+### Periodic table of the elements
+
+Each element on the periodic table gets its own Chinese character.  See [Chinese Characters on the Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table) for information about these characters.
