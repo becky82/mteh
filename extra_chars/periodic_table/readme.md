@@ -13,8 +13,9 @@ The majority of these characters are unknown to most people, unless their career
 | 1 | 氢 | qīng | Hydrogen | 氢弹 (hydrogen bomb) |
 | 2 | 氦 | hài | Helium | 氦气球 (helium balloon) |
 | 3 | 锂 | lǐ | Lithium | 锂电池 (lithium ion battery) |
+| 6 | 碳 | tàn | Carbon | 二氧化碳 (carbon dioxide); 活性炭 (activated carbon) |
 | 7 | 氮 | dàn | Nitrogen | 液氮 (liquid nitrogen) |
-| 8 | 氧 | yǎng | Oxygen | 有氧运动 (aerobic exercise) |
+| 8 | 氧 | yǎng | Oxygen | 有氧运动 (aerobic exercise); 二氧化碳 (carbon dioxide) |
 | 9 | 氟 | fú | Fluorine | 含氟牙膏 (fluoridized toothpaste); 氯氟烃 (CFCs); 聚氯乙烯 (PVC); 聚四氟乙烯 (teflon) |
 | 10 | 氖 | nǎi | Neon | character not used in 霓虹灯 (neon light) |
 | 11 | 钠 | nà | Sodium | 低钠食品 (low sodium foods) |
