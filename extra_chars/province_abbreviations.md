@@ -58,5 +58,8 @@ which is not a province, but indicates an eletric vehicle.  The character 使 al
 
 You'll also encounter province abbreviations in the names of types of cuisine, e.g.:
 
-> ![餐饮 烤鱼川湘家常菜](.烤鱼川湘家常菜.jpg)
+> ![餐饮 烤鱼川湘家常菜](烤鱼川湘家常菜.jpg)
+>
+> <sub>餐饮 烤鱼川湘家常菜</sub>
 
+Here 川 is the abbreviation for 四川 and 湘 is the abbreviation for 湖南.
