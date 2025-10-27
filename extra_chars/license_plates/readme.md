@@ -30,22 +30,17 @@ Photos (300px x 300px) taken of Chinese characters on license plates in China.  
 | 闽       | 福建     | Mǐn    | ![闽](闽.jpg) |
 | 青       | 青海     | Qīng   | ![青](青.jpg) |
 | 黑       | 黑龙江   | Hēi    | ![黑](黑.jpg) |
-| 鄂       | 湖北     | È      | ![鄂](鄂.jpg) |
-| 贵       | 贵州     | Guì    | ![贵](贵.jpg) |
-| 藏       | 西藏     | Zàng   | ![藏](藏.jpg) |
+| 鄂       | 湖北     | È      | (I don't have a photo) |
+| 贵       | 贵州     | Guì    | (I don't have a photo) |
+| 藏       | 西藏     | Zàng   | (I don't have a photo) |
 
 Also included is:
 
 > 电
 
-which is not a province, but indicates an eletric vehicle.  I haven't 'found these yet:
+which is not a province, but indicates an eletric vehicle.
 
-| 省份简称 | 省份 | 拼音 | 省份简称 | 省份 | 拼音 |
-|----------|------|------|----------|------|------|
-| 鄂 | 湖北 | È | 贵 | 贵州 | Guì |
-| 藏 | 西藏 | Zàng | - | - | - |
-
-And these are special cases:
+These are special cases:
 
 > 港, 澳, 台
 
