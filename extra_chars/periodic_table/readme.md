@@ -1,3 +1,5 @@
+# Chinese Characters on the Periodic Table
+
 Many elements not found in the MteH database are on the [Periodic Table of the Elements](https://zh.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8):
 
 ![Periodic Table of the Elements in Chinese](periodic_table.png)
