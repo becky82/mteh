@@ -15,7 +15,7 @@
 草鱼/鲩鱼 (grass carp) https://commons.wikimedia.org/wiki/File:Amur_b%C3%ADl%C3%BD_(09).jpg
 蝠鲼/黄貂鱼/鳐鱼 (manta ray) https://www.pexels.com/photo/underwater-photo-of-fishes-6406224/
 金鱼 (goldfish) https://www.pexels.com/photo/close-up-shot-of-a-fish-13847668/
-锦鲤 (brocade carp) https://www.pexels.com/photo/calm-koi-fish-pond-by-wooden-deck-34382557/ (Gemini AI was used to remove a fish)
+锦鲤 (brocade carp) https://www.pexels.com/photo/calm-koi-fish-pond-by-wooden-deck-34382557/ (PixelCut AI was used to remove a fish)
 鱿鱼 (squid) https://www.pexels.com/photo/raw-squid-on-barbecue-sticks-5602496/
 鲂鱼 (freshwater bream) https://www.pexels.com/photo/happy-angler-holds-fish-18864949/
 鲇鱼 (catfish; sheatfish) https://commons.wikimedia.org/wiki/File:EuropeseMeervalLucasVanDerGeest.jpg
