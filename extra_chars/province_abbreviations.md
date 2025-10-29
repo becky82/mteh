@@ -49,6 +49,7 @@ Judging from Google Image Search, 澳 and 港 are used with 粤.  Taiwan's (台)
 | 滇 | Diān | 云南 |
 | 秦 | Qín | 陕西 |
 | 陇 | Lǒng | 甘肃 |
+| 沽 | Gū | 天津 |
 
 You can also find the character 电 on license plates:
 
