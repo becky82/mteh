@@ -39,7 +39,7 @@ This list is not comprehensive.  The pronouns 俺, 吾, and 朕 are included in 
 
 Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral second-person pronoun:
 
-> <img src="Screenshot_of_TA_pronoun.png">
+> ![Screenshot of TA pronoun](./misc/Screenshot_of_TA_pronoun.png)
 >
 > <sub>[约5000斤稻谷、房屋变“焦炭”，别小看TA的破坏力](https://finance.sina.com.cn/roll/2025-10-25/doc-infvaynn5812262.shtml?cref=cj), 环球网, 2025.</sub>
 
@@ -105,7 +105,7 @@ A few characters which are used in Taiwan come up from time to time e.g., if you
 
 For example:
 
-> <img src="矽谷_screenshot.png">  
+> ![矽谷 screenshot](./misc/矽谷_screenshot.png)
 >
 > <sub>[“后果将非常严重”：矽谷对AI泡沫破裂的担忧正在升温](https://www.bbc.com/zhongwen/articles/ce3y3gdv5yxo/simp), BBC, 2025.</sub>
 
@@ -123,7 +123,11 @@ The Japanese character
 
 > の
 
-is often used as a decorative 的 in China, particular in restaurant names.  You might also see the Japanese
+is often used as a decorative 的 in China, particular in relation to restaurants:
+
+> ![example of の used](./misc/西西里の牛排意面（蟹黄面）.jpg)
+
+You might also see the Japanese
 
 > 丼
 
@@ -153,7 +157,7 @@ The character
 
 is decorative character used for good fortune for weddings in China; it's called 双喜 (shuāngxǐ).
 
-> <img src="囍_example.jpg">
+> ![囍](./misc/囍_example.jpg)
 
 ### Chichu
 
@@ -181,7 +185,8 @@ The character
 
 is used as a simpler way of handwriting 餐 (cān).  You might also encounter other abbreviations, such as:
 
-> <img src="并瓶_abbreviation.jpg">
+> ![并瓶 abbreviation](./misc/并瓶_abbreviation.jpg)
+
 
 where 并 is used as shorthand for 瓶.
 
@@ -189,7 +194,7 @@ where 并 is used as shorthand for 瓶.
 
 Sometimes you'll see Chinese characters which are "made up" in some way, such as:
 
-> <img src="招财进宝.png">
+> ![招财进宝](./misc/招财进宝.png)
 >
 > <sub>Image source: [Please help to identify the character](https://chinese.stackexchange.com/q/27173/8099)</sub>
 
