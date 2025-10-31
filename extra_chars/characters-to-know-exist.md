@@ -149,7 +149,11 @@ The character
 
 > 𰻞 (biáng)
 
-exclusively refers to a type of noodles 𰻞𰻞面.  It's noted for having a large number of characters, and is sometimes used as calligraphy in shops that sell 𰻞.  You'll also see "biangbiang面", perhaps because a font doesn't contain the character 𰻞.
+exclusively refers to a type of noodles 𰻞𰻞面.  The character is noted for having a large number of strokes, and is sometimes used as calligraphy in shops that sell 𰻞.  You'll normally see "biangbiang面" on menus, perhaps because a font doesn't contain the character 𰻞:
+
+> ![biangbiang面 used on a menu on 美团](./misc/biangbiang面.jpg)
+>
+> <sub>招牌 biangbiang 面</sub>
 
 ### Shuangxi
 
