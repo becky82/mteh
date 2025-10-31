@@ -14,6 +14,7 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
     - [Province abbreviations](https://github.com/becky82/mteh/blob/main/extra_chars/province_abbreviations.md)
     - [Characters/words using or related to 虫](https://github.com/becky82/mteh/blob/main/extra_chars/虫.md)
     - [Characters/words using or related to 鸟](https://github.com/becky82/mteh/blob/main/extra_chars/鸟.md)
+    - [Characters/words using or related to 鱼](https://github.com/becky82/mteh/blob/main/extra_chars/鱼.md)
 
 ---
 
