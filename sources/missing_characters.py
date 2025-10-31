@@ -22,6 +22,7 @@ CORPUS_FILES = [
     "JunDa/JunDa_modern_top3500_unicode_order.txt",
     "SUBTLEX/SUBTLEX_chars_top3500_unicode_order.txt",
     "Tsai/Tsai_top3500_unicode_order.txt",
+    "THUOCL/THUOCL_chars.txt",
     "K-5/K5_chars_unicode_order.txt",
     "Leeds/Leeds_20000words_chars_unicode_order.txt",
     "BLCU/BLCU_20000words_chars_unicode_order.txt",
