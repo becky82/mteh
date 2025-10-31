@@ -126,6 +126,8 @@ The Japanese character
 is often used as a decorative 的 in China, particular in relation to restaurants:
 
 > ![example of の used](./misc/西西里の牛排意面（蟹黄面）.jpg)
+>
+> <sub>西西里の牛排意面（蟹黄面）</sub>
 
 You might also see the Japanese
 
