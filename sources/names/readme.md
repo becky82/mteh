@@ -1,4 +1,4 @@
-From the [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus?tab=Apache-2.0-1-ov-file) we use the `Chinese_Names_Corpus（120W）.txt` which contains 1,200,000 distinct Chinese names and enumerate the characters therein (converting any traditional characters to simplified using [OpenCC](https://opencc.byvoid.com/)).  This resulted in a list of 2,269 characters.
+From the [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) we use the `Chinese_Names_Corpus（120W）.txt` which contains 1,200,000 distinct Chinese names and enumerate the characters therein (converting any traditional characters to simplified using [OpenCC](https://opencc.byvoid.com/)).  This resulted in a list of 2,269 characters.
 
 The following characters (320+1) are not included in MteH v0.1.1:
 
