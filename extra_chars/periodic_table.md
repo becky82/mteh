@@ -12,13 +12,13 @@ The majority of these characters are unknown to most people, unless their career
 
 | atomic number | element | pinyin | English | image | notes | image source |
 |--------|-----------|------|-------|-----------|-----------|-----------|
-| 1 | 氢 | qīng | Hydrogen | ![氢](./periodic_table/氢.jpg) | 氢弹 (hydrogen bomb) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
+| 1 | 氢 | qīng | Hydrogen | ![氢](./periodic_table/氢.png) | 氢弹 (hydrogen bomb) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
 | 2 | 氦 | hài | Helium | ![氦](./periodic_table/氦.jpg) | 氦气球 (helium balloon) | [Pexels](https://www.pexels.com/photo/close-up-shot-of-a-gold-balloon-5725971/) |
 | 3 | 锂 | lǐ | Lithium | ![锂](./periodic_table/锂.jpg) | 锂电池 (lithium ion battery) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Motorola_HF5X_Battery.jpg) |
 | 6 | 碳 | tàn | Carbon | ![碳](./periodic_table/碳.jpg) | 二氧化碳 (carbon dioxide); 碳水化合物 (carbohydrate); 活性炭 (activated carbon) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Carbon_black.jpg) |
 | 7 | 氮 | dàn | Nitrogen | ![氮](./periodic_table/氮.jpg) | 液氮 (liquid nitrogen) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Making_Liquid_Nitrogen_Ice_Cream_-_Sentosa,_Singapore_-_16_Oct._2013.jpg) |
 | 8 | 氧 | yǎng | Oxygen | ![氧](./periodic_table/氧.jpg) | 有氧运动 (aerobics); 二氧化碳 (carbon dioxide) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Underwater_photograph_of_a_recreational_scuba_diver_in_Playa_del_Carmen_2006.jpg) |
-| 9 | 氟 | fú | Fluorine | ![氟](./periodic_table/氟.jpg) | 含氟牙膏 (fluoridized toothpaste); 氯氟烃 (CFCs); 聚氯乙烯 (PVC); 聚四氟乙烯 (teflon) | [Amazon.com](https://www.amazon.com/Sensodyne-Toothpaste-Sensitivity-Protection-Refreshing/dp/B0BM4H31S1) |
+| 9 | 氟 | fú | Fluorine | ![氟](./periodic_table/氟.png) | 含氟牙膏 (fluoridized toothpaste); 氯氟烃 (CFCs); 聚氯乙烯 (PVC); 聚四氟乙烯 (teflon) | [Amazon.com](https://www.amazon.com/Sensodyne-Toothpaste-Sensitivity-Protection-Refreshing/dp/B0BM4H31S1) |
 | 10 | 氖 | nǎi | Neon | ![氖](./periodic_table/氖.jpg) | used in 霓虹灯 (neon light), but this word doesn't use 氖 | [Wikimedia](https://commons.wikimedia.org/wiki/File:NeTube.jpg) |
 | 11 | 钠 | nà | Sodium | ![钠](./periodic_table/钠.jpg) | 低钠食品 (low sodium foods) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Salt_shaker_on_white_background.jpg) |
 | 12 | 镁 | měi | Magnesium | ![镁](./periodic_table/镁.jpg) | 补镁 (supplement magnesium) | TO DO |
