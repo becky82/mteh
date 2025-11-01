@@ -45,6 +45,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 17 | [现代汉语常用字表](https://github.com/becky82/mteh/tree/main/sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,498 | Ministry of Education (1988) |
 | 18 | [primary school](https://github.com/becky82/mteh/tree/main/sources/primary_school) | 2,467 | mainland China (2016) |
 | 19 | [Chinese surnames](https://github.com/becky82/mteh/tree/main/sources/surnames) | 285 | top-300 surnames |
+| 20 | [Chinese names](https://github.com/becky82/mteh/tree/main/sources/names) | 1,948 | 1,200,000 Chinese names |
 
 </div>
 
