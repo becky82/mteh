@@ -2,7 +2,7 @@
 
 Many elements not found in the MteH database are on the [Periodic Table of the Elements](https://zh.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8):
 
-![Periodic Table of the Elements in Chinese](periodic_table.png)
+![Periodic Table of the Elements in Chinese](./periodic_table/periodic_table.png)
 
 When a new element is officially discovered, it gets a new Chinese character.  Many fonts do not contain the characters for newly discovered elements.  These are the currently discovered elements:
 
@@ -15,7 +15,7 @@ The majority of these characters are unknown to most people, unless their career
 | 1 | 氢 | qīng | Hydrogen | 氢弹 (hydrogen bomb) |
 | 2 | 氦 | hài | Helium | 氦气球 (helium balloon) |
 | 3 | 锂 | lǐ | Lithium | 锂电池 (lithium ion battery) |
-| 6 | 碳 | tàn | Carbon | 二氧化碳 (carbon dioxide); 活性炭 (activated carbon) |
+| 6 | 碳 | tàn | Carbon | 二氧化碳 (carbon dioxide); 碳水化合物 (carbohydrate); 活性炭 (activated carbon) |
 | 7 | 氮 | dàn | Nitrogen | 液氮 (liquid nitrogen) |
 | 8 | 氧 | yǎng | Oxygen | 有氧运动 (aerobics); 二氧化碳 (carbon dioxide) |
 | 9 | 氟 | fú | Fluorine | 含氟牙膏 (fluoridized toothpaste); 氯氟烃 (CFCs); 聚氯乙烯 (PVC); 聚四氟乙烯 (teflon) |
