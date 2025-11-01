@@ -31,7 +31,8 @@ CORPUS_FILES = [
     "通用规范汉字表/通用规范汉字表_chars_unicode_order.txt",
     "现代汉语常用字表/现代汉语常用字表_3500chars.txt",
     "primary_school/primary_school_2016_unicode_order.txt",
-    "surnames/surnames_unicode_order.txt"
+    "surnames/surnames_unicode_order.txt",
+    "names/CNC_chars_unicode_order.txt"
 ]
 REPORT_FILE = "missing_chars_report.md"
 CORPUS_BASE = "./"  # Adjust if running from /sources/

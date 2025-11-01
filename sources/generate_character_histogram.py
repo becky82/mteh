@@ -28,7 +28,8 @@ CORPUS_FILES = [
     "通用规范汉字表/通用规范汉字表_chars_unicode_order.txt",
     "现代汉语常用字表/现代汉语常用字表_3500chars.txt",
     "primary_school/primary_school_2016_unicode_order.txt",
-    "surnames/surnames_unicode_order.txt"
+    "surnames/surnames_unicode_order.txt",
+    "names/CNC_chars_unicode_order.txt"
 ]
 REPORT_FILE = "mteh_char_corpus_histogram_full.md"
 
@@ -87,7 +88,7 @@ report_lines = [
 ]
 
 # ---------------- Horizontal summary table ----------------
-report_lines.append("\n## Summary Table (Horizontal)\n")
+report_lines.append("\n## Summary Table\n")
 
 # First row: headers
 headers = ["# Corpora"] + [str(i) for i in range(0, num_corpora+1)]
@@ -102,11 +103,92 @@ report_lines.append("| " + " | ".join(values) + " |")
 
 
 # ---------------- Full data ----------------
-report_lines.append("\n## Full Character Lists\n")
+report_lines.append("\n## MteH Full Character List\n")
+report_lines.append("\n")
+report_lines.append("The MteH characters that belong to X corpora, as X varies.\n\n")
+
 for i in range(0, num_corpora+1):
     chars_list = ''.join(sorted(chars_by_count.get(i, [])))
     report_lines.append(f"### Characters in {i} corpora ({len(chars_by_count.get(i, []))})\n")
     report_lines.append(chars_list + "\n")
+
+# Append chapter checksum
+total_full = sum(len(chars_by_count.get(i, [])) for i in range(0, num_corpora+1))
+report_lines.append(f"**Total {total_full} chars.**\n")
+
+# ---------------- Non-MteH character summary ----------------
+print("Summarizing non-MteH characters...")
+
+# 1. Build corpus-wide counts for all chars
+all_char_counts = defaultdict(int)
+for relative_path in CORPUS_FILES:
+    corpus_path = os.path.join(CORPUS_BASE, relative_path)
+    if not os.path.exists(corpus_path):
+        continue
+    with open(corpus_path, "r", encoding="utf-8") as f:
+        corpus_chars = set(line.strip() for line in f if line.strip())
+    for ch in corpus_chars:
+        all_char_counts[ch] += 1
+
+# 2. Filter & group non-MteH chars
+non_mteh_by_count = defaultdict(list)
+for ch, count in all_char_counts.items():
+    if ch not in mteh_chars:
+        non_mteh_by_count[count].append(ch)
+
+# 3. Append compact summary (20 → 1)
+report_lines.append("\n## Non-MteH Character Summary\n")
+report_lines.append("\n")
+report_lines.append("The non-MteH characters that belong to X corpora, as X varies.  (Note that many computer-generated corpora contain traditional characters, which are excluded from MteH since it only contains simplified characters.)\n\n")
+
+for i in range(20, 0, -1):
+    chars_list = ''.join(sorted(non_mteh_by_count.get(i, [])))
+    if chars_list:
+        report_lines.append(f"### Non-MteH characters in {i} corpora ({len(chars_list)})\n")
+        report_lines.append(chars_list + "\n")
+
+# Append chapter checksum
+total_non_mteh = sum(len(non_mteh_by_count.get(i, [])) for i in range(1, 21))
+report_lines.append(f"**Total {total_non_mteh} chars.**\n")
+
+print("Non-MteH character summary appended.")
+
+# ---------------- Unique MteH characters per corpus ----------------
+print("Calculating unique MteH characters for each corpus...")
+
+# Load all corpus sets once
+corpus_sets = {}
+for relative_path in CORPUS_FILES:
+    corpus_path = os.path.join(CORPUS_BASE, relative_path)
+    if not os.path.exists(corpus_path):
+        continue
+    with open(corpus_path, "r", encoding="utf-8") as f:
+        corpus_sets[relative_path] = set(line.strip() for line in f if line.strip())
+
+# Compute unique MteH chars per corpus
+unique_mteh_per_corpus = {}
+for name, chars in corpus_sets.items():
+    # MteH chars in this corpus only
+    other_chars = set().union(*(v for k, v in corpus_sets.items() if k != name))
+    unique_chars = (chars & mteh_chars) - other_chars
+    if unique_chars:
+        unique_mteh_per_corpus[name] = sorted(unique_chars)
+
+# Append to report
+report_lines.append("\n## Corpus-specific unique MteH characters\n")
+report_lines.append("\n")
+report_lines.append("MteH characters that belong to exactly 1 corpora.\n\n")
+
+for name, chars in unique_mteh_per_corpus.items():
+    report_lines.append(f"### {name} — {len(chars)} unique MteH characters\n")
+    report_lines.append(''.join(chars) + "\n")
+
+# Append chapter checksum
+total_unique = sum(len(chars) for chars in unique_mteh_per_corpus.values())
+report_lines.append(f"**Total {total_unique} chars.**\n")
+
+print("Unique MteH character summary appended.")
+
 
 # Write report
 with open(os.path.join(CORPUS_BASE, REPORT_FILE), "w", encoding="utf-8") as f:
