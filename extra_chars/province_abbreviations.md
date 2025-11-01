@@ -4,34 +4,34 @@ Chinese provinces are assigned single-character abbreviatons.  In China, you'll 
 
 | abbrev. | pinyin | province        | photo          |
 |----------|---------|--------|---------------|
-| 京       | Jīng   | 北京     | ![京](./license_plate_photos/京.jpg) |
-| 吉       | Jí     | 吉林     | ![吉](./license_plate_photos/吉.jpg) |
-| 川       | Chuān  | 四川     | ![川](./license_plate_photos/川.jpg) |
-| 晋       | Jìn    | 山西     | ![晋](./license_plate_photos/晋.jpg) |
-| 沪       | Hù     | 上海     | ![沪](./license_plate_photos/沪.jpg) |
-| 浙       | Zhè    | 浙江     | ![浙](./license_plate_photos/浙.jpg) |
-| 湘       | Xiāng  | 湖南     | ![湘](./license_plate_photos/湘.jpg) |
-| 甘       | Gān    | 甘肃     | ![甘](./license_plate_photos/甘.jpg) |
-| 皖       | Wǎn    | 安徽     | ![皖](./license_plate_photos/皖.jpg) |
-| 苏       | Sū     | 江苏     | ![苏](./license_plate_photos/苏.jpg) |
-| 豫       | Yù     | 河南     | ![豫](./license_plate_photos/豫.jpg) |
-| 辽       | Liáo   | 辽宁     | ![辽](./license_plate_photos/辽.jpg) |
-| 陕       | Shǎn   | 陕西     | ![陕](./license_plate_photos/陕.jpg) |
-| 鲁       | Lǔ     | 山东     | ![鲁](./license_plate_photos/鲁.jpg) |
-| 云       | Yún    | 云南     | ![云](./license_plate_photos/云.jpg) |
-| 冀       | Jì     | 河北     | ![冀](./license_plate_photos/冀.jpg) |
-| 宁       | Níng   | 宁夏     | ![宁](./license_plate_photos/宁.jpg) |
-| 新       | Xīn    | 新疆     | ![新](./license_plate_photos/新.jpg) |
-| 桂       | Guì    | 广西     | ![桂](./license_plate_photos/桂.jpg) |
-| 津       | Jīn    | 天津     | ![津](./license_plate_photos/津.jpg) |
-| 渝       | Yú     | 重庆     | ![渝](./license_plate_photos/渝.jpg) |
-| 琼       | Qióng  | 海南     | ![琼](./license_plate_photos/琼.jpg) |
-| 粤       | Yuè    | 广东     | ![粤](./license_plate_photos/粤.jpg) |
-| 蒙       | Méng   | 内蒙古   | ![蒙](./license_plate_photos/蒙.jpg) |
-| 赣       | Gàn    | 江西     | ![赣](./license_plate_photos/赣.jpg) |
-| 闽       | Mǐn    | 福建     | ![闽](./license_plate_photos/闽.jpg) |
-| 青       | Qīng   | 青海     | ![青](./license_plate_photos/青.jpg) |
-| 黑       | Hēi    | 黑龙江   | ![黑](./license_plate_photos/黑.jpg) |
+| 京       | Jīng   | 北京     | ![京](./license_plates/京.jpg) |
+| 吉       | Jí     | 吉林     | ![吉](./license_plates/吉.jpg) |
+| 川       | Chuān  | 四川     | ![川](./license_plates/川.jpg) |
+| 晋       | Jìn    | 山西     | ![晋](./license_plates/晋.jpg) |
+| 沪       | Hù     | 上海     | ![沪](./license_plates/沪.jpg) |
+| 浙       | Zhè    | 浙江     | ![浙](./license_plates/浙.jpg) |
+| 湘       | Xiāng  | 湖南     | ![湘](./license_plates/湘.jpg) |
+| 甘       | Gān    | 甘肃     | ![甘](./license_plates/甘.jpg) |
+| 皖       | Wǎn    | 安徽     | ![皖](./license_plates/皖.jpg) |
+| 苏       | Sū     | 江苏     | ![苏](./license_plates/苏.jpg) |
+| 豫       | Yù     | 河南     | ![豫](./license_plates/豫.jpg) |
+| 辽       | Liáo   | 辽宁     | ![辽](./license_plates/辽.jpg) |
+| 陕       | Shǎn   | 陕西     | ![陕](./license_plates/陕.jpg) |
+| 鲁       | Lǔ     | 山东     | ![鲁](./license_plates/鲁.jpg) |
+| 云       | Yún    | 云南     | ![云](./license_plates/云.jpg) |
+| 冀       | Jì     | 河北     | ![冀](./license_plates/冀.jpg) |
+| 宁       | Níng   | 宁夏     | ![宁](./license_plates/宁.jpg) |
+| 新       | Xīn    | 新疆     | ![新](./license_plates/新.jpg) |
+| 桂       | Guì    | 广西     | ![桂](./license_plates/桂.jpg) |
+| 津       | Jīn    | 天津     | ![津](./license_plates/津.jpg) |
+| 渝       | Yú     | 重庆     | ![渝](./license_plates/渝.jpg) |
+| 琼       | Qióng  | 海南     | ![琼](./license_plates/琼.jpg) |
+| 粤       | Yuè    | 广东     | ![粤](./license_plates/粤.jpg) |
+| 蒙       | Méng   | 内蒙古   | ![蒙](./license_plates/蒙.jpg) |
+| 赣       | Gàn    | 江西     | ![赣](./license_plates/赣.jpg) |
+| 闽       | Mǐn    | 福建     | ![闽](./license_plates/闽.jpg) |
+| 青       | Qīng   | 青海     | ![青](./license_plates/青.jpg) |
+| 黑       | Hēi    | 黑龙江   | ![黑](./license_plates/黑.jpg) |
 | 鄂       | È      | 湖北     | (I don't have a photo) |
 | 贵       | Guì    | 贵州     | (I don't have a photo) |
 | 藏       | Zàng   | 西藏     | (I don't have a photo) |
@@ -53,7 +53,7 @@ Judging from Google Image Search, 澳 and 港 are used with 粤.  Taiwan's (台)
 
 You can also find the character 电 on license plates:
 
-> ![电](./license_plate_photos/电.jpg)
+> ![电](./license_plates/电.jpg)
 
 which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats.
 
