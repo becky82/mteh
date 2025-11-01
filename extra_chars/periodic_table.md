@@ -11,7 +11,7 @@ When a new element is officially discovered, it gets a new Chinese character.  M
 The majority of these characters are unknown to most people, unless their career involves physics or chemistry or something similar.  The elements that might be encountered outside of science are:
 
 | atomic number | element | pinyin | English | image | notes | image source |
-|--------|-----------|------|-------|-----------|-----------|
+|--------|-----------|------|-------|-----------|-----------|-----------|
 | 1 | 氢 | qīng | Hydrogen | ![氢](./periodic_table/氢.jpg) | 氢弹 (hydrogen bomb) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
 | 2 | 氦 | hài | Helium | ![氦](./periodic_table/氦.jpg) | 氦气球 (helium balloon) | [Pexels](https://www.pexels.com/photo/close-up-shot-of-a-gold-balloon-5725971/) |
 | 3 | 锂 | lǐ | Lithium | ![锂](./periodic_table/锂.jpg) | 锂电池 (lithium ion battery) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Motorola_HF5X_Battery.jpg) |
