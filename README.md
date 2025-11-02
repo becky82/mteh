@@ -55,6 +55,7 @@ Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Uni
 MteH also incorporates:  
 - **Character structure data** from [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) (MIT License)  
 - **Frequency data** from [Jun Da’s modern corpus](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
+- Images from [Pexels](https://www.pexels.com/), [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page), etc.
 
 ---
 
