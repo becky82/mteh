@@ -296,5 +296,34 @@ with open(output_md, "w", encoding="utf-8") as md:
             md.write(f"- Hint '{hint}': {', '.join(unique_chars)}\n")
         md.write("\n")
 
+
+# --- JUN DA CORPUS CHECK ---
+jun_da_path = "../sources/JunDa/JunDa_chars_original_order.txt"
+try:
+    with open(jun_da_path, "r", encoding="utf-8") as j:
+        jun_da_text = j.read()
+
+    # Extract Chinese characters (U+4E00 to U+9FFF) preserving order
+    jun_da_chars = []
+    for c in jun_da_text:
+        if '\u4e00' <= c <= '\u9fff' and c not in jun_da_chars:
+            jun_da_chars.append(c)
+
+    # Compare against MteH characters
+    missing_from_mteh = [c for c in jun_da_chars if c not in characters_set]
+    top_missing = missing_from_mteh[:100]
+
+    with open(output_md, "a", encoding="utf-8") as md:
+        md.write(f"## [ {len(top_missing)} ] Characters in Jun Da corpus not in MteH\n")
+        if top_missing:
+            md.write("  " + " ".join(top_missing) + "\n\n")
+        else:
+            md.write("All top Jun Da characters are present in MteH ✅\n\n")
+
+except FileNotFoundError:
+    with open(output_md, "a", encoding="utf-8") as md:
+        md.write("## Jun Da Corpus Check\n\n⚠️ File not found: ../sources/JunDa/JunDa_chars_original_order.txt\n\n")
+
+
 print(f"Markdown debug report written to {output_md}")
 
