@@ -183,6 +183,14 @@ has rarely occurring characters.  The most important thing is to know that they'
 
 Instead of 孑孓, you could use the direct 蚊子幼虫.  The literary character 孑 (jié) appears in words like e.g. 孑立 (jié​lì​) = "to be alone" and chengyu such as 孑然一身 and 茕茕孑立, but there are other (more common) ways to express being alone.
 
+### Yuezha
+
+In Mandarin, 蟑螂 (zhāng​láng​) is the word for cockroach; there is a Cantonese word:
+
+> 曱甴 cockroach
+
+although you might see the characters 曱甴 (yuē​zhá) used decoratively.
+
 ### Shorthand
 
 The character
