@@ -1,23 +1,23 @@
 #!/bin/bash
 
 # Set your version manually
-VERSION="0.1.1"
+VERSION="test"
 
 # Create version directory
-VERSION_DIR="./versions/v$VERSION"
+VERSION_DIR="../versions/v$VERSION"
 mkdir -p "$VERSION_DIR"
 
 # List of files to snapshot
 FILES=(
-    "./mteh.txt"
-    "./latex/mteh_all_answers.pdf"
-    "./latex/mteh_HSK5_answers.pdf"
-    "./latex/mteh_HSK6_answers.pdf"
-    "./latex/mteh_HSK7-9_answers.pdf"
-    "./latex/mteh_all_noanswers.pdf"
-    "./latex/mteh_HSK5_noanswers.pdf"
-    "./latex/mteh_HSK6_noanswers.pdf"
-    "./latex/mteh_HSK7-9_noanswers.pdf"
+    "../mteh.txt"
+    "../latex/mteh_all_answers.pdf"
+    "../latex/mteh_HSK5_answers.pdf"
+    "../latex/mteh_HSK6_answers.pdf"
+    "../latex/mteh_HSK7-9_answers.pdf"
+    "../latex/mteh_all_noanswers.pdf"
+    "../latex/mteh_HSK5_noanswers.pdf"
+    "../latex/mteh_HSK6_noanswers.pdf"
+    "../latex/mteh_HSK7-9_noanswers.pdf"
 )
 
 # Copy files with version appended
