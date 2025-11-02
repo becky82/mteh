@@ -12,10 +12,10 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
     - [Repeated-component characters](./extra_chars/repeated_components.md)
     - [Periodic table of the elements](./extra_chars/periodic_table.md)
     - [Province abbreviations](./extra_chars/province_abbreviations.md)
-    - [Characters/words using or related to 虫](./extra_chars/虫.md)
-    - [Characters/words using or related to 鸟](./extra_chars/鸟.md)
-    - [Characters/words using or related to 鱼](./extra_chars/鱼.md)
-    - [Characters/words using or related to 木](./extra_chars/木.md)
+    - [Characters/words using or related to 虫](./extra_chars/虫.md) (insects; lower life forms)
+    - [Characters/words using or related to 鸟](./extra_chars/鸟.md) (birds)
+    - [Characters/words using or related to 鱼](./extra_chars/鱼.md) (fish)
+    - [Characters/words using or related to 木](./extra_chars/木.md) (trees; wood)
 
 ---
 
