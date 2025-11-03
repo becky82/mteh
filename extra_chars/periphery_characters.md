@@ -25,6 +25,14 @@ At the time of writing, there are 20 corpora, the non-MteH characters in N corpo
 
 Any simplified character not listed above is either in MteH v0.1.1, or not present in 18+ (out of 20) corpora.
 
+### Non-MteH characters in 《通用规范汉字表》 level 2 (二级)
+
+The top-200 most frequency characters from [《通用规范汉字表》](../mteh/tree/main/sources/通用规范汉字表) level 2 (sourced from [Wikisource](https://zh.wikisource.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8)) missing from MteH v0.1.1 are:
+
+> 玑藩岚麽雯毓瑛禺霖忒谟焘侬绫钊伢陇琛倭鞅敕幡祺俾聿剌顼哝钵铢俟胥渭珂哧迥噶淄韬踞蹑谑诃铎荀攫踵臆瘢豢汶惴桢饬栩曦梓嗖浚荃汾奂傩沂嵋瑾赓佚沓晏蛊璐漳琏辘僭褚煜骥祯嗳轲湍钡箓涸亘筵欤颍稷恻邯珥俸鸾扈犊鋆谀岐蔷恚遽皑锵簌鹳睽寰唷诰恣婵蹙诙罡胤皋嫔娓坂町瘠啜瓒龛髯瞠酰潼筱甬淞蕙轶郸荪麝醮湮穑呷萼伫岬鳎啾徇徵岱邙恫怆桀盂桧芮闩铿窠牒赈嗫鞑袤谌徨橹嵇圪髻嗬辎谄蛐鹞翱蓿鳗鲇颔嚅黜黠濑洵砥咂匝偃淙闾喏蛰曜洄煊璜渥
+
+All the level-1 characters were added to MteH v0.1.1.  Frequency is based on Jun Da's modern corpus.
+
 ## Why haven't some characters been added to MteH?
 
 First of all, some characters like
