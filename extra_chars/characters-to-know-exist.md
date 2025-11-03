@@ -53,6 +53,7 @@ There's a small number characters which are essentially just abbreviations:
 | 嫑 | biáo | 不要 | Rare; not used in standard Mandarin |
 | 孬 | nāo | 不好 | Rare; dialectal |
 | 甮 | fèng | 勿用 | Rare; obsolete |
+| 覅 | fiào​ | 勿要 | Rare; dialectal |
 | 嘦 | jiào | 只要 | Rare |
 | 圕 | tuān | 图书馆 | Rare; mainly in calligraphy or decorative use |
 
@@ -229,3 +230,29 @@ Some characters are mostly used for decorative purposes nowadays, such as:
 > 嫐 (nǎo)
 
 You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composd of repeated components like this; they're often used decoratively.
+
+### Syllables not covered by MteH
+
+Here we survey the syllables which don't occur in MteH.  First, the syllables cēn and děi arise in Mandarin as 多音字 (polyphones):
+
+> 参差不齐 (cēn cī bù qí)  
+> 得 (děi)
+
+The character:
+
+> 咯 (lo)
+
+is used as a particle indicating something is obvious.
+
+The characters:
+
+> 扽 (dèn​)  
+> 嗲 (diǎ​)  
+> 耨 (nòu​)
+
+exist in Mandarin, but are rare.
+
+And some onomatopoeia are given characters, like:
+
+> 欻 (chuā​)
+> 吧 (biā​)
