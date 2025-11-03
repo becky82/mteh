@@ -29,7 +29,8 @@ CORPUS_FILES = [
     "现代汉语常用字表/现代汉语常用字表_3500chars.txt",
     "primary_school/primary_school_2016_unicode_order.txt",
     "surnames/surnames_unicode_order.txt",
-    "names/CNC_chars_unicode_order.txt"
+    "names/CNC_chars_unicode_order.txt",
+    "city-geo/city-geo_chars_unicode_order.txt"
 ]
 REPORT_FILE = "mteh_char_corpus_histogram_full.md"
 
