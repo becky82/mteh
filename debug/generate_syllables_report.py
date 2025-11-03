@@ -57,12 +57,13 @@ def split_pinyin(pinyin):
 def all_subsets(s):
     return list(chain.from_iterable(combinations(s, r) for r in range(1, len(s)+1)))
 
-def write_section(md, subset_name, mapping, total_chars):
+def write_section(md, subset_name, mapping, _):
     md.write(f"## MteH characters with the same pinyin: {subset_name}\n\n")
+    group_total = sum(len(chars) for chars in mapping.values())
     for key in sorted(mapping.keys()):
         chars = sorted(mapping[key])
         md.write(f"- **{key} ({len(chars)})**: {' '.join(chars)}\n")
-    md.write(f"\n**Total # chars for this group:** {total_chars}\n")
+    md.write(f"\n**Total # chars for this group:** {group_total}\n")
     counter = Counter({k: len(v) for k,v in mapping.items()})
     top10 = counter.most_common(10)
     md.write("\n**Top 10 most common keys:**\n\n")
