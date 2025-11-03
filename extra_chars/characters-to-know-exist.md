@@ -254,5 +254,5 @@ exist in Mandarin, but are rare.
 
 And some onomatopoeia are given characters, like:
 
-> 欻 (chuā​)
+> 欻 (chuā​)  
 > 吧 (biā​)
