@@ -27,26 +27,27 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 | # | Corpus | # Characters used | Source / Reference |
 |---|---------|---------------|--------------------|
-| 1 | [HSK 1.0](https://github.com/becky82/mteh/tree/main/sources/HSK1.0) | 2,866 | Pre-2010, 11 levels |
-| 2 | [HSK 2.0](https://github.com/becky82/mteh/tree/main/sources/HSK2.0) | 2,663 | Post-2010, 6 levels |
-| 3 | [HSK 3.0](https://github.com/becky82/mteh/tree/main/sources/HSK3.0) | 3,000 | 2021 version, 9 levels |
-| 4 | [Heisig](https://github.com/becky82/mteh/tree/main/sources/Heisig) | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
-| 5 | [Hoenig](https://github.com/becky82/mteh/tree/main/sources/Hoenig) | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 6 | [TOCFL](https://github.com/becky82/mteh/tree/main/sources/TOCFL) | 2,496 | Taiwan's TOCFL vocabulary |
-| 7 | [Jun Da](https://github.com/becky82/mteh/tree/main/sources/JunDa) | 3,477 | Modern Chinese corpus |
-| 8 | [SUBTLEX](https://github.com/becky82/mteh/tree/main/sources/SUBTLEX) | 3,477 | Film subtitle corpus |
-| 9 | [Tsai](https://github.com/becky82/mteh/tree/main/sources/Tsai) | 2,168 | Usenet newsgroups (1993-1994) |
-| 10 | [THUOCL](https://github.com/becky82/mteh/tree/main/sources/THUOCL) | 1,897 | mostly Sogou webpages |
-| 11 | [K-5](https://github.com/becky82/mteh/tree/main/sources/K-5) | 1,816 | K-5 word frequency |
-| 12 | [Leeds](https://github.com/becky82/mteh/tree/main/sources/Leeds) | 3,585 | Internet corpus |
-| 13 | [BLCU](https://github.com/becky82/mteh/tree/main/sources/BLCU) | 3,615 | "balanced", written Chinese |
-| 14 | [LWC](https://github.com/becky82/mteh/tree/main/sources/LWC) | 3,335 | Sina Weibo |
-| 15 | [Wikipedia](https://github.com/becky82/mteh/tree/main/sources/Wikipedia) | 3,267 | Chinese Wikipedia |
-| 16 | [通用规范汉字表](https://github.com/becky82/mteh/tree/main/sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | Ministry of Education (2013) |
-| 17 | [现代汉语常用字表](https://github.com/becky82/mteh/tree/main/sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,498 | Ministry of Education (1988) |
-| 18 | [primary school](https://github.com/becky82/mteh/tree/main/sources/primary_school) | 2,467 | mainland China (2016) |
-| 19 | [Chinese surnames](https://github.com/becky82/mteh/tree/main/sources/surnames) | 285 | top-300 surnames |
-| 20 | [Chinese names](https://github.com/becky82/mteh/tree/main/sources/names) | 1,948 | 1,200,000 Chinese names |
+| 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | Pre-2010, 11 levels |
+| 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | Post-2010, 6 levels |
+| 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 2021 version, 9 levels |
+| 4 | [Heisig](./sources/Heisig) | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
+| 5 | [Hoenig](./sources/Hoenig) | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
+| 6 | [TOCFL](./sources/TOCFL) | 2,496 | Taiwan's TOCFL vocabulary |
+| 7 | [Jun Da](./sources/JunDa) | 3,477 | Modern Chinese corpus |
+| 8 | [SUBTLEX](./sources/SUBTLEX) | 3,477 | Film subtitle corpus |
+| 9 | [Tsai](./sources/Tsai) | 2,168 | Usenet newsgroups (1993-1994) |
+| 10 | [THUOCL](./sources/THUOCL) | 1,897 | mostly Sogou webpages |
+| 11 | [K-5](./sources/K-5) | 1,816 | K-5 word frequency |
+| 12 | [Leeds](./sources/Leeds) | 3,585 | Internet corpus |
+| 13 | [BLCU](./sources/BLCU) | 3,615 | "balanced", written Chinese |
+| 14 | [LWC](./sources/LWC) | 3,335 | Sina Weibo |
+| 15 | [Wikipedia](./sources/Wikipedia) | 3,267 | Chinese Wikipedia |
+| 16 | [通用规范汉字表](./sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | Ministry of Education (2013) |
+| 17 | [现代汉语常用字表](./sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,498 | Ministry of Education (1988) |
+| 18 | [primary school](./sources/primary_school) | 2,467 | mainland China (2016) |
+| 19 | [Chinese surnames](./sources/surnames) | 285 | top-300 surnames |
+| 20 | [Chinese names](./sources/names) | 1,948 | 1,200,000 Chinese names |
+| 21 | [city-geo](./sources/city-geo) | 1,116 | mainland China city terms |
 
 </div>
 
