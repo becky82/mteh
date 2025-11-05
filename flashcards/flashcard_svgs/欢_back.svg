@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="927.0892511743575" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">1</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 332 341 Q 366 413 398 520 Q 408 550 425 569 Q 441 585 428 597 Q 415 607 383 616 Q 359 622 335 606 Q 308 593 272 580 Q 235 568 174 558 Q 161 557 156 549 Q 152 542 171 535 Q 208 523 255 540 Q 309 562 318 563 Q 343 564 341 536 Q 323 439 292 370 L 269 328 Q 206 229 78 184 Q 66 177 78 172 Q 84 165 125 169 Q 224 181 303 293 L 332 341 Z" fill="black"></path>
+      <path d="M 303 293 Q 405 182 415 179 Q 422 178 429 186 Q 439 196 430 234 Q 421 273 332 341 L 292 370 Q 213 428 168 455 Q 161 459 158 449 Q 157 439 166 429 Q 215 384 269 328 L 303 293 Z" fill="black"></path>
+      <path d="M 526 595 Q 548 637 572 692 Q 584 726 596 743 Q 603 755 596 766 Q 590 778 559 794 Q 531 806 512 802 Q 496 798 507 778 Q 531 745 485 615 Q 463 554 429 486 Q 422 476 420 469 Q 419 457 432 463 Q 459 475 511 568 L 526 595 Z" fill="black"></path>
+      <path d="M 511 568 Q 538 552 566 561 Q 641 600 728 615 Q 741 619 749 619 Q 765 609 764 601 Q 765 598 761 585 Q 737 516 745 513 Q 752 510 767 523 Q 815 563 855 578 Q 889 593 887 601 Q 886 611 813 653 Q 789 668 723 647 Q 695 647 526 595 C 497 586 484 581 511 568 Z" fill="black"></path>
+      <path d="M 616 342 Q 628 414 647 449 Q 657 468 640 477 Q 622 492 607 498 Q 585 513 564 506 Q 551 502 556 486 Q 589 426 543 275 Q 542 272 540 266 Q 494 145 371 62 Q 359 53 348 44 Q 335 35 347 32 Q 408 32 489 102 Q 535 139 565 197 Q 604 288 608 305 L 616 342 Z" fill="black"></path>
+      <path d="M 608 305 Q 618 295 626 279 Q 776 33 808 24 Q 892 24 934 30 Q 949 31 954 38 Q 958 44 949 48 Q 802 130 742 195 Q 691 247 629 328 Q 623 338 616 342 C 594 363 589 328 608 305 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">huān</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">我喜欢你</text>
+</svg>

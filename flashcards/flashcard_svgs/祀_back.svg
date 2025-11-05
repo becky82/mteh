@@ -1,0 +1,23 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="582.1718706825089" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 282 762 Q 310 738 339 710 Q 354 697 371 697 Q 383 698 388 712 Q 394 728 383 761 Q 371 795 276 815 Q 260 819 252 815 Q 246 811 248 797 Q 252 784 282 762 Z" fill="black"></path>
+      <path d="M 285 370 Q 313 410 343 457 Q 377 515 425 553 Q 441 566 427 581 Q 405 596 375 605 Q 350 614 333 600 Q 255 537 92 518 Q 80 519 78 511 Q 75 501 90 491 Q 130 466 148 470 Q 170 474 294 538 Q 312 545 317 538 Q 323 529 311 505 Q 233 346 64 177 Q 48 165 52 161 Q 55 158 69 164 Q 160 210 261 337 L 285 370 Z" fill="black"></path>
+      <path d="M 261 337 Q 300 256 263 70 Q 244 43 274 -19 Q 278 -29 286 -36 Q 302 -52 314 -26 Q 329 14 328 59 Q 327 246 332 287 Q 339 314 330 324 Q 291 366 285 370 C 263 390 249 365 261 337 Z" fill="black"></path>
+      <path d="M 376 383 Q 391 367 406 347 Q 416 334 431 334 Q 440 334 445 345 Q 449 357 445 383 Q 438 408 375 424 Q 362 428 356 427 Q 352 424 352 412 Q 353 402 376 383 Z" fill="black"></path>
+      <path d="M 747 502 Q 775 601 811 629 Q 827 648 811 666 Q 793 679 737 701 Q 715 710 652 674 Q 592 650 550 636 C 522 626 538 596 566 606 Q 576 609 590 615 Q 708 651 714 648 Q 724 638 721 617 Q 709 562 695 514 C 687 485 739 473 747 502 Z" fill="black"></path>
+      <path d="M 547 429 Q 557 428 570 432 Q 628 451 754 472 Q 766 475 766 485 Q 766 492 747 502 C 721 517 719 518 695 514 Q 685 513 676 509 Q 607 484 550 469 C 521 461 517 429 547 429 Z" fill="black"></path>
+      <path d="M 970 178 Q 957 208 944 300 Q 944 316 937 322 Q 931 326 925 308 Q 894 211 872 181 Q 857 162 812 148 Q 709 120 615 157 Q 579 173 569 197 Q 535 264 547 429 L 550 469 Q 554 532 566 601 Q 566 604 566 606 C 569 625 569 625 550 636 Q 537 648 516 655 Q 503 659 493 654 Q 486 650 491 630 Q 507 587 504 545 Q 491 253 516 174 Q 522 146 549 121 Q 646 46 846 83 Q 856 86 868 89 Q 916 104 962 137 Q 981 152 970 178 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">sì</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">祭祀仪式</text>
+</svg>

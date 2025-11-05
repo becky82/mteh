@@ -1,0 +1,21 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="751.0936722851617" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 360 527 Q 490 596 563 656 Q 611 690 654 711 Q 675 717 676 727 Q 677 740 660 751 Q 630 763 574 771 Q 553 775 538 770 Q 531 763 533 750 Q 542 705 343 542 C 320 523 334 513 360 527 Z" fill="black"></path>
+      <path d="M 366 424 Q 360 526 360 527 C 360 531 360 531 343 542 Q 318 560 289 567 Q 273 571 262 564 Q 253 557 262 539 Q 293 487 309 429 Q 321 371 347 143 C 350 113 398 117 394 147 Q 367 369 368 388 L 366 424 Z" fill="black"></path>
+      <path d="M 636 427 Q 724 442 811 452 Q 826 453 826 461 Q 827 474 803 491 Q 770 515 736 503 Q 646 473 496 445 Q 430 436 366 424 C 336 419 338 390 368 388 Q 378 387 398 387 Q 513 408 588 420 L 636 427 Z" fill="black"></path>
+      <path d="M 622 168 Q 649 322 667 360 Q 676 384 664 400 Q 651 416 636 427 C 612 446 581 449 588 420 Q 598 383 598 346 Q 597 307 576 163 C 572 133 617 138 622 168 Z" fill="black"></path>
+      <path d="M 347 143 Q 232 136 108 125 Q 83 124 100 103 Q 136 67 181 75 Q 464 138 924 116 Q 948 115 954 125 Q 961 138 942 156 Q 881 204 838 196 Q 751 183 622 168 L 576 163 Q 543 162 509 157 Q 454 153 394 147 L 347 143 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">qiū</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">丘陵地带</text>
+</svg>

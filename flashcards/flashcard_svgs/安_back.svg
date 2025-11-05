@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="991.1776733904394" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">2</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 465 801 Q 511 746 548 733 Q 564 729 574 745 Q 581 758 578 778 Q 571 805 550 818 Q 490 854 458 847 Q 452 848 449 845 Q 442 844 445 830 Q 448 817 465 801 Z" fill="black"></path>
+      <path d="M 301 634 Q 288 659 276 667 Q 255 682 254 654 Q 260 617 218 568 Q 182 534 219 471 Q 235 443 256 474 Q 271 498 281 533 Q 291 573 301 598 C 309 619 309 619 301 634 Z" fill="black"></path>
+      <path d="M 301 598 Q 317 594 334 598 Q 443 637 659 663 Q 704 669 717 667 Q 726 655 722 651 Q 697 597 670 540 Q 671 539 673 537 Q 682 533 700 545 Q 766 590 821 605 Q 866 620 864 630 Q 863 640 787 695 Q 760 716 666 694 Q 612 688 383 647 Q 341 640 301 634 C 271 629 271 601 301 598 Z" fill="black"></path>
+      <path d="M 532 145 Q 607 96 718 -4 Q 748 -31 768 -31 Q 793 -32 795 -8 Q 796 16 765 72 Q 752 100 718 115 Q 631 160 563 191 L 513 213 Q 465 235 429 246 Q 401 253 417 280 Q 429 308 439 332 L 458 373 Q 494 460 514 489 Q 524 498 521 509 Q 514 525 469 557 Q 456 567 443 563 Q 428 559 437 540 Q 455 503 404 367 L 386 324 Q 373 297 360 277 Q 348 256 352 241 Q 355 229 375 225 Q 427 209 483 175 L 532 145 Z" fill="black"></path>
+      <path d="M 483 175 Q 410 94 224 38 Q 206 28 228 26 Q 423 8 532 145 L 563 191 Q 602 251 621 320 Q 625 341 632 354 C 643 382 650 399 650 399 Q 641 417 608 427 Q 587 437 567 434 Q 554 430 560 414 Q 566 404 568 388 L 568 347 Q 565 329 557 308 Q 541 254 513 213 L 483 175 Z" fill="black"></path>
+      <path d="M 632 354 Q 765 375 932 362 Q 954 359 961 368 Q 968 381 956 393 Q 926 420 882 439 Q 867 445 842 436 Q 812 430 650 399 L 568 388 Q 492 382 458 373 L 404 367 Q 142 334 81 332 Q 68 332 66 320 Q 66 308 85 294 Q 101 281 133 270 Q 143 266 162 275 Q 181 282 262 298 Q 319 313 386 324 L 439 332 Q 469 338 568 347 L 632 354 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">ān</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">注意安全</text>
+</svg>

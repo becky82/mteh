@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="924.6841668969329" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">4</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 211 690 Q 241 662 272 629 Q 288 613 308 612 Q 321 612 328 629 Q 335 647 325 684 Q 313 723 207 750 Q 188 754 180 752 Q 173 748 175 731 Q 179 718 211 690 Z" fill="black"></path>
+      <path d="M 119 182 Q 106 179 108 160 Q 120 79 157 58 Q 164 51 176 53 Q 183 54 186 81 Q 192 126 312 406 Q 319 422 319 429 Q 318 441 308 433 Q 290 421 165 227 Q 150 205 119 182 Z" fill="black"></path>
+      <path d="M 419 554 Q 406 560 374 565 Q 361 568 357 562 Q 350 555 360 538 Q 391 474 412 369 Q 416 338 434 316 Q 453 292 460 310 Q 463 319 463 331 L 461 369 Q 452 396 436 518 C 432 548 432 549 419 554 Z" fill="black"></path>
+      <path d="M 823 412 Q 860 505 893 530 Q 917 555 886 575 Q 859 597 830 615 Q 814 628 788 619 Q 755 607 705 599 Q 677 596 648 590 L 586 580 Q 552 576 515 568 Q 460 559 419 554 C 389 550 408 507 436 518 Q 467 534 586 549 L 648 557 Q 703 564 774 571 Q 790 572 795 565 Q 807 541 758 414 C 747 386 812 384 823 412 Z" fill="black"></path>
+      <path d="M 644 354 Q 728 364 841 370 Q 853 371 855 381 Q 855 390 823 412 C 808 422 788 419 758 414 Q 697 404 644 393 L 585 384 Q 518 375 461 369 C 431 366 433 330 463 331 Q 472 331 481 332 Q 523 341 585 348 L 644 354 Z" fill="black"></path>
+      <path d="M 585 348 Q 585 -7 594 -30 Q 595 -34 599 -40 Q 615 -56 625 -34 Q 643 21 644 354 L 644 393 Q 645 487 648 557 L 648 590 Q 651 654 654 695 Q 655 728 673 755 Q 680 773 659 790 Q 632 811 586 822 Q 565 828 551 813 Q 541 804 554 791 Q 582 766 585 731 Q 586 673 586 580 L 586 549 Q 586 482 586 396 Q 586 390 585 384 L 585 348 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">chōng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">发生冲突</text>
+</svg>

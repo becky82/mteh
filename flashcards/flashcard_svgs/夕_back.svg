@@ -1,0 +1,19 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="740.6244819010776" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">5</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 371 481 Q 410 518 443 557 L 463 584 Q 479 606 494 630 Q 534 697 573 751 Q 586 764 569 783 Q 523 822 492 820 Q 479 819 481 801 Q 490 657 322 489 Q 283 459 242 414 Q 232 396 249 401 Q 282 407 355 467 L 371 481 Z" fill="black"></path>
+      <path d="M 443 557 Q 500 532 631 578 Q 658 588 669 581 Q 678 575 656 510 Q 605 333 438 167 Q 320 62 207 3 Q 197 -3 198 -8 Q 199 -14 208 -13 Q 340 -7 516 168 Q 550 207 586 253 Q 659 353 732 511 Q 751 545 780 567 Q 798 577 797 587 Q 797 603 762 621 Q 720 646 703 646 Q 690 645 677 635 Q 548 592 471 585 Q 467 585 463 584 C 433 580 414 564 443 557 Z" fill="black"></path>
+      <path d="M 355 467 Q 358 460 364 454 Q 407 412 460 350 Q 475 331 489 327 Q 498 326 505 334 Q 517 347 506 388 Q 499 427 432 457 Q 393 473 371 481 C 343 491 342 492 355 467 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">xī</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">朝夕相处</text>
+</svg>

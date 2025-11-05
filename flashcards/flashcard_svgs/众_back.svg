@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="951.8474716772589" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 507 653 Q 540 716 560 742 Q 569 751 564 762 Q 558 772 529 793 Q 508 808 498 806 Q 485 805 484 788 Q 485 662 351 537 Q 348 536 346 533 Q 309 496 217 434 Q 208 427 215 423 Q 222 420 234 424 Q 298 443 353 481 Q 428 529 495 633 L 507 653 Z" fill="black"></path>
+      <path d="M 495 633 Q 586 534 686 444 Q 708 423 743 423 Q 809 422 875 437 Q 893 440 894 444 Q 895 451 882 456 Q 836 472 780 488 Q 663 525 507 653 C 484 672 475 655 495 633 Z" fill="black"></path>
+      <path d="M 322 242 Q 325 254 398 355 Q 410 368 395 384 Q 353 421 325 419 Q 312 418 314 401 Q 321 284 184 138 Q 145 104 102 61 Q 92 45 109 49 Q 133 53 166 77 Q 254 143 310 224 L 322 242 Z" fill="black"></path>
+      <path d="M 310 224 Q 311 220 317 216 Q 366 176 425 115 Q 440 97 454 94 Q 461 93 469 102 Q 479 115 466 154 Q 459 190 387 219 Q 347 235 322 242 C 293 250 293 249 310 224 Z" fill="black"></path>
+      <path d="M 665 263 Q 677 293 688 327 Q 695 352 708 375 Q 715 385 708 395 Q 701 405 668 420 Q 644 430 635 427 Q 622 423 625 407 Q 647 302 549 158 Q 546 157 545 153 Q 518 113 446 42 Q 439 33 446 31 Q 453 30 465 35 Q 519 63 563 106 Q 614 154 654 236 L 665 263 Z" fill="black"></path>
+      <path d="M 654 236 Q 715 139 798 35 Q 823 5 966 26 Q 975 29 976 33 Q 977 37 965 45 Q 838 99 752 179 Q 710 218 665 263 C 644 284 638 261 654 236 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">zhòng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">唤起群众</text>
+</svg>

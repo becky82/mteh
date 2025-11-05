@@ -1,0 +1,23 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="795.9414202818458" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">5</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 358 530 Q 452 557 456 559 Q 465 568 460 576 Q 453 588 422 594 Q 391 598 361 586 Q 360 586 360 585 L 312 568 Q 195 543 172 538 Q 135 531 163 515 Q 208 491 266 509 Q 285 515 311 519 L 358 530 Z" fill="black"></path>
+      <path d="M 308 340 Q 307 249 305 132 Q 304 108 291 99 Q 288 95 221 94 Q 187 103 191 93 Q 194 86 215 73 Q 275 31 292 7 Q 311 -21 325 -22 Q 338 -23 352 12 Q 368 58 363 130 Q 356 254 356 378 L 356 408 Q 356 469 358 530 L 360 585 Q 367 721 382 768 Q 398 799 344 821 Q 310 840 291 833 Q 273 827 289 804 Q 311 777 312 743 Q 313 724 312 568 L 311 519 Q 310 459 308 380 L 308 340 Z" fill="black"></path>
+      <path d="M 308 380 Q 208 320 120 262 Q 86 240 63 233 Q 50 227 49 219 Q 48 209 63 196 Q 82 180 106 173 Q 122 169 133 182 Q 202 257 308 340 L 356 378 Q 407 423 409 424 Q 415 437 404 436 Q 392 436 356 408 L 308 380 Z" fill="black"></path>
+      <path d="M 653 555 Q 806 591 816 597 Q 825 606 820 615 Q 811 628 780 635 Q 750 641 658 607 L 611 595 Q 566 586 518 580 Q 478 573 507 555 Q 547 534 608 544 L 653 555 Z" fill="black"></path>
+      <path d="M 639 393 Q 718 409 847 413 Q 898 413 905 423 Q 909 435 893 447 Q 841 483 782 464 Q 725 451 642 432 L 595 423 Q 516 410 431 393 Q 412 390 426 375 Q 451 353 504 364 Q 544 377 590 384 L 639 393 Z" fill="black"></path>
+      <path d="M 637 382 Q 638 388 639 393 L 642 432 Q 646 495 653 555 L 658 607 Q 661 716 692 769 Q 699 784 689 795 Q 667 814 628 828 Q 603 835 593 829 Q 584 822 591 809 Q 613 772 614 724 Q 614 660 611 595 L 608 544 Q 604 483 595 423 L 590 384 Q 569 231 481 158 Q 447 133 398 106 Q 385 99 385 95 Q 386 91 397 90 Q 412 86 448 98 Q 571 131 614 262 Q 624 296 631 337 L 637 382 Z" fill="black"></path>
+      <path d="M 631 337 Q 794 49 843 45 Q 907 49 963 54 Q 988 55 988 61 Q 989 68 963 84 Q 827 156 765 223 Q 695 298 637 382 C 620 407 616 363 631 337 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">fú</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">自动扶梯</text>
+</svg>

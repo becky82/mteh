@@ -1,0 +1,26 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="816.8798010500138" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">5</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 474 796 Q 502 777 534 752 Q 550 742 566 744 Q 576 745 581 760 Q 584 776 570 806 Q 563 825 530 835 Q 452 853 440 843 Q 436 839 438 825 Q 444 815 474 796 Z" fill="black"></path>
+      <path d="M 591 649 Q 600 650 782 665 Q 795 662 806 677 Q 809 690 782 704 Q 743 734 657 710 Q 458 674 219 658 Q 185 655 210 633 Q 238 608 288 607 Q 333 616 388 622 L 425 627 Q 480 637 546 644 L 591 649 Z" fill="black"></path>
+      <path d="M 388 622 Q 412 598 396 479 Q 393 448 383 418 Q 367 370 395 336 Q 404 323 413 335 Q 437 362 445 489 Q 451 568 456 588 Q 459 604 445 613 Q 435 620 425 627 C 400 644 371 647 388 622 Z" fill="black"></path>
+      <path d="M 546 644 L 547 643 Q 548 637 551 632 Q 572 602 562 456 Q 538 390 581 337 Q 591 324 602 337 Q 615 355 616 417 Q 616 588 617 599 Q 620 620 615 628 Q 612 638 593 648 Q 592 649 591 649 C 565 664 535 672 546 644 Z" fill="black"></path>
+      <path d="M 287 531 Q 260 486 226 449 Q 202 418 215 386 Q 219 367 241 377 Q 292 405 304 472 Q 314 503 310 527 Q 306 536 301 538 Q 292 538 287 531 Z" fill="black"></path>
+      <path d="M 679 530 Q 722 484 773 420 Q 786 401 801 395 Q 808 394 817 402 Q 830 414 820 456 Q 814 495 748 528 Q 705 550 682 559 Q 673 565 671 553 Q 670 540 679 530 Z" fill="black"></path>
+      <path d="M 218 255 Q 188 188 149 127 Q 125 91 145 58 Q 152 39 174 51 Q 198 67 213 100 Q 238 149 243 195 Q 249 229 242 255 Q 238 264 231 265 Q 222 264 218 255 Z" fill="black"></path>
+      <path d="M 314 229 Q 329 118 410 56 Q 506 -10 714 -12 Q 757 -8 795 5 Q 822 15 825 31 Q 829 41 791 71 Q 733 126 690 182 Q 677 200 672 192 Q 669 189 696 97 Q 696 64 686 56 Q 673 52 647 52 Q 470 55 401 126 Q 368 157 356 209 Q 349 233 338 239 Q 325 246 317 243 Q 311 242 314 229 Z" fill="black"></path>
+      <path d="M 453 266 Q 529 193 558 194 Q 574 194 579 217 Q 579 233 565 255 Q 550 274 521 281 Q 475 297 455 298 Q 443 299 444 285 Q 443 275 453 266 Z" fill="black"></path>
+      <path d="M 721 294 Q 785 249 863 181 Q 881 162 897 160 Q 906 160 913 171 Q 923 186 906 229 Q 888 286 718 326 Q 708 330 708 317 Q 708 304 721 294 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">liàn</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">谈恋爱</text>
+</svg>

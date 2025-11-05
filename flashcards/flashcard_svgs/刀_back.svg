@@ -1,0 +1,18 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="873.0455927051672" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 484 621 Q 599 646 707 656 Q 732 657 737 645 Q 746 623 739 568 Q 715 366 671 259 Q 649 192 625 172 Q 612 160 586 169 Q 552 179 521 192 Q 496 201 513 177 Q 559 122 582 81 Q 592 59 614 64 Q 638 67 668 99 Q 755 187 792 517 Q 799 590 829 634 Q 848 659 838 671 Q 820 693 779 711 Q 751 727 719 713 Q 622 677 474 655 Q 347 637 273 640 Q 248 644 248 630 Q 247 618 272 600 Q 303 576 335 586 Q 389 601 442 611 L 484 621 Z" fill="black"></path>
+      <path d="M 442 611 Q 442 410 281 247 Q 233 192 116 100 Q 107 91 115 88 Q 122 85 136 90 Q 314 168 401 307 Q 450 377 496 494 Q 511 530 531 563 Q 540 573 533 586 Q 518 610 484 621 C 456 633 443 638 442 611 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">dāo</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">一把剪刀</text>
+</svg>

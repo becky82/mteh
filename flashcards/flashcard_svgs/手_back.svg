@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="1003.7689969604863" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">1</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 502 718 Q 550 731 590 746 Q 641 759 683 764 Q 701 763 706 771 Q 710 781 700 795 Q 679 814 634 837 Q 619 847 605 847 Q 596 844 594 832 Q 591 802 411 730 Q 365 714 310 696 Q 303 687 310 684 Q 328 678 449 707 Q 458 708 468 711 L 502 718 Z" fill="black"></path>
+      <path d="M 555 563 Q 697 591 706 599 Q 716 606 711 616 Q 704 628 674 636 Q 644 643 547 611 L 506 600 Q 496 599 486 596 Q 413 580 327 574 Q 290 568 315 550 Q 358 528 428 540 Q 468 549 513 554 L 555 563 Z" fill="black"></path>
+      <path d="M 575 389 Q 687 398 843 397 Q 927 394 935 406 Q 942 419 923 436 Q 863 479 820 471 Q 723 452 571 429 L 525 422 Q 513 422 503 420 Q 325 398 115 373 Q 90 372 108 351 Q 124 335 145 329 Q 169 322 187 328 Q 352 373 527 385 L 575 389 Z" fill="black"></path>
+      <path d="M 527 385 Q 536 154 492 78 Q 488 69 479 66 Q 467 62 376 87 Q 369 88 366 85 Q 365 81 373 73 Q 437 19 470 -22 Q 482 -35 489 -33 Q 505 -32 532 -3 Q 590 57 589 171 Q 590 237 575 389 L 571 429 Q 562 519 555 563 L 547 611 Q 541 650 540 680 Q 540 699 528 706 Q 515 713 502 718 C 475 730 454 737 468 711 Q 486 687 506 600 L 513 554 Q 520 493 525 422 L 527 385 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">shǒu</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">手机号码</text>
+</svg>

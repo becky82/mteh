@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="911.3854655982316" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">4</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 508 806 Q 530 784 553 757 Q 568 742 586 742 Q 598 742 604 757 Q 611 773 602 808 Q 596 827 567 841 Q 498 871 480 863 Q 474 859 475 844 Q 479 831 508 806 Z" fill="black"></path>
+      <path d="M 262 640 Q 252 664 240 673 Q 221 689 218 661 Q 218 627 176 575 Q 131 530 158 469 L 159 467 Q 174 439 197 467 Q 216 492 230 531 Q 248 577 261 604 C 270 623 270 623 262 640 Z" fill="black"></path>
+      <path d="M 261 604 Q 283 595 307 601 Q 454 649 699 673 Q 753 679 771 676 Q 786 666 784 660 Q 784 654 746 580 Q 739 565 745 561 Q 752 557 771 568 Q 832 607 882 618 Q 922 628 922 638 Q 921 650 844 707 Q 819 728 720 709 Q 588 693 370 656 Q 316 647 262 640 C 232 636 232 611 261 604 Z" fill="black"></path>
+      <path d="M 627 404 Q 702 410 866 411 Q 887 412 891 420 Q 897 432 880 446 Q 822 489 762 470 Q 704 460 626 444 L 570 436 Q 548 435 525 429 Q 377 408 200 386 Q 179 385 195 367 Q 208 354 227 348 Q 249 342 264 347 Q 423 392 571 400 L 627 404 Z" fill="black"></path>
+      <path d="M 530 56 Q 487 68 443 79 Q 430 82 431 74 Q 432 67 443 58 Q 531 -14 563 -58 Q 579 -77 596 -61 Q 635 -22 633 54 Q 629 103 627 404 L 626 444 Q 625 493 638 527 Q 648 548 629 562 Q 601 584 568 595 Q 549 602 539 594 Q 533 587 545 570 Q 570 528 569 481 Q 569 459 570 436 L 571 400 Q 577 76 554 59 Q 545 52 530 56 Z" fill="black"></path>
+      <path d="M 321 284 Q 357 226 387 203 Q 403 197 415 210 Q 424 222 424 240 Q 421 267 405 283 Q 384 304 342 322 Q 326 331 315 328 Q 308 328 308 315 Q 308 302 321 284 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">shǒu</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">保守秘密</text>
+</svg>

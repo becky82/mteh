@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="363.87510361978445" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray"></text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 337 772 Q 368 748 403 719 Q 419 706 436 708 Q 448 709 452 724 Q 456 740 444 773 Q 437 794 401 808 Q 317 833 304 823 Q 298 819 301 805 Q 305 792 337 772 Z" fill="black"></path>
+      <path d="M 148 522 Q 94 504 65 502 Q 49 503 47 494 Q 43 485 55 477 Q 100 450 127 463 Q 200 493 268 525 Q 296 540 306 532 Q 318 525 311 495 Q 312 453 310 410 Q 311 286 279 174 Q 263 140 310 87 Q 322 74 332 82 Q 339 89 351 116 Q 397 180 496 290 Q 509 303 506 310 Q 503 319 492 308 Q 440 268 387 223 Q 344 184 349 241 Q 348 311 369 489 Q 373 514 397 540 Q 410 550 399 565 Q 387 581 345 599 Q 332 606 314 594 Q 208 539 148 522 Z" fill="black"></path>
+      <path d="M 667 575 Q 667 689 686 755 Q 699 782 673 802 Q 657 814 624 833 Q 599 851 577 833 Q 571 829 578 811 Q 614 760 614 701 Q 630 238 592 88 Q 580 49 609 -21 Q 616 -40 625 -43 Q 632 -50 639 -41 Q 648 -37 659 -14 Q 669 13 668 47 Q 667 98 667 548 L 667 575 Z" fill="black"></path>
+      <path d="M 667 548 Q 668 547 671 546 Q 768 497 887 418 Q 908 403 923 403 Q 932 403 936 415 Q 945 431 922 469 Q 891 530 667 575 C 638 581 640 562 667 548 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">fù</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">逝世讣告</text>
+</svg>

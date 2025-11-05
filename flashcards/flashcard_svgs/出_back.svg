@@ -1,0 +1,21 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="1020.0386847195358" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">1</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 562 435 Q 655 460 729 458 C 759 458 769 501 739 498 Q 646 489 563 474 L 505 464 Q 411 449 330 425 Q 306 421 312 448 Q 327 554 317 572 Q 281 615 250 611 Q 237 607 246 585 Q 268 533 260 479 Q 254 430 233 407 Q 212 388 220 372 Q 233 356 251 343 Q 267 333 278 343 Q 308 376 505 422 L 562 435 Z" fill="black"></path>
+      <path d="M 729 458 Q 728 458 729 457 Q 732 421 741 397 Q 750 376 766 389 Q 799 416 812 514 Q 836 572 843 581 Q 853 597 843 616 Q 822 637 786 662 Q 773 672 757 667 Q 747 663 749 647 Q 777 599 741 501 Q 740 501 739 498 L 729 458 Z" fill="black"></path>
+      <path d="M 551 133 Q 557 289 562 435 L 563 474 Q 564 639 592 778 Q 596 793 570 812 Q 522 837 490 842 Q 468 846 458 835 Q 448 825 459 805 Q 499 747 499 707 Q 503 590 505 464 L 505 422 Q 504 280 495 123 C 493 93 550 103 551 133 Z" fill="black"></path>
+      <path d="M 255 9 Q 274 -7 284 -7 Q 291 -7 299 0 Q 335 45 588 96 Q 595 99 755 123 Q 765 124 775 127 C 804 133 801 162 771 161 Q 677 158 551 133 L 495 123 Q 380 105 341 88 Q 332 85 329 89 Q 326 92 339 215 Q 340 257 288 280 Q 281 283 274 283 Q 259 284 254 281 Q 250 274 263 252 Q 302 179 257 86 Q 250 76 241 66 Q 225 53 228 41 Q 232 29 255 9 Z" fill="black"></path>
+      <path d="M 775 127 Q 779 28 796 3 Q 815 -31 827 -10 Q 840 12 840 66 Q 841 208 844 237 Q 845 258 839 265 Q 824 278 774 294 Q 758 301 751 295 Q 741 288 750 263 Q 763 220 771 161 L 775 127 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">chū</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">出去玩</text>
+</svg>

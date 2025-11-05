@@ -1,0 +1,24 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="944.3492677535231" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 516 670 Q 589 685 667 697 Q 722 707 730 715 Q 739 722 735 732 Q 728 744 698 753 Q 667 760 637 749 Q 585 733 532 719 L 475 707 Q 414 698 347 693 Q 310 689 336 670 Q 375 643 457 660 L 459 660 L 516 670 Z" fill="black"></path>
+      <path d="M 459 660 Q 435 597 356 501 Q 352 492 357 491 Q 364 490 374 496 Q 465 556 516 670 L 532 719 Q 557 827 557 830 Q 556 831 555 832 Q 548 841 516 851 Q 494 858 485 854 Q 473 848 478 835 Q 494 786 475 707 L 459 660 Z" fill="black"></path>
+      <path d="M 565 623 Q 602 595 648 552 Q 663 536 676 534 Q 683 533 689 542 Q 698 555 684 590 Q 674 623 617 637 Q 583 646 563 649 Q 556 653 555 642 Q 555 630 565 623 Z" fill="black"></path>
+      <path d="M 671 453 Q 765 459 932 458 Q 954 458 960 468 Q 966 481 947 496 Q 890 538 847 530 Q 642 488 118 425 Q 94 422 112 403 Q 146 372 189 381 Q 403 439 621 450 L 671 453 Z" fill="black"></path>
+      <path d="M 326 340 Q 314 347 281 353 Q 268 357 265 351 Q 258 345 267 329 Q 292 275 306 188 Q 309 161 324 144 Q 342 122 347 137 Q 353 153 350 184 L 345 217 Q 335 290 335 314 C 334 336 334 336 326 340 Z" fill="black"></path>
+      <path d="M 503 239 Q 521 299 541 316 Q 563 340 541 354 Q 523 364 499 382 Q 483 392 464 383 Q 424 359 326 340 C 297 334 306 306 335 314 Q 357 321 435 336 Q 463 343 469 331 Q 475 327 468 297 Q 461 272 454 243 C 447 214 494 210 503 239 Z" fill="black"></path>
+      <path d="M 350 184 Q 359 183 371 185 Q 417 195 517 205 Q 527 206 528 215 Q 528 224 503 239 C 483 252 483 252 454 243 Q 453 243 451 242 Q 391 226 345 217 C 316 211 320 186 350 184 Z" fill="black"></path>
+      <path d="M 581 22 Q 554 29 521 36 Q 508 40 509 32 Q 510 23 521 14 Q 593 -38 640 -82 Q 653 -92 667 -74 Q 709 -14 703 64 Q 697 293 704 387 Q 711 415 705 427 Q 698 437 671 453 C 646 469 608 477 621 450 Q 622 443 629 433 Q 639 408 639 365 Q 640 277 638 72 Q 637 35 626 21 Q 613 12 581 22 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">qí</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">我很奇怪</text>
+</svg>

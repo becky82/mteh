@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="913.083172147002" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">2</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 227 496 Q 270 551 320 623 Q 347 668 370 689 Q 380 701 376 716 Q 372 729 341 756 Q 313 777 291 777 Q 270 776 279 751 Q 292 720 280 695 Q 243 610 189 530 Q 137 454 64 370 Q 54 358 50 352 Q 46 339 62 342 Q 95 345 199 464 L 227 496 Z" fill="black"></path>
+      <path d="M 199 464 Q 217 404 218 374 Q 218 244 190 135 Q 180 90 214 39 Q 215 39 217 36 Q 235 20 247 47 Q 262 87 261 134 Q 265 360 273 412 Q 280 439 271 450 Q 232 492 227 496 C 206 517 191 493 199 464 Z" fill="black"></path>
+      <path d="M 439 662 Q 455 560 353 423 Q 343 419 308 368 Q 301 352 316 358 Q 335 362 359 385 Q 435 455 474 538 Q 499 587 522 629 Q 531 642 516 655 Q 471 685 446 680 Q 436 676 439 662 Z" fill="black"></path>
+      <path d="M 526 790 Q 574 763 618 686 Q 699 529 781 447 Q 799 432 920 437 Q 941 438 968 440 Q 996 441 997 450 Q 997 453 907 490 Q 807 532 766 571 Q 705 632 619 768 Q 595 804 555 807 Q 525 808 523 802 Q 519 793 526 790 Z" fill="black"></path>
+      <path d="M 518 333 Q 600 357 667 367 Q 688 370 692 364 Q 705 345 696 297 Q 680 162 647 104 Q 631 76 606 79 Q 575 92 547 108 Q 523 118 538 92 Q 589 40 612 -1 Q 634 -25 655 -3 Q 689 22 712 67 Q 739 119 754 281 Q 758 338 778 366 Q 791 379 784 390 Q 774 402 720 425 Q 698 434 678 419 Q 656 406 565 383 Q 474 358 397 351 Q 378 350 376 340 Q 375 333 400 320 Q 427 304 448 312 Q 464 318 482 322 L 518 333 Z" fill="black"></path>
+      <path d="M 482 322 Q 489 306 484 279 Q 451 159 326 15 Q 319 11 320 4 Q 320 0 325 -1 Q 394 9 514 201 Q 547 261 555 271 Q 562 281 553 295 Q 538 319 518 333 C 494 352 474 351 482 322 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">fèn</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">哪个省份</text>
+</svg>

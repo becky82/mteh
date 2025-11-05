@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="981.6988118264715" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">2</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 528 646 Q 601 659 678 670 Q 739 680 749 689 Q 761 698 755 709 Q 748 725 711 735 Q 672 745 579 716 Q 444 685 307 677 Q 261 673 293 649 Q 341 621 432 632 Q 450 635 472 638 L 528 646 Z" fill="black"></path>
+      <path d="M 539 380 Q 707 411 713 416 Q 723 425 719 434 Q 712 447 679 458 Q 645 465 610 453 Q 576 443 541 434 L 490 423 Q 421 410 341 405 Q 299 401 328 380 Q 373 355 455 367 Q 471 370 489 372 L 539 380 Z" fill="black"></path>
+      <path d="M 533 159 Q 536 277 539 380 L 541 434 Q 542 548 548 600 Q 557 627 529 645 L 528 646 C 505 665 463 666 472 638 Q 487 602 491 498 Q 490 468 490 423 L 489 372 Q 488 285 485 154 C 484 124 532 129 533 159 Z" fill="black"></path>
+      <path d="M 520 106 Q 574 107 626 112 Q 776 124 907 105 Q 934 102 940 111 Q 950 127 936 140 Q 903 171 855 195 Q 839 202 810 193 Q 740 180 668 171 Q 587 165 533 159 L 485 154 Q 361 145 299 138 Q 229 128 125 130 Q 109 130 108 117 Q 107 104 127 87 Q 146 72 181 58 Q 193 54 213 62 Q 231 68 304 78 Q 401 97 520 106 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">wáng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">白马王子</text>
+</svg>

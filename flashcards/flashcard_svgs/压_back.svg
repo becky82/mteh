@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="917.0444874274662" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 333 674 Q 370 659 421 668 Q 553 692 690 716 Q 753 729 762 737 Q 772 746 767 755 Q 760 768 729 777 Q 696 784 595 752 Q 460 718 334 707 C 304 704 305 684 333 674 Z" fill="black"></path>
+      <path d="M 334 707 Q 318 725 286 739 Q 267 751 253 746 Q 240 739 247 724 Q 265 697 262 627 Q 241 437 225 372 Q 213 330 200 291 Q 154 177 72 56 Q 66 49 64 43 Q 61 31 72 34 Q 102 40 182 151 Q 203 184 222 222 Q 294 372 316 569 Q 325 656 333 674 C 340 702 340 702 334 707 Z" fill="black"></path>
+      <path d="M 573 367 Q 633 379 696 388 Q 753 400 762 407 Q 771 414 767 424 Q 760 436 730 445 Q 700 452 668 441 Q 622 428 575 415 L 524 404 Q 448 391 363 385 Q 326 381 352 362 Q 394 337 465 350 Q 493 356 524 359 L 573 367 Z" fill="black"></path>
+      <path d="M 562 144 Q 568 259 573 367 L 575 415 Q 575 457 596 572 Q 600 584 579 599 Q 542 618 517 623 Q 501 627 492 618 Q 485 609 493 594 Q 520 554 520 528 Q 523 468 524 404 L 524 359 Q 524 256 518 139 C 517 109 560 114 562 144 Z" fill="black"></path>
+      <path d="M 518 139 Q 397 126 258 112 Q 236 111 252 91 Q 268 75 287 69 Q 311 62 328 67 Q 482 104 810 104 Q 828 104 847 103 Q 869 102 874 112 Q 881 125 863 140 Q 805 185 764 176 Q 688 163 562 144 L 518 139 Z" fill="black"></path>
+      <path d="M 780 280 Q 811 249 844 212 Q 854 199 869 198 Q 879 197 885 209 Q 891 222 885 250 Q 878 289 780 324 Q 767 328 760 327 Q 756 324 755 312 Q 758 302 780 280 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">yā</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">施加压力</text>
+</svg>

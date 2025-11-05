@@ -1,0 +1,24 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="710.7731417518652" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 254 323 Q 275 659 290 703 Q 293 715 272 731 Q 235 750 208 755 Q 190 759 182 749 Q 175 742 183 725 Q 207 691 207 667 Q 217 504 210 312 C 209 282 252 293 254 323 Z" fill="black"></path>
+      <path d="M 332 339 Q 290 333 254 323 L 210 312 Q 173 303 142 291 Q 126 287 129 307 Q 135 353 141 403 Q 145 427 135 441 Q 99 480 74 477 Q 64 473 71 453 Q 93 398 85 344 Q 78 292 57 270 Q 39 251 47 237 Q 59 222 76 212 Q 86 208 106 219 Q 139 249 266 286 Q 312 299 331 299 C 361 302 362 344 332 339 Z" fill="black"></path>
+      <path d="M 331 299 Q 335 283 344 271 Q 351 261 362 270 Q 383 297 384 330 Q 390 429 403 473 Q 410 492 393 505 Q 378 515 364 525 Q 352 531 344 526 Q 335 522 338 506 Q 354 458 332 339 L 331 299 Z" fill="black"></path>
+      <path d="M 626 686 Q 653 758 663 774 Q 670 781 666 792 Q 662 802 646 811 Q 604 833 573 821 Q 564 817 570 804 Q 600 732 507 543 Q 504 540 503 536 Q 475 484 399 381 Q 392 374 403 373 Q 455 391 545 518 Q 584 588 614 655 L 626 686 Z" fill="black"></path>
+      <path d="M 614 655 Q 690 544 790 426 Q 808 407 838 407 Q 941 408 973 414 Q 983 415 984 421 Q 985 425 971 433 Q 836 484 761 551 Q 697 609 626 686 C 606 708 597 680 614 655 Z" fill="black"></path>
+      <path d="M 568 452 Q 605 409 638 392 Q 651 389 660 401 Q 664 411 663 426 Q 654 465 580 486 Q 565 490 557 487 Q 551 486 554 475 Q 555 465 568 452 Z" fill="black"></path>
+      <path d="M 637 130 Q 749 266 795 291 Q 816 298 808 316 Q 804 332 731 365 Q 710 375 687 364 Q 629 339 538 310 Q 516 301 457 301 Q 432 301 442 280 Q 451 267 471 255 Q 504 240 542 262 Q 666 328 692 312 Q 707 302 699 286 Q 662 219 620 139 C 606 112 618 107 637 130 Z" fill="black"></path>
+      <path d="M 620 139 Q 619 140 616 141 Q 567 165 538 176 Q 529 180 527 169 Q 526 156 537 145 Q 591 96 654 23 Q 670 2 685 -2 Q 694 -3 701 7 Q 714 20 702 63 Q 695 99 637 130 L 620 139 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">lǐng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">山岭地区</text>
+</svg>

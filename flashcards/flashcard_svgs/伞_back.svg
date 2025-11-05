@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="712.4708483006356" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">4</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 528 734 Q 538 750 546 756 Q 555 760 553 772 Q 552 782 539 796 Q 503 827 471 823 Q 461 822 463 808 Q 478 721 316 528 Q 301 515 288 500 Q 236 448 106 344 Q 97 340 108 336 Q 198 348 351 500 Q 433 593 515 714 L 528 734 Z" fill="black"></path>
+      <path d="M 515 714 Q 753 450 810 435 Q 868 425 968 442 Q 987 445 988 449 Q 989 456 976 462 Q 754 552 677 607 Q 671 611 528 734 C 505 754 495 736 515 714 Z" fill="black"></path>
+      <path d="M 343 374 Q 364 353 386 327 Q 396 314 410 314 Q 420 314 425 325 Q 431 337 425 363 Q 418 393 343 416 Q 330 420 324 419 Q 320 416 320 404 Q 321 394 343 374 Z" fill="black"></path>
+      <path d="M 631 442 Q 615 414 579 368 Q 575 361 579 355 Q 586 354 593 358 Q 663 407 697 425 Q 713 429 709 439 Q 703 454 686 469 Q 668 485 649 487 Q 636 486 637 469 Q 638 457 631 442 Z" fill="black"></path>
+      <path d="M 535 241 Q 629 247 758 242 Q 827 239 834 249 Q 841 262 823 277 Q 766 319 728 312 Q 653 299 536 283 L 486 277 Q 348 265 186 247 Q 164 246 180 227 Q 195 211 213 205 Q 235 199 253 203 Q 349 225 485 238 L 535 241 Z" fill="black"></path>
+      <path d="M 483 -36 Q 487 -60 494 -69 Q 500 -76 507 -74 Q 519 -67 528 -9 Q 529 15 535 241 L 536 283 Q 537 439 550 501 Q 554 517 540 527 Q 509 548 495 550 Q 483 554 468 547 Q 459 540 466 529 Q 487 487 488 460 Q 488 382 486 277 L 485 238 Q 479 10 483 -36 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">sǎn</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">没带雨伞</text>
+</svg>

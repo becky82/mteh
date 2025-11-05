@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="906.4338214976513" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">1</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 513 723 Q 543 765 543 767 Q 543 779 528 795 Q 492 828 455 824 Q 445 821 448 808 Q 463 709 296 513 Q 200 419 78 317 Q 68 311 80 308 Q 158 318 299 447 Q 387 537 496 698 L 513 723 Z" fill="black"></path>
+      <path d="M 496 698 Q 605 556 742 407 Q 764 382 803 384 Q 933 388 974 396 Q 986 399 988 405 Q 988 412 970 420 Q 792 477 731 523 Q 631 605 513 723 C 492 744 478 722 496 698 Z" fill="black"></path>
+      <path d="M 321 410 Q 351 374 326 241 Q 325 238 324 233 Q 296 131 195 50 Q 186 44 179 37 Q 166 27 178 24 Q 193 24 228 40 Q 270 59 300 90 Q 378 165 392 279 Q 407 363 414 379 Q 423 398 406 407 Q 355 441 328 431 Q 315 425 321 410 Z" fill="black"></path>
+      <path d="M 538 465 Q 583 357 561 128 Q 543 -2 549 -21 Q 555 -57 576 -79 Q 589 -92 601 -79 Q 634 -22 627 49 Q 615 211 625 379 Q 626 404 630 428 Q 639 456 612 470 Q 593 483 570 494 Q 554 500 543 493 Q 533 484 538 465 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">jiè</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">自我介绍</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="941.8027079303675" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 361 302 Q 398 383 434 504 Q 444 534 463 554 Q 481 570 467 583 Q 454 595 421 604 Q 397 610 371 594 Q 290 564 188 554 Q 173 554 168 547 Q 164 540 183 531 Q 220 515 272 530 Q 339 552 350 551 Q 380 552 377 520 Q 358 411 323 335 L 299 290 Q 227 179 86 128 Q 74 121 86 116 Q 92 109 137 112 Q 245 127 332 251 L 361 302 Z" fill="black"></path>
+      <path d="M 332 251 Q 428 139 435 136 Q 442 135 449 142 Q 459 152 452 190 Q 446 229 361 302 L 323 335 Q 232 411 180 447 Q 173 451 170 441 Q 169 431 177 421 Q 235 363 299 290 L 332 251 Z" fill="black"></path>
+      <path d="M 682 268 Q 757 400 789 531 Q 798 577 828 610 Q 847 629 828 643 Q 803 656 771 662 Q 750 668 676 639 Q 586 615 510 604 Q 491 604 487 599 Q 483 586 507 571 Q 535 553 601 575 Q 700 612 712 609 Q 728 609 728 583 Q 703 417 645 312 L 619 270 Q 580 206 453 115 Q 440 105 448 100 Q 455 97 478 110 Q 589 158 651 225 L 682 268 Z" fill="black"></path>
+      <path d="M 651 225 Q 703 149 752 85 Q 768 61 800 59 Q 914 52 958 54 Q 977 54 986 62 Q 990 69 979 75 Q 795 141 708 239 Q 695 254 682 268 L 645 312 Q 596 373 538 452 Q 526 474 506 477 Q 478 481 470 472 Q 466 466 475 460 Q 515 433 539 392 Q 579 328 619 270 L 651 225 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">shuāng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">一双鞋子</text>
+</svg>

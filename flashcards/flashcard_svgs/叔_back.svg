@@ -1,0 +1,24 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="822.8217739707102" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">4</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 374 458 Q 378 539 383 615 L 384 644 Q 387 710 401 765 Q 405 777 383 792 Q 346 811 321 814 Q 305 818 296 809 Q 289 800 297 785 Q 319 757 320 735 Q 332 602 330 447 C 330 417 373 428 374 458 Z" fill="black"></path>
+      <path d="M 383 615 Q 428 609 491 628 Q 555 649 559 651 Q 566 661 561 669 Q 552 679 521 683 Q 497 684 428 655 Q 407 651 384 644 C 355 635 353 618 383 615 Z" fill="black"></path>
+      <path d="M 355 409 Q 421 425 504 436 Q 522 439 522 447 Q 523 460 504 471 Q 474 483 450 477 Q 408 467 374 458 L 330 447 Q 144 408 61 398 Q 48 397 44 388 Q 41 376 58 364 Q 101 334 145 350 Q 242 383 307 399 Q 308 400 314 400 L 355 409 Z" fill="black"></path>
+      <path d="M 314 400 Q 326 364 325 253 Q 326 138 315 110 Q 311 97 285 100 Q 261 104 236 107 Q 224 107 223 101 Q 222 94 233 85 Q 294 36 315 5 Q 330 -8 340 -6 Q 352 -2 363 33 Q 379 67 377 130 Q 377 278 381 332 Q 390 374 371 395 Q 362 404 355 409 C 332 428 307 429 314 400 Z" fill="black"></path>
+      <path d="M 178 279 Q 156 230 124 187 Q 103 154 120 118 Q 127 99 150 111 Q 202 147 203 219 Q 210 253 203 279 Q 197 288 191 289 Q 182 288 178 279 Z" fill="black"></path>
+      <path d="M 431 291 Q 482 218 507 214 Q 522 213 530 231 Q 533 244 524 266 Q 506 300 437 319 Q 427 322 426 309 Q 425 302 431 291 Z" fill="black"></path>
+      <path d="M 724 232 Q 772 314 815 457 Q 825 488 844 508 Q 863 524 848 538 Q 835 550 801 559 Q 776 565 749 548 Q 716 535 673 521 Q 628 508 555 499 Q 540 498 536 490 Q 532 483 551 475 Q 588 462 640 478 Q 716 505 731 504 Q 759 504 755 474 Q 731 342 687 271 L 660 229 Q 588 144 471 100 Q 458 94 470 88 Q 477 81 520 85 Q 613 94 691 187 L 724 232 Z" fill="black"></path>
+      <path d="M 691 187 Q 727 139 780 82 Q 808 55 852 59 Q 910 63 954 65 Q 967 66 981 71 Q 988 77 978 87 Q 963 97 845 147 Q 788 168 724 232 L 687 271 Q 644 320 598 384 Q 580 409 548 418 Q 536 422 526 416 Q 520 409 529 401 Q 536 394 543 389 Q 567 374 649 245 Q 653 238 660 229 L 691 187 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">shū</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">叔叔阿姨</text>
+</svg>

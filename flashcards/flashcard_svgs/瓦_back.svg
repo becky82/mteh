@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="854.9367228516164" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 369 670 Q 516 695 672 721 Q 750 736 761 745 Q 771 754 767 763 Q 760 776 729 786 Q 696 793 664 782 Q 456 721 248 707 Q 208 703 236 683 Q 272 661 326 663 L 369 670 Z" fill="black"></path>
+      <path d="M 380 493 Q 384 551 406 605 Q 419 632 369 670 C 346 690 318 692 326 663 Q 327 662 328 659 Q 344 602 337 541 Q 325 414 270 225 Q 257 174 205 131 Q 189 118 193 92 Q 197 61 209 47 Q 221 35 237 51 Q 265 79 476 176 Q 500 185 506 193 Q 513 203 503 205 Q 485 206 327 163 Q 308 159 311 174 Q 353 336 376 469 L 380 493 Z" fill="black"></path>
+      <path d="M 937 21 Q 971 31 959 66 Q 940 120 940 203 Q 940 225 934 231 Q 924 238 919 221 Q 904 178 892 144 Q 877 101 855 86 Q 834 74 789 74 Q 731 77 692 98 Q 605 152 605 278 Q 605 455 678 513 Q 708 538 673 551 Q 655 560 616 572 Q 589 582 564 563 Q 491 512 380 493 C 351 487 346 467 376 469 Q 404 465 549 504 Q 562 508 569 503 Q 575 496 562 363 Q 535 134 665 47 Q 737 2 815 -1 Q 876 -1 937 21 Z" fill="black"></path>
+      <path d="M 398 347 Q 429 322 464 291 Q 476 281 488 281 Q 497 282 501 293 Q 505 305 497 329 Q 488 362 394 386 Q 381 389 376 387 Q 372 383 373 373 Q 376 363 398 347 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">wǎ</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">屋顶瓦片</text>
+</svg>

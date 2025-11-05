@@ -1,0 +1,19 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="971.3710969881182" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">4</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 535 412 Q 718 436 872 423 Q 897 420 903 430 Q 910 443 898 456 Q 867 484 821 504 Q 806 510 779 501 Q 713 485 645 475 Q 581 468 536 461 L 482 454 Q 473 457 297 431 Q 231 421 132 418 Q 119 417 117 406 Q 116 393 136 378 Q 154 365 186 353 Q 198 349 216 358 Q 232 364 302 377 Q 383 396 482 407 L 535 412 Z" fill="black"></path>
+      <path d="M 530 159 Q 533 292 535 412 L 536 461 Q 536 650 554 701 Q 566 723 551 736 Q 514 764 484 773 Q 468 777 453 764 Q 447 757 454 745 Q 484 697 482 642 Q 482 551 482 454 L 482 407 Q 482 284 482 153 C 482 123 529 129 530 159 Z" fill="black"></path>
+      <path d="M 482 153 Q 386 141 274 128 Q 252 127 268 107 Q 284 91 303 85 Q 327 78 344 83 Q 443 108 704 108 Q 717 108 731 107 Q 753 106 759 116 Q 765 129 747 144 Q 684 192 614 174 Q 578 168 530 159 L 482 153 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">shì</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">博士学位</text>
+</svg>

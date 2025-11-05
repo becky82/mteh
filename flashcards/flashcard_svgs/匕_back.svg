@@ -1,0 +1,18 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="563.9215252832274" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray"></text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 346 360 Q 506 403 693 547 Q 714 566 743 579 Q 759 589 756 600 Q 750 610 728 622 Q 676 644 647 641 Q 634 640 636 625 Q 627 544 362 389 Q 353 386 347 381 C 321 366 317 352 346 360 Z" fill="black"></path>
+      <path d="M 900 123 Q 878 190 867 308 Q 864 327 857 336 Q 848 343 844 326 Q 831 256 816 202 Q 810 165 779 142 Q 730 94 515 96 Q 431 103 401 121 Q 374 137 357 170 Q 339 213 346 360 L 347 381 Q 353 556 369 614 Q 378 636 345 660 Q 318 678 295 690 Q 276 703 257 691 Q 244 684 267 654 Q 294 617 295 567 Q 299 507 296 326 Q 289 158 330 111 Q 330 96 386 69 Q 462 32 669 40 Q 789 44 877 85 Q 913 95 900 123 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">bǐ</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">拔出匕首</text>
+</svg>

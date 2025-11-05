@@ -1,0 +1,19 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="929.3528599060514" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 514 639 Q 710 673 736 653 Q 745 647 743 633 Q 700 437 680 412 Q 673 400 658 406 Q 630 413 600 421 Q 572 427 590 407 Q 648 349 669 310 Q 679 294 694 302 Q 715 315 729 342 Q 747 369 780 531 Q 792 592 817 618 Q 833 640 827 649 Q 820 662 765 700 Q 746 716 728 710 Q 697 700 639 691 Q 434 669 357 649 Q 299 636 254 631 Q 229 628 224 617 Q 223 610 241 599 Q 277 575 312 589 Q 366 610 466 631 L 514 639 Z" fill="black"></path>
+      <path d="M 528 141 Q 541 613 542 614 Q 527 629 514 639 C 491 658 453 658 466 631 Q 487 592 488 542 Q 489 500 482 137 C 481 107 527 111 528 141 Z" fill="black"></path>
+      <path d="M 512 91 Q 561 92 608 96 Q 749 105 861 86 Q 886 82 892 92 Q 901 105 888 118 Q 858 148 814 169 Q 804 175 653 151 Q 632 151 528 141 L 482 137 Q 368 131 311 124 Q 248 117 154 118 Q 141 119 138 107 Q 137 94 156 79 Q 204 43 238 56 Q 277 68 410 83 Q 458 89 512 91 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">wèi</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">卫生间</text>
+</svg>

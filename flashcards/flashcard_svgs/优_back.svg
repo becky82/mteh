@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="914.4979276043106" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 243 494 Q 289 552 339 629 Q 367 681 394 705 Q 404 715 399 730 Q 395 743 365 768 Q 338 787 318 788 Q 299 787 307 763 Q 320 729 307 700 Q 267 606 204 517 Q 144 432 64 340 Q 54 330 50 323 Q 46 311 61 314 Q 101 318 219 464 L 243 494 Z" fill="black"></path>
+      <path d="M 219 464 Q 240 407 240 354 Q 228 194 202 107 Q 192 62 226 11 Q 227 11 229 8 Q 247 -8 259 19 Q 274 59 273 106 Q 286 350 297 404 Q 304 431 295 442 Q 250 490 243 494 C 220 514 209 492 219 464 Z" fill="black"></path>
+      <path d="M 577 465 Q 649 481 798 506 Q 808 505 818 518 Q 818 530 795 539 Q 768 560 687 534 Q 615 518 583 506 L 526 493 Q 403 475 371 469 Q 343 465 365 448 Q 401 424 438 433 Q 475 442 520 452 L 577 465 Z" fill="black"></path>
+      <path d="M 520 452 Q 472 205 365 76 Q 346 54 320 27 Q 307 20 305 15 Q 301 8 318 9 Q 327 9 364 33 Q 389 49 431 92 Q 539 212 577 465 L 583 506 Q 586 638 623 730 Q 630 742 621 750 Q 569 802 526 792 Q 505 785 521 766 Q 549 733 547 702 Q 540 587 526 493 L 520 452 Z" fill="black"></path>
+      <path d="M 943 70 Q 925 95 896 177 Q 893 193 885 198 Q 878 201 875 181 Q 857 90 842 60 Q 812 32 731 34 Q 698 35 674 45 Q 653 54 648 67 Q 620 133 663 340 Q 672 370 623 391 Q 610 395 602 391 Q 595 388 599 370 Q 611 331 606 294 Q 582 62 614 21 Q 632 3 677 -11 Q 813 -47 935 18 Q 936 21 940 21 Q 962 40 943 70 Z" fill="black"></path>
+      <path d="M 729 677 Q 760 649 791 617 Q 804 604 820 603 Q 830 603 837 617 Q 841 632 834 661 Q 825 697 726 725 Q 710 729 704 727 Q 700 723 700 710 Q 703 700 729 677 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">yōu</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">占有优势</text>
+</svg>

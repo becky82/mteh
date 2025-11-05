@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="536.3337938657088" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 377 652 Q 491 679 575 722 Q 624 741 665 751 Q 683 752 687 760 Q 691 772 678 783 Q 656 799 608 818 Q 592 825 578 824 Q 571 820 569 809 Q 569 770 362 668 C 335 655 348 645 377 652 Z" fill="black"></path>
+      <path d="M 381 549 Q 378 610 380 629 Q 381 642 377 652 L 362 668 Q 338 684 311 692 Q 295 696 286 690 Q 279 683 286 667 Q 313 619 326 569 Q 336 517 359 309 C 362 279 405 285 402 315 Q 389 436 383 516 L 381 549 Z" fill="black"></path>
+      <path d="M 607 555 Q 677 568 744 579 Q 757 580 758 588 Q 758 598 737 614 Q 700 635 638 610 Q 566 586 510 574 Q 446 564 381 549 C 352 542 353 513 383 516 Q 402 516 562 547 L 607 555 Z" fill="black"></path>
+      <path d="M 601 344 Q 637 491 648 512 Q 652 522 636 537 Q 621 549 607 555 C 580 568 550 575 562 547 Q 562 546 564 542 Q 574 523 574 510 Q 573 429 560 338 C 556 308 594 315 601 344 Z" fill="black"></path>
+      <path d="M 359 309 Q 235 296 98 277 Q 74 276 92 255 Q 108 239 129 233 Q 153 227 171 233 Q 441 308 891 308 Q 915 309 920 318 Q 926 331 907 348 Q 846 393 804 382 Q 722 366 601 344 L 560 338 Q 523 334 487 327 Q 445 323 402 315 L 359 309 Z" fill="black"></path>
+      <path d="M 378 210 Q 382 153 285 59 Q 257 34 191 -16 Q 181 -20 192 -25 Q 246 -25 341 46 Q 342 49 346 50 Q 382 78 440 141 Q 447 148 453 152 Q 460 156 461 167 Q 457 198 418 215 Q 399 225 386 224 Q 377 223 378 210 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">pīng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">乒乓球</text>
+</svg>

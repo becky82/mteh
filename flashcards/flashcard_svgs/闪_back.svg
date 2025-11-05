@@ -1,0 +1,21 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="866.5377176015473" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">4</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 319 751 Q 379 670 404 666 Q 417 665 426 683 Q 429 696 420 719 Q 410 738 384 751 Q 344 775 326 779 Q 316 782 314 769 Q 313 762 319 751 Z" fill="black"></path>
+      <path d="M 206 687 Q 231 627 230 555 Q 234 285 189 154 Q 170 97 205 52 L 207 50 Q 219 34 231 49 Q 270 94 270 251 Q 270 555 290 650 Q 291 671 274 681 Q 249 703 220 712 Q 210 715 202 705 Q 198 699 206 687 Z" fill="black"></path>
+      <path d="M 527 751 Q 509 752 514 741 Q 521 728 545 717 Q 557 708 618 722 Q 747 759 766 732 Q 797 683 789 243 Q 788 189 785 133 Q 784 91 769 80 Q 751 70 670 93 Q 654 97 654 87 Q 655 80 669 73 Q 741 22 778 -18 Q 800 -37 813 -35 Q 826 -32 838 -3 Q 854 45 853 114 Q 835 505 838 650 Q 838 692 851 716 Q 864 738 852 751 Q 842 767 792 792 Q 771 804 712 785 Q 559 755 527 751 Z" fill="black"></path>
+      <path d="M 514 419 Q 529 455 544 502 Q 551 524 562 547 Q 569 557 562 565 Q 555 575 525 588 Q 503 597 494 594 Q 482 590 485 575 Q 506 466 418 347 Q 373 295 326 241 Q 319 234 326 231 Q 333 230 343 235 Q 392 260 432 300 Q 472 337 495 382 Q 498 389 502 395 L 514 419 Z" fill="black"></path>
+      <path d="M 502 395 Q 572 340 657 258 Q 672 242 686 238 Q 695 237 701 246 Q 711 259 698 298 Q 683 346 514 419 C 486 431 478 414 502 395 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">shǎn</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">电闪雷鸣</text>
+</svg>

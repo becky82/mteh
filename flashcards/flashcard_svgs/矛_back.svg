@@ -1,0 +1,21 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="820.1337386018237" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">5</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 534 619 Q 660 718 711 732 Q 733 738 727 756 Q 724 775 653 817 Q 632 830 608 821 Q 530 796 414 766 Q 384 757 311 763 Q 286 764 294 741 Q 303 728 323 714 Q 357 695 394 716 Q 424 726 579 771 Q 592 777 605 770 Q 618 763 612 748 Q 567 694 515 630 C 496 607 510 601 534 619 Z" fill="black"></path>
+      <path d="M 515 630 Q 440 660 424 651 Q 420 647 421 635 Q 422 629 522 546 Q 535 534 550 535 Q 560 536 565 548 Q 569 563 560 591 Q 554 607 534 619 L 515 630 Z" fill="black"></path>
+      <path d="M 528 487 Q 646 506 764 518 Q 804 524 807 506 Q 806 487 766 421 Q 754 402 764 398 Q 771 391 788 405 Q 885 466 924 477 Q 954 481 953 499 Q 952 515 864 566 Q 837 579 803 573 Q 640 537 501 515 Q 344 496 123 475 Q 89 474 113 444 Q 132 419 192 434 Q 322 458 451 475 L 528 487 Z" fill="black"></path>
+      <path d="M 515 447 Q 543 374 546 274 Q 550 207 539 148 Q 530 91 515 78 Q 506 72 424 89 Q 394 98 384 92 Q 377 91 396 76 Q 465 19 503 -30 Q 524 -52 545 -41 Q 570 -26 590 37 Q 617 128 606 279 Q 602 387 577 432 Q 559 466 528 487 C 504 505 505 475 515 447 Z" fill="black"></path>
+      <path d="M 451 475 Q 445 450 422 417 Q 358 326 285 265 Q 224 210 100 130 Q 78 115 98 113 Q 132 107 249 169 Q 319 209 408 304 Q 459 358 488 407 Q 503 432 515 447 C 550 494 485 579 451 475 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">máo</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">自我矛盾</text>
+</svg>

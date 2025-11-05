@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="976.4642166344294" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">1</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 508 740 Q 514 761 535 778 Q 544 785 542 797 Q 541 809 525 822 Q 489 855 447 851 Q 437 848 440 833 Q 458 721 277 501 Q 142 366 53 290 Q 43 283 56 281 Q 134 291 288 438 Q 381 537 493 716 L 508 740 Z" fill="black"></path>
+      <path d="M 493 716 Q 601 562 738 397 Q 760 370 800 371 Q 935 370 978 376 Q 990 379 993 385 Q 993 392 975 401 Q 792 470 732 518 Q 629 611 508 740 C 487 762 476 741 493 716 Z" fill="black"></path>
+      <path d="M 441 473 Q 484 415 520 396 Q 536 392 547 405 Q 554 418 553 436 Q 541 488 459 512 L 458 513 Q 440 520 430 516 Q 423 515 425 502 Q 426 489 441 473 Z" fill="black"></path>
+      <path d="M 294 278 Q 260 279 261 271 Q 254 253 282 238 Q 312 214 330 216 Q 351 216 382 232 Q 581 310 605 279 Q 612 263 597 240 Q 585 222 560 165 Q 515 77 497 63 Q 463 30 475 -20 Q 478 -42 488 -48 Q 498 -54 512 -42 Q 548 -15 632 184 Q 659 244 694 266 Q 704 275 706 286 Q 707 299 671 324 Q 634 348 617 350 Q 608 349 599 343 Q 488 292 294 278 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">jīn</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">迄今为止</text>
+</svg>

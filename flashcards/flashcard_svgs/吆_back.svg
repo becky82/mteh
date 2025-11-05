@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="521.6203371096988" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray"></text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 141 562 Q 129 568 101 573 Q 88 577 85 571 Q 78 565 87 549 Q 118 477 134 362 Q 137 328 156 304 Q 174 282 179 297 Q 186 315 183 345 L 179 378 Q 158 496 155 531 C 152 557 152 557 141 562 Z" fill="black"></path>
+      <path d="M 325 397 Q 344 508 373 540 Q 398 568 372 583 Q 350 595 321 613 Q 300 625 256 598 Q 211 577 141 562 C 112 556 126 522 155 531 Q 191 543 254 557 Q 282 564 288 553 Q 298 546 290 504 Q 283 458 271 405 C 264 376 320 367 325 397 Z" fill="black"></path>
+      <path d="M 183 345 Q 217 357 330 371 Q 340 372 341 381 Q 341 387 325 397 C 300 413 299 414 271 405 Q 270 405 268 404 Q 219 388 179 378 C 150 371 154 336 183 345 Z" fill="black"></path>
+      <path d="M 651 407 Q 573 408 509 409 Q 466 409 489 435 Q 577 583 662 694 Q 680 715 676 723 Q 673 741 627 778 Q 608 794 586 790 Q 573 786 580 768 Q 589 747 582 717 Q 566 653 488 513 Q 463 467 412 422 Q 390 406 391 391 Q 395 369 412 347 Q 424 334 439 342 Q 488 366 632 379 C 662 382 681 407 651 407 Z" fill="black"></path>
+      <path d="M 785 199 Q 676 187 547 157 Q 501 144 532 179 Q 596 264 745 437 Q 785 486 818 513 Q 834 526 827 540 Q 814 565 770 592 Q 749 605 737 602 Q 724 598 726 577 Q 729 526 651 407 L 632 379 Q 469 166 427 146 Q 408 136 411 116 Q 412 98 446 70 Q 459 54 480 69 Q 601 135 796 175 C 825 181 815 203 785 199 Z" fill="black"></path>
+      <path d="M 796 175 Q 814 138 833 93 Q 842 68 855 59 Q 862 55 874 62 Q 890 71 893 117 Q 899 178 755 315 Q 752 318 751 319 Q 744 326 738 316 Q 732 303 739 289 Q 761 249 785 199 L 796 175 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">yāo</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">吆喝一声</text>
+</svg>

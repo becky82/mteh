@@ -1,0 +1,23 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="971.2296214423874" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 318 769 Q 354 744 391 714 Q 407 701 425 704 Q 437 705 441 720 Q 444 736 431 768 Q 416 804 308 821 Q 290 822 284 819 Q 278 815 282 801 Q 286 789 318 769 Z" fill="black"></path>
+      <path d="M 150 509 Q 98 494 70 493 Q 55 494 53 486 Q 49 477 60 469 Q 82 454 99 451 Q 117 447 222 497 Q 250 510 260 502 Q 272 495 264 466 Q 270 289 229 149 Q 214 116 259 66 Q 269 53 280 61 Q 287 68 298 93 Q 340 154 429 258 Q 441 271 438 278 Q 435 287 425 276 Q 377 239 331 197 Q 292 163 297 212 Q 296 282 319 459 Q 323 484 347 508 Q 359 518 349 532 Q 339 548 299 566 Q 286 573 269 561 Q 193 522 150 509 Z" fill="black"></path>
+      <path d="M 664 600 Q 728 615 798 627 Q 841 637 847 643 Q 856 650 851 660 Q 844 672 814 680 Q 783 686 752 674 Q 704 658 652 645 Q 594 632 526 626 Q 489 620 515 602 Q 558 578 615 591 Q 616 592 618 591 L 664 600 Z" fill="black"></path>
+      <path d="M 688 159 Q 689 289 691 397 L 692 427 Q 692 508 696 547 Q 705 572 664 600 C 640 618 605 618 618 591 Q 639 549 639 513 Q 640 476 641 152 C 641 122 688 129 688 159 Z" fill="black"></path>
+      <path d="M 691 397 Q 730 382 779 398 Q 870 420 877 423 Q 884 432 880 440 Q 873 452 842 457 Q 811 461 781 448 Q 762 441 739 435 Q 717 431 692 427 C 662 422 663 407 691 397 Z" fill="black"></path>
+      <path d="M 552 140 Q 543 320 547 361 Q 550 383 535 396 Q 513 412 485 422 Q 472 426 462 420 Q 455 414 461 399 Q 480 363 490 325 Q 497 288 512 135 C 515 105 553 110 552 140 Z" fill="black"></path>
+      <path d="M 512 135 Q 458 131 401 122 Q 379 121 395 103 Q 408 90 427 83 Q 448 79 464 82 Q 609 121 910 120 Q 929 120 935 128 Q 941 140 924 154 Q 867 196 801 178 Q 753 171 688 159 L 641 152 Q 596 149 552 140 L 512 135 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">zhèng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">保证成功</text>
+</svg>

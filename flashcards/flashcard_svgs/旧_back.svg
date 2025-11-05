@@ -1,0 +1,21 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="894.5498756562587" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 173 595 Q 234 487 239 238 Q 240 166 285 132 L 287 131 Q 308 125 309 161 Q 309 179 282 374 Q 272 474 267 555 Q 268 571 252 586 Q 219 608 185 618 Q 176 621 171 615 Q 161 608 173 595 Z" fill="black"></path>
+      <path d="M 393 602 Q 381 609 356 615 Q 343 619 339 614 Q 332 608 339 591 Q 379 464 383 265 Q 382 205 408 162 Q 424 137 432 153 Q 436 163 438 174 L 443 205 Q 443 227 428 372 L 425 402 Q 412 523 410 565 C 408 595 408 595 393 602 Z" fill="black"></path>
+      <path d="M 654 189 Q 679 156 701 147 Q 714 138 731 166 Q 756 221 786 505 Q 796 542 823 573 Q 838 589 824 605 Q 805 624 753 655 Q 731 664 649 645 Q 637 645 500 620 Q 442 610 393 602 C 363 597 381 558 410 565 Q 500 587 658 605 Q 692 609 702 598 Q 730 568 726 537 Q 692 243 665 221 C 651 195 650 193 654 189 Z" fill="black"></path>
+      <path d="M 428 372 Q 431 372 634 391 Q 662 394 653 410 Q 640 429 610 436 Q 567 442 425 402 C 396 394 398 370 428 372 Z" fill="black"></path>
+      <path d="M 438 174 Q 444 173 456 174 Q 568 184 654 189 C 684 191 689 203 665 221 Q 658 228 642 232 Q 617 238 570 229 Q 503 216 443 205 C 413 200 408 176 438 174 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">jiù</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">依旧不变</text>
+</svg>

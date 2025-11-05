@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="754.913512019895" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 467 815 Q 495 770 486 617 Q 482 580 497 542 Q 507 527 521 535 Q 531 544 532 616 Q 533 739 557 781 Q 563 790 552 803 Q 500 842 474 833 Q 461 829 467 815 Z" fill="black"></path>
+      <path d="M 307 696 Q 282 644 247 596 Q 225 566 241 529 Q 248 511 270 523 Q 321 557 330 637 Q 336 670 330 695 Q 326 704 320 705 Q 311 704 307 696 Z" fill="black"></path>
+      <path d="M 705 730 Q 763 696 833 644 Q 852 628 867 627 Q 876 628 880 639 Q 890 654 869 692 Q 850 734 700 759 Q 691 762 692 750 Q 693 737 705 730 Z" fill="black"></path>
+      <path d="M 648 662 Q 588 521 299 346 Q 218 300 99 236 Q 75 223 103 223 Q 251 223 537 456 Q 568 483 599 511 Q 678 586 716 616 Q 729 626 727 636 Q 726 649 701 662 Q 673 677 661 675 Q 652 675 648 662 Z" fill="black"></path>
+      <path d="M 564 279 Q 622 292 680 300 Q 696 301 701 293 Q 705 283 705 255 Q 699 156 681 104 Q 671 71 661 60 Q 648 47 619 55 Q 585 64 553 73 Q 528 80 546 57 Q 592 6 618 -32 Q 628 -54 650 -48 Q 663 -47 683 -29 Q 735 17 768 214 Q 775 257 793 282 Q 811 304 802 315 Q 786 334 749 352 Q 722 365 694 354 Q 646 335 582 317 L 510 301 Q 420 285 371 285 Q 352 286 351 276 Q 350 266 372 252 Q 399 234 424 243 Q 458 253 495 262 L 564 279 Z" fill="black"></path>
+      <path d="M 495 262 Q 411 84 242 17 Q 223 10 204 1 Q 188 -6 200 -12 Q 267 -24 365 31 Q 416 58 474 123 Q 525 195 564 279 L 582 317 Q 594 345 612 367 Q 627 383 612 397 Q 567 445 541 442 Q 525 441 529 424 Q 538 390 517 325 Q 513 315 510 301 L 495 262 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">liè</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">优胜劣汰</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="567.5998894722298" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray"></text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 253 684 Q 280 662 309 634 Q 324 621 340 622 Q 352 622 357 637 Q 361 652 351 683 Q 345 702 313 717 Q 238 742 224 735 Q 218 731 221 717 Q 225 707 253 684 Z" fill="black"></path>
+      <path d="M 147 484 Q 204 426 238 410 Q 254 407 263 421 Q 269 434 266 451 Q 251 496 162 522 Q 161 523 160 523 Q 142 529 133 524 Q 127 523 130 510 Q 131 498 147 484 Z" fill="black"></path>
+      <path d="M 131 122 Q 118 118 120 100 Q 132 19 169 -2 Q 176 -9 188 -7 Q 195 -6 198 22 Q 207 83 316 334 Q 323 350 323 357 Q 322 367 312 361 Q 297 352 175 165 Q 160 143 131 122 Z" fill="black"></path>
+      <path d="M 621 560 Q 667 572 719 582 Q 761 592 767 599 Q 777 608 771 616 Q 764 628 734 635 Q 703 639 672 627 Q 648 620 625 611 L 570 595 Q 513 582 449 574 Q 412 567 439 550 Q 484 526 541 543 Q 554 547 570 548 L 621 560 Z" fill="black"></path>
+      <path d="M 625 611 Q 628 675 646 737 Q 650 749 630 764 Q 594 783 570 788 Q 554 792 546 783 Q 539 776 546 760 Q 567 730 567 710 Q 568 655 570 595 L 570 548 Q 569 488 567 422 C 566 392 607 400 610 430 Q 616 497 621 560 L 625 611 Z" fill="black"></path>
+      <path d="M 567 422 Q 476 407 371 390 Q 352 387 367 371 Q 380 358 398 354 Q 419 350 434 354 Q 489 370 552 381 L 592 386 Q 674 402 808 404 Q 862 404 868 414 Q 872 426 857 438 Q 799 477 734 456 Q 682 446 610 430 L 567 422 Z" fill="black"></path>
+      <path d="M 568 244 Q 507 232 438 226 Q 401 219 427 202 Q 466 181 540 194 Q 552 197 568 198 L 619 209 Q 766 240 775 247 Q 784 254 779 264 Q 772 276 742 284 Q 718 288 623 259 L 568 244 Z" fill="black"></path>
+      <path d="M 552 381 Q 567 348 568 244 L 568 198 Q 567 147 567 73 C 567 43 611 48 612 78 Q 615 148 619 209 L 623 259 Q 626 325 628 329 Q 635 348 626 358 Q 610 376 592 386 C 567 402 542 409 552 381 Z" fill="black"></path>
+      <path d="M 567 73 Q 446 61 307 48 Q 283 47 300 27 Q 315 11 335 5 Q 357 -2 376 2 Q 592 56 895 35 Q 896 36 898 35 Q 920 34 926 44 Q 933 57 915 72 Q 858 117 816 109 Q 740 96 612 78 L 567 73 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">wā</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">低洼地区</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="657.0124343741365" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 268 723 Q 226 750 208 744 Q 199 738 206 723 Q 228 645 235 549 Q 238 290 203 144 Q 185 78 227 26 Q 239 10 252 25 Q 267 43 267 71 L 270 101 Q 274 135 274 183 Q 284 669 289 680 C 292 709 292 709 268 723 Z" fill="black"></path>
+      <path d="M 731 85 Q 758 52 779 9 Q 789 -15 805 -14 Q 818 -13 828 9 Q 861 61 840 247 Q 822 650 846 685 Q 847 688 851 691 Q 863 704 863 713 Q 862 726 829 750 Q 771 792 728 777 Q 707 774 673 768 Q 522 755 340 726 Q 303 722 268 723 C 238 723 260 675 289 680 Q 301 681 318 685 Q 331 689 453 707 Q 606 729 722 734 Q 747 735 753 723 Q 777 695 775 402 Q 776 224 778 181 Q 781 135 770 116 Q 766 103 760 102 Q 754 102 740 107 C 720 100 720 100 731 85 Z" fill="black"></path>
+      <path d="M 518 435 Q 521 441 566 559 Q 584 601 584 605 Q 583 606 583 607 Q 570 626 544 647 Q 528 660 514 659 Q 501 655 505 640 Q 524 583 447 405 Q 440 392 433 379 Q 400 322 332 248 Q 325 244 322 237 Q 318 227 328 227 Q 359 227 432 302 Q 441 312 451 324 Q 499 387 510 418 L 518 435 Z" fill="black"></path>
+      <path d="M 510 418 Q 511 414 516 410 Q 585 355 668 274 Q 683 258 695 254 Q 702 254 709 262 Q 719 274 706 310 Q 694 364 518 435 C 491 446 493 443 510 418 Z" fill="black"></path>
+      <path d="M 267 71 Q 280 58 308 61 Q 440 79 731 85 C 760 86 760 86 740 107 Q 733 117 713 132 Q 694 145 657 139 Q 443 106 272 102 Q 271 102 270 101 C 240 98 241 87 267 71 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">qiú</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">囚犯逃跑</text>
+</svg>

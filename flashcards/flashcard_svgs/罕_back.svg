@@ -1,0 +1,23 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="709.782812931749" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 308 710 Q 295 735 284 744 Q 265 760 262 732 Q 266 699 227 652 Q 179 607 211 543 Q 227 515 249 544 Q 255 556 307 678 C 315 697 315 697 308 710 Z" fill="black"></path>
+      <path d="M 307 678 Q 328 668 351 673 Q 522 721 706 733 Q 719 733 727 732 Q 743 719 740 712 Q 730 672 719 630 L 721 629 Q 728 625 745 638 Q 796 672 837 684 Q 871 694 871 703 Q 870 713 797 763 Q 773 781 707 767 Q 613 755 398 722 Q 353 715 308 710 C 278 707 278 687 307 678 Z" fill="black"></path>
+      <path d="M 384 622 Q 388 609 382 600 Q 352 548 282 479 Q 272 472 270 468 Q 266 461 277 460 Q 319 460 415 547 Q 428 560 440 567 Q 449 573 447 584 Q 446 594 428 617 Q 410 636 396 639 Q 381 640 384 622 Z" fill="black"></path>
+      <path d="M 606 591 Q 643 563 684 529 Q 697 519 711 519 Q 721 520 725 532 Q 729 545 720 573 Q 708 612 600 635 Q 585 638 580 635 Q 576 631 577 619 Q 581 609 606 591 Z" fill="black"></path>
+      <path d="M 539 435 Q 662 459 670 463 Q 680 470 675 480 Q 668 492 638 500 Q 611 506 502 476 Q 375 458 363 457 Q 326 453 352 434 Q 391 407 453 420 Q 460 421 472 423 L 539 435 Z" fill="black"></path>
+      <path d="M 549 270 Q 666 279 830 275 Q 861 274 890 273 Q 912 273 918 282 Q 925 295 907 312 Q 844 360 792 347 Q 696 332 550 311 L 487 303 Q 328 287 143 269 Q 119 268 136 247 Q 170 213 215 222 Q 384 264 487 264 L 549 270 Z" fill="black"></path>
+      <path d="M 489 -28 Q 495 -55 501 -65 Q 507 -72 515 -70 Q 545 -52 546 112 Q 545 149 549 270 L 550 311 Q 551 324 552 339 Q 553 358 555 370 Q 559 386 561 399 Q 565 418 550 428 Q 544 432 539 435 C 514 452 459 450 472 423 Q 487 408 487 303 L 487 264 Q 487 -12 489 -28 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">hǎn</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">罕见病例</text>
+</svg>

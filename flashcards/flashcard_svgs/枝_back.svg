@@ -1,0 +1,24 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="813.0599613152805" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">6</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 344 495 Q 437 522 440 525 Q 447 532 443 541 Q 436 551 408 558 Q 362 564 345 548 L 302 532 Q 194 505 144 496 Q 108 489 134 474 Q 179 455 248 473 Q 266 479 287 481 L 344 495 Z" fill="black"></path>
+      <path d="M 342 391 Q 342 440 344 495 L 345 548 Q 345 666 365 738 Q 380 763 350 783 Q 335 795 310 809 Q 288 825 267 811 Q 263 807 269 791 Q 299 742 301 665 Q 301 599 302 532 L 297 376 Q 293 202 284 158 Q 263 62 267 50 Q 274 26 284 2 Q 291 -16 299 -19 Q 305 -26 312 -17 Q 339 -1 339 62 Q 338 99 341 358 L 342 391 Z" fill="black"></path>
+      <path d="M 287 481 Q 238 348 74 131 Q 67 119 80 119 Q 87 118 97 127 Q 218 232 297 376 C 371 508 298 509 287 481 Z" fill="black"></path>
+      <path d="M 341 358 Q 362 345 402 309 Q 415 299 428 300 Q 438 301 441 312 Q 445 325 435 351 Q 429 367 403 378 Q 376 385 347 391 Q 344 392 342 391 C 312 390 316 374 341 358 Z" fill="black"></path>
+      <path d="M 666 540 Q 826 579 831 583 Q 840 592 835 600 Q 828 612 798 619 Q 767 625 736 612 Q 703 602 670 590 L 621 577 Q 567 567 505 558 Q 468 551 495 534 Q 540 510 598 526 Q 607 529 620 530 L 666 540 Z" fill="black"></path>
+      <path d="M 657 411 Q 661 478 666 540 L 670 590 Q 674 699 694 782 Q 698 792 678 808 Q 642 827 618 832 Q 602 835 594 826 Q 587 819 594 804 Q 618 770 618 746 Q 621 665 621 577 L 620 530 Q 619 467 615 398 C 613 368 655 381 657 411 Z" fill="black"></path>
+      <path d="M 673 177 Q 727 259 754 319 Q 760 350 793 379 Q 812 395 799 409 Q 786 422 754 434 Q 733 441 657 411 L 615 398 Q 572 388 507 379 Q 492 378 488 370 Q 484 363 503 355 Q 540 342 592 358 Q 668 385 683 384 Q 705 383 699 358 Q 675 265 634 211 L 608 180 Q 533 116 421 84 Q 406 80 418 71 Q 424 67 468 69 Q 561 76 637 142 L 673 177 Z" fill="black"></path>
+      <path d="M 637 142 Q 686 85 771 13 Q 799 -9 843 0 Q 898 10 940 17 Q 953 20 965 25 Q 972 32 961 41 Q 945 48 826 85 Q 751 109 673 177 L 634 211 Q 600 245 564 285 Q 545 307 512 312 Q 500 313 491 307 Q 487 300 495 292 Q 537 267 608 180 L 637 142 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">zhī</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">修剪树枝</text>
+</svg>

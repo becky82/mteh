@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="757.7430229345123" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">6</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 521 714 Q 533 739 553 759 Q 562 766 560 777 Q 559 789 544 803 Q 508 836 469 832 Q 459 829 462 815 Q 477 715 308 510 Q 235 429 86 305 Q 76 299 88 296 Q 160 305 303 433 Q 400 532 505 690 L 521 714 Z" fill="black"></path>
+      <path d="M 505 690 Q 608 552 722 427 Q 747 397 791 393 Q 872 383 958 394 Q 980 395 982 400 Q 985 407 968 416 Q 776 503 737 527 Q 617 617 524 711 L 521 714 C 500 735 487 714 505 690 Z" fill="black"></path>
+      <path d="M 404 362 Q 437 380 557 405 Q 567 406 573 402 Q 582 398 581 382 Q 578 345 560 279 Q 553 248 525 256 Q 483 265 451 272 Q 435 275 439 265 Q 440 255 469 235 Q 511 202 536 165 Q 542 155 552 158 Q 559 159 576 180 Q 597 207 616 267 Q 637 370 656 386 Q 668 396 662 409 Q 653 422 614 447 Q 599 457 541 442 Q 535 442 384 404 C 355 397 377 350 404 362 Z" fill="black"></path>
+      <path d="M 849 88 Q 834 118 813 210 Q 812 226 805 230 Q 799 233 795 215 Q 774 116 757 85 Q 738 63 682 49 Q 624 36 554 39 Q 494 43 448 63 Q 406 82 396 109 Q 369 169 404 362 C 409 392 409 392 384 404 Q 374 411 362 415 Q 349 419 340 415 Q 333 411 338 393 Q 351 353 347 314 Q 334 139 347 90 Q 351 59 380 34 Q 485 -47 711 -10 Q 723 -7 737 -4 Q 791 11 844 45 Q 863 61 849 88 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">cāng</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">货物仓库</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="753.9231831997789" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">5</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 237 498 Q 286 561 342 647 Q 370 696 394 721 Q 404 731 399 746 Q 395 759 365 784 Q 337 803 318 803 Q 299 802 307 778 Q 320 745 308 718 Q 244 562 75 364 Q 65 354 62 347 Q 58 335 73 338 Q 109 342 208 463 L 237 498 Z" fill="black"></path>
+      <path d="M 208 463 Q 226 427 227 359 Q 226 340 226 320 Q 225 217 194 111 Q 184 66 218 15 Q 219 15 221 12 Q 239 -4 251 23 Q 266 63 265 110 Q 271 360 281 416 Q 288 443 279 454 Q 254 481 237 498 C 216 519 196 491 208 463 Z" fill="black"></path>
+      <path d="M 508 719 Q 492 732 476 739 Q 463 743 454 738 Q 445 734 449 723 Q 471 672 475 576 Q 475 483 477 255 C 477 225 524 231 524 261 Q 524 306 524 347 L 524 376 Q 524 418 525 456 L 525 483 Q 525 526 526 564 L 526 590 Q 527 638 530 688 C 531 702 531 702 508 719 Z" fill="black"></path>
+      <path d="M 771 293 Q 771 497 780 632 Q 781 666 797 689 Q 810 705 797 722 Q 787 734 736 764 Q 721 773 648 748 Q 576 727 508 719 C 478 715 501 680 530 688 Q 531 689 536 690 Q 642 715 686 720 Q 704 723 709 717 Q 719 699 717 285 C 717 255 771 263 771 293 Z" fill="black"></path>
+      <path d="M 526 564 Q 551 573 653 588 Q 675 594 665 605 Q 655 618 630 621 Q 597 624 526 590 C 499 577 497 555 526 564 Z" fill="black"></path>
+      <path d="M 525 456 Q 526 456 531 456 Q 598 466 647 473 Q 669 477 661 489 Q 651 502 627 506 Q 596 510 525 483 C 497 472 495 456 525 456 Z" fill="black"></path>
+      <path d="M 524 347 Q 602 356 658 364 Q 682 368 673 380 Q 663 395 637 400 Q 607 403 524 376 C 495 367 494 344 524 347 Z" fill="black"></path>
+      <path d="M 477 255 Q 399 249 317 239 Q 295 238 311 219 Q 326 204 344 198 Q 366 192 383 197 Q 566 242 902 243 Q 921 243 941 242 Q 962 242 967 251 Q 973 263 955 277 Q 898 322 829 304 Q 802 300 771 293 L 717 285 Q 671 281 618 272 Q 572 268 524 261 L 477 255 Z" fill="black"></path>
+      <path d="M 480 169 Q 468 111 330 4 Q 308 -9 335 -8 Q 398 -8 506 89 Q 509 98 552 130 Q 564 140 561 151 Q 560 164 533 174 Q 505 186 492 184 Q 483 183 480 169 Z" fill="black"></path>
+      <path d="M 682 159 Q 733 101 791 20 Q 804 -2 820 -9 Q 829 -10 837 -2 Q 852 11 844 56 Q 835 116 687 190 Q 678 197 675 184 Q 672 171 682 159 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">jù</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">俱乐部</text>
+</svg>

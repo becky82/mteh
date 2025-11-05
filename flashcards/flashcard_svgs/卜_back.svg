@@ -1,0 +1,18 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="744.0198949986184" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 418 80 Q 406 41 436 -32 Q 443 -51 452 -55 Q 459 -62 467 -53 Q 497 -32 496 37 Q 495 89 497 567 Q 497 666 515 733 Q 525 749 521 765 Q 514 775 451 812 Q 426 831 402 813 Q 396 807 404 791 Q 434 749 441 652 Q 450 250 429 129 Q 425 105 418 80 Z" fill="black"></path>
+      <path d="M 558 499 Q 657 448 780 371 Q 804 353 821 353 Q 831 354 837 367 Q 846 386 820 430 Q 783 493 551 533 Q 539 536 540 522 Q 544 506 558 499 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">bo</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">萝卜青菜</text>
+</svg>

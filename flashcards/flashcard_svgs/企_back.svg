@@ -1,0 +1,22 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="960.3360044211108" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">4</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 498 699 Q 510 724 526 737 Q 533 744 532 755 Q 531 765 516 779 Q 477 815 443 806 Q 433 803 436 790 Q 452 691 291 488 Q 276 473 263 457 Q 211 399 77 285 Q 68 279 80 276 Q 140 282 279 406 Q 373 502 483 675 L 498 699 Z" fill="black"></path>
+      <path d="M 483 675 Q 594 533 735 384 Q 757 360 795 362 Q 919 369 959 376 Q 971 379 972 385 Q 972 392 955 399 Q 783 453 724 495 Q 619 579 498 699 C 477 720 464 699 483 675 Z" fill="black"></path>
+      <path d="M 510 73 Q 514 167 519 257 L 521 289 Q 524 398 541 453 Q 544 465 523 480 Q 486 499 461 503 Q 445 506 436 497 Q 429 490 437 474 Q 462 438 462 414 Q 472 254 466 68 C 465 38 509 43 510 73 Z" fill="black"></path>
+      <path d="M 519 257 Q 547 254 622 267 Q 703 288 704 289 Q 713 296 708 305 Q 701 315 672 321 Q 650 324 569 299 Q 545 295 521 289 C 492 282 489 259 519 257 Z" fill="black"></path>
+      <path d="M 350 56 Q 337 200 342 251 Q 343 275 329 287 Q 304 305 276 313 Q 261 317 252 311 Q 245 304 252 289 Q 271 258 280 224 Q 287 190 307 51 C 311 21 353 26 350 56 Z" fill="black"></path>
+      <path d="M 307 51 Q 240 47 170 39 Q 148 38 163 19 Q 178 4 196 -2 Q 218 -8 235 -4 Q 484 59 810 38 Q 811 39 816 38 Q 837 38 842 47 Q 848 59 831 74 Q 779 116 739 107 Q 652 92 510 73 L 466 68 Q 409 64 350 56 L 307 51 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">qǐ</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">国有企业</text>
+</svg>

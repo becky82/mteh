@@ -1,0 +1,23 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="904.0287372202266" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">3</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 234 719 Q 262 694 293 663 Q 308 648 326 649 Q 339 649 344 665 Q 350 681 340 716 Q 328 750 229 774 Q 211 778 204 775 Q 198 771 200 756 Q 204 743 234 719 Z" fill="black"></path>
+      <path d="M 144 512 Q 198 455 235 441 Q 250 438 259 453 Q 265 466 262 483 Q 247 525 158 551 Q 157 552 156 552 Q 138 556 129 552 Q 123 551 126 538 Q 127 526 144 512 Z" fill="black"></path>
+      <path d="M 138 178 Q 125 175 128 157 Q 140 79 176 59 Q 183 52 194 54 Q 201 55 203 82 Q 213 139 324 403 Q 331 419 331 426 Q 330 436 321 429 Q 305 420 183 224 Q 168 202 138 178 Z" fill="black"></path>
+      <path d="M 566 792 Q 602 731 587 467 Q 577 413 593 378 Q 594 375 596 371 Q 606 355 622 364 Q 634 374 635 454 Q 626 532 646 687 Q 647 715 666 753 Q 673 763 661 778 Q 603 823 573 812 Q 560 808 566 792 Z" fill="black"></path>
+      <path d="M 447 566 Q 425 508 393 455 Q 372 428 392 388 Q 401 372 421 384 Q 443 400 456 433 Q 474 473 474 509 Q 478 543 471 567 Q 465 576 460 576 Q 451 575 447 566 Z" fill="black"></path>
+      <path d="M 764 610 Q 821 576 890 525 Q 912 507 929 506 Q 939 506 945 519 Q 955 535 931 580 Q 913 620 834 634 Q 785 641 758 644 Q 748 648 748 634 Q 751 619 764 610 Z" fill="black"></path>
+      <path d="M 718 485 Q 718 305 523 123 Q 511 114 500 104 Q 442 49 302 -40 Q 292 -47 299 -52 Q 308 -56 321 -52 Q 526 17 634 162 Q 695 234 757 360 Q 776 397 802 433 Q 812 443 807 455 Q 800 467 768 490 Q 746 506 734 505 Q 718 502 718 485 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">shā</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">戈壁沙漠</text>
+</svg>

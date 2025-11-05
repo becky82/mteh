@@ -1,0 +1,20 @@
+<svg viewBox="-300 -200 1624 2024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background; frequency; box; HSK level -->
+  <rect x="-300" y="-200" width="1624" height="2024" fill="white"/>
+  <rect x="0" y="-124" width="60" height="661.3981762917933" fill="gray" transform="scale(1, -1) translate(0, -900)"/>
+  <rect width="1024" height="1024" fill="none" stroke="black" stroke-width="10"/>
+  <text x="900" y="160" font-family="Arial" font-size="180" text-anchor="north" fill="gray">+</text>
+
+  <!-- Make Me a Hanzi character data -->
+  <g transform="scale(1, -1) translate(0, -900)">
+      <path d="M 306 564 Q 352 619 402 700 Q 423 739 442 758 Q 452 770 446 785 Q 442 798 409 823 Q 379 842 358 842 Q 337 839 347 815 Q 371 770 284 619 Q 244 550 186 474 Q 176 462 173 456 Q 170 443 185 446 Q 215 452 289 539 L 306 564 Z" fill="black"></path>
+      <path d="M 600 570 Q 630 585 733 585 Q 758 585 765 574 Q 780 513 723 287 Q 693 176 642 107 Q 620 73 596 73 Q 583 72 515 108 Q 505 114 503 107 Q 502 103 512 90 Q 548 33 561 -6 Q 568 -30 582 -32 Q 604 -36 630 -17 Q 723 38 766 197 Q 800 306 834 474 Q 840 513 869 538 Q 885 553 885 562 Q 884 572 864 589 Q 836 616 795 632 Q 771 644 699 624 Q 396 572 306 564 C 276 561 259 544 289 539 Q 326 527 369 536 Q 379 537 391 538 L 413 541 Q 492 554 562 565 L 600 570 Z" fill="black"></path>
+      <path d="M 391 538 Q 390 535 391 529 Q 418 441 201 230 Q 194 226 203 224 Q 246 224 348 329 Q 354 338 363 347 Q 397 390 450 474 Q 457 486 462 490 Q 468 494 466 504 Q 465 513 454 523 Q 445 530 413 541 C 390 549 390 549 391 538 Z" fill="black"></path>
+      <path d="M 562 565 Q 562 564 563 561 Q 584 489 458 275 Q 386 172 284 85 Q 277 81 272 74 Q 266 64 278 63 Q 311 60 416 146 Q 428 158 443 172 Q 536 274 619 462 Q 644 508 645 515 Q 645 516 645 517 Q 623 559 600 570 C 576 587 556 594 562 565 Z" fill="black"></path>
+  </g>
+
+  <!-- Pinyin; Hint -->
+  <text x="512" y="1160" font-family="Arial" font-size="120" text-anchor="middle" fill="black">wù</text>
+  <text x="512" y="1650" font-family="Arial" font-size="350" text-anchor="middle" fill="black">请勿吸烟</text>
+</svg>
