@@ -100,8 +100,6 @@ When working with HSK3.0 data sets, we need to be careful:
 
 (And there's also punctuation which needs to be accounted for.)
 
-----
-
 There are also handwriting lists, but those characters are all in the HSK character lists:
 
 |               | HSK1       | HSK2       | HSK3       | HSK4       | HSK5       | HSK6       | HSK7-9       |
@@ -110,3 +108,4 @@ There are also handwriting lists, but those characters are all in the HSK charac
 | Intermediate  | 27         | 262        | 67         | 26         | 12         | 6          | 0            |
 | Advanced      | 0          | 12         | 220        | 161        | 87         | 20         | 0            |
 
+So the HSK 3.0 character list comprises all the HSK 3.0 characters, listed in `HSK3.0_chars.txt`, and are included in MteH v0.1.1.
