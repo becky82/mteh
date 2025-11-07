@@ -45,4 +45,4 @@ From this we can extract the characters from each word:
 - level 5: +620 words [1687 total];
 - level 6: +976 words [2663 total].
 
-All 2,663 HSK 2.0 characters are included in MteH v0.1.1.
+The 2,663 HSK 2.0 characters are those in `HSK2.0_chars.txt` and are included in MteH v0.1.1.
