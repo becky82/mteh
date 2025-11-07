@@ -6,7 +6,6 @@ Generate a Markdown report comparing a MteH snapshot of characters
 against multiple Chinese character corpora.
 
 Features:
-- Uses OpenCC to convert traditional characters to simplified for comparison.
 - Sorts all character lists by JunDa order.
 - Characters not in JunDa order are labelled as "(Non Jun Da chars: ...)".
 - Missing characters from MteH are always fully displayed.
@@ -15,7 +14,6 @@ Features:
 """
 
 import os
-from opencc import OpenCC
 from datetime import datetime
 
 # ---------------- Configuration ----------------
@@ -106,7 +104,6 @@ def format_sorted_chars(chars, junda_index, truncate=True):
 def main():
     # Load MteH snapshot
     mteh_chars = load_char_set(MTEH_SNAPSHOT)
-    cc = OpenCC('t2s')  # Traditional → Simplified
 
     # Load JunDa order for sorting missing characters
     junda_order = load_order_list(JUNDA_ORDER_FILE)
@@ -118,7 +115,6 @@ def main():
         f"**Report generated on:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         f"**MteH snapshot:** `{MTEH_SNAPSHOT}`",
         "### Notes",
-        "- Characters are compared using simplified forms.",
         "- All lists are sorted in JunDa order where available.",
         "- Characters not in JunDa order are labelled as '(Non Jun Da chars: ...)'.",
         "- Missing characters from MteH are always fully displayed.",
@@ -135,17 +131,11 @@ def main():
 
         corpus_chars = load_char_set(corpus_path)
 
-        # Identify missing characters (after converting to simplified)
-        missing_chars = set()
-        corpus_simplified = set()
-        for ch in corpus_chars:
-            ch_s = cc.convert(ch)
-            corpus_simplified.add(ch_s)
-            if ch_s not in mteh_chars:
-                missing_chars.add(ch)
+        # Identify missing characters (exact comparison)
+        missing_chars = set(ch for ch in corpus_chars if ch not in mteh_chars)
 
-        # MteH characters not in this corpus (simplified comparison)
-        mteh_not_in_corpus = set(ch for ch in mteh_chars if cc.convert(ch) not in corpus_simplified)
+        # MteH characters not in this corpus
+        mteh_not_in_corpus = set(ch for ch in mteh_chars if ch not in corpus_chars)
 
         # Format character lists
         missing_line = format_sorted_chars(missing_chars, junda_index, truncate=False)  # always full
