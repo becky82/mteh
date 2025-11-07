@@ -54,8 +54,8 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620)** (excluding variants), grouping visually or structurally related forms as much as possible.  
 
 MteH also incorporates:  
-- **Character structure data** from [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) (MIT License)  
-- **Frequency data** from [Jun Da’s modern corpus](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
+- Character structure data and character drawings from [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) and [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids)
+- Frequency data from [Jun Da’s modern corpus](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
 - Images from [Pexels](https://www.pexels.com/), [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page), etc.
 
 ---
