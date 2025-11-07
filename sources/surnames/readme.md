@@ -6,12 +6,8 @@ The dataset is described as:
 
 > It contains nationwide frequency statistics of almost all Chinese surnames and given-name characters, which have covered about 1.2 billion Han Chinese population (96.8% of the Han Chinese population born from 1930 to 2008 and still alive in 2008, i.e., the living household-registered population).
 
-The top-300 surnames from this dataset are:
+The file `familyname.csv` contains 1806 surnames (63 of which are 2-character surnames: 欧阳, 上官, 皇甫, 令狐, 司徒, ...), from which we obtain 1745 unique characters.  The following characters (206) are excluded from MteH v0.1.1:
 
-> 王 李 张 刘 陈 杨 黄 赵 吴 周 徐 孙 朱 马 胡 郭 何 高 罗 林 郑 梁 谢 宋 唐 韩 许 冯 邓 曹 彭 曾 肖 田 董 袁 于 潘 蒋 杜 蔡 余 程 魏 叶 吕 丁 苏 任 沈 姚 姜 卢 崔 钟 谭 汪 范 陆 金 石 廖 贾 夏 付 方 韦 邹 白 熊 孟 秦 邱 尹 江 薛 闫 侯 段 雷 史 龙 陶 顾 贺 黎 郝 毛 邵 龚 万 钱 武 严 戴 孔 向 覃 常 汤 莫 康 文 温 牛 代 赖 洪 葛 施 邢 安 樊 齐 乔 易 庞 倪 伍 鲁 聂 章 岳 颜 殷 翟 申 耿 欧 庄 左 焦 兰 关 俞 柳 甘 祝 傅 包 尚 毕 舒 宁 曲 梅 童 阮 纪 季 苗 单 裴 符 谷 凌 成 霍 盛 詹 冉 路 骆 辛 靳 柯 涂 蓝 欧阳 柴 管 翁 祁 鲍 喻 游 蒙 华 蒲 房 滕 屈 饶 解 艾 牟 候 时 尤 阳 穆 司 吉 车 项 缪 芦 农 卓 窦 褚 娄 古 景 宫 戚 连 费 党 冷 卜 晏 米 席 柏 卫 宗 岑 佟 边 瞿 麦 桂 沙 臧 全 闵 普 姬 和 师 苟 邬 卞 应 桑 隋 栾 仇 商 刁 简 荣 寇 郎 丛 仲 明 查 巫 占 甄 巩 虞 丘 佘 苑 迟 麻 池 阎 敖 封 鞠 谈 惠 匡 官 荆 郁 胥 冀 乐 南 邝 栗 储 原 燕 班 楚 鄢 谌 劳 皮 蔺 奚 闻 粟 满 楼 盘 海 伊 位 阚 冼 强 仝 索
+> 於 藩 岚 雯 瑛 霖 侬 钊 陇 琛 祺 剌 顼 俟 胥 珂 铎 荀 汶 曦 梓 奂 瑾 沓 璐 晏 褚 筵 俸 扈 岐 婵 罡 皋 啜 筱 郸 桀 芮 谌 嵇 闾 熠 隽 萱 胭 澹 郅 弋 宓 蟠 濮 臧 霭 睢 忻 宸 栾 晁 孛 骁 莘 芷 掇 嬴 苻 钰 斛 烨 弁 郏 骈 寮 淼 淦 苫 滢 锟 馥 邝 姣 晗 恽 霰 贲 昕 佘 翦 讴 郧 铉 峁 骞 杲 莅 羿 炜 弭 俎 隗 婕 泷 庾 蒯 辇 玮 蹇 钤 苌 琰 雒 莒 穰 谯 钏 旃 邬 鄯 姒 笪 菅 乜 鄢 蔺 笮 郓 焱 雎 笱 晟 颛 厍 轸 薜 柘 聃 綦 芊 亓 钭 婧 陟 冼 邰 逯 鄞 庹 甯 泮 逄 楮 殳 肜 姝 邳 璩 苒 訾 蘧 阚 缑 戢 芈 哓 郜 葸 佴 隰 昃 呙 剡 仵 昝 郗 貊 迮 镡 琚 茆 蓁 郤 郄 邴 邾 鬲 仝 瘳 茌 郇 眭 郐 仉 贠 蒉 稂 祃 翚 轷 (Non Jun Da chars: 缐 璟 撖 喆 玥 垚 禚 犇)
 
-The 2-character surname 欧阳 was excluded (both 欧 and 阳 were included separately).  These characters (14) were excluded:
-
-> 仝 佘 冼 晏 栾 胥 臧 蔺 褚 谌 邝 邬 鄢 阚
-
-And the remaining characters (285) were added to MteH v0.1.1.
+The remaining characters (1539) are included in MteH v0.1.1.
