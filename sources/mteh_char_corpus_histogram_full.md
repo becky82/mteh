@@ -1,6 +1,6 @@
 # MteH Character Occurrence Histogram
 
-**Report generated on:** 2025-11-04 07:48:12; Python script written by ChatGPT (GPT-5-mini).
+**Report generated on:** 2025-11-07 10:46:58; Python script written by ChatGPT (GPT-5-mini).
 
 **Checking MteH snapshot:** `../versions/v0.1.1/mteh_v0.1.1.txt`
 
@@ -174,6 +174,14 @@ MteH characters that belong to exactly 1 corpora.
 
 欸
 
+### 现代汉语常用字表/现代汉语常用字表_3500chars.txt — 32 unique MteH characters
+
+凫嘁掸揖昙杈檩涎滓牍畦癞碴秫笤篙肄膘荸蓖蔫蛉蛔蛹螟赊锉锨锭镊镣麸
+
+### primary_school/primary_school_2016_unicode_order.txt — 11 unique MteH characters
+
+囫囵姹怦枳粼腭蓑谙踮鳃
+
 ### JunDa/JunDa_modern_top3500_unicode_order.txt — 6 unique MteH characters
 
 佯倏跄踉颌饷
@@ -181,6 +189,10 @@ MteH characters that belong to exactly 1 corpora.
 ### SUBTLEX/SUBTLEX_chars_top3500_unicode_order.txt — 35 unique MteH characters
 
 俚剽厩咻哔嗑嘣嚓孀孬岌扪榈槌橇炙烩疱疽眈缄蛭蜚讣诶蹊蹩酊钚镳阉颚飚馊鲑
+
+### Wikipedia/Chinese_Wikipedia_3500chars_unicode_order.txt — 24 unique MteH characters
+
+劾吒坳塾孺戍掣擢氦泅漕疣筲篆纂蕨藓虢蜱讫隼鲈鲷鳅
 
 ### K-5/K5_chars_unicode_order.txt — 3 unique MteH characters
 
@@ -197,17 +209,5 @@ MteH characters that belong to exactly 1 corpora.
 ### LWC/LWC_20000words_chars_unicode_order.txt — 22 unique MteH characters
 
 噼娲愫溏濡煸犒犸獒痔瘁礴罂腩臃芡跎蹉锢镂阖龈
-
-### Wikipedia/Chinese_Wikipedia_3500chars_unicode_order.txt — 24 unique MteH characters
-
-劾吒坳塾孺戍掣擢氦泅漕疣筲篆纂蕨藓虢蜱讫隼鲈鲷鳅
-
-### 现代汉语常用字表/现代汉语常用字表_3500chars.txt — 32 unique MteH characters
-
-凫嘁掸揖昙杈檩涎滓牍畦癞碴秫笤篙肄膘荸蓖蔫蛉蛔蛹螟赊锉锨锭镊镣麸
-
-### primary_school/primary_school_2016_unicode_order.txt — 11 unique MteH characters
-
-囫囵姹怦枳粼腭蓑谙踮鳃
 
 **Total 188 chars.**
