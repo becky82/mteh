@@ -45,4 +45,4 @@ From this we can extract the characters from each word:
 - level 5: +620 words [1687 total];
 - level 6: +976 words [2663 total].
 
-The MteH corpus includes all 2663 of these characters.
+All 2,663 HSK 2.0 characters are included in MteH v0.1.1.
