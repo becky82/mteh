@@ -1,9 +1,7 @@
-From the [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus), we use the `Chinese_Names_Corpus（120W）.txt` which contains 1,200,000 distinct Chinese names and enumerate all the characters therein (converting any traditional characters to simplified using [OpenCC](https://opencc.byvoid.com/)).  This resulted in a list of 2,269 characters.
+From the [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus), we use the `Chinese_Names_Corpus（120W）.txt` which contains 1,200,000 distinct Chinese names and enumerate all the characters therein (converting any traditional characters to simplified using [OpenCC](https://opencc.byvoid.com/)).  This resulted in a list of 2269 characters.
 
-The following characters (320+1) are not included in MteH v0.1.1:
+The following characters (321) were not included in MteH v0.1.1:
 
-> 亓 仟 佘 佶 侬 俪 倬 偲 僖 冼 劭 勍 勐 勖 勰 哓 喆 囡 圩 圻 垠 塬 墀 墉 夔 夙 奂 妤 姝 姣 娉 娓 娣 婕 婧 婵 嫒 嫔 嫚 嫱 宓 宸 寰 岐 岙 岚 岫 岱 峤 峥 峪 崴 嵇 嵘 嵬 巽 帼 庠 弋 彧 忻 怿 恂 悌 懋 戬 扈 揆 旌 旎 旖 旸 旻 昀 昉 昕 昝 昱 昶 晁 晏 晔 晗 晞 晟 曜 曦 杲 栎 栩 栾 桉 桢 梓 棣 楫 楹 樾 歆 毓 汶 汾 沂 沄 沅 沆 沣 泗 泠 泮 泱 泾 洙 洵 浔 浚 浜 淙 淞 淦 淼 渭 湜 溟 滟 滢 潞 潼 澍濂 濠 濮 灏 炅 炜 烜 烨 焘 焜 焱 煊 煜 熠 燊 燮 猷 玎 玑 玠 玢 玥 玮 珂 珉 珏 珙 珣 珩 珲 珺 琇 琏 琚 琛 琤 琨 琬 琮 琰 瑀 瑄 瑗 瑛 瑾 璎 璐 璘 璜 璟 璠 瓒 甬 皋 砺 磬 祎 祚 祯 祺 禺 稷 筠 筱 箐 粲 绫 绾 缇 缙 罡 羿 翊 翥 翱 聃 聿 胄 胤 胥 臧 舫 舸 艮 芊 芩 芮 芷 芾 苒 苓 荀 荃 荪 荻 莘 菀 菘 菡 萱 葳 蒯 蓁 蔷 蔺 蕙 蕤 藜 藩 蘅 蠡 褚 訾 诒 诤 谌 谟 贲 赓 赜 赟 轲 轶 逯 邈 邕 邝 邬 邰 邺 郗 郜 郢 郦 鄢 銮 鋆 鎏 钊 钏 钰 钺 钿 铄 铉 铎 铠 铧 铨 铿 锜 锟 锴 锵 锷 镒 镔 镛 镝 镭 闳 阚 陇 隗 隽 雯 霁 霈 霏 霖 霭 韫 韬 颀 颍 颢 馥 驷 骁 骅 骊 骐 骝 骞 骢 骥 骧 鲲 鸾 鹄 鼐
->
-> 於
+> 於 玑 藩 岚 雯 毓 瑛 禺 霖 谟 焘 侬 绫 钊 陇 琛 祺 聿 胥 渭 珂 韬 铎 荀 汶 桢 栩 曦 梓 浚 荃 汾 奂 沂 瑾 赓 璐 晏 琏 褚 煜 骥 祯 轲 颍 稷 鸾 扈 鋆 岐 蔷 锵 寰 婵 罡 胤 皋 嫔 娓 瓒 潼 筱 甬 淞 蕙 轶 荪 岱 芮 铿 谌 嵇 翱 洵 淙 曜 煊 璜 苓 熠 銮 沅 棣 旌 镭 溟 隽 鹄 萱 蠡 潞 弋 胄 宓 濮 圩 夙 臧 濂 铠 霭 峪 夔 垠 浜 忻 懋 诒 宸 沣 栾 泗 晁 骁 歆 翊 邺 莘 燮 晔 诤 泾 芷 舫 骧 钰 绾 庠 烨 荻 藜 琨 艮 筠 昱 淼 淦 揆 滢 琬 芩 锟 俪 馥 邝 姣 晗 崴 邕 霁 锷 栎 娣 贲 僖 岫 嵘 铨 昕 郢 囡 砺 佘 霏 楹 樾 帼 楫 祚 泱 骅 铉 粲 骞 骊 杲 缙 旖 羿 鼐 炜 浔 昶 锴 猷 舸 隗 悌 邈 婕 峥 赜 勖 圻 蒯 劭 颢 濠 灏 旎 玮 颀 珏 芾 闳 戬 恂 郦 琰 钏 钿 鎏 邬 峤 巽 镒 鄢 桉 娉 蔺 珩 菀 磬 琮 驷 焱 昀 仟 勐 铄 佶 晟 洙 勰 钺 嵬 铧 鲲滟 聃 泠 镛 芊 嫱 亓 蘅 澍 韫 珲 倬 墉 婧 璎 缇 冼 炅 邰 玢 墀 逯 沆 嫒 塬 玎 锜 泮 菘 姝 苒 翥 祎 訾 菡 阚 瑗 哓 郜 蕤 怿 骐 霈 葳 镝 镔 珉 骝 昝 郗 珙 岙 赟 琚 蓁 骢 箐 妤 (Non Jun Da chars: 焜 沄 勍 晞 玠 瑄 烜 喆 琤 嫚 湜 燊 琇 璘 旸 璠 瑀 偲 璟 昉 旻 彧 珣 珺 玥)
 
-Leaving 1,948 characters added to MteH v0.1.1.
+Leaving 2269 characters included in MteH v0.1.1.
