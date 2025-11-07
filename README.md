@@ -25,29 +25,29 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 <div align="left">
 
-| # | Corpus | # Characters used | Source / Reference |
-|---|---------|---------------|--------------------|
-| 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | Pre-2010, 11 levels |
-| 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | Post-2010, 6 levels |
-| 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 2021 version, 9 levels |
-| 4 | [TOCFL](./sources/TOCFL) | 2,496 | Taiwan's TOCFL vocabulary |
-| 5 | [通用规范汉字表](./sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | Ministry of Education (2013) |
-| 6 | [现代汉语常用字表](./sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,498 | Ministry of Education (1988) |
-| 7 | [primary school](./sources/primary_school) | 2,467 | mainland China (2016) |
-| 8 | [Heisig](./sources/Heisig) | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
-| 9 | [Hoenig](./sources/Hoenig) | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 10 | [Jun Da](./sources/JunDa) | 3,477 | Modern Chinese corpus |
-| 11 | [SUBTLEX](./sources/SUBTLEX) | 3,477 | Film subtitle corpus |
-| 12 | [Tsai](./sources/Tsai) | 2,168 | Usenet newsgroups (1993-1994) |
-| 13 | [Wikipedia](./sources/Wikipedia) | 3,267 | Chinese Wikipedia |
-| 14 | [THUOCL](./sources/THUOCL) | 1,897 | mostly Sogou webpages |
-| 15 | [K-5](./sources/K-5) | 1,816 | K-5 word frequency |
-| 16 | [Leeds](./sources/Leeds) | 3,585 | Internet corpus |
-| 17 | [BLCU](./sources/BLCU) | 3,615 | "balanced", written Chinese |
-| 18 | [LWC](./sources/LWC) | 3,335 | Sina Weibo |
-| 19 | [Chinese surnames](./sources/surnames) | 285 | top-300 surnames |
-| 20 | [Chinese names](./sources/names) | 1,948 | 1,200,000 Chinese names |
-| 21 | [city-geo](./sources/city-geo) | 1,116 | mainland China city terms |
+| # | Corpus | #chars | #used | Source / Reference |
+|---|---------|---------------|--------------------|--------------------|
+| 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | 2,866 | Pre-2010, 11 levels |
+| 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | 2,663 | Post-2010, 6 levels |
+| 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 3,000 | 2021 version, 9 levels |
+| 4 | [TOCFL](./sources/TOCFL) | 2,501 | 2,496 | Taiwan's TOCFL vocabulary |
+| 5 | [通用规范汉字表](./sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | 3,500 | Ministry of Education (2013) |
+| 6 | [现代汉语常用字表](./sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,500 | 3,498 | Ministry of Education (1988) |
+| 7 | [primary school](./sources/primary_school) | 2,468 | 2,467 | mainland China (2016) |
+| 8 | [Heisig](./sources/Heisig) | 3,018 | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
+| 9 | [Hoenig](./sources/Hoenig) | 2,177 | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
+| 10 | [Jun Da](./sources/JunDa) | 4,500 | 4,115 | Modern Chinese corpus |
+| 11 | [SUBTLEX](./sources/SUBTLEX) | 4,500 | 4,071 | Film subtitle corpus |
+| 12 | [Tsai](./sources/Tsai) | 4,328 | 3,872 | Usenet newsgroups (1993-1994) |
+| 13 | [Wikipedia](./sources/Wikipedia) | 4,500 | 4,212 | Chinese Wikipedia |
+| 14 | [THUOCL](./sources/THUOCL) | 3,418 | 3,156 | mostly Sogou webpages |
+| 15 | [K-5](./sources/K-5) | 1,817 | 1,816 | K-5 word frequency |
+| 16 | [Leeds](./sources/Leeds) | 4,942 | 4,205 | Internet corpus |
+| 17 | [BLCU](./sources/BLCU) | 4,445 | 4,013 | "balanced", written Chinese |
+| 18 | [LWC](./sources/LWC) | 4,130 | 3,863 | Sina Weibo |
+| 19 | [Chinese surnames](./sources/surnames) | 1,745 | 1,541 | 1,807 Chinese surnames |
+| 20 | [Chinese names](./sources/names) | 2,269 | 1,949 | 1,200,000 Chinese names |
+| 21 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
 
 </div>
 
