@@ -1,7 +1,7 @@
 The HSK1.0 syllabus 《汉语水平词汇与汉字等级大纲》 lists the Chinese HSK words in the 1.0 standards.  It was sourced from https://gjxy.gpnu.edu.cn/info/1141/1373.htm (uploaded as `HSK1.0_汉语水平词汇与汉字等级大纲.txt`).  The words split into these levels:
 
 - 甲 (basic) levels 1, 2, 3 (1033 words)
-- 乙 (elementary) levels 3, 4, 5 (+2018 words [3051 total]) [yes, they overlap]
+- 乙 (elementary) levels 3, 4, 5 (+2018 words [3051 total]) [yes, the levels overlap]
 - 丙 (intermediate) levels 6, 7, 8 (+2202 words [5253 total])
 - 丁 (advanced) levels 9, 10, 11 (+3568 words [8821 total])
 
@@ -126,6 +126,6 @@ And if we extract the characters from these words
 - 丙 levels 6, 7, 8 (+592 words [2196 total])
 - 丁 levels 9, 10, 11 (+670 words [2866 total])
 
-The 2866 characters are in HSK1.0_chars.txt.
+The 2,866 characters are `HSK1.0_chars.txt`, and are all included in MteH v0.1.1.
 
 It turns out I have an old version of the HSK1.0 character list, and I forget where it came from; I call it `HSK1.0_chars_mysterious_old_version.txt`; compared to `HSK1.0_chars.txt`, it has these extra characters `侯冀冯刘匈卢吕吴咋哩啥喧嗓埃埔孟宋岳崔彭戈曹朱桔欧殷沈沪浙淮潘澳秦粤耿聂萨葛蒋袁赫赵邓邢郭陕魏` (+47) but omits these characters `啰嗡帕暄涵蔓账镑` (-8); total 2905.  In any case, all these characters are included in MteH v0.1.1 too.
