@@ -36,7 +36,6 @@ CORPUS_FILES = [
     "THUOCL/THUOCL_741docs_chars_unicode_order.txt",
     "K-5/K5_chars_unicode_order.txt",
     "Leeds/Leeds_30000words_chars_unicode_order.txt",
-    "Leeds/Leeds_all_chars_unicode_order.txt",
     "BLCU/BLCU_20000words_chars_unicode_order.txt",
     "BLCU/BLCU_30000words_chars_unicode_order.txt",
     "LWC/LWC_30000words_chars_unicode_order.txt",

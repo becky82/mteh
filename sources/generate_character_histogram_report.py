@@ -25,7 +25,7 @@ CORPUS_FILES = [
     "Wikipedia/Wikipedia_chars_top4500_simplified_unicode_order.txt",
     "THUOCL/THUOCL_741docs_chars_unicode_order.txt",
     "K-5/K5_chars_unicode_order.txt",
-    "Leeds/Leeds_all_chars_unicode_order.txt",
+    "Leeds/Leeds_30000words_chars_unicode_order.txt",
     "BLCU/BLCU_30000words_chars_unicode_order.txt",
     "LWC/LWC_40000words_chars_unicode_order.txt",
     "surnames/surname_all_chars_unicode_order.txt",
