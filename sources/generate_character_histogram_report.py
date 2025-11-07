@@ -19,7 +19,7 @@ CORPUS_FILES = [
     "primary_school/primary_school_2016_unicode_order.txt",
     "Heisig/Heisig_chars_unicode_order.txt",
     "Hoenig/Hoenig_chars_unicode_order.txt",
-    "JunDa/JunDa_modern_top4500_unicode_order.txt",
+    "JunDa/JunDa_modern_top4500_simplified_unicode_order.txt",
     "SUBTLEX/SUBTLEX_chars_top4500_unicode_order.txt",
     "Tsai/Tsai_top4500_unicode_order.txt",
     "Wikipedia/Chinese_Wikipedia_4500chars_unicode_order.txt",
