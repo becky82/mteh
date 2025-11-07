@@ -18,6 +18,5 @@ def process_file(input_file, output_file):
         out.write('\n'.join(sorted_chars))
     print(f"{len(sorted_chars)} unique simplified chars written to {output_file}")
 
-process_file("BLCU_20000words_original_order.txt", "BLCU_20000words_chars_unicode_order.txt")
-process_file("BLCU_30000words_original_order.txt", "BLCU_30000words_chars_unicode_order.txt")
+process_file("BLCU_30000words_original_order.txt", "BLCU_30000words_chars_simplified_unicode_order.txt")
 

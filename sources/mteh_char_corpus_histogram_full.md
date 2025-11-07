@@ -1,6 +1,6 @@
 # MteH Character Occurrence Histogram
 
-**Report generated on:** 2025-11-07 15:49:55; Python script written by ChatGPT (GPT-5-mini).
+**Report generated on:** 2025-11-07 15:58:52; Python script written by ChatGPT (GPT-5-mini).
 
 **Checking MteH snapshot:** `../versions/v0.1.1/mteh_v0.1.1.txt`
 
@@ -194,7 +194,7 @@ MteH characters that belong to exactly 1 corpora.
 
 锛镞
 
-### BLCU/BLCU_30000words_chars_unicode_order.txt — 5 unique MteH characters
+### BLCU/BLCU_30000words_chars_simplified_unicode_order.txt — 5 unique MteH characters
 
 狻瘘艿钨龀
 
