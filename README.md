@@ -27,8 +27,8 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 | # | Corpus | #chars | #used | Source / Reference |
 |---|---------|---------------|--------------------|--------------------|
-| 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | 2,866 | Pre-2010, 11 levels |
-| 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | 2,663 | Post-2010, 6 levels |
+| 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | 2,866 | pre-2010, 11 levels |
+| 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | 2,663 | post-2010, 6 levels |
 | 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 3,000 | 2021 version, 9 levels |
 | 4 | [TOCFL](./sources/TOCFL) | 2,501 | 2,496 | Taiwan's TOCFL vocabulary |
 | 5 | [通用规范汉字表](./sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | 3,500 | Ministry of Education (2013) |
@@ -36,8 +36,8 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 7 | [primary school](./sources/primary_school) | 2,468 | 2,467 | mainland China (2016) |
 | 8 | [Heisig](./sources/Heisig) | 3,018 | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
 | 9 | [Hoenig](./sources/Hoenig) | 2,177 | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 10 | [Jun Da](./sources/JunDa) | 4,500 | 4,115 | Modern Chinese corpus |
-| 11 | [SUBTLEX](./sources/SUBTLEX) | 4,500 | 4,071 | Film subtitle corpus |
+| 10 | [Jun Da](./sources/JunDa) | 4,500 | 4,115 | modern Chinese corpus |
+| 11 | [SUBTLEX](./sources/SUBTLEX) | 4,500 | 4,071 | film and TV subtitle corpus |
 | 12 | [Tsai](./sources/Tsai) | 4,328 | 3,872 | Usenet newsgroups (1993-1994) |
 | 13 | [Wikipedia](./sources/Wikipedia) | 4,500 | 4,212 | Chinese Wikipedia |
 | 14 | [THUOCL](./sources/THUOCL) | 3,418 | 3,156 | mostly Sogou webpages |
