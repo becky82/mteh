@@ -36,17 +36,17 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 7 | [primary school](./sources/primary_school) | 2,468 | 2,467 | mainland China (2016) |
 | 8 | [Heisig](./sources/Heisig) | 3,018 | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
 | 9 | [Hoenig](./sources/Hoenig) | 2,177 | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 10 | [Jun Da](./sources/JunDa) | 4,500 | 4,115 | modern Chinese corpus |
-| 11 | [SUBTLEX](./sources/SUBTLEX) | 4,500 | 4,071 | film and TV subtitle corpus |
-| 12 | [Tsai](./sources/Tsai) | 4,328 | 3,872 | Usenet newsgroups (1993-1994) |
-| 13 | [Wikipedia](./sources/Wikipedia) | 4,500 | 4,212 | Chinese Wikipedia |
-| 14 | [THUOCL](./sources/THUOCL) | 3,418 | 3,156 | mostly Sogou webpages |
+| 10 | [Jun Da](./sources/JunDa) | 4,485 | 4,100 | modern Chinese corpus |
+| 11 | [SUBTLEX](./sources/SUBTLEX) | 4,462 | 4,034 | film and TV subtitle corpus |
+| 12 | [Tsai](./sources/Tsai) | 4,329 | 3,872 | Usenet newsgroups (1993-1994) |
+| 13 | [Wikipedia](./sources/Wikipedia) | 3,476 | 3,196 | Chinese Wikipedia |
+| 14 | [THUOCL](./sources/THUOCL) | 3,421 | 3,156 | mostly Sogou webpages |
 | 15 | [K-5](./sources/K-5) | 1,817 | 1,816 | K-5 word frequency |
-| 16 | [Leeds](./sources/Leeds) | 4,942 | 4,205 | Internet corpus |
+| 16 | [Leeds](./sources/Leeds) | 4,230 | 3,984 | Internet corpus |
 | 17 | [BLCU](./sources/BLCU) | 4,445 | 4,013 | "balanced", written Chinese |
 | 18 | [LWC](./sources/LWC) | 4,130 | 3,863 | Sina Weibo |
-| 19 | [Chinese surnames](./sources/surnames) | 1,745 | 1,541 | 1,807 Chinese surnames |
-| 20 | [Chinese names](./sources/names) | 2,269 | 1,949 | 1,200,000 Chinese names |
+| 19 | [Chinese surnames](./sources/surnames) | 1,745 | 1,539 | 1,807 Chinese surnames |
+| 20 | [Chinese names](./sources/names) | 2,269 | 1,948 | 1,200,000 Chinese names |
 | 21 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
 
 </div>
