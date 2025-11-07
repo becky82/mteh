@@ -6,4 +6,4 @@ This is the list of characters from the books: James W. Heisig and Timothy W. Ri
 
 This list was originally sourced from [Pleco Forums](https://www.plecoforums.com/threads/heisigs-remembering-simplified-hanzi-1-2.3114/); character 2276 is incorrectly inputted as 褝 in the file from Pleco Forums; this has been corrected to 禅.
 
-All 3018 characters are included in the MteH corpus.
+All 3,018 characters are included in MteH v0.1.1.
