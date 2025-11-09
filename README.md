@@ -30,7 +30,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | 2,866 | pre-2010, 11 levels |
 | 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | 2,663 | post-2010, 6 levels |
 | 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 3,000 | 2021 version, 9 levels |
-| 4 | [TOCFL](./sources/TOCFL) | 3,027 | 2,998 | Taiwan's TOCFL 3100 + 33 traditional chars |
+| 4 | [TOCFL](./sources/TOCFL) | 3,027 | 2,998 | Taiwan's TOCFL 3100 + 33 traditional chars, converted to simplified |
 | 5 | [K-5](./sources/K-5) | 1,817 | 1,816 | K-5 word frequency |
 | 6 | [通用规范汉字表](./sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | 3,500 | Ministry of Education (2013) |
 | 7 | [现代汉语常用字表](./sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,500 | 3,498 | Ministry of Education (1988) |
