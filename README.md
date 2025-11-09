@@ -41,13 +41,14 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 12 | [SUBTLEX](./sources/SUBTLEX) | 4,462 | 4,034 | film and TV subtitle corpus |
 | 13 | [Tsai](./sources/Tsai) | 4,329 | 3,872 | Usenet newsgroups (1993-1994) |
 | 14 | [Wikipedia](./sources/Wikipedia) | 3,476 | 3,196 | Chinese Wikipedia |
-| 15 | [THUOCL](./sources/THUOCL) | 3,421 | 3,156 | mostly Sogou webpages |
-| 16 | [Leeds](./sources/Leeds) | 4,230 | 3,984 | Internet corpus |
-| 17 | [BLCU](./sources/BLCU) | 4,445 | 4,013 | "balanced", written Chinese |
-| 18 | [LWC](./sources/LWC) | 4,130 | 3,863 | Sina Weibo |
-| 19 | [Chinese surnames](./sources/surnames) | 1,745 | 1,539 | 1,807 Chinese surnames |
-| 20 | [Chinese names](./sources/names) | 2,269 | 1,948 | 1,200,000 Chinese names |
-| 21 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
+| 15 | [classical](./sources/classical) | 2,000 | 1,840 | Chinese Wikipedia |
+| 16 | [THUOCL](./sources/THUOCL) | 3,421 | 3,156 | mostly Sogou webpages |
+| 17 | [Leeds](./sources/Leeds) | 4,230 | 3,984 | Internet corpus |
+| 18 | [BLCU](./sources/BLCU) | 4,445 | 4,013 | "balanced", written Chinese |
+| 19 | [LWC](./sources/LWC) | 4,130 | 3,863 | Sina Weibo |
+| 20 | [Chinese surnames](./sources/surnames) | 1,745 | 1,539 | 1,807 Chinese surnames |
+| 21 | [Chinese names](./sources/names) | 2,269 | 1,948 | 1,200,000 Chinese names |
+| 22 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
 
 </div>
 
