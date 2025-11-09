@@ -298,7 +298,7 @@ with open(output_md, "w", encoding="utf-8") as md:
 
 
 # --- JUN DA CORPUS CHECK ---
-jun_da_path = "../sources/JunDa/JunDa_chars_original_order.txt"
+jun_da_path = "../sources/JunDa/JunDa_modern_chars_original_order.txt"
 try:
     with open(jun_da_path, "r", encoding="utf-8") as j:
         jun_da_text = j.read()
