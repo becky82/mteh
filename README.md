@@ -54,7 +54,6 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 24 | [med-orgs](./sources/med-orgs) | 4,826 | 3,633 | medical organizations |
 =======
 | 23 | [company](./sources/company) | 4,363* | 3,554 | company proper nouns |
->>>>>>> 76eda776097f1b7a8dcee7355ec89afb10d8cf9a
 | 24 | [med-orgs](./sources/med-orgs) | 4,826 | 3,633 | medical organizations |
 
 </div>
