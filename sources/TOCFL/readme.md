@@ -143,4 +143,8 @@ We convert the traditional characters to simplified using [OpenCC](https://githu
 
 Thus we obtain a list of 3100 + 33 - 106 = 3027 distinct simplified characters (saved in `TCOFL_simplified_chars.txt`).
 
+The following characters (29) were excluded from MteH v0.1.1:
 
+> 钵 徨 谄 砥 萱 咛 纾 憩 觎 觊 飨 砺 鲔 蚵 瞇 舖 砲 簷 躱 粧 (Non Jun Da chars: 値 朶 妳 牠 徬 愼 擡 姪 擧)
+
+The remaining 2998 characters were excluded from MteH v0.1.1.
