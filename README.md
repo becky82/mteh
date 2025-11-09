@@ -41,7 +41,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 12 | [SUBTLEX](./sources/SUBTLEX) | 4,462 | 4,034 | film and TV subtitle corpus |
 | 13 | [Tsai](./sources/Tsai) | 4,329 | 3,872 | Usenet newsgroups (1993-1994) |
 | 14 | [Wikipedia](./sources/Wikipedia) | 3,476 | 3,196 | Chinese Wikipedia |
-| 15 | [classical](./sources/classical) | 2,000 | 1,840 | Chinese Wikipedia |
+| 15 | [classical](./sources/classical) | 2,000 | 1,840 | prior to the end of the Han dynasty |
 | 16 | [THUOCL](./sources/THUOCL) | 3,421 | 3,156 | mostly Sogou webpages |
 | 17 | [Leeds](./sources/Leeds) | 4,230 | 3,984 | Internet corpus |
 | 18 | [BLCU](./sources/BLCU) | 4,445 | 4,013 | "balanced", written Chinese |
