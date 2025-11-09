@@ -43,7 +43,8 @@ CORPUS_FILES = [
     "surnames/surname_all_chars_unicode_order.txt",
     "names/CNC_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
-    "company/wainshine_company_top_chars_unicode_order.txt"
+    "company/wainshine_company_top_chars_unicode_order.txt",
+    "medical/wainshine_medical_chars_unicode_order.txt"
 ]
 REPORT_FILE = "missing_chars_report.md"
 CORPUS_BASE = "./"  # Adjust if running from /sources/

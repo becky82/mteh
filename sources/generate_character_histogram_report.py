@@ -33,7 +33,8 @@ CORPUS_FILES = [
     "surnames/surname_all_chars_unicode_order.txt",
     "names/CNC_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
-    "company/wainshine_company_top_chars_unicode_order.txt"
+    "company/wainshine_company_top_chars_unicode_order.txt",
+    "medical/wainshine_medical_chars_unicode_order.txt"
 ]
 REPORT_FILE = "mteh_char_corpus_histogram_full.md"
 
