@@ -141,6 +141,9 @@ with open(file_path, "r", encoding="utf-8") as f:
         if not pinyin_re.fullmatch(pinyin):
             hsk_issues[char] = f"Unexpected chars in pinyin: {pinyin}"
 
+        # Collect characters with frequency = 'n'
+        freq_n_chars = [e["char"] for e in entries if e["frequency"].lower() == "n"]
+
         # Variant detection
         if is_variant_hint(hint):
             if previous_char:
@@ -296,6 +299,9 @@ with open(output_md, "w", encoding="utf-8") as md:
             md.write(f"- Hint '{hint}': {', '.join(unique_chars)}\n")
         md.write("\n")
 
+    if freq_n_chars:
+        md.write(f"## [ {len(freq_n_chars)} ] MetH characters not included in Jun Da corpus\n")
+        md.write("  " + " ".join(sorted(freq_n_chars)) + "\n\n")
 
 # --- JUN DA CORPUS CHECK ---
 jun_da_path = "../sources/JunDa/JunDa_modern_chars_original_order.txt"
@@ -323,7 +329,6 @@ try:
 except FileNotFoundError:
     with open(output_md, "a", encoding="utf-8") as md:
         md.write("## Jun Da Corpus Check\n\n⚠️ File not found: ../sources/JunDa/JunDa_chars_original_order.txt\n\n")
-
 
 print(f"Markdown debug report written to {output_md}")
 
