@@ -35,7 +35,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 6 | [通用规范汉字表](./sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | 3,500 | Ministry of Education (2013) |
 | 7 | [现代汉语常用字表](./sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,500 | 3,498 | Ministry of Education (1988) |
 | 8 | [primary school](./sources/primary_school) | 2,468 | 2,467 | China primary schools (2016) |
-| 9 | [Singapore](./sources/Singapore_primary_school) | 1,655 | 1,655 | Singapore primary schools |
+| 9 | [Singapore](./sources/Singapore_primary_school) | 1,655 | 1,655 | Singapore primary schools (2015) |
 | 10 | [Heisig](./sources/Heisig) | 3,018 | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
 | 11 | [Hoenig](./sources/Hoenig) | 2,177 | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
 | 12 | [Jun Da](./sources/JunDa) | 4,485* | 4,100 | modern Chinese corpus |
