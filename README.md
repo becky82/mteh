@@ -65,6 +65,8 @@ MteH also incorporates:
 - Frequency data from [Jun Da’s modern corpus](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
 - Images from [Pexels](https://www.pexels.com/), [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page), etc.
 
+Statistics and debug reports: [missing chars](./sources/missing_chars_report.md); [corpus histogram](./sources/mteh_char_corpus_histogram_full.md); [debug](./debug/debug_report.md); [debug](./debug/debug_report.md); [modifications](./debug/mteh_modification_report.md); [syllables](./debug/mteh_syllables_all_combinations.md).
+
 ---
 
 ## License
