@@ -108,10 +108,13 @@ for line in open(MTEH_FILE, encoding="utf-8"):
     char_data = graphics_dict[char]
 
     # --- Frequency bar height ---
-    try:
-        rank = int(rank_str)
-    except ValueError:
+    if rank_str.lower() == "n" or not rank_str.strip():
         rank = MAX_RANK
+    else:
+        try:
+            rank = int(rank_str)
+        except ValueError:
+            rank = MAX_RANK
     freq_height = ((MAX_RANK - rank) / MAX_RANK) * 1024
 
     # --- HSK label ---
