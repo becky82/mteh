@@ -34,25 +34,26 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 5 | [K-5](./sources/K-5) | 1,817 | 1,816 | K-5 word frequency |
 | 6 | [通用规范汉字表](./sources/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) | 3,500 | 3,500 | Ministry of Education (2013) |
 | 7 | [现代汉语常用字表](./sources/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8) | 3,500 | 3,498 | Ministry of Education (1988) |
-| 8 | [primary school](./sources/primary_school) | 2,468 | 2,467 | mainland China (2016) |
-| 9 | [Heisig](./sources/Heisig) | 3,018 | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
-| 10 | [Hoenig](./sources/Hoenig) | 2,177 | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 11 | [Jun Da](./sources/JunDa) | 4,485* | 4,100 | modern Chinese corpus |
-| 12 | [SUBTLEX](./sources/SUBTLEX) | 4,462* | 4,034 | film and TV subtitle corpus |
-| 13 | [Tsai](./sources/Tsai) | 4,329* | 3,872 | Usenet newsgroups (1993-1994) |
-| 14 | [Wikipedia](./sources/Wikipedia) | 3,476* | 3,196 | Chinese Wikipedia |
-| 15 | [classical](./sources/classical) | 1,968* | 1,840 | prior to the end of the Han dynasty |
-| 16 | [THUOCL](./sources/THUOCL) | 3,421* | 3,156 | mostly Sogou webpages |
-| 17 | [Leeds](./sources/Leeds) | 4,230* | 3,984 | Internet corpus |
-| 18 | [BLCU](./sources/BLCU) | 4,445* | 4,013 | "balanced", written Chinese |
-| 19 | [LWC](./sources/LWC) | 4,130* | 3,863 | Sina Weibo |
-| 20 | [food](./sources/food) | 1,182 | 1,093 | food-related terms |
-| 21 | [species](./sources/species) | 4,086 | 3,121 | species names |
-| 22 | [Chinese surnames](./sources/surnames) | 1,745 | 1,539 | 1,807 Chinese surnames |
-| 23 | [Chinese names](./sources/names) | 2,269 | 1,948 | 1,200,000 Chinese names |
-| 24 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
-| 25 | [company](./sources/company) | 4,363* | 3,554 | company proper nouns |
-| 26 | [med-orgs](./sources/med-orgs) | 4,826 | 3,633 | medical organizations |
+| 8 | [primary school](./sources/primary_school) | 2,468 | 2,467 | China primary schools (2016) |
+| 9 | [Singapore](./sources/Singapore_primary_school) | 1,655 | 1,655 | Singapore primary schools |
+| 10 | [Heisig](./sources/Heisig) | 3,018 | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
+| 11 | [Hoenig](./sources/Hoenig) | 2,177 | 2,151 | *Learn & Remember 2,178 Characters and Their Meanings* |
+| 12 | [Jun Da](./sources/JunDa) | 4,485* | 4,100 | modern Chinese corpus |
+| 13 | [SUBTLEX](./sources/SUBTLEX) | 4,462* | 4,034 | film and TV subtitle corpus |
+| 14 | [Tsai](./sources/Tsai) | 4,329* | 3,872 | Usenet newsgroups (1993-1994) |
+| 15 | [Wikipedia](./sources/Wikipedia) | 3,476* | 3,196 | Chinese Wikipedia |
+| 16 | [classical](./sources/classical) | 1,968* | 1,840 | prior to the end of the Han dynasty |
+| 17 | [THUOCL](./sources/THUOCL) | 3,421* | 3,156 | mostly Sogou webpages |
+| 18 | [Leeds](./sources/Leeds) | 4,230* | 3,984 | Internet corpus |
+| 19 | [BLCU](./sources/BLCU) | 4,445* | 4,013 | "balanced", written Chinese |
+| 20 | [LWC](./sources/LWC) | 4,130* | 3,863 | Sina Weibo |
+| 21 | [food](./sources/food) | 1,182 | 1,093 | food-related terms |
+| 22 | [species](./sources/species) | 4,086 | 3,121 | species names |
+| 23 | [Chinese surnames](./sources/surnames) | 1,745 | 1,539 | 1,807 Chinese surnames |
+| 24 | [Chinese names](./sources/names) | 2,269 | 1,948 | 1,200,000 Chinese names |
+| 25 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
+| 26 | [company](./sources/company) | 4,363* | 3,554 | company proper nouns |
+| 27 | [med-orgs](./sources/med-orgs) | 4,826 | 3,633 | medical organizations |
 
 </div>
 
