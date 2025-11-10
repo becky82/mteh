@@ -31,6 +31,7 @@ CORPUS_FILES = [
     "BLCU/BLCU_30000words_chars_simplified_unicode_order.txt",
     "LWC/LWC_40000words_chars_unicode_order.txt",
     "food/wainshine_food_chars_unicode_order.txt",
+    "species/wainshine_species_chars_unicode_order.txt",
     "surnames/surname_all_chars_unicode_order.txt",
     "names/CNC_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
