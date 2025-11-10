@@ -46,11 +46,12 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 17 | [Leeds](./sources/Leeds) | 4,230* | 3,984 | Internet corpus |
 | 18 | [BLCU](./sources/BLCU) | 4,445* | 4,013 | "balanced", written Chinese |
 | 19 | [LWC](./sources/LWC) | 4,130* | 3,863 | Sina Weibo |
-| 20 | [Chinese surnames](./sources/surnames) | 1,745 | 1,539 | 1,807 Chinese surnames |
-| 21 | [Chinese names](./sources/names) | 2,269 | 1,948 | 1,200,000 Chinese names |
-| 22 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
-| 23 | [company](./sources/company) | 4,363* | 3,554 | company proper nouns |
-| 24 | [med-orgs](./sources/med-orgs) | 4,826 | 3,633 | medical organizations |
+| 20 | [food](./sources/food) | 1,182 | 1,093 | food-related terms |
+| 21 | [Chinese surnames](./sources/surnames) | 1,745 | 1,539 | 1,807 Chinese surnames |
+| 22 | [Chinese names](./sources/names) | 2,269 | 1,948 | 1,200,000 Chinese names |
+| 23 | [city-geo](./sources/city-geo) | 1,277 | 1,116 | mainland China city terms |
+| 24 | [company](./sources/company) | 4,363* | 3,554 | company proper nouns |
+| 25 | [med-orgs](./sources/med-orgs) | 4,826 | 3,633 | medical organizations |
 
 </div>
 

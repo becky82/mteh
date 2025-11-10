@@ -30,11 +30,12 @@ CORPUS_FILES = [
     "Leeds/Leeds_30000words_chars_unicode_order.txt",
     "BLCU/BLCU_30000words_chars_simplified_unicode_order.txt",
     "LWC/LWC_40000words_chars_unicode_order.txt",
+    "food/wainshine_food_chars_unicode_order.txt",
     "surnames/surname_all_chars_unicode_order.txt",
     "names/CNC_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
     "company/wainshine_company_top_chars_unicode_order.txt",
-    "medical/wainshine_medical_chars_unicode_order.txt"
+    "med-orgs/wainshine_med-orgs_chars_unicode_order.txt"
 ]
 REPORT_FILE = "mteh_char_corpus_histogram_full.md"
 
