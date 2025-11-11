@@ -19,7 +19,7 @@ The majority of these characters are unknown to most people, unless their career
 | 7 | 氮 | dàn | Nitrogen | ![氮](./periodic_table/氮.jpg) | 液氮 (liquid nitrogen) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Making_Liquid_Nitrogen_Ice_Cream_-_Sentosa,_Singapore_-_16_Oct._2013.jpg) |
 | 8 | 氧 | yǎng | Oxygen | ![氧](./periodic_table/氧.jpg) | 有氧运动 (aerobics); 二氧化碳 (carbon dioxide) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Underwater_photograph_of_a_recreational_scuba_diver_in_Playa_del_Carmen_2006.jpg) |
 | 9 | 氟 | fú | Fluorine | ![氟](./periodic_table/氟.png) | 含氟牙膏 (fluoridized toothpaste); 氯氟烃 (CFCs); 聚氯乙烯 (PVC); 聚四氟乙烯 (teflon) | [Amazon.com](https://www.amazon.com/Sensodyne-Toothpaste-Sensitivity-Protection-Refreshing/dp/B0BM4H31S1) |
-| 10 | 氖 | nǎi | Neon | ![氖](./periodic_table/氖.jpg) | used in 霓虹灯 (neon light), but this word doesn't use 氖 | [Wikimedia](https://commons.wikimedia.org/wiki/File:NeTube.jpg) |
+| 10 | 氖 | nǎi | Neon | ![氖](./periodic_table/氖.jpg) | element used in 霓虹灯 (neon light), but this word doesn't use 氖 | [Wikimedia](https://commons.wikimedia.org/wiki/File:NeTube.jpg) |
 | 11 | 钠 | nà | Sodium | ![钠](./periodic_table/钠.jpg) | 低钠食品 (low sodium foods) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Salt_shaker_on_white_background.jpg) |
 | 12 | 镁 | měi | Magnesium | ![镁](./periodic_table/镁.jpg) | 补镁 (supplement magnesium) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Magnesium_forged_wheel_named_as_HGK_style_.jpg) |
 | 13 | 铝 | lǚ | Aluminium | ![铝](./periodic_table/铝.jpg) | 铝罐 (aluminium can); 铝箔 (aluminium foil) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Can_of_Coca_Cola_(26899145485).jpg) |
