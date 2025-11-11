@@ -219,7 +219,7 @@ which is a decorative merging of the characters in the chengyu 招財進寳 (sim
 
 ### Swastika
 
-The swastika character is seen in Buddhist temples in China:
+The [swastika](https://en.wikipedia.org/wiki/Swastika) character is seen in Buddhist temples in China:
 
 > 卐 (wàn)  
 > 卍 (wàn)
