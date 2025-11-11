@@ -82,9 +82,7 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 | 兣 | gōnglǐ | 厘克 | 0.01 g |
 | 兞 | háokè | 毫克 | 0.001 g |
 
-(And sometimes 圕 is pronounced 图书馆.)  These characters are extremely rare, and probably should be regarded as obsolete.
-
-There's also 粨 (百米; 100m) which may be pronounced bǎi​mǐ, but also just bǎi​.
+These characters are extremely rare, and probably should be regarded as obsolete.  There's also 粨 (百米; 100m) which may be pronounced bǎi​mǐ, but also just bǎi​.
 
 ## Bopomofo/Zhuyin
 
