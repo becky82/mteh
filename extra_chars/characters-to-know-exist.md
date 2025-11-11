@@ -182,7 +182,7 @@ The word
 
 > 孑孓 (jié​jué) mosquito larva; wiggler
 
-has rarely occurring characters.  The most important thing is to know that they're different characters from 子 and 予.
+has rarely occurring characters.  The most important thing is to know that 孑 and 孓 are different characters from 子 and 予.
 
 Instead of 孑孓, you could instead use 蚊子幼虫.  The literary character 孑 (jié) appears in words like e.g. 孑立 (jié​lì​) = "to be alone" and chengyu such as 孑然一身 and 茕茕孑立, but there are other (more common) ways to express being alone.
 
