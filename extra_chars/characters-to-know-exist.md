@@ -31,7 +31,7 @@ There are many pronouns used throughout the Chinese speaking world, and they hav
 | 尔 | ěr | you / thou | 2nd | Classical Chinese |
 | 牠 | tā | it (animal) | 3rd | Commonly used in Taiwan |
 | 伊 | yī | he / she | 3rd | Classical and southern dialects |
-| 佢 | keoi⁵ | he / she / it | 3rd | Cantonese |
+| 佢 | qú / keoi⁵ | he / she / it | 3rd | Cantonese |
 | 渠 | qú | he / she | 3rd | Classical Chinese |
 | 祂 | tā | He (God) | 3rd | Used in the Bible |
 | 怹 | tān | he / she (formal) | 3rd | Obsolete formal form |
