@@ -92,7 +92,8 @@ Some characters are interesting because they look like the concept they denote. 
 - 囚 (qiú) prisoner, looks like a person 人 in a box (used in 囚人);
 - 闩 (shuān) latch, looks like a latch on a door 门 (used in 门闩, 锁闩, etc.);
 - 亖 (sì) four, variant of 四;
-- 十 (shí), 卄 / 廿 (niàn) 卅 (sà), 卌 (xì) for 10, 20, 30, 40, respectively.
+- 十 (shí), 卄 / 廿 (niàn) 卅 (sà), 卌 (xì) for 10, 20, 30, 40, respectively;
+- 皕 (bì) for 200.
 
 There's also
 
