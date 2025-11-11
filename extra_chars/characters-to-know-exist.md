@@ -1,18 +1,20 @@
 # Characters to know exist
 
-There are some Chinese characters which we should know exist, but they wouldn't normally be used in the HSK exam or in mainland China (so are not included in the MteH corpus).  They may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
+There are some Chinese characters which we should know exist, but they wouldn't normally be used in the HSK exam or in mainland China in standard Mandarin, so are not included in the MteH corpus.  Such characters may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
 
-## Periodic table of the elements
+Some topics deserve their own page:
 
-Each element on the periodic table gets its own Chinese character.  See [Chinese Characters on the Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table.md) for information about these characters.
+- Every element on the [periodic table](periodic_table.md) gets its own Chinese character.
 
-## Province abbreviations
+- Each Chinese province, etc., is assigned a [province abbreviations](province_abbreviations.md).
 
-Each Chinese province is assigned an abbreviation Chinese character; see [Province abbreviations](https://github.com/becky82/mteh/blob/main/extra_chars/province_abbreviations.md).
+- There are characters which are composed on [repeated components](repeated_components.md), which are often used decoratively.
+
+- Some character with specific components are fairly regular: [虫](虫.md) (insects and "lower life forms"), [鱼](鱼.md) (fish and other aquatic animals), [鸟](鸟.md) (birds), [木](木.md) (trees and woods), [疒](疒.md) (sickness).
 
 ## Pronouns
 
-There has been many pronouns used throughout the Chinese speaking world, and have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin, we have:
+There are many pronouns used throughout the Chinese speaking world, and they have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin (我, 自己, 你, 您, 咱们, 他, 她, 它, 人家, 其, etc.), we have:
 
 | Pronoun | Pinyin | Meaning | Person | Notes |
 |------------|---------|----------|---------|--------|
@@ -24,20 +26,20 @@ There has been many pronouns used throughout the Chinese speaking world, and hav
 | 侬 | nóng | I / me | 1st | Wu dialect |
 | 妳 | nǐ | you (female) | 2nd | Commonly used in Taiwan |
 | 祢 | nǐ | you (God) | 2nd | Used in the Bible |
-| 恁 | nèn | you (plural / formal) | 2nd | Used in Taiwanese Hokkien |
+| 恁 | nín | you (plural / formal) | 2nd | old variant of nin |
 | 汝 | rǔ | you / thou | 2nd | Classical Chinese |
 | 尔 | ěr | you / thou | 2nd | Classical Chinese |
 | 牠 | tā | it (animal) | 3rd | Commonly used in Taiwan |
 | 伊 | yī | he / she | 3rd | Classical and southern dialects |
-| 佢 | keoi⁵ | he / she / it | 3rd | Cantonese |
+| 佢 | qú / keoi⁵ | he / she / it | 3rd | Cantonese |
 | 渠 | qú | he / she | 3rd | Classical Chinese |
 | 祂 | tā | He (God) | 3rd | Used in the Bible |
 | 怹 | tān | he / she (formal) | 3rd | Obsolete formal form |
 | 其 | qí | he / she / it / their | 3rd | Classical / legal Chinese |
 
-This list is not comprehensive.  The pronouns 俺, 吾, and 朕 are included in MteH, and the characters 予, 余, 寡, 人, 汝, 尔, 伊, 渠, and 其 are included in MteH because they are also used outside of pronouns.
+This list is not comprehensive.  Many of these characters are included in MteH as they are used outside of pronouns.
 
-Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral second-person pronoun:
+Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral third-person pronoun:
 
 > ![Screenshot of TA pronoun](./misc/Screenshot_of_TA_pronoun.png)
 >
@@ -51,11 +53,13 @@ There's a small number characters which are essentially just abbreviations:
 |-----------|--------|-------|-------|
 | 甭 | béng | 不用 | Commonly used; included in MteH corpus |
 | 嫑 | biáo | 不要 | Rare; not used in standard Mandarin |
-| 孬 | nāo | 不好 | Rare; dialectal |
+| 孬 | nāo  | 不好 | Rare; dialectal |
 | 甮 | fèng | 勿用 | Rare; obsolete |
 | 覅 | fiào​ | 勿要 | Rare; dialectal |
 | 嘦 | jiào | 只要 | Rare |
 | 圕 | tuān | 图书馆 | Rare; mainly in calligraphy or decorative use |
+| 俩 | liǎ  | 两个 | Commonly used; included in MteH corpus |
+| 仨 | sā   | 三个 | Rare; included in MteH corpus |
 
 ## Multi-syllable characters
 
@@ -78,9 +82,24 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 | 兣 | gōnglǐ | 厘克 | 0.01 g |
 | 兞 | háokè | 毫克 | 0.001 g |
 
-(And sometimes 圕 is pronounced 图书馆.)  These characters are extremely rare, and probably should be regarded as obsolete.
+These characters are extremely rare, and probably should be regarded as obsolete.  There's also 粨 (百米; 100m) which may be pronounced bǎi​mǐ, but also just bǎi​.
 
-There's also 粨 (百米; 100m) which may be pronounced bǎi​mǐ, but also just bǎi​.
+### Less-common pictographs
+
+Some characters are interesting because they look like the concept they denote.  You probably already know the everyday pictograms, but there are also:
+
+- 凹 (āo) concave and 凸 (tū) convex (used in 凹凸不平, 凹陷, 凸出, etc.);
+- 囚 (qiú) prisoner, looks like a person 人 in a box (used in 囚人);
+- 闩 (shuān) latch, looks like a latch on a door 门 (used in 门闩, 锁闩, etc.);
+- 亖 (sì) four, variant of 四;
+- 十 (shí), 卄 / 廿 (niàn) 卅 (sà), 卌 (xì) for 10, 20, 30, 40, respectively;
+- 皕 (bì) for 200.
+
+There's also
+
+> [玊](https://www.mdbg.net/chinese/dictionary?wdqb=玊) sù: jade with a blemish / person who cuts and polishes jade
+
+which looks like someone miswrote 玉 (yù) jade.
 
 ## Bopomofo/Zhuyin
 
@@ -134,7 +153,11 @@ You might also see the Japanese
 
 > 丼
 
-used for Japanese-style rice dishes.
+used for Japanese-style rice dishes.  The Japanese currency
+
+> 円, yen
+
+is normally 日元 in Mandarin.
 
 ### Jiong
 
@@ -180,9 +203,9 @@ The word
 
 > 孑孓 (jié​jué) mosquito larva; wiggler
 
-has rarely occurring characters.  The most important thing is to know that they're different characters from 子 and 予.
+has rarely occurring characters.  The most important thing is to know that 孑 and 孓 are different characters from 子 and 予.
 
-Instead of 孑孓, you could use the direct 蚊子幼虫.  The literary character 孑 (jié) appears in words like e.g. 孑立 (jié​lì​) = "to be alone" and chengyu such as 孑然一身 and 茕茕孑立, but there are other (more common) ways to express being alone.
+Instead of 孑孓, you could instead use 蚊子幼虫.  The literary character 孑 (jié) appears in words like e.g. 孑立 (jié​lì​) = "to be alone" and chengyu such as 孑然一身 and 茕茕孑立, but there are other (more common) ways to express being alone.
 
 ### Yuezha
 
@@ -217,10 +240,12 @@ which is a decorative merging of the characters in the chengyu 招財進寳 (sim
 
 ### Swastika
 
-The swastika character is seen in Buddhist temples in China:
+The [swastika](https://en.wikipedia.org/wiki/Swastika) character is seen in Buddhist temples in China:
 
 > 卐 (wàn)  
 > 卍 (wàn)
+
+This use predates its appropriation by Nazi Germany.
 
 ### Decorative characters
 
@@ -229,13 +254,12 @@ Some characters are mostly used for decorative purposes nowadays, such as:
 > 嬲 (niǎo)  
 > 嫐 (nǎo)
 
-You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composd of repeated components like this; they're often used decoratively.
+You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeated-component characters](repeated_components.md) for a fairly comprehensive list of characters which are composed of repeated components like this; they're often used decoratively.
 
 ### Syllables not covered by MteH
 
-Here we survey the syllables which don't occur in MteH.  First, the syllables cēn and děi arise in Mandarin as 多音字 (polyphones):
+Here we survey the syllables which don't occur in MteH.  First, the syllable děi arise in Mandarin as a 多音字 (polyphone):
 
-> 参差不齐 (cēn cī bù qí)  
 > 得 (děi)
 
 The character:
