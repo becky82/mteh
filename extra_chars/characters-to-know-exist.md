@@ -14,7 +14,7 @@ Some topics deserve their own page:
 
 ## Pronouns
 
-There has been many pronouns used throughout the Chinese speaking world, and have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin, we have:
+There are many pronouns used throughout the Chinese speaking world, and they have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin (我, 你, 您, 咱们, 他, 她, 它, 人家, 其, etc.), we have:
 
 | Pronoun | Pinyin | Meaning | Person | Notes |
 |------------|---------|----------|---------|--------|
@@ -37,7 +37,7 @@ There has been many pronouns used throughout the Chinese speaking world, and hav
 | 怹 | tān | he / she (formal) | 3rd | Obsolete formal form |
 | 其 | qí | he / she / it / their | 3rd | Classical / legal Chinese |
 
-This list is not comprehensive.  The pronouns 俺, 吾, and 朕 are included in MteH, and the characters 予, 余, 寡, 人, 汝, 尔, 伊, 渠, and 其 are included in MteH because they are also used outside of pronouns.
+This list is not comprehensive.  Many of these characters are included in MteH as they are used outside of pronouns.
 
 Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral second-person pronoun:
 
