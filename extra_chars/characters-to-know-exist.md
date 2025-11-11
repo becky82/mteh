@@ -53,11 +53,13 @@ There's a small number characters which are essentially just abbreviations:
 |-----------|--------|-------|-------|
 | 甭 | béng | 不用 | Commonly used; included in MteH corpus |
 | 嫑 | biáo | 不要 | Rare; not used in standard Mandarin |
-| 孬 | nāo | 不好 | Rare; dialectal |
+| 孬 | nāo  | 不好 | Rare; dialectal |
 | 甮 | fèng | 勿用 | Rare; obsolete |
 | 覅 | fiào​ | 勿要 | Rare; dialectal |
 | 嘦 | jiào | 只要 | Rare |
 | 圕 | tuān | 图书馆 | Rare; mainly in calligraphy or decorative use |
+| 俩 | liǎ  | 两个 | Commonly used; included in MteH corpus |
+| 仨 | sā   | 三个 | Rare; included in MteH corpus |
 
 ## Multi-syllable characters
 
