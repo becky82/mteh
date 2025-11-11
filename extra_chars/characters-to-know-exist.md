@@ -1,6 +1,6 @@
 # Characters to know exist
 
-There are some Chinese characters which we should know exist, but they wouldn't normally be used in the HSK exam or in mainland China (so are not included in the MteH corpus).  They may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
+There are some Chinese characters which we should know exist, but they wouldn't normally be used in the HSK exam or in mainland China in standard Mandarin, so are not included in the MteH corpus.  Such characters may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
 
 ## Periodic table of the elements
 
