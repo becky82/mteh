@@ -153,7 +153,11 @@ You might also see the Japanese
 
 > 丼
 
-used for Japanese-style rice dishes.
+used for Japanese-style rice dishes.  The Japanese currency
+
+> 円, yen
+
+is normally 日元 in Mandarin.
 
 ### Jiong
 
