@@ -14,7 +14,7 @@ Some topics deserve their own page:
 
 ## Pronouns
 
-There are many pronouns used throughout the Chinese speaking world, and they have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin (我, 你, 您, 咱们, 他, 她, 它, 人家, 其, etc.), we have:
+There are many pronouns used throughout the Chinese speaking world, and they have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin (我, 自己, 你, 您, 咱们, 他, 她, 它, 人家, 其, etc.), we have:
 
 | Pronoun | Pinyin | Meaning | Person | Notes |
 |------------|---------|----------|---------|--------|
