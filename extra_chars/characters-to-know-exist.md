@@ -39,7 +39,7 @@ There are many pronouns used throughout the Chinese speaking world, and they hav
 
 This list is not comprehensive.  Many of these characters are included in MteH as they are used outside of pronouns.
 
-Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral second-person pronoun:
+Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral third-person pronoun:
 
 > ![Screenshot of TA pronoun](./misc/Screenshot_of_TA_pronoun.png)
 >
