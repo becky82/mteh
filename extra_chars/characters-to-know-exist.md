@@ -4,7 +4,7 @@ There are some Chinese characters which we should know exist, but they wouldn't 
 
 Some topics deserve their own page:
 
-- Every element on the [periodic Table](periodic_table.md) gets its own Chinese character.
+- Every element on the [periodic table](periodic_table.md) gets its own Chinese character.
 
 - Each Chinese province, etc., is assigned a [province abbreviations](province_abbreviations.md).
 
