@@ -84,7 +84,7 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 
 These characters are extremely rare, and probably should be regarded as obsolete.  There's also 粨 (百米; 100m) which may be pronounced bǎi​mǐ, but also just bǎi​.
 
-### Characters with interesting forms
+### Less-common pictographs
 
 Some characters are interesting because they look like the concept they denote.  You probably already know the everyday pictograms, but there are also:
 
