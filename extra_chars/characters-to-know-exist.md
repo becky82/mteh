@@ -4,11 +4,13 @@ There are some Chinese characters which we should know exist, but they wouldn't 
 
 Some topics deserve their own page:
 
-- Every element on the [Periodic Table](periodic_table.md) gets its own Chinese character.
+- Every element on the [periodic Table](periodic_table.md) gets its own Chinese character.
 
 - Each Chinese province, etc., is assigned a [province abbreviations](province_abbreviations.md).
 
 - There are characters which are composed on [repeated components](repeated_components.md), which are often used decoratively.
+
+- Some character with specific components are fairly regular: [虫](虫.md) (insects and "lower life forms"), [鱼](鱼.md) (fish and other aquatic animals), [鸟](鸟.md) (birds), [木](木.md) (trees and woods).
 
 ## Pronouns
 
