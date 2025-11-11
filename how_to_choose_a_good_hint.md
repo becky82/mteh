@@ -1,3 +1,5 @@
+# How to choose a good hint
+
 Choosing a hint for each character is somewhat of an art, but there are some general properties that good hints have.
 
 1. We assume anyone using MteH is an advanced student, or are at least striving to become an advanced student (it's not designed to be useful for other students).  So:
