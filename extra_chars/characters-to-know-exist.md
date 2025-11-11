@@ -2,13 +2,13 @@
 
 There are some Chinese characters which we should know exist, but they wouldn't normally be used in the HSK exam or in mainland China in standard Mandarin, so are not included in the MteH corpus.  Such characters may arise outside of mainland China or in Mandarin dialects, or may be considered obsolete, or may be found in usernames, character riddles (字谜), fiction, the Bible, etc.
 
-## Periodic table of the elements
+Some topics deserve their own page:
 
-Each element on the periodic table gets its own Chinese character.  See [Chinese Characters on the Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table.md) for information about these characters.
+- Every element on the [Periodic Table](https://github.com/becky82/mteh/blob/main/extra_chars/periodic_table.md) gets its own Chinese character.
 
-## Province abbreviations
+- Each Chinese province, etc., is assigned a [province abbreviations](https://github.com/becky82/mteh/blob/main/extra_chars/province_abbreviations.md).
 
-Each Chinese province is assigned an abbreviation Chinese character; see [Province abbreviations](https://github.com/becky82/mteh/blob/main/extra_chars/province_abbreviations.md).
+- There are characters which are composed on [repeated components](repeated_components.md), which are often used decoratively.
 
 ## Pronouns
 
