@@ -237,9 +237,8 @@ You may also see things like 火炎焱燚 e.g. in online usernames.  See [Repeat
 
 ### Syllables not covered by MteH
 
-Here we survey the syllables which don't occur in MteH.  First, the syllables cēn and děi arise in Mandarin as 多音字 (polyphones):
+Here we survey the syllables which don't occur in MteH.  First, the syllable děi arise in Mandarin as a 多音字 (polyphone):
 
-> 参差不齐 (cēn cī bù qí)  
 > 得 (děi)
 
 The character:
