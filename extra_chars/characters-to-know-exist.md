@@ -224,6 +224,8 @@ The swastika character is seen in Buddhist temples in China:
 > 卐 (wàn)  
 > 卍 (wàn)
 
+This use predates its appropriation by Nazi Germany.
+
 ### Decorative characters
 
 Some characters are mostly used for decorative purposes nowadays, such as:
