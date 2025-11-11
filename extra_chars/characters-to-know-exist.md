@@ -26,7 +26,7 @@ There has been many pronouns used throughout the Chinese speaking world, and hav
 | 侬 | nóng | I / me | 1st | Wu dialect |
 | 妳 | nǐ | you (female) | 2nd | Commonly used in Taiwan |
 | 祢 | nǐ | you (God) | 2nd | Used in the Bible |
-| 恁 | nèn | you (plural / formal) | 2nd | Used in Taiwanese Hokkien |
+| 恁 | nín | you (plural / formal) | 2nd | Used in Taiwanese Hokkien |
 | 汝 | rǔ | you / thou | 2nd | Classical Chinese |
 | 尔 | ěr | you / thou | 2nd | Classical Chinese |
 | 牠 | tā | it (animal) | 3rd | Commonly used in Taiwan |
