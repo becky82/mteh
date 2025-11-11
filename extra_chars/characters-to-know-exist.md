@@ -84,6 +84,21 @@ Almost every character corresponds to a single syllable in Chinese.  The only ex
 
 These characters are extremely rare, and probably should be regarded as obsolete.  There's also 粨 (百米; 100m) which may be pronounced bǎi​mǐ, but also just bǎi​.
 
+### Characters with interesting forms
+
+Some characters are interesting because they look like the concept they denote.  You probably already know the easy ones (like 一 二 三)
+
+- 凹 (āo) concave and 凸 (tū) convex (used in 凹凸不平, 凹陷, 凸出, etc.);
+- 囚 (qiú) prisoner, looks like a person 人 in a box (used in 囚人);
+- 闩 (shuān) latch, looks like a latch on a door 门 (used in 门闩, 锁闩, etc.);
+- 亖 (sì) four, variant of 四.
+
+There's also
+
+> [玊](https://www.mdbg.net/chinese/dictionary?wdqb=玊) sù: jade with a blemish / person who cuts and polishes jade
+
+which looks like someone miswrote 玉 (yù) jade.
+
 ## Bopomofo/Zhuyin
 
 Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo), which has its own characters (enjoy the [Bopomofo song](https://www.youtube.com/watch?v=nKmwhmI0mBE)):
