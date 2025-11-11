@@ -38,7 +38,7 @@ The majority of these Chinese characters are not familiar to most people, unless
 | 50 | 锡 | xī | Tin | ![锡](./periodic_table/锡.jpg) | 锡罐 (tin can); 锡纸 (tin foil) | [Pexels](https://www.pexels.com/photo/tin-can-on-gravel-surface-1003103/) |
 | 53 | 碘 | diǎn | Iodine | ![碘](./periodic_table/碘.jpg) | 碘化食盐 (iodized salt) | [Wikimedia](https://commons.wikimedia.org/wiki/File:China_Salt_low_sodium_iodized_salt_on_shelf_(20230824183556).jpg) |
 | 74 | 钨 | wū | Tungsten | ![钨](./periodic_table/钨.jpg) | 钨丝 (tungsten filament) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Drill_tip_masonry.jpg) |
-| 79 | 金 | jīn | Gold | ![金](./periodic_table/金.jpg) | 金牌 (gold medal); 金融 (finance); 金属 (metal) | [Pexels](https://www.pexels.com/photo/gold-bar-lot-47047/) |
+| 79 | 金 | jīn | Gold | ![金](./periodic_table/金.jpg) | 黄金 (gold); 金牌 (gold medal); 金融 (finance); 金属 (metal) | [Pexels](https://www.pexels.com/photo/gold-bar-lot-47047/) |
 | 80 | 汞 | gǒng | Mercury | ![汞](./periodic_table/汞.jpg) | aka 水银 (quicksilver) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mercury_(Element_-_80)_2.jpg) |
 | 82 | 铅 | qiān | Lead | ![铅](./periodic_table/铅.jpg) | 铅笔 (grey lead pencil), although they actually use 石墨 (graphite) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Angeln_zubehoer_grundblei_01.jpg) |
 | 84 | 钋 | pō | Polonium | ![钋](./periodic_table/钋.jpg) | used in 核反应堆 (nuclear reactors) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Polonium_(Element_-_84)_2.jpg) |
