@@ -35,7 +35,7 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
     - 画龙点睛 is a good hint for 点 because 画龙[blank]睛 can only be completed with 点, and no other information is needed (in other words, the target character 点 is inferable);
     - 拔苗助长 is *not* an ideal hint for 拔 because [blank]苗助长 could refer to 拔苗助长 or 揠苗助长 (although 拔苗助长 is a good hint for 苗).
 
-    In MteH: pinyin, HSK level and Jun Da frequency are also included, and characters with like components are grouped together.  However, the ideal hint does not rely on this extra knowledge.
+    In MteH: pinyin, HSK level, and Jun Da frequency are also included, and characters with like components are grouped together.  However, the ideal hint does not rely on this extra knowledge.
 
 1. The ideal hint involves the most common collocations and context (not always possible):
 
