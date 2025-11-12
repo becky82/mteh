@@ -32,9 +32,9 @@ Chinese provinces and other administrative divisions are assigned single-charact
 | 闽       | Mǐn    | 福建     | ![闽](./license_plates/闽.jpg) | original photo |
 | 青       | Qīng   | 青海     | ![青](./license_plates/青.jpg) | original photo |
 | 黑       | Hēi    | 黑龙江   | ![黑](./license_plates/黑.jpg) | original photo |
-| 鄂       | È      | 湖北     | ![鄂](./license_plates/鄂.jpg) | TO DO |
+| 鄂       | È      | 湖北     | ![鄂](./license_plates/鄂.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:(CHN-Hubei)_Shengyuan_Taxi_Dongfeng_Aeolus_E70_%E9%84%82ADG6989_2024-12-03.jpg) |
 | 贵       | Guì    | 贵州     | ![贵](./license_plates/贵.jpg) | TO DO |
-| 藏       | Zàng   | 西藏     | ![藏](./license_plates/藏.jpg) | TO DO |
+| 藏       | Zàng   | 西藏     | ![藏](./license_plates/藏.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Our_Vehicle_in_China.jpg)] |
 
 These are special cases that don't follow the same format:
 
@@ -52,17 +52,16 @@ You'll encounter province abbreviations in the names of types of cuisine, e.g.:
 
 Here 川 is the abbreviation for 四川 (Sichuan) and 湘 is the abbreviation for 湖南 (Hunan).
 
-You can also find the character 电 on license plates:
+Some other characters also appear on license plates in China:
 
-> ![电](./license_plates/电.jpg)
->
-> original photo
-
-which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats (大使):
-
-> ![使](./license_plates/使.jpg)
->
-> Image source: [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BD%BF_diplomatic_license_plate_from_the_People%27s_Republic_of_China.jpg)
+| abbrev. | pinyin | meaning | photo | source |
+|----------|---------|--------|---------------|---------------|
+| 电       | diàn  | electric     | ![电](./license_plates/电.jpg) | original photo |
+| 警       | jǐng  | police 警察     | ![警](./license_plates/警.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:MPS_StW_%E7%B2%A4S2139%E8%AD%A6.jpg) |
+| 学       | xué  | student (e.g. driving schools)     | ![学](./license_plates/学.png) | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E6%B4%A5%E6%95%99%E7%BB%83%E8%BD%A6%E7%89%8C.png) |
+| 挂       | guà  | trailors 拖挂车     | ![挂](./license_plates/挂.jpg) | [Wikimedia](hhttps://commons.wikimedia.org/wiki/File:Yellow_vehicle_registration_plate_%E6%8B%96%E6%8C%82%E8%BD%A6_Trailer_in_Beijing,_P.R._China.jpg) |
+| 使       | shǐ  | diplomat 大使     | ![使](./license_plates/使.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BD%BF_diplomatic_license_plate_from_the_People%27s_Republic_of_China.jpg) |
+| 领       | lǐng    | consul 领事     | ![领](./license_plates/领.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vehicle_registration_plate_of_Consulate-General_of_France_in_Wuhan_%E9%84%82_China.jpg)  |
 
 Some provinces and other administrative divisions have multiple abbreivations:
 
