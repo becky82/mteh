@@ -21,11 +21,12 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
     - target characters must occur at least once in their hint (so it can be used as a cloze, fill-in-the-blank hint);
     - target characters are allowed to occur multiple times in their hint: 侄子侄女 is a hint for 侄.
 
-1. While it is usually preferrable that the hints are grammatical, they are only hints: they don't need to be grammatical (advanced students should be able to recognize when the hint is ungrammatical, and turn them into a grammatical phrase):
+1. While it is usually preferrable that the hints are grammatical, they are only hints: they don't need to be grammatical:
 
     - 虽然但是 is a good hint for 虽, despite being ungrammatical;
     - 壹贰叁肆 is a good hint for 贰 as it effectively writes 1[blank]34 in anti fraud numerals, and it's easy to infer the missing character is the anti-fraud numeral for 2;
-    - 湖北：鄂 is perhaps the best hint for 鄂, as this character is used as a province abbreviation for 湖北 (for license plates, documents, etc.).
+    - 湖北：鄂 is perhaps the best hint for 鄂, as this character is used as a province abbreviation for 湖北 (for license plates, documents, etc.);
+    - advanced students should be able to recognize when the hint is ungrammatical, and even turn an ungrammatical hint into a grammatical phrase.
 
 ## Ideal hints
 
