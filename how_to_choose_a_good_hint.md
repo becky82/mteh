@@ -9,7 +9,7 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
    - we assume all the characters up to (at least) HSK5 are "easy" for the student;
    - no English (or non-Chinese) definitions nor mnemonics (they're neither needed nor wanted);
    - the student is capable of independent learning (e.g., if they don't understand a hint, they can figure it out themselves);
-   - the student would benefit from exposure to both rarer words in context, and cultural elements.
+   - the student would benefit from exposure to both rarer words in context and cultural elements.
 
 1. The ideal hint includes what a student might say to their teacher (who only ever speaks to them in Chinese) to demonstrate that they know a character.
 
