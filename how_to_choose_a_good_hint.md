@@ -30,7 +30,7 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
 
 ## Ideal hints
 
-1. The ideal hint allows the reader to uniquely infer the blank without additional instructions (not always possible, e.g., it's hard to choose a hint for 譬 where it can't be replaced by 比 or 例).
+1. The ideal hint allows the reader to uniquely infer the blank without additional information (not always possible, e.g., it's hard to choose a hint for 譬 where it can't be replaced by 比 or 例).
 
     - 画龙点睛 is a good hint for 点 because 画龙[blank]睛 can only be completed with 点, and no other information is needed (in other words, the target character 点 is inferable);
     - 拔苗助长 is *not* an ideal hint for 拔 because [blank]苗助长 could refer to 拔苗助长 or 揠苗助长 (although 拔苗助长 is a good hint for 苗).
