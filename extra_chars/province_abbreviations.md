@@ -36,7 +36,7 @@ Chinese provinces and other administrative divisions are assigned single-charact
 | 贵       | Guì    | 贵州     | ![贵](./license_plates/贵.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:F_RCFD-GZ-Qiandongnan-Leishan-Xijiang_SG_%E8%B4%B5H39936_front.jpg) |
 | 藏       | Zàng   | 西藏     | ![藏](./license_plates/藏.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Our_Vehicle_in_China.jpg) |
 
-These are special cases that don't follow the same format:
+These regions don't follow the same format as mainland China:
 
 | abbrev. | pinyin | region | photo | source |
 |----------|---------|--------|---------------|---------------|
