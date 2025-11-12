@@ -50,6 +50,7 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
 1. The ideal hint matches the obscurity of the character:
 
     - 驽马十驾 is *not* a good hint for 十, because the chengyu is too obscure;
+    - 亵渎神明 is a good hint for 亵, as the relatively rare character 亵 is most commonly used in the word 亵渎, and the rare character 渎 in the hint [blank]渎神明 implies the target character is obscure (even without providing metadata).
 
 1. Common chengyu are often good hints, as their characters are usually fixed, and they contain non-trivial knowledge.
 
