@@ -44,7 +44,8 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
 
 1. The ideal hint has the target character as the most complicated or rarest character in the hint (not always possible):
 
-    - 一丝不苟 contains one rare character 苟, and the others are all assumed to be "easy" for a student who uses MteH, so 一丝不苟 is a good hint for 苟, but not a great hint for 丝.
+    - 一丝不苟 contains one rare character 苟, and the other characters (一, 丝, 不) are all assumed to be "easy" for a student who uses MteH, so 一丝不苟 is a good hint for 苟;
+    - 一丝不苟 is *not* a great hint for 丝, because the student might know 丝 but still get the answer wrong because they didn't know 苟.
   
 1. The ideal hint matches the obscurity of the character:
 
