@@ -40,9 +40,9 @@ These are special cases that don't follow the same format:
 
 | abbrev. | pinyin | region | photo | source |
 |----------|---------|--------|---------------|---------------|
-| 港       | Gǎng  | 香港     | ![港](./license_plates/港.jpg) | TO DO |
-| 澳       | Ào    | 澳门     | ![澳](./license_plates/澳.jpg) | TO DO |
-| 台       | Tái   | 台湾     | ![台](./license_plates/台.jpg) | TO DO |
+| 港       | Gǎng  | 香港     | ![港](./license_plates/港.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:China_cross-border_Guangdong-Hong_Kong_license_plate-%E7%B2%A4Z%E2%80%A2G969%E6%B8%AF.jpg) |
+| 澳       | Ào    | 澳门     | ![澳](./license_plates/澳.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:China_cross-border_Guangdong-Macau_license_plate_%E7%B2%A4Z_8503%E6%BE%B3.jpg) |
+| 台       | Tái   | 台湾 / 台灣 | ![台](./license_plates/台.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_Province_License_Plate_(0146).JPG) |
 
 You'll encounter province abbreviations in the names of types of cuisine, e.g.:
 
