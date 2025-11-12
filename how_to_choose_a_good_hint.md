@@ -60,4 +60,4 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
     - ideally all the characters used in hints are MteH characters themselves (with rare exceptions);
     - ideally there are no duplicate hints in MteH (with some exceptions), so avoid using 经济发展 as a hint for 经, 济, 发, and 展 as alternative hints can be chosen, while 囫囵吞枣 is the best hint for 囫 and 囵, despite the duplicate hint.
   
-1. If possible, avoid anything potentially offensive, and ideally avoids modern politics (if possible); it's simply not worth the heartache.  There are a small number of Chinese characters which are somewhat offensive yet need to be included: treat these academically.  You should be able to give MteH to a small child without any problems.
+1. Where possible, avoid anything plausibly offensive or controversial, and avoid modern politics.  There are a very small number of Chinese characters which are somewhat offensive: try to choose a minimally disruptive hint.  You should be able to give MteH to a small child, or anyone on any political spectrum without major problems.
