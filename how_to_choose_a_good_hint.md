@@ -6,7 +6,7 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
 
 1. We assume anyone using MteH is an advanced student, or are at least striving to become an advanced student (it's not designed to be useful for other students).  So:
 
-   - we assume all the characters up to (at least) HSK5 characters are "easy" for the student;
+   - we assume all the characters up to (at least) HSK5 are "easy" for the student;
    - no English (or non-Chinese) definitions nor mnemonics (they're neither needed nor wanted);
    - the student is capable of independent learning (e.g., if they don't understand a hint, they can figure it out themselves);
    - the student would benefit from exposure to rarer words in context.
