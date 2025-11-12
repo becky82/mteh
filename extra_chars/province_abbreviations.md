@@ -1,4 +1,4 @@
-# Province abbreviations
+# Province abbreviations and license plates
 
 Chinese provinces and other administrative divisions are assigned single-character abbreviatons.  In China, you'll most commonly see these abbreviations on license plates.
 
