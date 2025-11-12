@@ -46,7 +46,7 @@ These are special cases that don't follow the same format:
 
 You'll encounter province abbreviations in the names of types of cuisine, e.g.:
 
-> ![餐饮 烤鱼川湘家常菜](烤鱼川湘家常菜.jpg)
+> ![餐饮 烤鱼川湘家常菜](./misc/烤鱼川湘家常菜.jpg)
 >
 > <sub>餐饮 烤鱼川湘家常菜</sub>
 
