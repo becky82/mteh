@@ -16,7 +16,7 @@ Some topics deserve their own page:
 
 There are many pronouns used throughout the Chinese speaking world, and they have changed over time.  Some are obsolete, some are only used in some parts of the world, some are used in dialects, and some are only used in specific circumstances.  They might be encountered in historical movies, quotations, chengyu, classical Chinese, etc.  Aside from the pronouns used in modern standard Mandarin (我, 自己, 你, 您, 咱们, 他, 她, 它, 人家, 其, etc.), we have:
 
-| Pronoun | Pinyin | Meaning | Person | Notes |
+| char | pinyin | meaning | person | notes |
 |------------|---------|----------|---------|--------|
 | 俺 | ǎn | I / me | 1st | Northern dialect |
 | 吾 | wú | I / me | 1st | Classical / literary |
@@ -49,7 +49,7 @@ Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral
 
 There's a small number characters which are essentially just abbreviations:
 
-| Character | Pinyin | Contraction | Notes |
+| char | pinyin | contraction | notes |
 |-----------|--------|-------|-------|
 | 甭 | béng | 不用 | Commonly used; included in MteH corpus |
 | 嫑 | biáo | 不要 | Rare; not used in standard Mandarin |
@@ -65,7 +65,7 @@ There's a small number characters which are essentially just abbreviations:
 
 Almost every character corresponds to a single syllable in Chinese.  The only exceptions that seem to exist are:
 
-| Character | Pinyin | Meaning | Value |
+| char | pinyin | meaning | value |
 |-----------|--------|---------|-------|
 | **Power (瓦 / W)** | | | |
 | 瓩 | qiānwǎ | 千瓦 | 1000 W |
@@ -118,7 +118,7 @@ Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomof
 
 A few characters which are used in Taiwan come up from time to time e.g., if you're reading online:
 
-| Taiwan   | Mainland   |
+| Taiwan   | mainland   |
 | -------- | ---------- |
 | 蚵 (é)   | 牡蛎 (mǔlì) |
 | 矽 (xī)  | 硅 (guī)    |
