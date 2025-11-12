@@ -44,14 +44,6 @@ These regions don't follow the same format as mainland China:
 | 澳       | Ào    | 澳门     | ![澳](./license_plates/澳.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:China_cross-border_Guangdong-Macau_license_plate_%E7%B2%A4Z_8503%E6%BE%B3.jpg) |
 | 台       | Tái   | 台湾 / 台灣 | ![台](./license_plates/台.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_Province_License_Plate_(0146).JPG) |
 
-You'll encounter province abbreviations in the names of types of cuisine, e.g.:
-
-> ![餐饮 烤鱼川湘家常菜](./misc/烤鱼川湘家常菜.jpg)
->
-> <sub>餐饮 烤鱼川湘家常菜</sub>
-
-Here 川 is the abbreviation for 四川 (Sichuan) and 湘 is the abbreviation for 湖南 (Hunan).
-
 Some other characters also appear on license plates in China:
 
 | abbrev. | pinyin | meaning | photo | source |
@@ -72,6 +64,14 @@ Some provinces and other administrative divisions have multiple abbreivations:
 | 滇; 云 | Diān | 云南 |
 | 秦; 陕 | Qín | 陕西 |
 | 陇; 甘 | Lǒng | 甘肃 |
+
+You'll encounter province abbreviations in the names of types of cuisine, e.g.:
+
+> ![餐饮 烤鱼川湘家常菜](./misc/烤鱼川湘家常菜.jpg)
+>
+> <sub>餐饮 烤鱼川湘家常菜</sub>
+
+Here 川 is the abbreviation for 四川 (Sichuan) and 湘 is the abbreviation for 湖南 (Hunan).
 
 And Chinese cities also have abbreviations (too many to list in full):
 
