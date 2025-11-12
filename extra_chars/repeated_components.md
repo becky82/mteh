@@ -8,7 +8,7 @@ A table of Chinese characters which are composed of repeated components (includi
 
 Many of these are most often used as decorations, e.g., in usernames, rather than for any meaning.
 
-| Component | ⿰XX | ⿱XX | ⿱X⿰XX | ⿱⿰XX⿰XX | etc. |
+| component | ⿰XX | ⿱XX | ⿱X⿰XX | ⿱⿰XX⿰XX | etc. |
 | - | - | - | - | - | - |
 | く | 巜 |  |  |  | 巛 |
 | 一 |  | 二 |  |  | 三亖 |
