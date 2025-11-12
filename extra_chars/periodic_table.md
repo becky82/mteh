@@ -31,7 +31,7 @@ The majority of these Chinese characters are not familiar to most people, unless
 | 22 | 钛 | tài | Titanium | ![钛](./periodic_table/钛.jpg) | 钛合金 (titanium alloy) | [Pexels](https://www.pexels.com/photo/logo-on-the-head-of-a-golf-club-8557693/) |
 | 24 | 铬 | gè | Chromium | ![铬](./periodic_table/铬.jpg) | 电镀铬 (chrome plating) | [Wikimedia](https://commons.wikimedia.org/wiki/File:BMW_E92_M3_Chrome_Bullet_Goodwood_FoS_2012-06-29.jpg) |
 | 26 | 铁 | tiě | Iron | ![铁](./periodic_table/铁.jpg) | 地铁 (subway); 铁路 (railroad); 磁铁 (magnet); 钢铁 (steel) | [Pexels](https://www.pexels.com/photo/brown-train-rails-2213140/) |
-| 28 | 镍 | niè | Nickel | ![镍](./periodic_table/镍.jpg) | 镀镍 (nickel plating); also used in many alloys, e.g., 青铜 (bronze) | TO DO |
+| 28 | 镍 | niè | Nickel | ![镍](./periodic_table/镍.jpg) | 镀镍 (nickel plating); also used in many alloys, e.g., 青铜 (bronze); USA's 5-cent coin 5美分硬币 can be called 镍币 | [Wikimedia](https://commons.wikimedia.org/wiki/File:US_Nickel_2013_Rev.png) |
 | 29 | 铜 | tóng | Copper | ![铜](./periodic_table/铜.jpg) | 铜牌 (bronze medal); 青铜 (bronze) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bronze_Monster_Mask_from_a_horse_bridle_Western_Zhou_dynasty_China_9th_century_BCE.jpg) |
 | 30 | 锌 | xīn | Zinc | ![锌](./periodic_table/锌.jpg) | 镀锌 (galvanize [zinc plated]) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hot_galvanized_sheet.jpg) |
 | 47 | 银 | yín | Silver | ![银](./periodic_table/银.jpg) | 银牌 (silver medal); 银行 (bank) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Maica_Garc%C3%ADa_Godoy.jpg) |
