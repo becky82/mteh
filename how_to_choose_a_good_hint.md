@@ -56,7 +56,7 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
 
 1. Hints are not entirely isolated from other hints:
 
-    - ideally there is diversity among hints to make them more distinctive and memorable (oral, written, formal, slang, technical, 3 vs. 4 characters, etc.);
+    - ideally there is diversity among hints to make them more distinctive and memorable (oral, written, formal, slang, technical, 3 vs. 4 characters, proper nouns, transliteration, etc.);
     - ideally all the characters used in hints are MteH characters themselves (with rare exceptions);
     - ideally there are no duplicate hints in MteH (with some exceptions), so avoid using 经济发展 as a hint for 经, 济, 发, and 展 as alternative hints can be chosen, while 囫囵吞枣 is the best hint for 囫 and 囵, despite the duplicate hint.
   
