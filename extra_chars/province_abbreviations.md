@@ -44,23 +44,6 @@ These are special cases that don't follow the same format:
 | 澳       | Ào    | 澳门     | ![澳](./license_plates/澳.jpg) | TO DO |
 | 台       | Tái   | 台湾     | ![台](./license_plates/台.jpg) | TO DO |
 
-You can also find the character 电 on license plates:
-
-> ![电](./license_plates/电.jpg)
-
-which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats.
-
-Some provinces and other administrative divisions abbreviations have multiple abbreivations:
-
-| abbrev. | pinyin | region |
-|----------|------|------|
-| 蜀 | Shǔ | 四川 |
-| 黔 | Qián | 贵州 |
-| 滇 | Diān | 云南 |
-| 秦 | Qín | 陕西 |
-| 陇 | Lǒng | 甘肃 |
-| 沽 | Gū | 天津 |
-
 You'll encounter province abbreviations in the names of types of cuisine, e.g.:
 
 > ![餐饮 烤鱼川湘家常菜](烤鱼川湘家常菜.jpg)
@@ -68,3 +51,31 @@ You'll encounter province abbreviations in the names of types of cuisine, e.g.:
 > <sub>餐饮 烤鱼川湘家常菜</sub>
 
 Here 川 is the abbreviation for 四川 (Sichuan) and 湘 is the abbreviation for 湖南 (Hunan).
+
+You can also find the character 电 on license plates:
+
+> ![电](./license_plates/电.jpg)
+
+which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats.
+
+Some provinces and other administrative divisions have multiple abbreivations:
+
+| abbrev. | pinyin | region |
+|----------|------|------|
+| 蜀; 川 | Shǔ | 四川 |
+| 黔; 贵 | Qián | 贵州 |
+| 滇; 云 | Diān | 云南 |
+| 秦; 陕 | Qín | 陕西 |
+| 陇; 甘 | Lǒng | 甘肃 |
+
+And Chinese cities also have abbreviations (too many to list in full):
+
+| abbrev. | pinyin | region |
+|----------|------|------|
+| 蜀 | Shǔ | 四川 |
+| 沽 | Gū | 天津 |
+| 蓉 | Róng | 成都 |
+| 武 | Wǔ | 武汉 |
+| 宁 | Níng | 南京 |
+| 哈 | Hā | 哈尔滨 |
+| 青 | Qīng | 青岛 |
