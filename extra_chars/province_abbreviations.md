@@ -50,7 +50,7 @@ You can also find the character 电 on license plates:
 
 which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats.
 
-These province abbreviations aren't used on license plates:
+Some provinces and other administrative divisions abbreviations have multiple abbreivations:
 
 | abbrev. | pinyin | region |
 |----------|------|------|
@@ -61,7 +61,7 @@ These province abbreviations aren't used on license plates:
 | 陇 | Lǒng | 甘肃 |
 | 沽 | Gū | 天津 |
 
-You'll also encounter province abbreviations in the names of types of cuisine, e.g.:
+You'll encounter province abbreviations in the names of types of cuisine, e.g.:
 
 > ![餐饮 烤鱼川湘家常菜](烤鱼川湘家常菜.jpg)
 >
