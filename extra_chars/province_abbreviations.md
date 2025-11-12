@@ -56,7 +56,11 @@ You can also find the character 电 on license plates:
 
 > ![电](./license_plates/电.jpg)
 
-which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats.
+which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats:
+
+> ![使](./license_plates/使.jpg)
+>
+> Image source: [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BD%BF_diplomatic_license_plate_from_the_People%27s_Republic_of_China.jpg)
 
 Some provinces and other administrative divisions have multiple abbreivations:
 
