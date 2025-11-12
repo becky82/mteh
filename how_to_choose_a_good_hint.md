@@ -1,6 +1,6 @@
 # How to choose a good hint
 
-Choosing a hint for each character is somewhat of an art, but there are some general properties that good hints have.
+Choosing a hint for each character is somewhat of an art, but there are some general properties that good hints have.  Feel free to raise an [Issue](https://github.com/becky82/mteh/issues) if you have a better hint than the current hint.
 
 ## Background/technical assumptions
 
