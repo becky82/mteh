@@ -56,7 +56,7 @@ You can also find the character 电 on license plates:
 
 > ![电](./license_plates/电.jpg)
 
-which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats:
+which is not a province, but indicates an electric vehicle.  The character 使 also occurs on license plates for diplomats (大使):
 
 > ![使](./license_plates/使.jpg)
 >
