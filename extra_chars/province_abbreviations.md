@@ -78,7 +78,7 @@ And Chinese cities also have abbreviations (too many to list in full):
 | abbrev. | pinyin | region |
 |----------|------|------|
 | 蜀 | Shǔ | 四川 |
-| 沽 | Gū | 天津 |
+| 津; 沽 | Gū | 天津 |
 | 蓉 | Róng | 成都 |
 | 武 | Wǔ | 武汉 |
 | 宁 | Níng | 南京 |
