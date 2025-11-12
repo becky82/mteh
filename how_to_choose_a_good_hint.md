@@ -2,6 +2,8 @@
 
 Choosing a hint for each character is somewhat of an art, but there are some general properties that good hints have.
 
+## Background/technical assumptions
+
 1. We assume anyone using MteH is an advanced student, or are at least striving to become an advanced student (it's not designed to be useful for other students).  So:
 
    - we assume all the characters up to (at least) HSK5 characters are "easy" for the student;
@@ -25,6 +27,8 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
     - 壹贰叁肆 is a good hint for 贰 as it effectively writes 1[blank]34 in anti fraud numerals, and it's easy to infer the missing character is the anti-fraud numeral for 2;
     - 湖北：鄂 is perhaps the best hint for 鄂, as this character is used as a province abbreviation for 湖北 (for license plates, documents, etc.).
 
+## Ideal hints
+
 1. The ideal hint allows the reader to uniquely infer the blank without additional instructions (not always possible, e.g., it's hard to choose a hint for 譬 where it can't be replaced by 比 or 例).
 
     - 画龙点睛 is a good hint for 点 because 画龙[blank]睛 can only be completed with 点, and no other information is needed (in other words, the target character 点 is inferable);
@@ -40,5 +44,15 @@ Choosing a hint for each character is somewhat of an art, but there are some gen
 1. The ideal hint has the target character as the most complicated or rarest character in the hint (not always possible):
 
     - 一丝不苟 contains one rare character 苟, and the others are all assumed to be "easy" for a student who uses MteH, so 一丝不苟 is a good hint for 苟, but not a great hint for 丝.
+  
+1. The ideal hint matches the obscurity of the character:
+
+    - 驽马十驾 is *not* a good hint for 十, because the chengyu is too obscure;
 
 1. Common chengyu are often good hints, as their characters are usually fixed, and they contain non-trivial knowledge.
+
+1. Hints are not entirely isolated from other hints:
+
+    - ideally there is diversity among hints (oral, written, formal, rude, technical, etc.);
+    - ideally all the characters used in hints are MteH characters themselves (with rare exceptions);
+    - ideally there are no duplicate hints in MteH (with some exceptions), so avoid using 经济发展 as a hint for 经, 济, 发, and 展;
