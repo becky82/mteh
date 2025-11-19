@@ -221,7 +221,7 @@ Another word with interesting characters is:
 
 > 旮旯 (gālá) nook, corner
 
-used to refer to places that are difficult to get to; it's often used in 犄角旮旯 (jījiǎogālá).
+It's used to refer to places that are difficult to get to; it's often used in 犄角旮旯 (jījiǎogālá).
 
 ### Shorthand
 
