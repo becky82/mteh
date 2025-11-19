@@ -211,9 +211,17 @@ Instead of 孑孓, you could instead use 蚊子幼虫.  The literary character �
 
 In Mandarin, 蟑螂 (zhāng​láng​) is the word for cockroach; there is a Cantonese word:
 
-> 曱甴 cockroach
+> 曱甴 (yuēzhá; yuēyóu) cockroach
 
 although you might see the characters 曱甴 (yuē​zhá) used decoratively.
+
+### Gala
+
+Another word with interesting characters is:
+
+> 旮旯 (gālá) nook, corner
+
+used to refer to places that are difficult to get to; it's often used in 犄角旮旯 (jījiǎogālá).
 
 ### Shorthand
 
