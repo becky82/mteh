@@ -61,6 +61,10 @@ There's a small number characters which are essentially just abbreviations:
 | 俩 | liǎ  | 两个 | Commonly used; included in MteH corpus |
 | 仨 | sā   | 三个 | Rare; included in MteH corpus |
 
+> ![Avatar: The Last Airbender screenshot](./misc/烈火王生了个孬种.png)
+>
+> 烈火王生了个孬种 --- Avatar: The Last Airbender (season 1, episode 3)
+
 ## Multi-syllable characters
 
 Almost every character corresponds to a single syllable in Chinese.  The only exceptions that seem to exist are:
