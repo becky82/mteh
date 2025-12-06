@@ -7,7 +7,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 # ---------------- Configuration ----------------
-MTEH_FILE = "../versions/v0.1.1/mteh_v0.1.1.txt"
+MTEH_FILE = "../versions/v0.1.2/mteh_v0.1.2.txt"
 CORPUS_BASE = "./"
 CORPUS_FILES = [
     "HSK1.0/HSK1.0_chars.txt",
