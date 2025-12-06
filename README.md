@@ -6,8 +6,8 @@ The **_MteH corpus_** is designed as an "endgame corpus" for advanced students. 
 
 Currently, MteH focuses entirely on **simplified Chinese characters**, especially those you’ll encounter in mainland China and in **HSK** exams.
 
-- [MteH corpus (v0.1.1)](./versions/v0.1.1/mteh_v0.1.1.txt) (plain text)
-- [Handwriting practice](./versions/v0.1.1) (PDFs to print out)
+- [MteH corpus (v0.1.2)](./versions/v0.1.2/mteh_v0.1.2.txt) (plain text)
+- [Handwriting practice](./versions/v0.1.2) (PDFs to print out)
 - [Extra characters](./extra_chars/characters-to-know-exist.md) (good to know, but not part of MteH)
     - [Repeated-component characters](./extra_chars/repeated_components.md)
     - [Periodic table of the elements](./extra_chars/periodic_table.md)
