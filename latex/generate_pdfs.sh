@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your version manually
-VERSION="0.1.1"
+VERSION="0.1.2"
 
 python3 ./generate_latex_code.py
 
@@ -40,4 +40,42 @@ xelatex -interaction=nonstopmode -jobname=mteh_all_answers "\def\datafile{mteh_i
 
 # All without answers
 xelatex -interaction=nonstopmode -jobname=mteh_all_noanswers "\def\datafile{mteh_input.txt}\def\version{$VERSION}\def\hsklevel{all}\input{mteh_bulk.tex}"
+
+#############################################
+#  PLUS LEVELS
+#############################################
+
+# HSK5+ with answers
+xelatex -interaction=nonstopmode -jobname=mteh_HSK5+_answers "\def\datafile{mteh_input_HSK5+.txt}\def\answerson{1}\def\version{$VERSION}\def\hsklevel{HSK5+}\input{mteh_bulk.tex}"
+
+# HSK5+ without answers
+xelatex -interaction=nonstopmode -jobname=mteh_HSK5+_noanswers "\def\datafile{mteh_input_HSK5+.txt}\def\version{$VERSION}\def\hsklevel{HSK5+}\input{mteh_bulk.tex}"
+
+# HSK6+ with answers
+xelatex -interaction=nonstopmode -jobname=mteh_HSK6+_answers "\def\datafile{mteh_input_HSK6+.txt}\def\answerson{1}\def\version{$VERSION}\def\hsklevel{HSK6+}\input{mteh_bulk.tex}"
+
+# HSK6+ without answers
+xelatex -interaction=nonstopmode -jobname=mteh_HSK6+_noanswers "\def\datafile{mteh_input_HSK6+.txt}\def\version{$VERSION}\def\hsklevel{HSK6+}\input{mteh_bulk.tex}"
+
+# HSK7-9+ with answers
+xelatex -interaction=nonstopmode -jobname=mteh_HSK7-9+_answers "\def\datafile{mteh_input_HSK7-9+.txt}\def\answerson{1}\def\version{$VERSION}\def\hsklevel{HSK7-9+}\input{mteh_bulk.tex}"
+
+# HSK7-9+ without answers
+xelatex -interaction=nonstopmode -jobname=mteh_HSK7-9+_noanswers "\def\datafile{mteh_input_HSK7-9+.txt}\def\version{$VERSION}\def\hsklevel{HSK7-9+}\input{mteh_bulk.tex}"
+
+# Non-HSK with answers
+xelatex -interaction=nonstopmode -jobname=mteh_nonHSK_answers "\def\datafile{mteh_input_nonHSK.txt}\def\answerson{1}\def\version{$VERSION}\def\hsklevel{non-HSK}\input{mteh_bulk.tex}"
+
+# Non-HSK without answers
+xelatex -interaction=nonstopmode -jobname=mteh_nonHSK_noanswers "\def\datafile{mteh_input_nonHSK.txt}\def\version{$VERSION}\def\hsklevel{non-HSK}\input{mteh_bulk.tex}"
+
+#############################################
+#  AUTO-DELETE AUXILIARY LATEX FILES
+#############################################
+
+echo "Cleaning up auxiliary files..."
+
+rm -f *.aux *.log *.out *.toc *.xdv *.synctex.gz
+
+echo "Cleanup complete."
 

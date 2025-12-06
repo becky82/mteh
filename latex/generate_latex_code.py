@@ -3,6 +3,10 @@
 #   ./mteh_input_HSK5.txt
 #   ./mteh_input_HSK6.txt
 #   ./mteh_input_HSK7-9.txt
+#   ./mteh_input_HSK5+.txt
+#   ./mteh_input_HSK6+.txt
+#   ./mteh_input_HSK7-9+.txt
+#   ./mteh_input_nonHSK.txt
 #   ./mteh_input.txt   (complete)
 
 # Define output files
@@ -10,20 +14,21 @@ outputs = {
     "HSK5": open("./mteh_input_HSK5.txt", "w", encoding="utf-8"),
     "HSK6": open("./mteh_input_HSK6.txt", "w", encoding="utf-8"),
     "HSK7-9": open("./mteh_input_HSK7-9.txt", "w", encoding="utf-8"),
+    "HSK5+": open("./mteh_input_HSK5+.txt", "w", encoding="utf-8"),
+    "HSK6+": open("./mteh_input_HSK6+.txt", "w", encoding="utf-8"),
+    "HSK7-9+": open("./mteh_input_HSK7-9+.txt", "w", encoding="utf-8"),
+    "NON-HSK": open("./mteh_input_nonHSK.txt", "w", encoding="utf-8"),
     "ALL": open("./mteh_input.txt", "w", encoding="utf-8"),
 }
 
-# Keep counts for each output file
 counts = {key: 0 for key in outputs}
 
 with open("../mteh.txt", "r", encoding="utf-8") as f_in:
     for line in f_in:
         line = line.strip()
-        # Skip empty lines or comments
         if not line or line.startswith("#"):
             continue
 
-        # Split the line into fields
         parts = line.split(maxsplit=5)
         if len(parts) != 6:
             print("Skipping malformed line:", line)
@@ -31,41 +36,73 @@ with open("../mteh.txt", "r", encoding="utf-8") as f_in:
 
         char, pinyin, hint, freq, hsk, structure = parts
 
-        # Leave HSK blank if it's "n"
-        hsk_display = "" if hsk.lower() == "n" else hsk
+        # Replace missing freq with max value
+        if freq.lower() == "n":
+            freq = "7000"
 
-        # Replace all occurrences of the character in the hint
+        hsk = hsk.lower()
+        is_non_hsk = (hsk == "n")
+
+        # For LaTeX display: blank for non-HSK, otherwise the level
+        hsk_display = "" if is_non_hsk else hsk
+
+        # Replace character with □ in hint
         hint_latex = hint.replace(char, f"\\square{{{structure}}}")
 
-        # Generate the LaTeX line
-        latex_line = f"\\character{{{char}}}{{{pinyin}}}{{{hint_latex}}}{{{freq}}}{{{hsk_display}}}\n"
+        latex_line = (
+            f"\\character{{{char}}}{{{pinyin}}}"
+            f"{{{hint_latex}}}{{{freq}}}{{{hsk_display}}}\n"
+        )
 
-        # Always write to the full version
+        # ----- Write to ALL -----
         outputs["ALL"].write(latex_line)
         counts["ALL"] += 1
 
-        # Determine inclusion by HSK level
-        hsk_upper = hsk.upper()
-        if hsk_upper in ["1", "2", "3", "4", "5"]:
-            for k in ["HSK5", "HSK6", "HSK7-9"]:
-                outputs[k].write(latex_line)
-                counts[k] += 1
-        elif hsk_upper == "6":
-            for k in ["HSK6", "HSK7-9"]:
-                outputs[k].write(latex_line)
-                counts[k] += 1
-        elif hsk_upper == "+":
+        # ---- Interpret HSK levels ----
+        is_hsk1_4 = hsk in ["1","2","3","4"]
+        is_hsk5   = (hsk == "5")
+        is_hsk6   = (hsk == "6")
+        is_hsk7_9 = (hsk == "7-9") or (hsk == "+")  # allow + as 7-9 marker
+
+        # ================================================
+        #   CUMULATIVE SETS — up to a level (HSK5,6,7-9)
+        # ================================================
+        if is_hsk1_4 or is_hsk5:
+            outputs["HSK5"].write(latex_line)
+            counts["HSK5"] += 1
+        if is_hsk1_4 or is_hsk5 or is_hsk6:
+            outputs["HSK6"].write(latex_line)
+            counts["HSK6"] += 1
+        if is_hsk1_4 or is_hsk5 or is_hsk6 or is_hsk7_9:
             outputs["HSK7-9"].write(latex_line)
             counts["HSK7-9"] += 1
 
-# Close all files
+        # ================================================
+        #   PLUS SETS — level *or above*
+        # ================================================
+        if is_hsk5 or is_hsk6 or is_hsk7_9 or is_non_hsk:
+            outputs["HSK5+"].write(latex_line)
+            counts["HSK5+"] += 1
+        if is_hsk6 or is_hsk7_9 or is_non_hsk:
+            outputs["HSK6+"].write(latex_line)
+            counts["HSK6+"] += 1
+        if is_hsk7_9 or is_non_hsk:
+            outputs["HSK7-9+"].write(latex_line)
+            counts["HSK7-9+"] += 1
+
+        # ================================================
+        #   NON-HSK ONLY
+        # ================================================
+        if is_non_hsk:
+            outputs["NON-HSK"].write(latex_line)
+            counts["NON-HSK"] += 1
+
+# Close files
 for f in outputs.values():
     f.close()
 
-# Print summary
+# Summary
 print("\n✅ Generation complete. Files created:")
-print(f"  ./mteh_input_HSK5.txt    ({counts['HSK5']} entries)")
-print(f"  ./mteh_input_HSK6.txt    ({counts['HSK6']} entries)")
-print(f"  ./mteh_input_HSK7-9.txt  ({counts['HSK7-9']} entries)")
-print(f"  ./mteh_input.txt         ({counts['ALL']} entries)")
+for key in outputs:
+    print(f"  ./mteh_input_{key}.txt   ({counts[key]} entries)")
 
