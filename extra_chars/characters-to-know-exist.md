@@ -33,6 +33,8 @@ There are many pronouns used throughout the Chinese speaking world, and they hav
 | 伊 | yī | he / she | 3rd | Classical and southern dialects |
 | 佢 | qú / keoi⁵ | he / she / it | 3rd | Cantonese |
 | 渠 | qú | he / she | 3rd | Classical Chinese |
+| 𲰼 (U+32C3C) | tā | he | 3rd | male-specific ⿰男也 ([source](https://www.unicode.org/charts/PDF/Unicode-17.0/U170-323B0.pdf)) |
+| 𲎿 | tā | singular they | 3rd | non-gendered ⿰㐅也 ([source](https://www.unicode.org/charts/PDF/Unicode-17.0/U170-323B0.pdf)) |
 | 祂 | tā | He (God) | 3rd | Used in the Bible |
 | 怹 | tān | he / she (formal) | 3rd | Obsolete formal form |
 | 其 | qí | he / she / it / their | 3rd | Classical / legal Chinese |
