@@ -16,6 +16,7 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
     - [Characters/words using or related to 鸟](./extra_chars/鸟.md) (birds)
     - [Characters/words using or related to 鱼](./extra_chars/鱼.md) (fish)
     - [Characters/words using or related to 木](./extra_chars/木.md) (trees; wood)
+    - [Rare characters in the wild](./extra_chars/in_the_wild.md)
  
 There is also an Anki Deck ([here](./mteh_anki_deck.apkg)) which should already work, but should be thought of as a work-in-progress.  (On a computer, [AnkiDraw](https://ankiweb.net/shared/info/1868980340) allows you to handwrite.)
 
