@@ -9,6 +9,7 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 灸 | jiǔ | [艾灸](https://baike.baidu.com/item/艾灸) "moxibustion" a traditional Chinese medicine (TCM) practice; seen in TCM clinics | ![灸](./in_the_wild/灸.jpg) | original photo |
 | 煲 | bāo | 腊肠[煲仔饭](https://baike.baidu.com/item/煲仔饭) "claypot rice with Chinese sausage"; 煲 = "to stew or cook slowly" | ![煲](./in_the_wild/煲.jpg) | original photo |
 | 禧 | xǐ | 福禧 "happiness and blessing"; seen in signs, decorations, etc. | ![禧](./in_the_wild/禧.jpg) | original photo |
+| 蛸 | shāo | 辣炒巴蛸 "spicy stir-fried octopus"; 巴蛸 (bāshāo or bāxiāo (?)) is another name for 章鱼 "octopus" | ![蛸](./in_the_wild/蛸.jpg) | original photo |
 | 衢 | qú | [衢州鸭头](https://baike.baidu.com/item/衢州鸭头) "Quzhou duck head", a 衢州 Quzhou (Zhejiang) specialty; sold throughout China | ![衢](./in_the_wild/衢.jpg) | original photo |
 | 钣 | bǎn | [钣金](https://baike.baidu.com/item/钣金)喷漆 "sheet metal and spray painting"; refers to auto-body repairs; seen at mechanics | ![钣](./in_the_wild/钣.jpg) | original photo |
 | 镀 | dù | [镀晶](https://baike.baidu.com/item/镀晶) "ceramic coating" used to protect car paint, making it shiny, like a crystal; 镀 is a verb meaning "to coat/plate"; seen at car detailing shops | ![镀](./in_the_wild/镀.jpg) | original photo |
