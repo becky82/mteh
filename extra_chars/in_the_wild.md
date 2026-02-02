@@ -1,7 +1,6 @@
 # Rare characters in the wild
 
-This list is for rare Chinese characters students might see in the wild (e.g., on signage in China), but would normally not be part of a standard education.
-
+This list is for rare Chinese characters students might see in the wild (e.g., on signage in China), but would normally not be part of a standard education.  These characters are not included in MteH, but can be seen in the wild (e.g., in China), and not just in one specific location.
 
 | char | pinyin | explanation | photo | source | 
 |------|--------|---------|-------|--------|
