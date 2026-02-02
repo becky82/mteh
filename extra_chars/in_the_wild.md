@@ -1,9 +1,10 @@
 # Rare characters in the wild
 
-This list is for rare Chinese characters students might see in the wild (e.g., on signage in China), but would normally not be part of a standard education.  These characters are not included in MteH, but can be seen in the wild (e.g., in China), and not just in one specific location.
+This list is for rare Chinese characters students might see in the wild (e.g., on signage in China), but would normally not be part of a standard education.  These characters are not included in (or are close to being excluded from) MteH, but can be seen in the wild (e.g., in China), and not just in one specific location.
 
 | char | pinyin | explanation | photo | source | 
 |------|--------|---------|-------|--------|
+| 坞 | wù | 前方坞道 "dock access road ahead" related to 船坞 "dry dock"; found near waterways (the same 坞 as in 好莱坞 "Hollywood") | ![坞](./in_the_wild/坞.jpg) | original photo |
 | 擀 | gǎn | [手擀面](https://baike.baidu.com/item/手擀面) "hand-rolled noodles"; 擀 = "to roll (dough)"; seen at some restaurants | ![擀](./in_the_wild/擀.jpg) | original photo |
 | 毂 | gǔ | [轮毂](https://baike.baidu.com/item/轮毂)焊修 "wheel hub welding/repair"; seen at mechanics | ![毂](./in_the_wild/毂.jpg) | original photo |
 | 灸 | jiǔ | [艾灸](https://baike.baidu.com/item/艾灸) "moxibustion" a traditional Chinese medicine (TCM) practice; seen in TCM clinics | ![灸](./in_the_wild/灸.jpg) | original photo |
@@ -15,6 +16,4 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 钣 | bǎn | [钣金](https://baike.baidu.com/item/钣金)喷漆 "sheet metal and spray painting"; refers to auto-body repairs; seen at mechanics | ![钣](./in_the_wild/钣.jpg) | original photo |
 | 镀 | dù | [镀晶](https://baike.baidu.com/item/镀晶) "ceramic coating" used to protect car paint, making it shiny, like a crystal; 镀 is a verb meaning "to coat/plate"; seen at car detailing shops | ![镀](./in_the_wild/镀.jpg) | original photo |
 | 阀 | fá | [角阀](https://baike.baidu.com/item/角阀) "angle valve" which controls water or gas flow; seen in hardware/plumbing stores | ![阀](./in_the_wild/阀.jpg) | original photo |
-
-
 
