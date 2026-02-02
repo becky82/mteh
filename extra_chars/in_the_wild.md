@@ -10,4 +10,6 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 衢 | qú | [衢州鸭头](https://baike.baidu.com/item/%E8%A1%A2%E5%B7%9E%E9%B8%AD%E5%A4%B4/7175550) "Quzhou duck head", a 衢州 Quzhou (Zhejiang) specialty; sold throughout China | ![衢](./in_the_wild/衢.jpg) | original photo |
 | 钣 | bǎn | [钣金](https://baike.baidu.com/item/%E6%B1%BD%E8%BD%A6%E9%92%A3%E9%87%91/8762156)喷漆 "sheet metal and spray painting"; refers to auto-body repairs; seen at mechanics | ![钣](./in_the_wild/钣.jpg) | original photo |
 | 镀 | dù | [镀晶](https://baike.baidu.com/item/%E6%B1%BD%E8%BD%A6%E9%95%80%E6%99%B6/5695486) "ceramic coating" used to protect car paint, making it shiny, like a crystal; 镀 is a verb meaning "to coat/plate"; seen at car detailing shops | ![镀](./in_the_wild/镀.jpg) | original photo |
+| 阀 | fá | [角阀](https://baike.baidu.com/item/角阀) "angle valve" which controls water or gas flow; seen in hardware/plumbing stores | ![阀](./in_the_wild/阀.jpg) | original photo |
+
 
