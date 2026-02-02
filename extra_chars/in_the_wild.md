@@ -5,4 +5,4 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 
 | char | pinyin | meaning | photo | source | 
 |------|--------|---------|-------|--------|
-| 京   | Jīng   | 北京     | ![京](./license_plates/京.jpg) | original photo |
+| 衢   | Qú     | 衢州 is a Chinese city in Zhejiang province; they have a speciality food 衢州鸭头 = "Quzhou duck head" sold throughout China | ![衢](./license_plates/衢.jpg) | original photo |
