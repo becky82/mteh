@@ -6,7 +6,7 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | char | pinyin | explanation | photo | source | 
 |------|--------|---------|-------|--------|
 | 擀 | gǎn | [手擀面](https://baike.baidu.com/item/手擀面) "hand-rolled noodles"; 擀 = "to roll (dough)"; seen at some restaurants | ![擀](./in_the_wild/擀.jpg) | original photo |
-| 毂 | gǔ | [轮毂](https://baike.baidu.com/item/轮毂)焊修 "wheel rim welding/repair"; seen at mechanics | ![毂](./in_the_wild/毂.jpg) | original photo |
+| 毂 | gǔ | [轮毂](https://baike.baidu.com/item/轮毂)焊修 "wheel hub welding/repair"; seen at mechanics | ![毂](./in_the_wild/毂.jpg) | original photo |
 | 灸 | jiǔ | [艾灸](https://baike.baidu.com/item/艾灸) "moxibustion" a traditional Chinese medicine (TCM) practice; seen in TCM clinics | ![灸](./in_the_wild/灸.jpg) | original photo |
 | 煲 | bāo | 腊肠[煲仔饭](https://baike.baidu.com/item/煲仔饭) "claypot rice with Chinese sausage"; 煲 = "to stew or cook slowly" | ![煲](./in_the_wild/煲.jpg) | original photo |
 | 禧 | xǐ | 福禧 "happiness and blessing"; seen in signs, decorations, etc. | ![禧](./in_the_wild/禧.jpg) | original photo |
