@@ -4,9 +4,9 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 
 | char | pinyin | explanation | photo | source | 
 |------|--------|---------|-------|--------|
- rolling pin)"; seen at some restaurants | ![擀](./in_the_wild/擀.jpg) | original photo |
 | 坞 | wù | 前方坞道 "dock access road ahead" related to 船坞 "dry dock"; found near waterways (the same 坞 as in 好莱坞 "Hollywood") | ![坞](./in_the_wild/坞.jpg) | original photo |
-| 擀 | gǎn | [手擀面](https://baike.baidu.com/item/手擀面) "hand-rolled noodles"; 擀 = "to roll (dough, with a 擀面杖
+| 扦 | qiān | 扦裤脚 "to hem trousers", used to shorten pants; seen at tailors | ![扦](./in_the_wild/扦.jpg) | original photo |
+| 擀 | gǎn | [手擀面](https://baike.baidu.com/item/手擀面) "hand-rolled noodles"; 擀 = "to roll (dough, with a 擀面杖 rolling pin)"; seen at some restaurants | ![擀](./in_the_wild/擀.jpg) | original photo |
 | 毂 | gǔ | [轮毂](https://baike.baidu.com/item/轮毂)焊修 "wheel hub welding/repair"; seen at mechanics | ![毂](./in_the_wild/毂.jpg) | original photo |
 | 灸 | jiǔ | [艾灸](https://baike.baidu.com/item/艾灸) "moxibustion" a traditional Chinese medicine (TCM) practice; seen in TCM clinics | ![灸](./in_the_wild/灸.jpg) | original photo |
 | 烷 | wán | [环戊烷](https://baike.baidu.com/item/环戊烷) "cyclopentane", used in fridges, insulation, etc.; 烷 "alkane" (a type of hydrocarbon); seen on product labels | ![烷](./in_the_wild/烷.jpg) | original photo |
