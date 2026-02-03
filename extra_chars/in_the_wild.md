@@ -15,7 +15,9 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 烷 | wán | [环戊烷](https://baike.baidu.com/item/环戊烷) "cyclopentane", used in fridges, insulation, etc.; 烷 "alkane" (a type of hydrocarbon); seen on product labels | ![烷](./in_the_wild/烷.jpg) | original photo |
 | 煲 | bāo | 腊肠[煲仔饭](https://baike.baidu.com/item/煲仔饭) "claypot rice with Chinese sausage"; 煲 = "to stew or cook slowly" | ![煲](./in_the_wild/煲.jpg) | original photo |
 | 畸 | jī | [正畸](https://baike.baidu.com/item/正畸) "orthodontics"; refers to correcting teeth alignment; 畸 = "abnormal/deformed" (as in 畸形); commonly seen at dental clinics | ![畸](./in_the_wild/畸.jpg) | original photo |
+| 疣 | yóu | [扁平疣](https://baike.baidu.com/item/扁平疣) "flat warts"; 疣 = "wart"; skin condition caused by HPV; seen at dermatology clinics | ![疣](./in_the_wild/疣.jpg) | original photo |
 | 痧 | shā | [刮痧](https://zh.wikipedia.org/wiki/%E5%88%AE%E7%97%A7) "gua sha; scraping therapy" a traditional Chinese medicine (TCM) practice; seen in TCM clinics | ![痧](./in_the_wild/痧.jpg) | original photo |
+| 瘊 | hóu | 祛瘊 "to remove warts"; 瘊子 (warts); 祛 (qū) "to remove/eliminate"; seen at small clinics | ![瘊](./in_the_wild/瘊.jpg) | original photo |
 | 祺 | qí | [广汽传祺](https://baike.baidu.com/item/广汽传祺) "GAC motor / Trumpchi" (automobile brand); 祺 = "blessing/auspicious" | ![祺](./in_the_wild/祺.jpg) | original photo |
 | 禧 | xǐ | 福禧 "happiness and blessing"; seen in signs, decorations, etc. | ![禧](./in_the_wild/禧.jpg) | original photo |
 | 蛸 | shāo | 辣炒巴蛸 "spicy stir-fried octopus"; 巴蛸 (bāshāo or bāxiāo (?)) is another name for 章鱼 "octopus" | ![蛸](./in_the_wild/蛸.jpg) | original photo |
