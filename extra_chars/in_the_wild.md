@@ -19,6 +19,7 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 祺 | qí | [广汽传祺](https://baike.baidu.com/item/广汽传祺) "GAC motor / Trumpchi" (automobile brand); 祺 = "blessing/auspicious" | ![祺](./in_the_wild/祺.jpg) | original photo |
 | 禧 | xǐ | 福禧 "happiness and blessing"; seen in signs, decorations, etc. | ![禧](./in_the_wild/禧.jpg) | original photo |
 | 蛸 | shāo | 辣炒巴蛸 "spicy stir-fried octopus"; 巴蛸 (bāshāo or bāxiāo (?)) is another name for 章鱼 "octopus" | ![蛸](./in_the_wild/蛸.jpg) | original photo |
+| 螺; 蛳 | luó; sī | [螺蛳粉](https://baike.baidu.com/item/螺蛳粉) "river snail rice noodles" from [Liuzhou](https://baike.baidu.com/item/柳州市/11044417), Guangxi; seen at restaurants | ![螺蛳粉](./in_the_wild/螺蛳粉.jpg) | original photo |
 | 衢 | qú | [衢州鸭头](https://baike.baidu.com/item/衢州鸭头) "Quzhou duck head", a 衢州 Quzhou (Zhejiang) specialty; sold throughout China | ![衢](./in_the_wild/衢.jpg) | original photo |
 | 裘 | qiú | [裘皮](https://baike.baidu.com/item/裘皮)养护 "fur garment care/maintenance"; 裘皮 "fur"; seen at dry cleaners, etc. | ![裘](./in_the_wild/裘.jpg) | original photo |
 | 豉 | chǐ | [豆豉](https://baike.baidu.com/item/豆豉) "black beans"; seen on food packaging (especially [豆豉鲮鱼](https://baike.baidu.com/item/豆豉鲮鱼) "canned dace") | ![豉](./in_the_wild/豉.jpg) | original photo |
@@ -26,5 +27,4 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 钣 | bǎn | [钣金](https://baike.baidu.com/item/钣金)喷漆 "sheet metal and spray painting"; refers to auto-body repairs; seen at mechanics | ![钣](./in_the_wild/钣.jpg) | original photo |
 | 镀 | dù | [镀晶](https://baike.baidu.com/item/镀晶) "ceramic coating" used to protect car paint, making it shiny, like a crystal; 镀 is a verb meaning "to coat/plate"; seen at car detailing shops | ![镀](./in_the_wild/镀.jpg) | original photo |
 | 阀 | fá | [角阀](https://baike.baidu.com/item/角阀) "angle valve" which controls water or gas flow; seen in hardware/plumbing stores | ![阀](./in_the_wild/阀.jpg) | original photo |
-
 
