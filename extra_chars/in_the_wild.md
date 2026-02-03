@@ -5,6 +5,7 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | char | pinyin | explanation | photo | source | 
 |------|--------|---------|-------|--------|
 | 坞 | wù | 前方坞道 "dock access road ahead" related to 船坞 "dry dock"; found near waterways (the same 坞 as in 好莱坞 "Hollywood") | ![坞](./in_the_wild/坞.jpg) | original photo |
+| 戗 | qiàng | [戗面馒头](https://baike.baidu.com/item/戗面馒头) steamed buns made by kneading extra dry flour into fermented dough; seen on e.g. home delivery apps | ![戗](./in_the_wild/戗.jpg) | original photo |
 | 扦 | qiān | 扦裤脚 "to hem trousers"; seen at tailors | ![扦](./in_the_wild/扦.jpg) | original photo |
 | 擀 | gǎn | [手擀面](https://baike.baidu.com/item/手擀面) "hand-rolled noodles"; 擀 "to roll (dough, with a 擀面杖 rolling pin)"; seen at some restaurants | ![擀](./in_the_wild/擀.jpg) | original photo |
 | 殡 | bìn | [殡葬](https://baike.baidu.com/item/%E6%AE%A1%E8%91%AC) "funeral and burial service" (this one is named 福霖 "Fúlín"); seen at funeral parlors | ![殡](./in_the_wild/殡.jpg) | original photo (anonymized) |
@@ -20,7 +21,7 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 瘊 | hóu | 祛瘊 "to remove warts"; 瘊子 (warts); 祛 (qū) "to remove/eliminate"; seen at small clinics | ![瘊](./in_the_wild/瘊.jpg) | original photo |
 | 祺 | qí | [广汽传祺](https://baike.baidu.com/item/广汽传祺) "GAC motor / Trumpchi" (automobile brand); 祺 "blessing/auspicious" | ![祺](./in_the_wild/祺.jpg) | original photo |
 | 禧 | xǐ | 福禧 "happiness and blessing"; seen in signs, decorations, etc. | ![禧](./in_the_wild/禧.jpg) | original photo |
-| 蛸 | shāo | 辣炒巴蛸 "spicy stir-fried octopus"; 巴蛸 (bāshāo or bāxiāo (?)) is another name for 章鱼 "octopus" | ![蛸](./in_the_wild/蛸.jpg) | original photo |
+| 蛸 | shāo | 辣炒巴蛸 "spicy stir-fried octopus"; 巴蛸 (bāshāo) is another name for 章鱼 "octopus" | ![蛸](./in_the_wild/蛸.jpg) | original photo |
 | 螺; 蛳 | luó; sī | [螺蛳粉](https://baike.baidu.com/item/螺蛳粉) "river snail rice noodles" from [Liuzhou](https://baike.baidu.com/item/柳州市/11044417), Guangxi; seen at restaurants | ![螺蛳粉](./in_the_wild/螺蛳粉.jpg) | original photo |
 | 衢 | qú | [衢州鸭头](https://baike.baidu.com/item/衢州鸭头) "Quzhou duck head", a 衢州 Quzhou (Zhejiang) specialty; sold throughout China | ![衢](./in_the_wild/衢.jpg) | original photo |
 | 裘 | qiú | [裘皮](https://baike.baidu.com/item/裘皮)养护 "fur garment care/maintenance"; 裘皮 "fur"; seen at dry cleaners, etc. | ![裘](./in_the_wild/裘.jpg) | original photo |
