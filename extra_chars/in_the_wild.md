@@ -12,7 +12,6 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 毂 | gǔ | [轮毂](https://baike.baidu.com/item/轮毂)焊修 "wheel hub welding/repair"; seen at mechanics | ![毂](./in_the_wild/毂.jpg) | original photo |
 | 氩 | yà | [氩弧焊](https://baike.baidu.com/item/氩弧焊) "argon arc welding"; 氩 "argon" (noble gas); commonly seen at metal workshops | ![氩](./in_the_wild/氩.jpg) | original photo |
 | 沂 | Yí | [沂蒙山](https://baike.baidu.com/item/沂蒙山) "Yimeng Mountains" in Shandong; 沂 refers to [沂河](https://baike.baidu.com/item/沂河) "Yi River"; seen on travel signs, food items | ![沂](./in_the_wild/沂.jpg) | original photo |
-| 灸 | jiǔ | [艾灸](https://baike.baidu.com/item/艾灸) "moxibustion" a traditional Chinese medicine (TCM) practice; seen in TCM clinics | ![灸](./in_the_wild/灸.jpg) | original photo |
 | 烷 | wán | [环戊烷](https://baike.baidu.com/item/环戊烷) "cyclopentane", used in fridges, insulation, etc.; 烷 "alkane" (a type of hydrocarbon); seen on product labels | ![烷](./in_the_wild/烷.jpg) | original photo |
 | 煲 | bāo | 腊肠[煲仔饭](https://baike.baidu.com/item/煲仔饭) "claypot rice with Chinese sausage"; 煲 "to stew or cook slowly" | ![煲](./in_the_wild/煲.jpg) | original photo |
 | 畸 | jī | [正畸](https://baike.baidu.com/item/正畸) "orthodontics"; refers to correcting teeth alignment; 畸 "abnormal/deformed" (as in 畸形); commonly seen at dental clinics | ![畸](./in_the_wild/畸.jpg) | original photo |
