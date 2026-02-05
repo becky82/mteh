@@ -8,7 +8,7 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 戗 | qiàng | [戗面馒头](https://baike.baidu.com/item/戗面馒头) steamed buns made by kneading extra dry flour into fermented dough; seen on e.g. home delivery apps | ![戗](./in_the_wild/戗.jpg) | original photo (anonymized) |
 | 扦 | qiān | 扦裤脚 "to hem trousers"; seen at tailors | ![扦](./in_the_wild/扦.jpg) | original photo |
 | 擀 | gǎn | [手擀面](https://baike.baidu.com/item/手擀面) "hand-rolled noodles"; 擀 "to roll (dough, with a 擀面杖 rolling pin)"; seen at some restaurants | ![擀](./in_the_wild/擀.jpg) | original photo |
-| 殡 | bìn | [殡葬](https://baike.baidu.com/item/%E6%AE%A1%E8%91%AC) "funeral and burial service" (this one is named 福霖 "Fúlín"); seen at funeral parlors | ![殡](./in_the_wild/殡.jpg) | original photo (anonymized) |
+| 殡 | bìn | [殡葬](https://baike.baidu.com/item/%E6%AE%A1%E8%91%AC) "funeral and burial service" (this one is named 福霖 "Fúlín"); seen at 殡仪馆 (bìnyíguǎn) funeral parlors | ![殡](./in_the_wild/殡.jpg) | original photo (anonymized) |
 | 毂 | gǔ | [轮毂](https://baike.baidu.com/item/轮毂)焊修 "wheel hub welding/repair"; seen at mechanics | ![毂](./in_the_wild/毂.jpg) | original photo |
 | 氩 | yà | [氩弧焊](https://baike.baidu.com/item/氩弧焊) "argon arc welding"; 氩 "argon" (noble gas); commonly seen at metal workshops | ![氩](./in_the_wild/氩.jpg) | original photo |
 | 沂 | Yí | [沂蒙山](https://baike.baidu.com/item/沂蒙山) "Yimeng Mountains" in Shandong; 沂 refers to [沂河](https://baike.baidu.com/item/沂河) "Yi River"; seen on travel signs, food items | ![沂](./in_the_wild/沂.jpg) | original photo |
