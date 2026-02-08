@@ -1,11 +1,14 @@
 # Author: ChatGPT (patched)
-# Purpose: Parse mteh.txt and verify formatting of Chinese character entries, outputting a concise categorized Markdown debug report
+# Purpose: Parse mteh.txt and verify formatting of Chinese character entries,
+#          outputting a concise categorized Markdown debug report,
+#          with Jun Da frequency consistency check.
 
 import re
 from collections import defaultdict
 from datetime import datetime
 
 file_path = "../mteh.txt"
+jun_da_path = "../sources/JunDa/JunDa_modern_chars_original_order.txt"
 output_md = "debug_report.md"
 
 entries = []
@@ -22,8 +25,6 @@ chinese_or_punct_re = re.compile(
     r']'
 )
 
-import re
-
 # Expanded regex allowing accented vowels and ü variants
 PINYIN_RE = re.compile(r"^[a-zA-ZüÜǎáàāǍÁÀĀěéèēĚÉÈĒǐíìīǏÍÌĪǒóòōǑÓÒŌǔúùūǓÚÙŪǚǜǘǖǙǛǗǕńňḿ]+$")
 
@@ -35,7 +36,6 @@ def check_pinyin_format(pinyin):
     if not PINYIN_RE.fullmatch(pinyin):
         return "Unexpected characters in pinyin"
 
-    # Split by spaces or syllables
     syllables = pinyin.split()
     for s in syllables:
         tone_marks = sum(c in TONE_VOWELS for c in s)
@@ -45,7 +45,6 @@ def check_pinyin_format(pinyin):
             return f"Multiple tone marks in syllable '{s}'"
     return None
 
-# Helper functions
 def is_variant_hint(hint: str) -> bool:
     if not hint:
         return False
@@ -58,7 +57,18 @@ def is_variant_hint(hint: str) -> bool:
         return True
     return False
 
-# Initialize counters, sets, and warning collectors
+# --- LOAD JUN DA CORPUS FOR FREQUENCY CHECK ---
+jun_da_map = {}
+try:
+    with open(jun_da_path, "r", encoding="utf-8") as f:
+        for idx, line in enumerate(f, 1):  # line numbers start at 1
+            c = line.strip()
+            if c:
+                jun_da_map[c] = idx
+except FileNotFoundError:
+    print(f"⚠️ Jun Da file not found: {jun_da_path}")
+
+# --- Initialize counters, sets, and warning collectors ---
 previous_char_code = None
 previous_char = None
 seen_hints = {}
@@ -68,7 +78,6 @@ hint_length_counts = defaultdict(int)
 characters_set = set()
 hint_characters_set = set()
 variant_characters = set()
-two_char_hint_chars = set()
 capital_pinyin_chars = set()
 error_characters = set()
 unicode_out_of_order = []
@@ -80,11 +89,13 @@ valid_structure = set([str(i) for i in range(0,13)] + ["none"])
 # Warning collectors
 duplicate_hints = defaultdict(list)
 frequency_issues = {}
+high_frequency_chars = {}  # freq >=5000
 hsk_issues = {}
 structure_issues = {}
 hint_content_issues = {}
 unicode_issues = {}
 variant_map = {}
+seen_frequencies = set()  # track distinct frequencies
 
 # --- PARSE FILE ---
 with open(file_path, "r", encoding="utf-8") as f:
@@ -104,7 +115,6 @@ with open(file_path, "r", encoding="utf-8") as f:
             error_characters.add(error_char)
             continue
 
-
         char, pinyin, hint, freq, hsk, structure = parts
         characters_set.add(char)
 
@@ -118,9 +128,26 @@ with open(file_path, "r", encoding="utf-8") as f:
         if err:
             hint_content_issues[char] = (hint_content_issues.get(char, "") + "; " + err).strip("; ")
 
-        # Frequency check
+        # --- Frequency check (distinct, 1-9933) ---
         if not freq.isdigit():
-            frequency_issues[char] = freq
+            frequency_issues[char] = f"Not a number: {freq}"
+        else:
+            freq_value = int(freq)
+            if not (1 <= freq_value <= 9933):
+                frequency_issues[char] = f"Out of range (1-9933): {freq_value}"
+            elif freq_value in seen_frequencies:
+                frequency_issues[char] = f"Duplicate frequency: {freq_value}"
+            else:
+                seen_frequencies.add(freq_value)
+
+            # High frequency warning
+            if freq_value >= 5000:
+                high_frequency_chars[char] = freq_value
+
+            # --- Jun Da consistency check ---
+            jun_da_line = jun_da_map.get(char)
+            if jun_da_line is not None and freq_value != jun_da_line:
+                frequency_issues[char] = frequency_issues.get(char, "") + f"Jun Da line {jun_da_line} mismatch"
 
         # HSK check
         if hsk not in valid_hsk:
@@ -135,14 +162,6 @@ with open(file_path, "r", encoding="utf-8") as f:
         # Pinyin capitalization
         if pinyin and pinyin[0].isupper():
             capital_pinyin_chars.add(char)
-
-        # example explicit class — covers a lot of common pinyin diacritics
-        pinyin_re = re.compile(r"^[A-Za-záÁàÀǎǍāĀéÉèÈêÊěĚēĒíÍìÌǐǏīĪóÓòÒǒǑōŌúÚùÙǔǓüÜǘǗǜǛǚǙǖǕūŪ]+$")
-        if not pinyin_re.fullmatch(pinyin):
-            hsk_issues[char] = f"Unexpected chars in pinyin: {pinyin}"
-
-        # Collect characters with frequency = 'n'
-        freq_n_chars = [e["char"] for e in entries if e["frequency"].lower() == "n"]
 
         # Variant detection
         if is_variant_hint(hint):
@@ -230,9 +249,13 @@ with open(output_md, "w", encoding="utf-8") as md:
              f"{'✅ OK' if not invalid_structure else f'❌ {len(invalid_structure)} invalid'}\n")
     if invalid_structure:
         md.write("  - " + " ".join(sorted(invalid_structure)) + "\n")
+
     if duplicate_characters:
-        dupes = [c for c, lines in duplicate_characters.items() if len(lines) > 1]
+        dupes = {c: lines for c, lines in duplicate_characters.items() if len(lines) > 1}
         md.write(f"- Duplicate characters: {len(dupes)}\n")
+        if dupes:
+            for char, lines in sorted(dupes.items()):
+                md.write(f"  - Character '{char}' on lines: {', '.join(map(str, lines))}\n")
     else:
         md.write("- No duplicate characters found ✅\n")
 
@@ -241,14 +264,9 @@ with open(output_md, "w", encoding="utf-8") as md:
     else:
         md.write("- All lines have 6 complete fields ✅\n")
 
-    invalid_pinyin = [c for c, val in hsk_issues.items() if "Unexpected chars in pinyin" in val]
-    if invalid_pinyin:
-        md.write(f"- Unexpected characters in pinyin: {len(invalid_pinyin)} ({' '.join(sorted(invalid_pinyin))})\n")
-    else:
-        md.write("- All pinyin fields valid ✅\n")
     md.write("\n")
 
-    # --- REST OF REPORT ---
+    # --- VARIANTS, CAPITALS, DUPLICATES ---
     if variant_characters:
         md.write(f"## [ {len(variant_characters)} ] Variant Characters\n")
         md.write("\n".join(f"- {v} → {variant_map[v]}" for v in sorted(variant_characters)) + "\n\n")
@@ -257,12 +275,24 @@ with open(output_md, "w", encoding="utf-8") as md:
         md.write(f"## [ {len(capital_pinyin_chars)} ] Characters with Capitalized Pinyin\n")
         md.write("  " + " ".join(sorted(capital_pinyin_chars)) + "\n\n")
 
+    # --- FREQUENCY REPORTS ---
+    md.write(f"## [ {len(frequency_issues)} ] Frequency Errors\n")
     if frequency_issues:
-        md.write(f"## [ {len(frequency_issues)} ] Frequency Issues\n")
         for char, val in sorted(frequency_issues.items()):
-            md.write(f"- Character '{char}': Frequency not numeric: {val}\n")
-        md.write("\n")
+            md.write(f"- Character '{char}': {val}\n")
+    else:
+        md.write("No frequency errors ✅\n")
+    md.write("\n")
 
+    md.write(f"## [ {len(high_frequency_chars)} ] High Frequency Warning (≥5000)\n")
+    if high_frequency_chars:
+        # One-line per character, sorted by frequency descending
+        md.write("  " + " ".join(f"{char}({val})" for char, val in sorted(high_frequency_chars.items(), key=lambda x: x[1], reverse=False)) + "\n")
+    else:
+        md.write("No characters with frequency ≥5000 ✅\n")
+    md.write("\n")
+
+    # --- HSK, STRUCTURE, HINT, UNICODE, DUPLICATE HINTS ---
     if hsk_issues:
         md.write(f"## [ {len(hsk_issues)} ] HSK Issues\n")
         for char, val in sorted(hsk_issues.items()):
@@ -298,37 +328,6 @@ with open(output_md, "w", encoding="utf-8") as md:
             unique_chars = sorted(set(chars))
             md.write(f"- Hint '{hint}': {', '.join(unique_chars)}\n")
         md.write("\n")
-
-    if freq_n_chars:
-        md.write(f"## [ {len(freq_n_chars)} ] MetH characters not included in Jun Da corpus\n")
-        md.write("  " + " ".join(sorted(freq_n_chars)) + "\n\n")
-
-# --- JUN DA CORPUS CHECK ---
-jun_da_path = "../sources/JunDa/JunDa_modern_chars_original_order.txt"
-try:
-    with open(jun_da_path, "r", encoding="utf-8") as j:
-        jun_da_text = j.read()
-
-    # Extract Chinese characters (U+4E00 to U+9FFF) preserving order
-    jun_da_chars = []
-    for c in jun_da_text:
-        if '\u4e00' <= c <= '\u9fff' and c not in jun_da_chars:
-            jun_da_chars.append(c)
-
-    # Compare against MteH characters
-    missing_from_mteh = [c for c in jun_da_chars if c not in characters_set]
-    top_missing = missing_from_mteh[:100]
-
-    with open(output_md, "a", encoding="utf-8") as md:
-        md.write(f"## [ {len(top_missing)} ] Characters in Jun Da corpus not in MteH\n")
-        if top_missing:
-            md.write("  " + " ".join(top_missing) + "\n\n")
-        else:
-            md.write("All top Jun Da characters are present in MteH ✅\n\n")
-
-except FileNotFoundError:
-    with open(output_md, "a", encoding="utf-8") as md:
-        md.write("## Jun Da Corpus Check\n\n⚠️ File not found: ../sources/JunDa/JunDa_chars_original_order.txt\n\n")
 
 print(f"Markdown debug report written to {output_md}")
 
