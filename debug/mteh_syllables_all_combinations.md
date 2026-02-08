@@ -1,6 +1,6 @@
 # MteH syllables: all component combinations
 
-*Date: 2026-02-07*
+*Date: 2026-02-08*
 
 *Source file: ../versions/v0.1.2/mteh_v0.1.2.txt*
 
