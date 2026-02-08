@@ -82,6 +82,7 @@ capital_pinyin_chars = set()
 error_characters = set()
 unicode_out_of_order = []
 duplicate_characters = defaultdict(list)
+non_junda_chars = set()
 
 valid_hsk = set(["1","2","3","4","5","6","+","n"])
 valid_structure = set([str(i) for i in range(0,13)] + ["none"])
@@ -128,26 +129,34 @@ with open(file_path, "r", encoding="utf-8") as f:
         if err:
             hint_content_issues[char] = (hint_content_issues.get(char, "") + "; " + err).strip("; ")
 
-        # --- Frequency check (distinct, 1-9933) ---
-        if not freq.isdigit():
-            frequency_issues[char] = f"Not a number: {freq}"
+        # --- Frequency check (distinct, 1-9933 or 'n') ---
+        if freq == "n":
+            non_junda_chars.add(char)
         else:
-            freq_value = int(freq)
-            if not (1 <= freq_value <= 9933):
-                frequency_issues[char] = f"Out of range (1-9933): {freq_value}"
-            elif freq_value in seen_frequencies:
-                frequency_issues[char] = f"Duplicate frequency: {freq_value}"
+            if not freq.isdigit():
+                frequency_issues[char] = f"Not a number: {freq}"
             else:
-                seen_frequencies.add(freq_value)
+                freq_value = int(freq)
 
-            # High frequency warning
-            if freq_value >= 5000:
-                high_frequency_chars[char] = freq_value
+                if not (1 <= freq_value <= 9933):
+                    frequency_issues[char] = f"Out of range (1-9933): {freq_value}"
+                elif freq_value in seen_frequencies:
+                    frequency_issues[char] = f"Duplicate frequency: {freq_value}"
+                else:
+                    seen_frequencies.add(freq_value)
 
-            # --- Jun Da consistency check ---
-            jun_da_line = jun_da_map.get(char)
-            if jun_da_line is not None and freq_value != jun_da_line:
-                frequency_issues[char] = frequency_issues.get(char, "") + f"Jun Da line {jun_da_line} mismatch"
+                # High frequency warning
+                if freq_value >= 5000:
+                    high_frequency_chars[char] = freq_value
+
+                # --- Jun Da consistency check ---
+                jun_da_line = jun_da_map.get(char)
+                if jun_da_line is not None and freq_value != jun_da_line:
+                    frequency_issues[char] = (
+                        frequency_issues.get(char, "")
+                        + f" Jun Da line {jun_da_line} mismatch"
+                    ).strip()
+
 
         # HSK check
         if hsk not in valid_hsk:
@@ -237,6 +246,18 @@ with open(output_md, "w", encoding="utf-8") as md:
 
     # --- SANITY CHECK SECTION ---
     md.write("## Integrity Checks\n\n")
+
+    # --- HSK DISTRIBUTION ---
+    md.write(
+        "- HSK level distribution: "
+        + ", ".join(
+            f"HSK({k}): {hsk_counts.get(k, 0)}"
+            for k in ["1","2","3","4","5","6","+","n"]
+        )
+        + "\n"
+    )
+
+
     md.write(f"- Characters appearing in their hints: "
              f"{'✅ OK' if not missing_in_hint else f'❌ {len(missing_in_hint)} missing'}\n")
     if missing_in_hint:
@@ -249,6 +270,11 @@ with open(output_md, "w", encoding="utf-8") as md:
              f"{'✅ OK' if not invalid_structure else f'❌ {len(invalid_structure)} invalid'}\n")
     if invalid_structure:
         md.write("  - " + " ".join(sorted(invalid_structure)) + "\n")
+
+    if not frequency_issues:
+        md.write("- Frequency errors: ✅ None\n")
+    else:
+        md.write(f"- Frequency errors: ❌ {len(frequency_issues)}\n")
 
     if duplicate_characters:
         dupes = {c: lines for c, lines in duplicate_characters.items() if len(lines) > 1}
@@ -276,13 +302,16 @@ with open(output_md, "w", encoding="utf-8") as md:
         md.write("  " + " ".join(sorted(capital_pinyin_chars)) + "\n\n")
 
     # --- FREQUENCY REPORTS ---
-    md.write(f"## [ {len(frequency_issues)} ] Frequency Errors\n")
     if frequency_issues:
+        md.write(f"## [ {len(frequency_issues)} ] Frequency Errors\n")
         for char, val in sorted(frequency_issues.items()):
             md.write(f"- Character '{char}': {val}\n")
-    else:
-        md.write("No frequency errors ✅\n")
-    md.write("\n")
+        md.write("\n")
+
+    if non_junda_chars:
+        md.write(f"## [ {len(non_junda_chars)} ] Non–Jun Da Characters (freq = 'n')\n")
+        md.write("  " + " ".join(sorted(non_junda_chars)) + "\n\n")
+
 
     md.write(f"## [ {len(high_frequency_chars)} ] High Frequency Warning (≥5000)\n")
     if high_frequency_chars:
