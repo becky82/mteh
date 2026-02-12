@@ -47,7 +47,9 @@ CORPUS_FILES = [
     "names/CNC_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
     "company/wainshine_company_top_chars_unicode_order.txt",
-    "med-orgs/wainshine_med-orgs_chars_unicode_order.txt"
+    "med-orgs/wainshine_med-orgs_chars_unicode_order.txt",
+    "chengyu_convention/chengyu_convention_chars.txt",
+    "Xinhua/Xinhua_chars.txt"
 ]
 REPORT_FILE = "missing_chars_report.md"
 CORPUS_BASE = "./"  # Adjust if running from /sources/

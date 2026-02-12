@@ -37,7 +37,9 @@ CORPUS_FILES = [
     "names/CNC_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
     "company/wainshine_company_top_chars_unicode_order.txt",
-    "med-orgs/wainshine_med-orgs_chars_unicode_order.txt"
+    "med-orgs/wainshine_med-orgs_chars_unicode_order.txt",
+    "chengyu_convention/chengyu_convention_chars.txt",
+    "Xinhua/Xinhua_chars.txt"
 ]
 REPORT_FILE = "mteh_char_corpus_histogram_full.md"
 
