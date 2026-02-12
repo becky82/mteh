@@ -61,6 +61,8 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 29 | [chengyu convention](./sources/chengyu_convention) | 2,226 | ?,??? | characters in "chengyu convention" chengyu |
 | 30 | [Xinhua](./sources/Xinhua) | 5,357 | ?,??? | medical organizations |
 
+(The "#used" has been changing a lot in recent updates, so I'll wait until it stabilizes before updating it.)
+
 </div>
 
 Those marked * have extraction steps (documented in their respective readmes): selection of top-N words/characters, conversion from traditional to simplified.
