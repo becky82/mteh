@@ -1,1 +1,1 @@
-We download the [Xinhua](https://github.com/pwxcoo/chinese-xinhua/tree/master) corpus, and extract the chengyu and xiehouyu (歇后语).  I extract the characters in those two datasets, and merge them into a character list, giving 5,357 characters.
+We download the [Xinhua](https://github.com/pwxcoo/chinese-xinhua/tree/master) corpus, and extract the chengyu and xiehouyu (歇后语).  We then extract the characters in those two datasets, and merge them into a character list, giving 5,357 characters.
