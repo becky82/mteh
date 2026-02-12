@@ -10,7 +10,9 @@ Some topics deserve their own page:
 
 - There are characters which are composed on [repeated components](repeated_components.md), which are often used decoratively.
 
-- Some character with specific components are fairly regular: [虫](虫.md) (insects and "lower life forms"), [鱼](鱼.md) (fish and other aquatic animals), [鸟](鸟.md) (birds), [木](木.md) (trees and woods).
+- Some characters with specific components are fairly regular: [虫](虫.md) (insects and "lower life forms"), [鱼](鱼.md) (fish and other aquatic animals), [鸟](鸟.md) (birds), [木](木.md) (trees and woods).
+
+- There are some rare characters that you might see [in the wild](in_the_wild.md).
 
 ## Pronouns
 
