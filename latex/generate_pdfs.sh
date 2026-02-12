@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your version manually
-VERSION="0.1.2"
+VERSION="0.1.3"
 
 python3 ./generate_latex_code.py
 
