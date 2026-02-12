@@ -254,9 +254,8 @@ with open(output_md, "w", encoding="utf-8") as md:
             f"HSK({k}): {hsk_counts.get(k, 0)}"
             for k in ["1","2","3","4","5","6","+","n"]
         )
-        + "\n"
+        + " (HSK3.1 correct numbers: 246; 125; 284; 441; 431; 413; 1148)\n"
     )
-
 
     md.write(f"- Characters appearing in their hints: "
              f"{'✅ OK' if not missing_in_hint else f'❌ {len(missing_in_hint)} missing'}\n")
