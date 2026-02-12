@@ -231,6 +231,14 @@ Another word with interesting characters is:
 
 It's used to refer to places that are difficult to get to; it's often used in 犄角旮旯 (jījiǎogālá).
 
+### Chengyu: Chimeiwangliang
+
+There's the chengyu
+
+> 魑魅魍魉 (chīmèiwǎngliǎng) evil spirits
+
+wherein 魑魅 (chīmèi) and 魍魉 (wǎngliǎng) are ancient mythological beings.
+
 ### Shorthand
 
 The character
