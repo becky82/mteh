@@ -18,7 +18,7 @@ from datetime import datetime
 
 # ---------------- Configuration ----------------
 MAX_DISPLAY = 100  # max characters to display when truncating
-MTEH_SNAPSHOT = "../versions/v0.1.2/mteh_v0.1.2.txt"
+MTEH_SNAPSHOT = "../versions/v0.1.3/mteh_v0.1.3.txt"
 CORPUS_FILES = [
     "HSK1.0/HSK1.0_chars.txt",
     "HSK2.0/HSK2.0_chars.txt",
