@@ -1,5 +1,7 @@
 # Characters common in everyday names
 
+The characters listed below are common in Chinese names, but rare outside of names.
+
 | chars | image 1 | image 2 | image 3 | image sources |
 |-------|---------|---------|---------|---------------|
 | 奕 | ![赵奕欢](./names/赵奕欢.png) 赵奕欢 Zhào Yìhuān | ![张奕](./names/张奕.jpg) 张奕 Zhāng Yì | ![陈奕迅](./names/陈奕迅.jpg) 陈奕迅 Chén Yìxùn | [Baidu Baike](https://baike.baidu.com/item/%E8%B5%B5%E5%A5%95%E6%AC%A2/6954925); [Wikimedia](https://commons.wikimedia.org/wiki/File:Chang_Yi_Saitama_Seibu_Lions_20230423.jpg); [Wikimedia](https://commons.wikimedia.org/wiki/File:EasonChanperformance.jpg) |
@@ -8,10 +10,11 @@
 | 瑶 | ![童瑶](./names/童瑶.jpg) 童瑶 Tóng Yáo | ![王伊瑶](./names/王伊瑶.png) 王伊瑶 Wáng Yīyáo | ![郭书瑶](./names/郭书瑶.jpg) 郭书瑶 Guō Shūyáo | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tong_Yao_(%E7%AB%A5%E7%91%B6)_at_the_25th_Shanghai_Television_Festival_-_Magnolia_Awards_in_June_2019.jpg); [Baidu Baike](https://baike.baidu.com/item/%E7%8E%8B%E4%BC%8A%E7%91%B6/61453309); [Wikimedia](https://zh.wikipedia.org/wiki/File:Kuo_Shu-yau_2023.jpg) |
 | 璇 | ![周璇](./names/周璇.jpg) 周璇 Zhōu Xuán | ![董璇](./names/董璇.png) 董璇 Dǒng Xuán | ![刘璇](./names/刘璇.png) 刘璇 Liú Xuán | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhou_Xuan3.jpg); [Baidu Baike](https://baike.baidu.com/item/%E8%91%A3%E7%92%87/364782); [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E7%92%87/6098) |
 
+The copyrighted images above have been reduced in quality from their originals, and are used under "fair use" for educational purposes (much like how Baidu Image Search or Google Image Search uses copyrighted images).  The author is not an international copyright lawyer, so if a mistake has been made, please [raise an issue](https://github.com/becky82/mteh/issues) so it can be corrected.
 
+# Characters in Chinese historical figure's names
 
-
-# Characters in notable people's names
+The characters listed below are noteworthy because they occur in Chinese historical figure's names, and are rarely (if ever) used outside these names.
 
 | chars | name | pinyin | image | image source |
 |-------|------|--------|-------|--------------|
