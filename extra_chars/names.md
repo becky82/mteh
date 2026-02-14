@@ -1,6 +1,6 @@
-# Characters common in everyday names
+# Characters common in given names
 
-The characters listed below are common in Chinese names, but rare outside of names.
+These characters appear often in given names in Chinese, yet are rarely used in other contexts.
 
 | chars | image 1 | image 2 | image 3 | image sources |
 |-------|---------|---------|---------|---------------|
