@@ -9,7 +9,7 @@
 
 | chars | name | pinyin | image | image source |
 |-------|------|--------|-------|--------------|
-| 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.jpg) | Southern Qi / Liang dynasty; Chinese monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
+| 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.png) | Southern Qi / Liang dynasty monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
 | 甫 | 杜甫 | Dù Fǔ | ![杜甫](./names/杜甫.jpg) | Tang dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dufu.jpg) |
 | 祯 | 崇祯 | Chóng Zhēn | ![崇祯](./names/崇祯.jpg) | Last Ming emperor | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%98%8E%E6%84%8D%E5%B8%9D%E6%9C%B1%E7%94%B1%E6%A3%80.jpg) |
 | 轲 | 孟轲 | Mèng Kē | ![孟轲](./names/孟轲.jpg) | Confucian philosopher Mencius; also known as 孟子 Mèngzǐ | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mencius_Chinese_portrait.jpg) |
