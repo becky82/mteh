@@ -2,13 +2,13 @@
 
 | chars | image 1 | image 2 | image 3 | image sources |
 |-------|---------|---------|---------|---------------|
-| 婷 | ![李婷](./names/李婷.jpg) 李婷 Lǐ Tíng | ![王婷](./names/王婷.jpg) 王婷 Wáng Tíng | ![刘婷婷](./names/刘婷婷.jpg) 刘婷婷 Liú Tíngtíng | [Baidu Baike](https://baike.baidu.com/item/%E6%9D%8E%E5%A9%B7/7588649); [Baidu Baike](https://baike.baidu.com/item/%E7%8E%8B%E5%A9%B7/17947435); [Sina News](https://sports.sina.cn/others/ticao/2019-10-08/detail-iicezzrr0895169.d.html) |
+| 婷 | ![李婷](./names/李婷.png) 李婷 Lǐ Tíng | ![王婷](./names/王婷.png) 王婷 Wáng Tíng | ![刘婷婷](./names/刘婷婷.png) 刘婷婷 Liú Tíngtíng | [Baidu Baike](https://baike.baidu.com/item/%E6%9D%8E%E5%A9%B7/7588649); [Baidu Baike](https://baike.baidu.com/item/%E7%8E%8B%E5%A9%B7/17947435); [Sina News](https://sports.sina.cn/others/ticao/2019-10-08/detail-iicezzrr0895169.d.html) |
 
 
 # Characters in notable people's names
 
-| chars | name | pinyin | image | comments | image source |
-|--------|------|--------|----------|--------|-----------|--------------|
+| chars | name | pinyin | image | image source |
+|-------|------|--------|-------|--------------|
 | 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.jpg) | Southern Qi / Liang dynasty; Chinese monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
 | 甫 | 杜甫 | Dù Fǔ | ![杜甫](./names/杜甫.jpg) | Tang dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dufu.jpg) |
 | 祯 | 崇祯 | Chóng Zhēn | ![崇祯](./names/崇祯.jpg) | Last Ming emperor | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%98%8E%E6%84%8D%E5%B8%9D%E6%9C%B1%E7%94%B1%E6%A3%80.jpg) |
