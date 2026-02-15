@@ -7,6 +7,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 丕 | 曹丕 | Cáo Pī | ![曹丕](./names/曹丕.jpg) | 曹操's son and second emperor of 魏 Wei during the Three Kingdoms period | [Wikimedia](https://zh.wikipedia.org/wiki/%E6%9B%B9%E4%B8%95) |
 | 僧 | 唐僧 | Tángsēng | ![唐僧](./names/唐僧.png) | Buddhist monk Tripitaka in novel "Journey to the West" 《西游记》, based on historical 玄奘 | [Wikimedia](https://en.wikipedia.org/wiki/File:JourneytotheWest.jpg) |
 | 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.png) | Southern Qi / Liang dynasty monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
+| 匡, 胤 | 赵匡胤 | Zhào Kuāngyìn | ![赵匡胤](./names/赵匡胤.png) | Founder of Song dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
 | 奘 | 玄奘 | Xuánzàng | ![玄奘](./names/玄奘.jpg) | Tang dynasty monk | [Wikimedia](https://zh.wikipedia.org/wiki/File:Xuanzang_w.jpg) |
 | 妲 | 妲己 | Dájǐ | ![妲己](./names/妲己.jpg) | favourite consort of King Zhou of Shang | [Wikimedia](https://zh-classical.wikipedia.org/wiki/%E6%AA%94%E6%A1%88:Ping_Sien_Si_-_026_Daji_(16133466711).jpg) |
 | 棣 | 朱棣 | Zhū Dì | ![朱棣](./names/朱棣.jpg) | Ming emperor 永乐 Yongle | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E5%AE%97%E6%96%87%E7%9A%87%E5%B8%9D.jpg) |
@@ -23,5 +24,6 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 轼 | 苏轼 | Sū Shì | ![苏轼](./names/苏轼.jpg) | Song dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Su_shi.jpg) |
 | 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
 | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
+
 
 
