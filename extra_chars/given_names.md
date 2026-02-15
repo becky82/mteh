@@ -1,6 +1,6 @@
 # Characters common in given names
 
-These characters appear often in given names in Chinese, yet are rarely used in other contexts.
+These characters appear often in given names in Chinese (in Chinese names and/or transliterations of non-Chinese names), yet are rarely used in other contexts.  Students might encounter these characters in names, so need to know how they're pronounced, but in general, it's not especially important to know what these characters mean.
 
 | chars | image 1 | image 2 | image 3 | image sources |
 |-------|---------|---------|---------|---------------|
