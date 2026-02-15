@@ -5,7 +5,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | chars | name | pinyin | image | image source |
 |-------|------|--------|-------|--------------|
 | 丕 | 曹丕 | Cáo Pī | ![曹丕](./names/曹丕.jpg) | 曹操's son and second emperor of 魏 Wei during the Three Kingdoms period | [Wikimedia](https://zh.wikipedia.org/wiki/%E6%9B%B9%E4%B8%95) |
-| 僧 | 唐僧 | Tángsēng | ![唐僧](./names/唐僧.jpg) | Buddhist monk Tripitaka in novel "Journey to the West" 《西游记》 | [Wikimedia](https://en.wikipedia.org/wiki/File:JourneytotheWest.jpg) |
+| 僧 | 唐僧 | Tángsēng | ![唐僧](./names/唐僧.png) | Buddhist monk Tripitaka in novel "Journey to the West" 《西游记》 | [Wikimedia](https://en.wikipedia.org/wiki/File:JourneytotheWest.jpg) |
 | 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.png) | Southern Qi / Liang dynasty monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
 | 奘 | 玄奘 | Xuánzàng | ![玄奘](./names/玄奘.jpg) | Tang dynasty monk | [Wikimedia](https://zh.wikipedia.org/wiki/File:Xuanzang_w.jpg) |
 | 甫 | 杜甫 | Dù Fǔ | ![杜甫](./names/杜甫.jpg) | Tang dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dufu.jpg) |
