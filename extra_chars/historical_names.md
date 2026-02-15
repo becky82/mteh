@@ -21,7 +21,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 禧 | 慈禧 | Cíxǐ | ![慈禧](./names/慈禧.jpg) | Qing dynasty empress dowager | [Wikimedia](https://commons.wikimedia.org/wiki/File:Empress_Dowager_Cixi_(c._1890,_small_version)_-_02.jpg) |
 | 纣 | 商纣王 | Shāng Zhòu Wáng | ![商纣王](./names/商纣王.jpg) | tyrannical Shang dynasty king | [Wikimedia](https://commons.wikimedia.org/wiki/File:King_Zhou_of_Shng_Dynasty.jpg) |
 | 羲 | 王羲之 | Wáng Xīzhī | ![王羲之](./names/王羲之.jpg) | Jin dynasty calligrapher, known as 书圣 "Sage of Calligraphy" | [Wikimedia](https://en.wikipedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg) |
-| 菩 | 观音菩萨 | Guānyīn Púsà | ![观音菩萨](./names/观音菩萨.jpeg) | Bodhisattva of compassion in Buddhism | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thousand_Armed_Avalokitesvara_-_Guanyin_Nunnery_-_2.jpeg) |
+| 菩 | 观音菩萨 | Guānyīn Púsà | ![观音菩萨](./names/观音菩萨.jpeg) | the 菩萨 Bodhisattva of compassion in Buddhism | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thousand_Armed_Avalokitesvara_-_Guanyin_Nunnery_-_2.jpeg) |
 | 葛 | 诸葛亮 | Zhūgě Liàng | ![诸葛亮](./names/诸葛亮.jpg) | Shu 蜀 strategist during the Three Kingdoms, famed for wisdom | [Wikimedia](https://commons.wikimedia.org/wiki/File:Kongming_Leaving_the_Mountains_(cropped).jpg) |
 | 轲 | 孟轲 | Mèng Kē | ![孟轲](./names/孟轲.jpg) | Confucian philosopher Mencius; also known as 孟子 Mèngzǐ | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mencius_Chinese_portrait.jpg) |
 | 轼 | 苏轼 | Sū Shì | ![苏轼](./names/苏轼.jpg) | Song dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Su_shi.jpg) |
