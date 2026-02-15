@@ -1,6 +1,6 @@
 # Characters in Chinese historical figure's names
 
-The characters listed below are noteworthy because they occur in Chinese historical figure's names, and are rarely (if ever) used outside these names.  It's not important to know what these characters mean, but it is important to be able to recognize these historical figures.
+The characters listed below are noteworthy because they occur in Chinese historical figure's names, and are rarely (if ever) used outside these names.  It's not especially important to know what these characters mean, but it is important to be able to recognize these historical figures.
 
 | chars | name | pinyin | image | description | image source |
 |-------|------|--------|-------|-------------|--------------|
