@@ -1,10 +1,10 @@
 # MteH Character Structure Report
 
-Report generated on: 2026-02-17 09:45:39; Python script written by ChatGPT.
+Report generated on: 2026-02-17 13:01:08; Python script written by ChatGPT.
 
 Checking MteH: mteh.txt
 
-## [246] Character structure consistency
+## [240] Character structure consistency
 
 | Character | MteH | Make me a Hanzi | cjkvi-ids | Importance |
 |-----------|-----------------|-----------------|----------------|------------|
@@ -175,10 +175,8 @@ Checking MteH: mteh.txt
 | 甩 | ⿵ [6] | ⿻ [12] | ⿵ [6] | ❗ |
 | 甫 | ⿺ [11] | ⿻ [12] | ⿺ [11] | ❗ |
 | 田 | ⿵ [6] | ⿵ [6] | None | ❗ |
-| 由 | ⿻ [12] | None | None | ❗❗❗ |
 | 甲 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 申 | ⿻ [12] | ⿻ [12] | None | ❗ |
-| 痂 | ⿰ [1] | ⿸ [9] | ⿸ [9] | ❗❗❗ |
 | 白 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 皮 | ⿸ [9] | ⿸ [9] | None | ❗ |
 | 皿 | ⿱ [2] | ⿱ [2] | None | ❗ |
@@ -216,7 +214,7 @@ Checking MteH: mteh.txt
 | 衡 | ⿲ [3] | ⿻ [12] | ⿲ [3] | ❗ |
 | 衰 | ⿳ [4] | ⿻ [12] | ⿳ [4] | ❗ |
 | 衷 | ⿳ [4] | ⿻ [12] | ⿳ [4] | ❗ |
-| 袁 | ⿳ [4] | ⿻ [12] | ⿱ [2] | ❗❗ |
+| 袁 | ⿱ [2] | ⿻ [12] | ⿱ [2] | ❗ |
 | 袅 | ⿹ [10] | ⿱ [2] | ⿹ [10] | ❗ |
 | 裹 | ⿳ [4] | ⿻ [12] | ⿳ [4] | ❗ |
 | 褒 | ⿳ [4] | ⿻ [12] | ⿳ [4] | ❗ |
@@ -227,14 +225,12 @@ Checking MteH: mteh.txt
 | 言 | ⿱ [2] | ⿱ [2] | None | ❗ |
 | 谷 | ⿱ [2] | ⿱ [2] | None | ❗ |
 | 豆 | ⿳ [4] | ⿳ [4] | None | ❗ |
-| 豢 | ⿳ [4] | ⿱ [2] | ⿱ [2] | ❗❗❗ |
 | 贝 | ⿵ [6] | ⿵ [6] | None | ❗ |
 | 车 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 辱 | ⿱ [2] | ⿸ [9] | ⿱ [2] | ❗ |
 | 酉 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 重 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 釜 | ⿱ [2] | ⿻ [12] | ⿱ [2] | ❗ |
-| 锵 | ⿲ [3] | ⿰ [1] | ⿰ [1] | ❗❗❗ |
 | 长 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 门 | ⿰ [1] | ⿰ [1] | None | ❗ |
 | 阜 | ⿱ [2] | ⿳ [4] | ⿱ [2] | ❗ |
@@ -252,8 +248,6 @@ Checking MteH: mteh.txt
 | 黄 | ⿳ [4] | ⿱ [2] | ⿳ [4] | ❗ |
 | 黎 | ⿱ [2] | ⿰ [1] | ⿱ [2] | ❗ |
 | 齿 | ⿱ [2] | ⿱ [2] | None | ❗ |
-| 龙 | ⿺ [11] | ⿻ [12] | ⿻ [12] | ❗❗❗ |
-| 龛 | ⿳ [4] | ⿱ [2] | ⿱ [2] | ❗❗❗ |
 
-**Consistent characters:** 4292
-**Inconsistent characters:** 246
+**Consistent characters:** 4298
+**Inconsistent characters:** 240
