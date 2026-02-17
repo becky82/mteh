@@ -1,6 +1,6 @@
 # MteH syllables: all component combinations
 
-*Date: 2026-02-12*
+*Date: 2026-02-17*
 
 *Source file: ../versions/v0.1.3/mteh_v0.1.3.txt*
 
@@ -2091,4 +2091,94 @@ This report is automatically generated from the pinyin in the mteh file listed a
 
 
 ---
+
+## New Syllables by HSK Level
+
+Counts are shown both **with tone** (full syllable) and **toneless** (initial+final only)
+
+- **HSK 1**: 213 new syllables (with tone), 165 new toneless syllables
+- **HSK 2**: 89 new syllables (with tone), 47 new toneless syllables
+- **HSK 3**: 164 new syllables (with tone), 66 new toneless syllables
+- **HSK 4**: 202 new syllables (with tone), 56 new toneless syllables
+- **HSK 5**: 139 new syllables (with tone), 31 new toneless syllables
+- **HSK 6**: 96 new syllables (with tone), 10 new toneless syllables
+- **HSK 7-9**: 189 new syllables (with tone), 21 new toneless syllables
+- **HSK non-HSK**: 70 new syllables (with tone), 2 new toneless syllables
+
+---
+
+## Exhaustive New Syllables by HSK Level
+
+### With Tone
+
+**HSK 1 (213 syllables)**:
+
+ba1, ba4, ba5, bai2, bai3, ban1, ban4, bao1, bei1, ben3, bian1, bian4, bing4, bu4, cai4, cha2, chang2, chang4, chao1, che1, chi1, chu1, chuan1, chuang2, da3, da4, dan4, dao4, de2, de5, di4, dian3, dian4, dong1, dou1, du2, dui4, duo1, fan4, fang2, fei1, fen1, fu2, gao1, ge1, ge4, gei3, gong1, gou3, guan1, gui4, guo2, guo3, hai2, han4, hao3, hao4, he1, he2, hen3, hou4, hua4, huan1, hui2, hui4, huo3, ji1, ji3, jia1, jian1, jian4, jiao4, jie3, jin1, jiu3, jue2, kai1, kan4, ke3, ke4, kou3, kuai4, lai2, lao3, le5, leng3, li3, liang3, liang4, ling2, liu4, ma1, ma5, mai3, mai4, mang2, mao1, me5, mei2, mei4, men5, mi3, mian4, ming2, na3, na4, nai3, nan2, nao3, ne5, neng2, ni3, nian2, nin2, niu2, nu3, peng2, piao4, ping2, qi1, qi3, qi4, qian1, qian2, qing3, qu4, re4, ren2, ren4, ri4, san1, shang1, shang4, shao3, shei2, shen2, sheng1, shi1, shi2, shi4, shou3, shu1, shui3, shui4, shuo1, si1, si4, sui4, ta1, tai4, ti2, tian1, tiao2, ting1, tong2, wai4, wan2, wan3, wei4, wen2, wen4, wo3, wu3, xi1, xi2, xi3, xi4, xia4, xian1, xian4, xiang3, xiao3, xiao4, xie1, xie3, xie4, xin1, xing1, xing4, xiu1, xue2, xue3, yang4, yao4, ye3, yi1, yi3, yi5, ying3, you3, yu3, yuan2, yuan4, yue4, zai4, zao3, zen3, zhao3, zhe4, zhen1, zheng4, zhi1, zhong1, zhu4, zhuo1, zi4, zi5, zu1, zuo2, zuo4, ∅ai4, ∅er2, ∅er4
+
+**HSK 2 (89 syllables)**:
+
+bang1, bei4, bi3, biao3, bie2, chang3, ci2, ci4, cong2, cuo4, deng3, dong3, dong4, fu1, gao4, gen1, guan3, guo4, hei1, hong2, hua1, huai4, ji4, jiao1, jie4, jin4, jing1, jiu4, ka1, kao3, ku4, lan2, le4, lei4, li2, liu2, lou2, lu3, lu4, man4, mei3, men2, na2, niao3, pang2, pao3, qing2, qiu2, ran2, rang4, rou4, se4, shao4, shen1, shi3, song4, su4, sui1, suo3, teng2, ti1, ti3, tiao4, tie3, tou2, wan4, wang3, wang4, yan2, yan3, ye2, yi4, yin1, yong3, you2, you4, yu2, yuan3, yun4, zhan4, zhang4, zhe5, zhou1, zhun3, zou3, zu2, zui4, zuo3, ∅a5
+
+**HSK 3 (164 syllables)**:
+
+ba3, ban3, bao3, bao4, bei3, bi4, bin1, bing1, cai2, cao3, cen1, ceng2, cha4, chen4, cheng2, chi2, chu2, chu3, chu4, chuan2, chun1, cong1, da2, dai4, dan1, dang1, deng1, diao4, ding4, diu1, duan3, duan4, duo3, fa1, fa3, fang1, fang4, feng1, fu4, gai1, gai4, gan3, gan4, gang1, geng1, gong4, gu4, gua1, guai4, guan4, hai3, hai4, hu1, hu4, huan2, huan4, huang2, hun1, huo2, huo4, ji2, jia3, jian3, jiang3, jiao3, jie1, jie2, jing4, ju1, ju4, ka3, kang1, kong1, ku1, kuang4, li4, lian3, lian4, liang2, liao2, liao4, lin2, ma3, man3, mao2, mao4, mo4, mu4, pa2, pa4, pai1, pan2, pang4, pi2, pian4, qi2, qie3, qing1, qiu1, qu1, quan2, qun2, rong2, ru2, sai4, san3, sao3, sha1, shan1, shao1, shao2, shou1, shou4, shu4, shua1, shuang1, suan4, tang2, te4, tian2, ting3, tu1, tu2, tui3, wu1, wu4, xiang1, xiang4, xie2, xin4, xing2, xiong2, xu1, xuan3, ya2, yang2, yang3, ye4, yi2, yin2, yin3, ying1, ying2, yong4, yu4, zan2, zang4, ze2, zhan3, zhang1, zhao4, zhe3, zhi2, zhi3, zhong3, zhong4, zhu3, zong3, zui3, ∅a1, ∅ai3, ∅an1, ∅e4, ∅er3
+
+**HSK 4 (202 syllables)**:
+
+bai4, bang4, ben4, bi2, biao1, bing3, bo1, bo2, ca1, cai1, cai3, can1, cao1, ce4, chan3, chen2, chuang1, chui1, ci3, cu1, cun1, cun2, dao1, dao3, di1, di3, du3, du4, dun4, fan1, fan2, fan3, fei4, fen4, fou3, gai3, ge2, gou4, gu1, gu3, gua4, guang1, guang3, guang4, gui1, han2, han3, hang2, he4, hu3, huai2, hui3, jia4, jiang1, jiang4, jin3, jing3, jiu1, ju3, ke1, ke2, ken3, kong3, ku3, kun4, la1, la4, lan3, lang4, lia3, lian2, lie4, ling4, luan4, lun4, luo4, ma2, man2, meng4, mi2, mi4, mian3, miao3, min2, ming4, mu3, nai4, nao4, nei4, niang2, nong2, nong4, nuan3, pai2, pan4, pang1, pei2, pi1, pian1, pin2, pin3, pin4, ping1, po1, po4, pu2, pu3, qian4, qiang2, qiao1, qiao2, qiao3, qie4, qin1, qin2, qing4, qu3, que1, que4, ran3, rao3, reng1, reng2, ru4, san4, sen1, she4, shen4, sheng3, sheng4, shi5, shu2, shu3, shuai4, shun4, shuo4, si3, song1, sou4, suan1, sui2, sun1, tai2, tan2, tang1, tang3, tang4, tao2, tao3, tao4, ting2, tong1, tong3, tong4, tu3, tui1, tuo1, wa4, wei1, wei2, wen1, wu2, xian2, xian3, xiang2, xiao1, xing3, xiong1, xiu4, xu3, xu4, xue4, ya1, ya4, yan1, yan4, yao1, yin4, you1, yue1, yun2, yun3, za2, zan4, zeng1, zhao1, zhe2, zheng1, zheng3, zhi4, zhuan1, zhuan3, zhuan4, zhuang1, zi1, zi3, zu3, zun1, ∅an4, ∅ao4, ∅en5, ∅ou3
+
+**HSK 5 (139 syllables)**:
+
+bang3, bu3, cang2, cha1, chai1, chao2, chao3, che4, cheng1, chi3, chi4, chong1, chong2, chong3, chou1, chou3, chou4, chuang4, cu4, cui1, dan3, dang3, dang4, di2, die2, dou4, dui1, dun1, fa2, fang3, fei2, fo2, fu3, gao3, gou1, gun3, guo1, ha1, heng2, hou2, hu2, hua2, huan3, hui1, ju2, juan1, juan4, jun1, kao4, kong4, kou4, kuan1, kuan3, kuang2, kui1, kun1, kuo4, lang2, lao2, ling3, long2, lou4, luo2, ma4, mian2, miao2, min3, mo1, mo2, mou3, nian4, pai4, pei4, pen2, peng4, pi3, pin1, po2, qian3, qiang3, qie2, qiong2, quan4, rao4, ren3, ruan3, run4, ruo4, sa3, sha3, sha4, shai4, shan4, shang3, she2, she3, shuai1, sou1, su2, sun3, suo1, ti4, tiao1, tie1, tu4, tuan2, tui4, wan1, wei3, wen3, wo4, xuan1, xun2, xun4, ya5, yao2, yao3, ying4, yong1, zai3, zao1, zao4, zeng4, zha4, zhai1, zhai3, zhang3, zhen3, zhen4, zhu1, zhu2, zhua1, zhuang4, zhui1, zong1, ∅ai1, ∅ao2, ∅o2, ∅ou5
+
+**HSK 6 (96 syllables)**:
+
+ba2, ben1, bi1, can2, cang1, chai2, chou2, chuan4, chuang3, chui2, chun2, cui4, cun4, da1, dai1, die1, ding3, du1, duan1, duo2, fen3, feng4, ga4, gan1, gang3, gong3, guai3, gui3, gun4, hao2, hen2, hen4, hun4, kan1, kan3, kang4, kua1, kui4, la5, lai4, lan4, lang3, lei2, lue4, lun2, mai2, miao4, mie4, ni2, niu3, nu4, nuo4, pao1, pao4, pen1, peng3, piao1, pu1, pu4, qia4, qiang1, qu2, quan1, rang3, rou2, sa1, sang3, sang4, shai1, shan3, shen3, ta3, ta4, tan4, tao1, tou1, tou4, tun1, wa1, wa2, wa5, wai1, wang2, xuan2, yang1, yun1, zai1, zha2, zhai2, zhan1, zhou4, zong4, zou4, zuan4, ∅ang2, ∅e2
+
+**HSK 7-9 (189 syllables)**:
+
+bai1, bao2, beng1, beng4, bian3, bie1, bo3, bo5, can3, can4, cao2, ceng4, chan1, chan2, chan4, chang1, che3, cheng3, cheng4, chuai3, chuai4, chuan3, chun3, chuo1, chuo4, ci1, cou4, cuan4, cui3, cuo1, da5, dai3, deng4, dian1, diao1, ding1, dou3, dun3, duo4, fei3, fen2, feng2, feng3, gang4, geng3, gua3, guai1, han1, hang1, heng1, hong1, hong3, hou3, huang1, huang3, huang4, hun2, jia2, jiong3, jun4, kai3, kang2, keng1, kou1, kua3, kua4, kuang1, kui2, kun3, la3, lao1, lao4, lei3, leng2, leng4, lie1, lin1, lin4, liu1, liu3, long3, lou3, lu2, luan2, luan3, lun1, luo1, luo3, mang3, men4, meng2, meng3, mi1, miu4, mo3, mou2, nang2, nao2, nei3, nen4, ni4, nian3, niang4, niao4, nie1, ning2, ning4, nu2, nue4, nuo2, pa1, pan1, pao2, pei1, peng1, pi4, pie3, pou1, qia1, qiang4, qiao4, qin3, quan3, que2, rao2, re3, rong3, ru3, rui4, sa4, sang1, sao1, seng1, shang5, she1, sheng2, shua3, shuai3, shuan1, shuan4, shuang3, song3, su1, sui3, suo5, tai1, tan1, tan3, tian3, tui2, tun2, tuo2, tuo3, tuo4, wa3, wang1, weng1, wo1, xia1, xia2, xiao2, xiu3, xu2, xuan4, xue1, xun1, ya3, ye1, yu1, yuan1, zan3, zang1, zao2, zei2, zha1, zha3, zhai4, zhe1, zhou2, zhou5, zhua3, zhuai4, zhui4, zhuo2, ∅ai2, ∅ao1, ∅ao5, ∅en1, ∅ou1
+
+**HSK non-HSK (70 syllables)**:
+
+bei5, beng2, bie3, bin4, cen2, cha3, chen1, cuan1, cun3, ga1, gen4, hai1, hao1, jue1, kai4, kui3, lang1, lei5, li1, liao1, liao3, lin3, lu1, mao3, miao1, ming3, nan3, nang1, ne4, ni1, nian1, nie4, niu1, piao2, piao3, pie1, po3, qin4, qiu3, rang2, rui3, sai1, sao4, sha2, shun3, sou3, tiao3, tuan1, tun5, weng4, yo1, za1, za3, zan1, ze4, zha5, zhou3, zhun1, zou1, zuan3, ∅ai5, ∅an3, ∅ang1, ∅ang4, ∅ao3, ∅e1, ∅e5, ∅ei2, ∅en4, ∅o1
+
+### Toneless (Initial + Final only)
+
+**HSK 1 (165 syllables)**:
+
+ba, bai, ban, bao, bei, ben, bian, bing, bu, cai, cha, chang, chao, che, chi, chu, chuan, chuang, da, dan, dao, de, di, dian, dong, dou, du, dui, duo, fan, fang, fei, fen, fu, gao, ge, gei, gong, gou, guan, gui, guo, hai, han, hao, he, hen, hou, hua, huan, hui, huo, ji, jia, jian, jiao, jie, jin, jiu, jue, kai, kan, ke, kou, kuai, lai, lao, le, leng, li, liang, ling, liu, ma, mai, mang, mao, me, mei, men, mi, mian, ming, na, nai, nan, nao, ne, neng, ni, nian, nin, niu, nu, peng, piao, ping, qi, qian, qing, qu, re, ren, ri, san, shang, shao, shei, shen, sheng, shi, shou, shu, shui, shuo, si, sui, ta, tai, ti, tian, tiao, ting, tong, wai, wan, wei, wen, wo, wu, xi, xia, xian, xiang, xiao, xie, xin, xing, xiu, xue, yang, yao, ye, yi, ying, you, yu, yuan, yue, zai, zao, zen, zhao, zhe, zhen, zheng, zhi, zhong, zhu, zhuo, zi, zu, zuo, ∅ai, ∅er
+
+**HSK 2 (47 syllables)**:
+
+bang, bi, biao, bie, ci, cong, cuo, deng, gen, hei, hong, huai, jing, ka, kao, ku, lan, lei, lou, lu, man, niao, pang, pao, qiu, ran, rang, rou, se, song, su, suo, teng, tie, tou, wang, yan, yin, yong, yun, zhan, zhang, zhou, zhun, zou, zui, ∅a
+
+**HSK 3 (66 syllables)**:
+
+bin, cao, cen, ceng, chen, cheng, chun, dai, dang, diao, ding, diu, duan, fa, feng, gai, gan, gang, geng, gu, gua, guai, hu, huang, hun, jiang, ju, kang, kong, kuang, lian, liao, lin, mo, mu, pa, pai, pan, pi, pian, qie, quan, qun, rong, ru, sai, sao, sha, shan, shua, shuang, suan, tang, te, tu, tui, xiong, xu, xuan, ya, zan, zang, ze, zong, ∅an, ∅e
+
+**HSK 4 (56 syllables)**:
+
+bo, ca, can, ce, chan, chui, cu, cun, dun, fou, guang, hang, ken, kun, la, lang, lia, lie, luan, lun, luo, meng, miao, min, nei, niang, nong, nuan, pei, pin, po, pu, qiang, qiao, qin, que, rao, reng, sen, she, shuai, shun, sou, sun, tan, tao, tuo, wa, za, zeng, zhuan, zhuang, zun, ∅ao, ∅en, ∅ou
+
+**HSK 5 (31 syllables)**:
+
+cang, chai, chong, chou, cui, die, fo, gun, ha, heng, juan, jun, kuan, kui, kuo, long, mou, pen, qiong, ruan, run, ruo, sa, shai, tuan, xun, zha, zhai, zhua, zhui, ∅o
+
+**HSK 6 (10 syllables)**:
+
+ga, kua, lue, mie, nuo, qia, sang, tun, zuan, ∅ang
+
+**HSK 7-9 (21 syllables)**:
+
+beng, chuai, chuo, cou, cuan, jiong, keng, miu, nang, nen, nie, ning, nue, pie, pou, rui, seng, shuan, weng, zei, zhuai
+
+**HSK non-HSK (2 syllables)**:
+
+yo, ∅ei
+
+
+---
+
+![New Syllables by HSK Level](new_syllables_per_hsk.png)
 

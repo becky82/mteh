@@ -6,6 +6,7 @@ from collections import defaultdict, Counter
 from datetime import datetime
 from itertools import chain, combinations
 import matplotlib.pyplot as plt
+import numpy as np
 
 # -----------------------
 # Configuration
@@ -29,6 +30,7 @@ output_file = "mteh_syllables_all_combinations.md"
 tone_plot_file = "tone_distribution.png"
 initial_plot_file = "initial_distribution.png"
 final_plot_file = "final_distribution.png"
+new_syllables_plot_file = "new_syllables_per_hsk.png"
 
 # -----------------------
 # Functions
@@ -71,26 +73,98 @@ def write_section(md, subset_name, mapping, _):
         md.write(f"{rank}. {k}: {count}\n\n")
     md.write("\n---\n\n")
 
+def hsk_new_syllables(entries, hsk_levels):
+    """
+    Count new syllables introduced at each HSK level:
+    - With tone (initial+final+tone)
+    - Toneless (initial+final only)
+    """
+    hsk_order = ['1','2','3','4','5','6','7-9','n']
+    seen_syllables = set()
+    seen_toneless = set()
+    new_counts = {level: {'with_tone':0, 'toneless':0} for level in hsk_order}
+
+    for level in hsk_order:
+        for char, ini, fin, tone in entries:
+            char_level = hsk_levels.get(char, 'n')  # default to non-HSK
+            if char_level != level:
+                continue
+
+            syllable = f"{ini}{fin}{tone}"
+            toneless = f"{ini}{fin}"
+
+            if syllable not in seen_syllables:
+                new_counts[level]['with_tone'] += 1
+                seen_syllables.add(syllable)
+            if toneless not in seen_toneless:
+                new_counts[level]['toneless'] += 1
+                seen_toneless.add(toneless)
+
+    return new_counts
+
+def hsk_new_syllable_lists(entries, hsk_levels):
+    """
+    Return a dictionary of new syllables (with tone and toneless) per HSK level.
+    Each entry is a sorted list of unique syllables.
+    """
+    hsk_order = ['1','2','3','4','5','6','7-9','n']
+    seen_syllables = set()
+    seen_toneless = set()
+    syllable_lists = {level: {'with_tone':[], 'toneless':[]} for level in hsk_order}
+
+    for level in hsk_order:
+        for char, ini, fin, tone in entries:
+            char_level = hsk_levels.get(char, 'n')
+            if char_level != level:
+                continue
+
+            syllable = f"{ini}{fin}{tone}"
+            toneless = f"{ini}{fin}"
+
+            if syllable not in seen_syllables:
+                syllable_lists[level]['with_tone'].append(syllable)
+                seen_syllables.add(syllable)
+
+            if toneless not in seen_toneless:
+                syllable_lists[level]['toneless'].append(toneless)
+                seen_toneless.add(toneless)
+
+        # Sort alphabetically
+        syllable_lists[level]['with_tone'].sort()
+        syllable_lists[level]['toneless'].sort()
+
+    return syllable_lists
+
 # -----------------------
-# Read entries
+# Read entries and HSK levels
 # -----------------------
 entries = []
 total_chars = 0
+hsk_levels = {}
 with open(input_file, encoding="utf-8") as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith("#"):
             continue
         parts = line.split()
-        if len(parts) < 2:
+        if len(parts) < 5:
             continue
 
-        # When reading entries:
         char, pinyin = parts[0], parts[1]
         initial, final, tone = split_pinyin(pinyin)
         if initial == '':
-            initial = '∅'  # or 'none'
+            initial = '∅'
         entries.append((char, initial, final, tone))
+
+        # HSK level from 5th column
+        level_raw = parts[4]
+        if level_raw == '+':
+            level = '7-9'
+        elif level_raw == 'n':
+            level = 'n'
+        else:
+            level = level_raw
+        hsk_levels[char] = level
 
 # -----------------------
 # Build mappings for all subsets
@@ -124,7 +198,7 @@ plt.close()
 
 # Initials
 initial_counter = Counter(ini for _, ini, _, _ in entries)
-initials_sorted = INITIALS  # preserve standard order
+initials_sorted = INITIALS
 initial_counts = [initial_counter.get(i,0) for i in initials_sorted]
 
 plt.figure(figsize=(10,4))
@@ -177,8 +251,70 @@ with open(output_file, "w", encoding="utf-8") as md:
         title = " + ".join(subset)
         write_section(md, title, mappings[subset], total_chars)
 
+# -----------------------
+# HSK New Syllables Section (Counts)
+# -----------------------
+new_syllables_counts = hsk_new_syllables(entries, hsk_levels)
+
+with open(output_file, "a", encoding="utf-8") as md:
+    md.write("## New Syllables by HSK Level\n\n")
+    md.write("Counts are shown both **with tone** (full syllable) and **toneless** (initial+final only)\n\n")
+    for level in ['1','2','3','4','5','6','7-9','n']:
+        counts = new_syllables_counts[level]
+        label = level if level != 'n' else 'non-HSK'
+        md.write(f"- **HSK {label}**: {counts['with_tone']} new syllables (with tone), {counts['toneless']} new toneless syllables\n")
+    md.write("\n---\n\n")
+
+# -----------------------
+# HSK New Syllables Section (Exhaustive Lists)
+# -----------------------
+syllable_lists = hsk_new_syllable_lists(entries, hsk_levels)
+
+with open(output_file, "a", encoding="utf-8") as md:
+    md.write("## Exhaustive New Syllables by HSK Level\n\n")
+    md.write("### With Tone\n\n")
+    for level in ['1','2','3','4','5','6','7-9','n']:
+        label = level if level != 'n' else 'non-HSK'
+        md.write(f"**HSK {label} ({len(syllable_lists[level]['with_tone'])} syllables)**:\n\n")
+        md.write(', '.join(syllable_lists[level]['with_tone']) + "\n\n")
+
+    md.write("### Toneless (Initial + Final only)\n\n")
+    for level in ['1','2','3','4','5','6','7-9','n']:
+        label = level if level != 'n' else 'non-HSK'
+        md.write(f"**HSK {label} ({len(syllable_lists[level]['toneless'])} syllables)**:\n\n")
+        md.write(', '.join(syllable_lists[level]['toneless']) + "\n\n")
+    md.write("\n---\n\n")
+
+# -----------------------
+# Plot new syllables per HSK
+# -----------------------
+labels = ['1','2','3','4','5','6','7-9','n']
+with_tone_counts = [new_syllables_counts[l]['with_tone'] for l in labels]
+toneless_counts = [new_syllables_counts[l]['toneless'] for l in labels]
+
+x = np.arange(len(labels))
+width = 0.35
+
+plt.figure(figsize=(10,4))
+plt.bar(x - width/2, with_tone_counts, width, label='With Tone', color='orchid')
+plt.bar(x + width/2, toneless_counts, width, label='Toneless', color='skyblue')
+plt.xticks(x, labels)
+plt.xlabel("HSK Level")
+plt.ylabel("Number of new syllables")
+plt.title("New MteH Syllables per HSK Level (With Tone vs Toneless)")
+plt.legend()
+plt.tight_layout()
+plt.savefig(new_syllables_plot_file, dpi=150)
+plt.close()
+
+# Append plot to Markdown
+with open(output_file, "a", encoding="utf-8") as md:
+    md.write(f"![New Syllables by HSK Level]({new_syllables_plot_file})\n\n")
+
+# -----------------------
 print(f"Report generated: {output_file}")
 print(f"Tone plot saved: {tone_plot_file}")
 print(f"Initial plot saved: {initial_plot_file}")
 print(f"Final plot saved: {final_plot_file}")
+print(f"New syllables per HSK plot saved: {new_syllables_plot_file}")
 
