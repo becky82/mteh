@@ -20,6 +20,7 @@ CORPUS_FILES = [
     "现代汉语常用字表/现代汉语常用字表_chars_unicode_order.txt",
     "primary_school/primary_school_2016_unicode_order.txt",
     "Singapore_primary_school/Singapore_chars_unicode_order.txt",
+    "age_of_acquisition/age_of_acquisition_chars.txt",
     "Heisig/Heisig_chars_unicode_order.txt",
     "Hoenig/Hoenig_chars_unicode_order.txt",
     "JunDa/JunDa_modern_top4500_simplified_unicode_order.txt",
