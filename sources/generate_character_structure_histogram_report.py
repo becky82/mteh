@@ -3,11 +3,8 @@ Character Structure Histogram Report
 Written by ChatGPT
 """
 
-<<<<<<< HEAD
-=======
 import matplotlib
 matplotlib.use('Agg')  # Use non-interactive backend so PNGs can be saved
->>>>>>> 4f41a3df (update structure reports)
 import matplotlib.pyplot as plt
 from collections import Counter
 from datetime import datetime
@@ -16,10 +13,7 @@ import os
 # --- Configuration ---
 mteh_file = '../mteh.txt'
 report_md = 'character_structure_histogram_report.md'
-<<<<<<< HEAD
-=======
 output_dir = os.getcwd()  # save images in current directory
->>>>>>> 4f41a3df (update structure reports)
 
 # Mapping MteH code → readable label
 structure_labels = {
@@ -104,16 +98,6 @@ def plot_histogram(codes, title, filename):
 # --- Prepare Markdown report ---
 with open(report_md, 'w', encoding='utf-8') as md:
     md.write(f"# Character Structure Histogram Report\n\n")
-<<<<<<< HEAD
-    md.write(f"Report generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
-    md.write(f"Checking MteH file: {mteh_file}\n\n")
-
-    # Full histogram
-    full_file = 'full_structure_histogram.png'
-    plot_histogram(all_codes, 'Full MteH Character Structure Distribution', full_file)
-    md.write(f"## Full MteH Character Structure Distribution\n\n")
-    md.write(f"![Full MteH Histogram]({full_file})\n\n")
-=======
     md.write(f"Report generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}; Python script written by ChatGPT\n\n")
     md.write(f"Checking MteH file: {mteh_file}\n\n")
 
@@ -122,23 +106,15 @@ with open(report_md, 'w', encoding='utf-8') as md:
     plot_histogram(all_codes, 'Full MteH Character Structure Distribution', full_file)
     md.write(f"## Full MteH Character Structure Distribution\n\n")
     md.write(f"![Full MteH Histogram](MteH_structure_histogram.png)\n\n")
->>>>>>> 4f41a3df (update structure reports)
 
     # Per HSK histograms
     for hsk, codes in hsk_structures.items():
         if not codes:
             continue
-<<<<<<< HEAD
-        filename = f'{hsk}_structure_histogram.png'
-        plot_histogram(codes, f'{hsk_labels[hsk]} Character Structure Distribution', filename)
-        md.write(f"## {hsk_labels[hsk]} Character Structure Distribution\n\n")
-        md.write(f"![{hsk_labels[hsk]} Histogram]({filename})\n\n")
-=======
         filename = os.path.join(output_dir, f'HSK{hsk}_structure_histogram.png')
         plot_histogram(codes, f'{hsk_labels[hsk]} Character Structure Distribution', filename)
         md.write(f"## {hsk_labels[hsk]} Character Structure Distribution\n\n")
         md.write(f"![{hsk_labels[hsk]} Histogram](HSK{hsk}_structure_histogram.png)\n\n")
->>>>>>> 4f41a3df (update structure reports)
 
 print(f"Markdown report written to {report_md}")
 
