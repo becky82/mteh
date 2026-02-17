@@ -12,7 +12,7 @@ Used for debugging and verification.
 import datetime
 
 CURRENT_FILE = "../mteh.txt"
-SNAPSHOT_FILE = "../versions/v0.1.2/mteh_v0.1.2.txt"
+SNAPSHOT_FILE = "../versions/v0.1.3/mteh_v0.1.3.txt"
 OUTPUT_FILE = "./mteh_modification_report.md"
 
 # Map structure codes to symbols for readability

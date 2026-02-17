@@ -24,7 +24,7 @@ TONE_MARKS = {
     'ǖ':'1','ǘ':'2','ǚ':'3','ǜ':'4'
 }
 
-input_file = "../versions/v0.1.2/mteh_v0.1.2.txt"
+input_file = "../versions/v0.1.3/mteh_v0.1.3.txt"
 output_file = "mteh_syllables_all_combinations.md"
 tone_plot_file = "tone_distribution.png"
 initial_plot_file = "initial_distribution.png"
