@@ -21,8 +21,10 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 禧 | 慈禧 | Cíxǐ | ![慈禧](./names/慈禧.jpg) | Qing dynasty empress dowager | [Wikimedia](https://commons.wikimedia.org/wiki/File:Empress_Dowager_Cixi_(c._1890,_small_version)_-_02.jpg) |
 | 纣 | 商纣王 | Shāng Zhòu Wáng | ![商纣王](./names/商纣王.jpg) | tyrannical Shang dynasty king | [Wikimedia](https://commons.wikimedia.org/wiki/File:King_Zhou_of_Shng_Dynasty.jpg) |
 | 羲 | 王羲之 | Wáng Xīzhī | ![王羲之](./names/王羲之.jpg) | Jin dynasty calligrapher, known as 书圣 "Sage of Calligraphy" | [Wikimedia](https://en.wikipedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg) |
+| 荀 | 荀子 | Xún Zǐ | ![荀子](./names/荀子.jpg) | Warring States Confucian philosopher; author of 《荀子》 | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%88%98%E5%9B%BD%E6%97%B6%E6%A5%9A%E5%85%B0%E9%99%B5%E4%BB%A4%E8%8D%80%E5%86%B5.jpg) |
 | 菩 | 观音菩萨 | Guānyīn Púsà | ![观音菩萨](./names/观音菩萨.jpeg) | the 菩萨 Bodhisattva of compassion in Buddhism | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thousand_Armed_Avalokitesvara_-_Guanyin_Nunnery_-_2.jpeg) |
 | 葛 | 诸葛亮 | Zhūgě Liàng | ![诸葛亮](./names/诸葛亮.jpg) | Shu 蜀 strategist during the Three Kingdoms, famed for wisdom | [Wikimedia](https://commons.wikimedia.org/wiki/File:Kongming_Leaving_the_Mountains_(cropped).jpg) |
+| 蔺 | 蔺相如 | Lìn Xiàngrú | ![蔺相如](./names/蔺相如.jpg) | Warring States Zhao diplomat, famous for 《战国策》 | [Wikimedia](https://en.wikipedia.org/wiki/File:Heshibi_%E5%AE%8C%E7%92%A7%E5%BD%92%E8%B5%B5%E6%AD%A6%E6%B0%8F%E7%A5%A0_%E9%87%91%E7%9F%B3%E7%B4%A23.jpg) |
 | 轲 | 孟轲 | Mèng Kē | ![孟轲](./names/孟轲.jpg) | Confucian philosopher Mencius; also known as 孟子 Mèngzǐ | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mencius_Chinese_portrait.jpg) |
 | 轼 | 苏轼 | Sū Shì | ![苏轼](./names/苏轼.jpg) | Song dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Su_shi.jpg) |
 | 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
