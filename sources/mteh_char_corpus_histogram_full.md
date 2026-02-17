@@ -1,6 +1,6 @@
 # MteH Character Occurrence Histogram
 
-**Report generated on:** 2026-02-17 13:39:14; Python script written by ChatGPT (GPT-5-mini).
+**Report generated on:** 2026-02-17 14:51:15; Python script written by ChatGPT (GPT-5-mini).
 
 **Checking MteH snapshot:** `../versions/v0.1.3/mteh_v0.1.3.txt`
 
@@ -16,8 +16,6 @@
 | # Characters | 3 | 11 | 28 | 45 | 63 | 55 | 83 | 82 | 116 | 104 | 120 | 103 | 118 | 103 | 119 | 111 | 110 | 118 | 115 | 112 | 131 | 144 | 156 | 156 | 189 | 233 | 251 | 322 | 328 | 317 | 267 | 264 | 63 |
 
 ## MteH Full Character List
-
-
 
 The MteH characters that belong to X corpora, as X varies.
 
@@ -159,9 +157,7 @@ The MteH characters that belong to X corpora, as X varies.
 
 ## Non-MteH Character Summary
 
-
-
-The non-MteH characters that belong to X corpora, as X varies.  (Note that many computer-generated corpora contain traditional characters, which are excluded from MteH since it only contains simplified characters.)
+The non-MteH characters that belong to X corpora, as X varies.
 
 
 ### Non-MteH characters in 19 corpora (1)
@@ -241,8 +237,6 @@ The non-MteH characters that belong to X corpora, as X varies.  (Note that many 
 
 ## Corpus-specific unique MteH characters
 
-
-
 MteH characters that belong to exactly 1 corpora.
 
 
@@ -267,3 +261,10 @@ MteH characters that belong to exactly 1 corpora.
 膻趄蹰
 
 **Total 11 chars.**
+
+
+## JunDa Rank vs Corpus Count (with trend line)
+
+Spearman correlation coefficient ρ = -0.907 (p = 0)
+
+![Scatter Plot with Trend](mteh_vs_junda_rank_scatter_trend.png)

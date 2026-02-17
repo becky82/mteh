@@ -5,9 +5,12 @@ import os
 from collections import Counter, defaultdict
 from datetime import datetime
 import matplotlib.pyplot as plt
+import numpy as np
+from scipy.stats import spearmanr
 
 # ---------------- Configuration ----------------
 MTEH_FILE = "../versions/v0.1.3/mteh_v0.1.3.txt"
+JUNDA_ORDER_FILE = "JunDa/JunDa_modern_chars_original_order.txt"
 CORPUS_BASE = "./"
 CORPUS_FILES = [
     "HSK1.0/HSK1.0_chars.txt",
@@ -77,7 +80,7 @@ checksum = sum(histogram.values())
 if checksum != total_chars:
     print(f"ERROR: checksum mismatch! Sum of frequencies {checksum} != total characters {total_chars}")
 
-# ---------------- Plot ----------------
+# ---------------- Plot histogram ----------------
 plt.figure(figsize=(12,6))
 plt.bar(histogram.keys(), histogram.values(), color='skyblue')
 plt.xlabel('Number of corpora')
@@ -101,37 +104,24 @@ report_lines = [
 
 # ---------------- Horizontal summary table ----------------
 report_lines.append("\n## Summary Table\n")
-
-# First row: headers
 headers = ["# Corpora"] + [str(i) for i in range(0, num_corpora+1)]
 report_lines.append("| " + " | ".join(headers) + " |")
-
-# Second row: separators
 report_lines.append("|" + "|".join(["---"] * len(headers)) + "|")
-
-# Third row: values
 values = ["# Characters"] + [str(histogram.get(i,0)) for i in range(0, num_corpora+1)]
 report_lines.append("| " + " | ".join(values) + " |")
 
-
-# ---------------- Full data ----------------
+# ---------------- Full MteH character list ----------------
 report_lines.append("\n## MteH Full Character List\n")
-report_lines.append("\n")
 report_lines.append("The MteH characters that belong to X corpora, as X varies.\n\n")
-
 for i in range(0, num_corpora+1):
     chars_list = ''.join(sorted(chars_by_count.get(i, [])))
-    report_lines.append(f"### Characters in {i} corpora ({len(chars_by_count.get(i, []))})\n")
+    report_lines.append(f"### Characters in {i} corpora ({len(chars_list)})\n")
     report_lines.append(chars_list + "\n")
-
-# Append chapter checksum
 total_full = sum(len(chars_by_count.get(i, [])) for i in range(0, num_corpora+1))
 report_lines.append(f"**Total {total_full} chars.**\n")
 
 # ---------------- Non-MteH character summary ----------------
 print("Summarizing non-MteH characters...")
-
-# 1. Build corpus-wide counts for all chars
 all_char_counts = defaultdict(int)
 for relative_path in CORPUS_FILES:
     corpus_path = os.path.join(CORPUS_BASE, relative_path)
@@ -142,33 +132,24 @@ for relative_path in CORPUS_FILES:
     for ch in corpus_chars:
         all_char_counts[ch] += 1
 
-# 2. Filter & group non-MteH chars
 non_mteh_by_count = defaultdict(list)
 for ch, count in all_char_counts.items():
     if ch not in mteh_chars:
         non_mteh_by_count[count].append(ch)
 
-# 3. Append compact summary (20 → 1)
 report_lines.append("\n## Non-MteH Character Summary\n")
-report_lines.append("\n")
-report_lines.append("The non-MteH characters that belong to X corpora, as X varies.  (Note that many computer-generated corpora contain traditional characters, which are excluded from MteH since it only contains simplified characters.)\n\n")
-
+report_lines.append("The non-MteH characters that belong to X corpora, as X varies.\n\n")
 for i in range(20, 0, -1):
     chars_list = ''.join(sorted(non_mteh_by_count.get(i, [])))
     if chars_list:
         report_lines.append(f"### Non-MteH characters in {i} corpora ({len(chars_list)})\n")
         report_lines.append(chars_list + "\n")
-
-# Append chapter checksum
 total_non_mteh = sum(len(non_mteh_by_count.get(i, [])) for i in range(1, 21))
 report_lines.append(f"**Total {total_non_mteh} chars.**\n")
-
 print("Non-MteH character summary appended.")
 
 # ---------------- Unique MteH characters per corpus ----------------
 print("Calculating unique MteH characters for each corpus...")
-
-# Load all corpus sets once
 corpus_sets = {}
 for relative_path in CORPUS_FILES:
     corpus_path = os.path.join(CORPUS_BASE, relative_path)
@@ -177,35 +158,66 @@ for relative_path in CORPUS_FILES:
     with open(corpus_path, "r", encoding="utf-8") as f:
         corpus_sets[relative_path] = set(line.strip() for line in f if line.strip())
 
-# Compute unique MteH chars per corpus
 unique_mteh_per_corpus = {}
 for name, chars in corpus_sets.items():
-    # MteH chars in this corpus only
     other_chars = set().union(*(v for k, v in corpus_sets.items() if k != name))
     unique_chars = (chars & mteh_chars) - other_chars
     if unique_chars:
         unique_mteh_per_corpus[name] = sorted(unique_chars)
 
-# Append to report
 report_lines.append("\n## Corpus-specific unique MteH characters\n")
-report_lines.append("\n")
 report_lines.append("MteH characters that belong to exactly 1 corpora.\n\n")
-
 for name, chars in unique_mteh_per_corpus.items():
     report_lines.append(f"### {name} — {len(chars)} unique MteH characters\n")
     report_lines.append(''.join(chars) + "\n")
-
-# Append chapter checksum
 total_unique = sum(len(chars) for chars in unique_mteh_per_corpus.values())
 report_lines.append(f"**Total {total_unique} chars.**\n")
-
 print("Unique MteH character summary appended.")
 
+# ---------------- JunDa scatter plot with trend line ----------------
+print("Generating JunDa scatter plot with trend line...")
+if os.path.exists(JUNDA_ORDER_FILE):
+    with open(JUNDA_ORDER_FILE, "r", encoding="utf-8") as f:
+        junda_order = [line.strip() for line in f if line.strip()]
+    junda_rank = {ch: idx+1 for idx, ch in enumerate(junda_order)}
 
-# Write report
+    x_vals, y_vals = [], []
+    for ch in mteh_chars:
+        if ch in junda_rank:
+            x_vals.append(char_counts.get(ch,0))
+            y_vals.append(junda_rank[ch])
+
+    if x_vals and y_vals:
+        rho, pval = spearmanr(x_vals, y_vals)
+        print(f"Spearman correlation: {rho:.4f} (p={pval:.3g})")
+
+        plt.figure(figsize=(10,6))
+        plt.scatter(x_vals, y_vals, alpha=0.4, s=8, label='MteH chars')
+
+        coeffs = np.polyfit(x_vals, y_vals, 1)
+        trend_y = np.polyval(coeffs, x_vals)
+        plt.plot(x_vals, trend_y, color='red', linewidth=2, label='Trend line')
+
+        plt.xlabel("Number of corpora")
+        plt.ylabel("JunDa frequency rank")
+        plt.title(f"MteH Corpus Count vs JunDa Rank (Spearman ρ={rho:.3f})")
+        plt.legend()
+        plt.tight_layout()
+        scatter_file_trend = "mteh_vs_junda_rank_scatter_trend.png"
+        plt.savefig(os.path.join(CORPUS_BASE, scatter_file_trend))
+        plt.close()
+
+        report_lines.append("\n## JunDa Rank vs Corpus Count (with trend line)\n")
+        report_lines.append(f"Spearman correlation coefficient ρ = {rho:.3f} (p = {pval:.3g})\n")
+        report_lines.append(f"![Scatter Plot with Trend]({scatter_file_trend})\n")
+else:
+    print(f"Warning: {JUNDA_ORDER_FILE} not found, skipping JunDa scatter plot.")
+
+# ---------------- Write report ----------------
 with open(os.path.join(CORPUS_BASE, REPORT_FILE), "w", encoding="utf-8") as f:
     f.write('\n'.join(report_lines))
 
 print(f"Markdown report generated: {REPORT_FILE}")
 print(f"Histogram plot saved as: {plot_file}")
+print(f"JunDa scatter plot saved as: {scatter_file_trend if x_vals else 'N/A'}")
 
