@@ -210,6 +210,17 @@ if os.path.exists(JUNDA_ORDER_FILE):
         report_lines.append("\n## JunDa Rank vs Corpus Count (with trend line)\n")
         report_lines.append(f"Spearman correlation coefficient ρ = {rho:.3f} (p = {pval:.3g})\n")
         report_lines.append(f"![Scatter Plot with Trend]({scatter_file_trend})\n")
+
+        for N in range(0, num_corpora+1):
+            chars_in_N = [ch for ch in mteh_chars if char_counts.get(ch,0) == N and ch in junda_rank]
+            if not chars_in_N:
+                continue
+            # Sort by JunDa rank (smaller rank = more frequent)
+            sorted_by_rank = sorted(chars_in_N, key=lambda ch: junda_rank[ch])
+            top3 = sorted_by_rank[:3]
+            bottom3 = sorted_by_rank[-3:]
+            report_lines.append(f"- Characters in {N} corpora ({len(chars_in_N)}): most frequent {''.join(top3)} least frequent {''.join(bottom3)}\n")
+
 else:
     print(f"Warning: {JUNDA_ORDER_FILE} not found, skipping JunDa scatter plot.")
 

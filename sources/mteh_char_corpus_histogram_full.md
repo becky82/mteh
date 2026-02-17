@@ -1,6 +1,6 @@
 # MteH Character Occurrence Histogram
 
-**Report generated on:** 2026-02-17 14:51:15; Python script written by ChatGPT (GPT-5-mini).
+**Report generated on:** 2026-02-17 15:03:34; Python script written by ChatGPT (GPT-5-mini).
 
 **Checking MteH snapshot:** `../versions/v0.1.3/mteh_v0.1.3.txt`
 
@@ -268,3 +268,69 @@ MteH characters that belong to exactly 1 corpora.
 Spearman correlation coefficient ρ = -0.907 (p = 0)
 
 ![Scatter Plot with Trend](mteh_vs_junda_rank_scatter_trend.png)
+
+- Characters in 0 corpora (3): most frequent 趔佝跽 least frequent 趔佝跽
+
+- Characters in 1 corpora (11): most frequent 柩狻噔 least frequent 膻蹰蜱
+
+- Characters in 2 corpora (27): most frequent 馕绺赳 least frequent 踟睚筲
+
+- Characters in 3 corpora (44): most frequent 氖簌橇 least frequent 镞秫揠
+
+- Characters in 4 corpora (63): most frequent 龋哝悻 least frequent 溏毽秕
+
+- Characters in 5 corpora (55): most frequent 倏拚腓 least frequent 焱痍骜
+
+- Characters in 6 corpora (83): most frequent 忖呃愫 least frequent 豉獒腩
+
+- Characters in 7 corpora (82): most frequent 饷舷狒 least frequent 麸荸糗
+
+- Characters in 8 corpora (116): most frequent 咯釉铀 least frequent 捌荠喱
+
+- Characters in 9 corpora (104): most frequent 瞥踱榻 least frequent 洱铆柒
+
+- Characters in 10 corpora (120): most frequent 陛鳍冢 least frequent 遨荞珈
+
+- Characters in 11 corpora (103): most frequent 璇怔剿 least frequent 馏泸茴
+
+- Characters in 12 corpora (118): most frequent 稣涅喀 least frequent 遛璀佰
+
+- Characters in 13 corpora (102): most frequent 圳诏绥 least frequent 濡靓煲
+
+- Characters in 14 corpora (119): most frequent 茨禧狄 least frequent 榛璨玖
+
+- Characters in 15 corpora (111): most frequent 乾嗯喃 least frequent 芷麒妍
+
+- Characters in 16 corpora (110): most frequent 弗陀陕 least frequent 酗柑壹
+
+- Characters in 17 corpora (118): most frequent 韦歼哩 least frequent 莞铛粽
+
+- Characters in 18 corpora (115): most frequent 柯猩俘 least frequent 彤糯茁
+
+- Characters in 19 corpora (112): most frequent 耶惟翰 least frequent 灸芋菠
+
+- Characters in 20 corpora (131): most frequent 艘娜嘛 least frequent 茉蜓柠
+
+- Characters in 21 corpora (144): most frequent 怎俄贸 least frequent 楷葵秤
+
+- Characters in 22 corpora (156): most frequent 您搞订 least frequent 馒榨缤
+
+- Characters in 23 corpora (156): most frequent 这些很 least frequent 薯稠蔼
+
+- Characters in 24 corpora (189): most frequent 她认件 least frequent 禾橘饺
+
+- Characters in 25 corpora (233): most frequent 着么该 least frequent 沛椒渣
+
+- Characters in 26 corpora (251): most frequent 们它此 least frequent 皂槐宵
+
+- Characters in 27 corpora (322): most frequent 了我你 least frequent 芽潭蕉
+
+- Characters in 28 corpora (328): most frequent 的个到 least frequent 兔蓬梨
+
+- Characters in 29 corpora (317): most frequent 是不在 least frequent 苹咸霜
+
+- Characters in 30 corpora (267): most frequent 一人有 least frequent 柴绳甜
+
+- Characters in 31 corpora (264): most frequent 中上大 least frequent 紫柱桃
+
+- Characters in 32 corpora (63): most frequent 地发里 least frequent 巧珠零
