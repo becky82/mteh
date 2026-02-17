@@ -1,7 +1,7 @@
 import os
 
 # CONFIG
-INPUT_FILE = "../versions/v0.1.2/mteh_v0.1.2.txt"
+INPUT_FILE = "../versions/v0.1.3/mteh_v0.1.3.txt"
 OUTPUT_DIR = "ai_batches"
 BATCH_SIZE = 100
 PLACEHOLDER = "＿"  # character to replace missing answer

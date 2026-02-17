@@ -1,0 +1,50 @@
+```
+以下是中文填空题，每个短语中有一个缺失的汉字，用 '＿' 表示。
+有时同一个汉字可能在短语中出现多次，会有多个空格，但每条题目只有一个目标汉字。
+频率最大值为 7000，数字越大表示越生僻。
+
+请根据上下文补全每条短语中的缺失部分（用 '＿' 表示的空格），生成完整短语。
+输出编号和对应短语，每行包含 10 条短语，总共 100 条，分 10 行，严格按照编号顺序。
+请将答案包在一个 Markdown 代码块中，用三条反引号开头和结尾，只输出代码块内容，不要添加解释或其他内容。
+```
+
+1. 一对＿角 (pinyin: lù, freq: 2056, HSK:+, struct:⿸)
+2. 神兽＿麟 (pinyin: qí, freq: 4703, HSK:n, struct:⿰)
+3. 山＿小丘 (pinyin: lù, freq: 3583, HSK:n, struct:⿱)
+4. 神兽麒＿ (pinyin: lín, freq: 2752, HSK:+, struct:⿰)
+5. 燕＿片 (pinyin: mài, freq: 1171, HSK:6, struct:⿱)
+6. 小麦＿皮 (pinyin: fū, freq: 5774, HSK:n, struct:⿰)
+7. ＿辣烫 (pinyin: má, freq: 1108, HSK:4, struct:⿸)
+8. ＿军前进 (pinyin: huī, freq: 4353, HSK:n, struct:⿸)
+9. ＿色香蕉 (pinyin: huáng, freq: 561, HSK:3, struct:⿳)
+10. 蜀＿高粱 (pinyin: shǔ, freq: 5081, HSK:n, struct:⿱)
+11. 法国巴＿ (pinyin: lí, freq: 1476, HSK:+, struct:⿱)
+12. ＿糊糊 (pinyin: nián, freq: 3645, HSK:+, struct:⿰)
+13. ＿白分明 (pinyin: hēi, freq: 519, HSK:2, struct:⿱)
+14. 贵州：＿ (pinyin: qián, freq: 3989, HSK:n, struct:⿰)
+15. ＿＿无语 (pinyin: mò, freq: 1031, HSK:4, struct:⿰)
+16. 林＿玉 (pinyin: Dài, freq: 2612, HSK:n, struct:⿱)
+17. 皮肤＿黑 (pinyin: yǒu, freq: 3518, HSK:n, struct:⿰)
+18. 狡＿一笑 (pinyin: xiá, freq: 4160, HSK:n, struct:⿰)
+19. ＿然失色 (pinyin: àn, freq: 2881, HSK:n, struct:⿰)
+20. 大名＿＿ (pinyin: dǐng, freq: 2356, HSK:+, struct:⿶)
+21. ＿起勇气 (pinyin: gǔ, freq: 1123, HSK:4, struct:⿰)
+22. ＿标点击 (pinyin: shǔ, freq: 1693, HSK:5, struct:⿱)
+23. 黑白臭＿ (pinyin: yòu, freq: 5410, HSK:n, struct:⿰)
+24. ＿鼠挖洞 (pinyin: yǎn, freq: 4932, HSK:n, struct:⿰)
+25. 擤＿涕 (pinyin: bí, freq: 1335, HSK:4, struct:⿱)
+26. ＿声如雷 (pinyin: hān, freq: 3822, HSK:n, struct:⿰)
+27. ＿心协力 (pinyin: qí, freq: 1063, HSK:5, struct:⿱)
+28. 唇亡＿寒 (pinyin: chǐ, freq: 1773, HSK:5, struct:⿱)
+29. ＿牙恒牙 (pinyin: chèn, freq: 5568, HSK:n, struct:⿰)
+30. 老＿化 (pinyin: líng, freq: 1510, HSK:4, struct:⿰)
+31. ＿牙突出 (pinyin: bāo, freq: 4662, HSK:n, struct:⿰)
+32. ＿牙咧嘴 (pinyin: zī, freq: 4525, HSK:n, struct:⿰)
+33. 牙＿出血 (pinyin: yín, freq: 3997, HSK:n, struct:⿰)
+34. 卑鄙龌＿ (pinyin: chuò, freq: 4430, HSK:n, struct:⿰)
+35. ＿齿蛀牙 (pinyin: qǔ, freq: 3496, HSK:n, struct:⿰)
+36. ＿龊细节 (pinyin: wò, freq: 4509, HSK:n, struct:⿰)
+37. 藏＿卧虎 (pinyin: lóng, freq: 696, HSK:5, struct:⿺)
+38. ＿琳娜 (pinyin: Gōng, freq: 3184, HSK:n, struct:⿱)
+39. 佛＿供奉 (pinyin: kān, freq: 4015, HSK:n, struct:⿳)
+40. 乌＿慢爬 (pinyin: guī, freq: 2392, HSK:6, struct:⿱)
