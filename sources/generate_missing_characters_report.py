@@ -38,6 +38,7 @@ CORPUS_FILES = [
     "SUBTLEX/SUBTLEX_chars_top4500_simplified_unicode_order.txt",
     "Tsai/Tsai_chars_top4500_simplified_unicode_order.txt",
     "Wikipedia/Wikipedia_chars_top4500_simplified_unicode_order.txt",
+    "ChineseSE/ChineseSE_chars_unicode_order.txt",
     "classical/classical_top2000_simplified_unicode_order.txt",
     "THUOCL/THUOCL_741docs_chars_unicode_order.txt",
     "Leeds/Leeds_30000words_chars_unicode_order.txt",
