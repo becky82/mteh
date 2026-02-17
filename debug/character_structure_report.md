@@ -1,10 +1,10 @@
 # MteH Character Structure Report
 
-Report generated on: 2026-02-17 13:01:08; Python script written by ChatGPT.
+Report generated on: 2026-02-17 13:02:08; Python script written by ChatGPT.
 
 Checking MteH: mteh.txt
 
-## [240] Character structure consistency
+## [237] Character structure consistency
 
 | Character | MteH | Make me a Hanzi | cjkvi-ids | Importance |
 |-----------|-----------------|-----------------|----------------|------------|
@@ -88,7 +88,6 @@ Checking MteH: mteh.txt
 | 学 | ⿱ [2] | ⿱ [2] | ⿳ [4] | ❗ |
 | 寡 | ⿱ [2] | ⿱ [2] | ⿳ [4] | ❗ |
 | 寨 | ⿱ [2] | ⿳ [4] | ⿱ [2] | ❗ |
-| 寰 | ⿳ [4] | ⿱ [2] | ⿱ [2] | ❗❗❗ |
 | 小 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 尚 | ⿵ [6] | ⿵ [6] | ⿱ [2] | ❗ |
 | 尤 | ⿺ [11] | ⿻ [12] | ⿺ [11] | ❗ |
@@ -124,7 +123,6 @@ Checking MteH: mteh.txt
 | 戴 | ⿹ [10] | ⿻ [12] | ⿹ [10] | ❗ |
 | 才 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 承 | ⿻ [12] | ⿻ [12] | None | ❗ |
-| 擀 | ⿲ [3] | ⿰ [1] | ⿰ [1] | ❗❗❗ |
 | 攸 | ⿲ [3] | ⿲ [3] | ⿰ [1] | ❗ |
 | 斗 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 斡 | ⿰ [1] | ⿸ [9] | ⿰ [1] | ❗ |
@@ -190,7 +188,6 @@ Checking MteH: mteh.txt
 | 禹 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 禺 | ⿱ [2] | ⿱ [2] | None | ❗ |
 | 立 | ⿳ [4] | ⿳ [4] | ⿱ [2] | ❗ |
-| 簪 | ⿳ [4] | ⿱ [2] | ⿱ [2] | ❗❗❗ |
 | 米 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 老 | ⿸ [9] | ⿱ [2] | ⿸ [9] | ❗ |
 | 而 | ⿱ [2] | None | ⿱ [2] | ❗ |
@@ -249,5 +246,5 @@ Checking MteH: mteh.txt
 | 黎 | ⿱ [2] | ⿰ [1] | ⿱ [2] | ❗ |
 | 齿 | ⿱ [2] | ⿱ [2] | None | ❗ |
 
-**Consistent characters:** 4298
-**Inconsistent characters:** 240
+**Consistent characters:** 4301
+**Inconsistent characters:** 237
