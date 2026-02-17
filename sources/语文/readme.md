@@ -1,0 +1,1 @@
+The pdfs are the original Chinese government Ministry of Education 语文 (literature) character lists sourced from: [2011](http://www.moe.gov.cn/srcsite/A26/s8001/201112/t20111228_167340.html), and [2022](http://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html).
