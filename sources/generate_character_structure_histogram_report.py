@@ -11,7 +11,7 @@ from datetime import datetime
 import os
 
 # --- Configuration ---
-mteh_file = '../mteh.txt'
+mteh_file = '../versions/v0.1.3/mteh_v0.1.3.txt'
 report_md = 'character_structure_histogram_report.md'
 output_dir = os.getcwd()  # save images in current directory
 
