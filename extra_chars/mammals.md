@@ -1,6 +1,6 @@
 # Characters/words for mammals
 
-The goal here is to survey Chinese characters used in words for mammals.  We can skip 人, 马, etc., which the advanced student already know, and include rarer ones which may arise.
+The goal here is to survey Chinese characters used in words for mammals.  We can skip 人, 马, 狗, 猫, etc., which the advanced student already know, and include rarer ones which may arise.
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
