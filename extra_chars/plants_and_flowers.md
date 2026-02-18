@@ -2,7 +2,7 @@
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
-| 兰 | 兰花 | lánhuā | orchid | ![兰花](./plants/兰花.jpg) | Symbol of elegance and refinement; 兰 is rare outside botanical/literary use; common in classical poetry. | [Pexels](https://www.pexels.com/photo/white-petaled-flowers-2291811/) |
+| 兰 | 兰花 | lánhuā | orchid | ![兰花](./plants/兰花.jpg) | | [Pexels](https://www.pexels.com/photo/white-petaled-flowers-2291811/) |
 | 昙 | 昙花 | tánhuā | night-blooming cereus | ![昙花](./plants/昙花.jpg) | nocturnal cactus flower | [Wikimedia](https://zh.wikipedia.org/wiki/File:3_blooms_of_Epiphyllum_oxypetalum.jpg) |
 | 牡, 丹 | 牡丹花 | mǔdānhuā | tree peony | ![牡丹花](./plants/牡丹花.jpg) | national flower of China | [Wikimedia](https://zh.wikipedia.org/wiki/File:Paeonia_suffruticosa01_2048.jpg) |
 | 芍 | 芍药 | sháoyào | Chinese peony   | ![芍药](./plants/芍药.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lactiflora1b.UME.jpg) |
