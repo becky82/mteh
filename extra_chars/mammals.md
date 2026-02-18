@@ -1,0 +1,7 @@
+# Characters/words using or related to mammals
+
+| chars | word | pinyin | English | image | comments | image source |
+|--------|------|--------|----------|--------|-----------|--------------|
+| 獾 | 獾 | huān | badger | ![獾](./哺乳动物/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
+| 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./哺乳动物/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
+| 麝 | 麝 | shè | musk deer | ![麝](./哺乳动物/麝.jpg) | Appears in 麝香 "musk" (fragrance) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Musk_deer_in_Edinburgh_Zoo.jpg) |
