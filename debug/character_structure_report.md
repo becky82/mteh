@@ -1,10 +1,10 @@
 # MteH Character Structure Report
 
-Report generated on: 2026-02-17 13:02:08; Python script written by ChatGPT.
+Report generated on: 2026-02-20 06:38:41; Python script written by ChatGPT.
 
 Checking MteH: mteh.txt
 
-## [237] Character structure consistency
+## [238] Character structure consistency
 
 | Character | MteH | Make me a Hanzi | cjkvi-ids | Importance |
 |-----------|-----------------|-----------------|----------------|------------|
@@ -188,6 +188,7 @@ Checking MteH: mteh.txt
 | 禹 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 禺 | ⿱ [2] | ⿱ [2] | None | ❗ |
 | 立 | ⿳ [4] | ⿳ [4] | ⿱ [2] | ❗ |
+| 篾 | ⿱ [2] | ⿱ [2] | ⿳ [4] | ❗ |
 | 米 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 老 | ⿸ [9] | ⿱ [2] | ⿸ [9] | ❗ |
 | 而 | ⿱ [2] | None | ⿱ [2] | ❗ |
@@ -246,5 +247,5 @@ Checking MteH: mteh.txt
 | 黎 | ⿱ [2] | ⿰ [1] | ⿱ [2] | ❗ |
 | 齿 | ⿱ [2] | ⿱ [2] | None | ❗ |
 
-**Consistent characters:** 4301
-**Inconsistent characters:** 237
+**Consistent characters:** 4308
+**Inconsistent characters:** 238
