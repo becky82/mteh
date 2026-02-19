@@ -12,6 +12,10 @@ Some topics deserve their own page:
 
 - Some characters with specific components are fairly regular: [虫](虫.md) (insects and "lower life forms"), [鱼](鱼.md) (fish and other aquatic animals), [鸟](鸟.md) (birds), [木](木.md) (trees and woods).
 
+- Characters relating to [mammals](./mammals.md), [plants and flowers](./plants_and_flowers.md), [musical instruments](./music.md).  [in progress]
+
+- Characters in names: [historical](./historical_names.md), [given](./given_names.md), [family](./family_names.md).  [in progress]
+
 - There are some rare characters that you might see [in the wild](in_the_wild.md).
 
 ## Pronouns
