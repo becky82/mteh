@@ -11,7 +11,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 匡, 胤 | 赵匡胤 | Zhào Kuāngyìn | ![赵匡胤](./names/赵匡胤.png) | Founder of Song dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
 | 奘 | 玄奘 | Xuánzàng | ![玄奘](./names/玄奘.jpg) | Tang dynasty monk | [Wikimedia](https://zh.wikipedia.org/wiki/File:Xuanzang_w.jpg) |
 | 妲 | 妲己 | Dájǐ | ![妲己](./names/妲己.jpg) | favourite consort of 商纣王 King Zhou of Shang | [Wikimedia](https://zh-classical.wikipedia.org/wiki/%E6%AA%94%E6%A1%88:Ping_Sien_Si_-_026_Daji_(16133466711).jpg) |
-| 棠 | 左宗棠 | Zuǒ Zōngtáng | ![左宗棠](./names/左宗棠.jpg) | Qing dynasty general; "General Tso" | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg) |
+| 棠 | 左宗棠 | Zuǒ Zōngtáng | ![左宗棠](./names/左宗棠.jpg) | Qing dynasty general; used in 左宗棠鸡 "General Tso's chicken" | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg) |
 | 棣 | 朱棣 | Zhū Dì | ![朱棣](./names/朱棣.jpg) | Ming emperor 永乐 Yongle | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E5%AE%97%E6%96%87%E7%9A%87%E5%B8%9D.jpg) |
 | 洵 | 苏洵 | Sū Xún | ![苏洵](./names/苏洵.jpg) | Song dynasty scholar, father of 苏轼 Su Shi and 苏辙 Su Zhe | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%A4%AA%E5%B8%B8%E7%BC%96%E6%A0%A1%E8%8B%8F%E6%B4%B5.jpg) |
 | 炀 | 隋炀帝 | Suí Yáng Dì | [TO-DO] | [TO-DO] | [TO-DO] |
