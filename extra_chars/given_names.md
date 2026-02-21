@@ -22,9 +22,13 @@ These characters appear often in given names in Chinese (in Chinese names and/or
 | 梓 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 烨 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 煜 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
+| 玑 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
+| 珂 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 珊 | ![林珊](./names/林姗.png) 林珊 Lín Shān | ![苏珊·博伊尔](./names/苏珊·博伊尔.jpg) 苏珊·博伊尔<br>Sūshān Bóyīěr<br>(Susan Boyle) | ![张珊](./names/张珊.png) 张珊 Zhāng Shān | [Baidu Baike](https://baike.baidu.com/item/%E6%9E%97%E5%A7%97/2319259); [Wikimedia](https://commons.wikimedia.org/wiki/File:Susan_Boyle_Nov_2009.jpg); [Baidu Baike](https://baike.baidu.com/item/%E5%BC%A0%E7%8F%8A/67095448) |
+| 琛 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 琦 | ![周琦](./names/周琦.png) 周琦 Zhōu Qí | ![宋雨琦](./names/宋雨琦.jpg) 宋雨琦 Sòng Yǔqí | ![吴琦](./names/吴琦.png) 吴琦 Wú Qí | [Wikipedia](https://zh.wikipedia.org/wiki/%E5%91%A8%E7%90%A6); [Wikimedia](https://commons.wikimedia.org/wiki/File:6%EC%9B%94_2%EC%9D%BC_(%EC%97%AC%EC%9E%90)%EC%95%84%EC%9D%B4%EB%93%A4_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_(6).jpg); [Baidu Baike](https://baike.baidu.com/item/%E5%90%B4%E7%90%A6/13034434) |
 | 琪 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
+| 瑛 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 瑶 | ![童瑶](./names/童瑶.jpg) 童瑶 Tóng Yáo | ![王伊瑶](./names/王伊瑶.png) 王伊瑶 Wáng Yīyáo | ![郭书瑶](./names/郭书瑶.jpg) 郭书瑶 Guō Shūyáo | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tong_Yao_(%E7%AB%A5%E7%91%B6)_at_the_25th_Shanghai_Television_Festival_-_Magnolia_Awards_in_June_2019.jpg); [Baidu Baike](https://baike.baidu.com/item/%E7%8E%8B%E4%BC%8A%E7%91%B6/61453309); [Wikimedia](https://zh.wikipedia.org/wiki/File:Kuo_Shu-yau_2023.jpg) |
 | 璇 | ![周璇](./names/周璇.jpg) 周璇 Zhōu Xuán | ![董璇](./names/董璇.png) 董璇 Dǒng Xuán | ![刘璇](./names/刘璇.png) 刘璇 Liú Xuán | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhou_Xuan3.jpg); [Baidu Baike](https://baike.baidu.com/item/%E8%91%A3%E7%92%87/364782); [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E7%92%87/6098) |
 | 璐 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
@@ -37,5 +41,6 @@ These characters appear often in given names in Chinese (in Chinese names and/or
 | 雯 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 骁 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 骊 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
+| 骥 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 
 The copyrighted images above have been reduced in quality from their originals, and are used under "fair use" for educational purposes (much like how Baidu Image Search or Google Image Search uses copyrighted images).  The author is not an international copyright lawyer, so if a mistake has been made, please [raise an issue](https://github.com/becky82/mteh/issues) so it can be corrected.
