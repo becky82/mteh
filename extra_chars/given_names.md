@@ -33,7 +33,9 @@ These characters appear often in given names in Chinese (in Chinese names and/or
 | 芷 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 轩 | ![黄轩](./names/黄轩.jpg) 黄轩 Huáng Xuān | ![张轩睿](./names/张轩睿.jpg) 张轩睿 Zhāng Xuānruì | ![王轩](./names/王轩.png) 王轩 Wáng Xuān | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7_%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C_(2).jpg); [Wikimedia](https://commons.wikimedia.org/wiki/File:Derek_Chang_%E5%BC%B5%E8%BB%92%E7%9D%BF_-_Live_interview_after_the_premiere_of_TV_series_%22Yong-Jiu_Grocery_Store%22_on_August_15,_2019.jpg); [Baidu Baike](https://baike.baidu.com/item/%E7%8E%8B%E8%BD%A9/23480901) |
 | 鑫 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
+| 钊 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 雯 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 骁 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
+| 骊 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 
 The copyrighted images above have been reduced in quality from their originals, and are used under "fair use" for educational purposes (much like how Baidu Image Search or Google Image Search uses copyrighted images).  The author is not an international copyright lawyer, so if a mistake has been made, please [raise an issue](https://github.com/becky82/mteh/issues) so it can be corrected.
