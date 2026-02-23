@@ -14,7 +14,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 棠 | 左宗棠 | Zuǒ Zōngtáng | ![左宗棠](./names/左宗棠.jpg) | Qing dynasty general; used in 左宗棠鸡 "General Tso's chicken" | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg) |
 | 棣 | 朱棣 | Zhū Dì | ![朱棣](./names/朱棣.jpg) | Ming emperor 永乐 Yongle | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E5%AE%97%E6%96%87%E7%9A%87%E5%B8%9D.jpg) |
 | 洵 | 苏洵 | Sū Xún | ![苏洵](./names/苏洵.jpg) | Song dynasty scholar, father of 苏轼 Su Shi and 苏辙 Su Zhe | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%A4%AA%E5%B8%B8%E7%BC%96%E6%A0%A1%E8%8B%8F%E6%B4%B5.jpg) |
-| 炀 | 隋炀帝 | Suí Yáng Dì | [TO-DO] | [TO-DO] | [TO-DO] |
+| 炀 | 隋炀帝 | Suí Yáng Dì | ![隋炀帝](./names/隋炀帝.jpg) | Emperor Yang of Sui; 杨广 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Sui_Yangdi_Tang.jpg) |
 | 熙 | 康熙 | Kāngxī | ![康熙](./names/康熙.jpg) | Qing emperor; known for e.g. Kangxi dictionary 《康熙字典》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Portrait_of_the_Kangxi_Emperor_in_Court_Dress.jpg) |
 | 熹 | 朱熹 | Zhū Xī | ![朱熹](./names/朱熹.jpg) | Song dynasty Neo-Confucian philosopher | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhu_Xi.jpg) |
 | 瑜 | 周瑜 | Zhōu Yú | ![周瑜](./names/周瑜.jpg) | Eastern Wu general, strategist in Three Kingdoms period | [Wikimedia](https://commons.wikimedia.org/wiki/File:DSC_0365_(44986130604).jpg) |
