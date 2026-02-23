@@ -32,6 +32,6 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 轼 | 苏轼 | Sū Shì | ![苏轼](./names/苏轼.jpg) | Song dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Su_shi.jpg) |
 | 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
 | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
-| 郃 | 张郃 | Zhāng Hé | [TO-DO] | [TO-DO] | [TO-DO] |
+| 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
 
 
