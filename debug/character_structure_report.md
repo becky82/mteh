@@ -1,6 +1,6 @@
 # MteH Character Structure Report
 
-Report generated on: 2026-02-20 06:38:41; Python script written by ChatGPT.
+Report generated on: 2026-03-05 13:14:34; Python script written by ChatGPT.
 
 Checking MteH: mteh.txt
 
@@ -40,7 +40,7 @@ Checking MteH: mteh.txt
 | 亮 | ⿳ [4] | ⿳ [4] | ⿱ [2] | ❗ |
 | 亵 | ⿳ [4] | ⿴ [5] | ⿳ [4] | ❗ |
 | 以 | ⿰ [1] | ⿰ [1] | None | ❗ |
-| 修 | ⿱ [2] | ⿱ [2] | ⿰ [1] | ❗ |
+| 修 | ⿰ [1] | ⿱ [2] | ⿰ [1] | ❗ |
 | 倏 | ⿸ [9] | ⿸ [9] | ⿰ [1] | ❗ |
 | 兆 | ⿻ [12] | ⿻ [12] | None | ❗ |
 | 兔 | ⿷ [8] | ⿸ [9] | ⿷ [8] | ❗ |
