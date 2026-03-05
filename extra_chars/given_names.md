@@ -45,5 +45,4 @@ These characters appear often in given names in Chinese (in Chinese names and/or
 | 骊 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 骥 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 
-
 The copyrighted images above have been reduced in quality from their originals, and are used under "fair use" for educational purposes (much like how Baidu Image Search or Google Image Search uses copyrighted images).  The author is not an international copyright lawyer, so if a mistake has been made, please [raise an issue](https://github.com/becky82/mteh/issues) so it can be corrected.
