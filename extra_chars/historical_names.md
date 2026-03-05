@@ -24,6 +24,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 禧 | 慈禧 | Cíxǐ | ![慈禧](./names/慈禧.jpg) | Qing dynasty empress dowager | [Wikimedia](https://commons.wikimedia.org/wiki/File:Empress_Dowager_Cixi_(c._1890,_small_version)_-_02.jpg) |
 | 纣 | 商纣王 | Shāng Zhòu Wáng | ![商纣王](./names/商纣王.jpg) | tyrannical Shang dynasty king | [Wikimedia](https://commons.wikimedia.org/wiki/File:King_Zhou_of_Shng_Dynasty.jpg) |
 | 羲 | 王羲之 | Wáng Xīzhī | ![王羲之](./names/王羲之.jpg) | Jin dynasty calligrapher, known as 书圣 "Sage of Calligraphy" | [Wikimedia](https://en.wikipedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg) |
+| 羿 | 后羿 | Hòuyì | ![后羿](./names/后羿.png) | mythological archer; wife is 嫦娥; known for shooting down 9 of 10 suns 后羿射日 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif) |
 | 荀 | 荀子 | Xún Zǐ | ![荀子](./names/荀子.jpg) | Warring States Confucian philosopher; author of 《荀子》 | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%88%98%E5%9B%BD%E6%97%B6%E6%A5%9A%E5%85%B0%E9%99%B5%E4%BB%A4%E8%8D%80%E5%86%B5.jpg) |
 | 菩 | 观音菩萨 | Guānyīn Púsà | ![观音菩萨](./names/观音菩萨.jpeg) | the 菩萨 Bodhisattva of compassion in Buddhism | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thousand_Armed_Avalokitesvara_-_Guanyin_Nunnery_-_2.jpeg) |
 | 葛 | 诸葛亮 | Zhūgě Liàng | ![诸葛亮](./names/诸葛亮.jpg) | Shu 蜀 strategist during the Three Kingdoms, famed for wisdom; 诸葛 is a two-character surname | [Wikimedia](https://commons.wikimedia.org/wiki/File:Kongming_Leaving_the_Mountains_(cropped).jpg) |
