@@ -8,7 +8,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 佗 | 华佗 | Huà Tuó | ![华佗](./names/华佗.jpg) | Han dynasty physician | [Wikimedia](https://commons.wikimedia.org/wiki/File:HuaTuo.jpg) |
 | 僧 | 唐僧 | Tángsēng | ![唐僧](./names/唐僧.png) | Buddhist monk Tripitaka in novel "Journey to the West" 《西游记》, based on historical 玄奘 | [Wikimedia](https://en.wikipedia.org/wiki/File:JourneytotheWest.jpg) |
 | 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.png) | Southern Qi / Liang dynasty monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
-| 匡 | 匡衡 | Kuāng Héng | ![匡衡](./names/匡衡.jpg) | Known for the chengyu [凿壁偷光](https://laowaichengyuguide.com/entry/%E5%87%BF%E5%A3%81%E5%81%B7%E5%85%89) [Wikimedia](https://commons.wikimedia.org/wiki/File:2017-04-20_Shouguang_Vegetable_SciTech_Fair_3.038_anagoria.jpg) |
+| 匡 | 匡衡 | Kuāng Héng | ![匡衡](./names/匡衡.jpg) | Known for the chengyu [凿壁偷光](https://laowaichengyuguide.com/entry/%E5%87%BF%E5%A3%81%E5%81%B7%E5%85%89) | [Wikimedia](https://commons.wikimedia.org/wiki/File:2017-04-20_Shouguang_Vegetable_SciTech_Fair_3.038_anagoria.jpg) |
 | 匡, 胤 | 赵匡胤 | Zhào Kuāngyìn | ![赵匡胤](./names/赵匡胤.png) | Founder of Song dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
 | 奘 | 玄奘 | Xuánzàng | ![玄奘](./names/玄奘.jpg) | Tang dynasty monk | [Wikimedia](https://zh.wikipedia.org/wiki/File:Xuanzang_w.jpg) |
 | 妲 | 妲己 | Dájǐ | ![妲己](./names/妲己.jpg) | favourite consort of 商纣王 King Zhou of Shang | [Wikimedia](https://zh-classical.wikipedia.org/wiki/%E6%AA%94%E6%A1%88:Ping_Sien_Si_-_026_Daji_(16133466711).jpg) |
