@@ -12,7 +12,7 @@ Also note that both the 2.0 and 3.0[2025] syllabuses are both called the "new HS
 
 It seems Hanban are silently changing the official 3.0 syllabus pdf:
 
-- The version `新版HSK考试大纲（词汇、汉字、语法）.pdf` (December 2026) has the metadata:
+- The version `新版HSK考试大纲（词汇、汉字、语法）.pdf` (December 2025) has the metadata:
 
       CreationDate:    Wed Dec 17 13:53:42 2025 CST
       ModDate:         Thu Dec 18 15:05:01 2025 CST
