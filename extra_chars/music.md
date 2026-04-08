@@ -24,7 +24,7 @@
 | 琴 | 电子琴 | diànzǐqín | keyboard | [TO-DO] | | [TO-DO] |
 | 琴 | 钟琴 | zhōngqín | glockenspiel | [TO-DO] | | [TO-DO] |
 | 琴 | 钢琴 | gāngqín | piano | [TO-DO] | | [TO-DO] |
-| 琴; 阮  | 阮琴 | ruǎnqín | ruan | ![阮琴](./music/阮琴.jpg) | 4-stringed round-bodied lute | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E9%98%AE_Ruan_%D0%96%D1%83%D0%B0%D0%BD%D1%8C_(7851401654).jpg) |
+| 琴; 阮  | 阮琴; 中阮 | ruǎnqín; zhōngruǎn | ruan | ![阮琴](./music/阮琴.jpg) | 4-stringed round-bodied lute | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E9%98%AE_Ruan_%D0%96%D1%83%D0%B0%D0%BD%D1%8C_(7851401654).jpg) |
 | 琵; 琶 | 琵琶 | pípa | pipa; Chinese lute | ![琵琶](./music/琵琶.jpg) | | [Pexels](https://www.pexels.com/photo/elegant-woman-playing-pipa-in-traditional-attire-33667340/) |
 | 磬 | 编磬 | biānqìng | set of chime stones | [TO-DO] | | [TO-DO] |
 | 笙 | 笙 | shēng | sheng | ![笙](./music/笙.jpg) | Chinese free-reed mouth organ; multiple bamboo pipes | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%AC%99_Sheng_%D0%A8%D1%8D%D0%BD_(7851401076).jpg) |
