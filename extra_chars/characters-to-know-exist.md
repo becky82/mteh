@@ -115,7 +115,7 @@ which looks like someone miswrote 玉 (yù) jade.
 
 ## Bopomofo/Zhuyin
 
-Instead of pinyin, another pronunciation system is Zhuyin (注音), aka [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo), which has its own characters (enjoy the [Bopomofo song](https://www.youtube.com/watch?v=nKmwhmI0mBE)):
+Instead of pinyin, another pronunciation notation system is Zhuyin (注音), aka [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo), which has its own characters (enjoy the [Bopomofo song](https://www.youtube.com/watch?v=nKmwhmI0mBE)):
 
 > ㄅ (b) ㄆ (p) ㄇ (m) ㄈ (f) ㄉ (d) ㄊ (t) ㄋ (n) ㄌ (l)  
 > ㄍ (g) ㄎ (k) ㄏ (h) ㄐ (j) ㄑ (q) ㄒ (x)  
