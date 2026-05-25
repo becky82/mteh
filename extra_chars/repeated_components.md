@@ -26,8 +26,8 @@ Many of these are most often used as decorations, e.g., in usernames, rather tha
 | 又 | 双 | 㕛 | 叒 | 叕 |  |
 | 口 | 吅 | 吕 | 品 | 㗊 | 回 |
 | 可 | 𠾳 | 哥 |  |  |  |
-| 吉 |  | 𡔯 | 嚞 |  |  |
 | 吉 | 喆 |  |  |  |  |
+| 吉 |  | 𡔯 | 嚞 |  |  |
 | 呆 | 槑 |  |  |  |  |
 | 喜 | 囍 |  |  |  |  |
 | 因 |  |  | 𡈲 | U+ECD5 |  |
@@ -65,6 +65,7 @@ Many of these are most often used as decorations, e.g., in usernames, rather tha
 | 瓜 | 玨 |  |  |  |  |
 | 生 | 甡 |  |  |  |  |
 | 田 |  | 畕 | 畾 | 𤳳 |  |
+| 男 | 𤲶 |  | 𪟧 |  |  |
 | 白 | 㿟 |  | 皛 |  |  |
 | 百 | 皕 |  | 𤾩 |  |  |
 | 目 |  |  | 瞐 |  |  |
@@ -74,6 +75,7 @@ Many of these are most often used as decorations, e.g., in usernames, rather tha
 | 禾 | 秝 |  |  |  |  |
 | 立 | 竝 |  |  |  |  |
 | 竞 | 競 |  |  |  |  |
+| 竟 | 竸 |  |  |  |  |
 | 竹 |  |  | 𥴒 | 𥷹 |  |
 | 羊 |  | 𫅓 | 羴 |  |  |
 | 耳 | 聑 |  | 聶 |  |  |
@@ -93,7 +95,6 @@ Many of these are most often used as decorations, e.g., in usernames, rather tha
 | 金 | 鍂 |  | 鑫 | 𨰻 |  |
 | 隹 | 雔 |  | 雥 |  | 雦 |
 | 雷 |  |  | 靐 | 䨻 |  |
-| 竟 | 竸 |  |  |  |  |
 | 風 | 䬕 |  | 飍 | 𩙡 |  |
 | 风 |  |  | 𱃝 |  |  |
 | 飛 |  |  | 飝 |  |  |
