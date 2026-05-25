@@ -1,6 +1,6 @@
 # MteH Character Structure Report
 
-Report generated on: 2026-03-05 13:14:34; Python script written by ChatGPT.
+Report generated on: 2026-05-25 12:48:17; Python script written by ChatGPT.
 
 Checking MteH: mteh.txt
 
@@ -247,5 +247,5 @@ Checking MteH: mteh.txt
 | 黎 | ⿱ [2] | ⿰ [1] | ⿱ [2] | ❗ |
 | 齿 | ⿱ [2] | ⿱ [2] | None | ❗ |
 
-**Consistent characters:** 4308
+**Consistent characters:** 4311
 **Inconsistent characters:** 238

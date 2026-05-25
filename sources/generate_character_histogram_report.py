@@ -45,6 +45,7 @@ CORPUS_FILES = [
     "city-geo/city-geo_chars_unicode_order.txt",
     "company/wainshine_company_top_chars_unicode_order.txt",
     "med-orgs/wainshine_med-orgs_chars_unicode_order.txt",
+    "MCT/MCT_chars_unicode_order.txt",
     "chengyu_convention/chengyu_convention_chars.txt",
     "Xinhua/Xinhua_chars.txt"
 ]
