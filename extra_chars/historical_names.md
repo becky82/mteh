@@ -5,6 +5,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | chars | name | pinyin | image | description | image source |
 |-------|------|--------|-------|-------------|--------------|
 | 丕 | 曹丕 | Cáo Pī | ![曹丕](./names/曹丕.jpg) | 曹操's son and second emperor of 魏 Wei during the Three Kingdoms period | [Wikimedia](https://zh.wikipedia.org/wiki/%E6%9B%B9%E4%B8%95) |
+| 仝 | 卢仝 | Lú Tóng | ![卢仝](./names/卢仝.png) | Tang dynasty poet, known for Lu Tong's Seven Bowls of Tea 《七碗茶歌》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tang_dynasty_poet_Lu_Tong.jpg); margins adjusted using Pixelcut AI |
 | 佗 | 华佗 | Huà Tuó | ![华佗](./names/华佗.jpg) | Han dynasty physician | [Wikimedia](https://commons.wikimedia.org/wiki/File:HuaTuo.jpg) |
 | 僧 | 唐僧 | Tángsēng | ![唐僧](./names/唐僧.png) | Buddhist monk Tripitaka in novel "Journey to the West" 《西游记》, based on historical 玄奘 | [Wikimedia](https://en.wikipedia.org/wiki/File:JourneytotheWest.jpg) |
 | 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.png) | Southern Qi / Liang dynasty monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
