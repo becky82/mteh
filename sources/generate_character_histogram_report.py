@@ -46,6 +46,7 @@ CORPUS_FILES = [
     "company/wainshine_company_top_chars_unicode_order.txt",
     "med-orgs/wainshine_med-orgs_chars_unicode_order.txt",
     "MCT/MCT_chars_unicode_order.txt",
+    "BCT/BCT_chars_unicode_order.txt",
     "chengyu_convention/chengyu_convention_chars.txt",
     "Xinhua/Xinhua_chars.txt"
 ]
