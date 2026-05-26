@@ -14,6 +14,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 匡, 胤 | 赵匡胤 | Zhào Kuāngyìn | ![赵匡胤](./names/赵匡胤.png) | Founder of Song dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
 | 奘 | 玄奘 | Xuánzàng | ![玄奘](./names/玄奘.jpg) | Tang dynasty monk | [Wikimedia](https://zh.wikipedia.org/wiki/File:Xuanzang_w.jpg) |
 | 妲 | 妲己 | Dájǐ | ![妲己](./names/妲己.jpg) | favourite consort of 商纣王 King Zhou of Shang | [Wikimedia](https://zh-classical.wikipedia.org/wiki/%E6%AA%94%E6%A1%88:Ping_Sien_Si_-_026_Daji_(16133466711).jpg) |
+| 嬴 | 嬴政 | Yíng Zhèng | ![嬴政](./names/嬴政.png) | personal name of 秦始皇, the first emperor of a unified China | [Wikimedia](https://commons.wikimedia.org/wiki/File:Qin_Shi_Huang_statue.jpg) |
 | 晁 | 晁补之 | Cháo Bǔzhī | ![晁补之](./names/晁补之.png) | Northern Song dynasty poet; one of the four 苏门四学士 who studied under 苏轼 | [Wikimedia](https://zh.wikipedia.org/wiki/%E6%99%81%E8%A1%A5%E4%B9%8B#/media/File:%E6%99%81%E8%A3%9C%E4%B9%8B.jpg) |
 | 棠 | 左宗棠 | Zuǒ Zōngtáng | ![左宗棠](./names/左宗棠.jpg) | Qing dynasty general; used in 左宗棠鸡 "General Tso's chicken" | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg) |
 | 棣 | 朱棣 | Zhū Dì | ![朱棣](./names/朱棣.jpg) | Ming emperor 永乐 Yongle | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E5%AE%97%E6%96%87%E7%9A%87%E5%B8%9D.jpg) |
@@ -38,5 +39,4 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
 | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
 | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
-
 
