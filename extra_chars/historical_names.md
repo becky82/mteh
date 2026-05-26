@@ -9,6 +9,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 佗 | 华佗 | Huà Tuó | ![华佗](./names/华佗.jpg) | Han dynasty physician | [Wikimedia](https://commons.wikimedia.org/wiki/File:HuaTuo.jpg) |
 | 僧 | 唐僧 | Tángsēng | ![唐僧](./names/唐僧.png) | Buddhist monk Tripitaka in novel "Journey to the West" 《西游记》, based on historical 玄奘 | [Wikimedia](https://en.wikipedia.org/wiki/File:JourneytotheWest.jpg) |
 | 勰 | 刘勰 | Liú Xié | ![刘勰](./names/刘勰.png) | Southern Qi / Liang dynasty monk; author of 《文心雕龙》 | [Baidu Baike](https://baike.baidu.com/item/%E5%88%98%E5%8B%B0/197270) |
+| 勰 | 贾思勰 | Jiǎ Sīxié |![贾思勰](./names/贾思勰.jpg) | Northern Wei agricultural scientist; author of 《齐民要术》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E8%B4%BE%E6%80%9D%E5%8B%B0%E5%83%8F.jpg) |
 | 匡 | 匡衡 | Kuāng Héng | ![匡衡](./names/匡衡.jpg) | Known for the chengyu [凿壁偷光](https://laowaichengyuguide.com/entry/%E5%87%BF%E5%A3%81%E5%81%B7%E5%85%89) | [Wikimedia](https://commons.wikimedia.org/wiki/File:2017-04-20_Shouguang_Vegetable_SciTech_Fair_3.038_anagoria.jpg) |
 | 匡, 胤 | 赵匡胤 | Zhào Kuāngyìn | ![赵匡胤](./names/赵匡胤.png) | Founder of Song dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
 | 奘 | 玄奘 | Xuánzàng | ![玄奘](./names/玄奘.jpg) | Tang dynasty monk | [Wikimedia](https://zh.wikipedia.org/wiki/File:Xuanzang_w.jpg) |
@@ -37,4 +38,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
 | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
 | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
+
 
