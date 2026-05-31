@@ -33,7 +33,7 @@ Chinese provinces and other administrative divisions are assigned single-charact
 | 青       | Qīng   | 青海     | ![青](./license_plates/青.jpg) | original photo |
 | 黑       | Hēi    | 黑龙江   | ![黑](./license_plates/黑.jpg) | original photo |
 | 鄂       | È      | 湖北     | ![鄂](./license_plates/鄂.jpg) | original photo |
-| 贵       | Guì    | 贵州     | ![贵](./license_plates/贵.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:F_RCFD-GZ-Qiandongnan-Leishan-Xijiang_SG_%E8%B4%B5H39936_front.jpg) |
+| 贵       | Guì    | 贵州     | ![贵](./license_plates/贵.jpg) | original photo |
 | 藏       | Zàng   | 西藏     | ![藏](./license_plates/藏.jpg) | original photo |
 
 These regions don't follow the same format as mainland China:
