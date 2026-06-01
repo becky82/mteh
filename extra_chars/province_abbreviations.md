@@ -27,7 +27,7 @@ Chinese provinces and other administrative divisions are assigned single-charact
 | 渝       | Yú     | 重庆     | ![渝](./license_plates/渝.jpg) | original photo |
 | 琼       | Qióng  | 海南     | ![琼](./license_plates/琼.jpg) | original photo |
 | 粤       | Yuè    | 广东     | ![粤](./license_plates/粤.jpg) | original photo |
-| 蒙       | Méng   | 内蒙古   | ![蒙](./license_plates/蒙.jpg) | original photo |
+| 蒙       | Měng   | 内蒙古   | ![蒙](./license_plates/蒙.jpg) | original photo |
 | 赣       | Gàn    | 江西     | ![赣](./license_plates/赣.jpg) | original photo |
 | 闽       | Mǐn    | 福建     | ![闽](./license_plates/闽.jpg) | original photo |
 | 青       | Qīng   | 青海     | ![青](./license_plates/青.jpg) | original photo |
