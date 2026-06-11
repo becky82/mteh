@@ -7,7 +7,7 @@
 | | 二胡 | èrhú | erhu | ![二胡](./music/二胡.jpg) | bowed two-string fiddle | [Wikimedia](https://commons.wikimedia.org/wiki/File:La_Nau_Universitat_de_Val%C3%A8ncia_-_Erhu.jpg) |
 | 号 | 大号 | dàhào | tuba | [TO-DO] | | [TO-DO] |
 | 号 | 小号 | xiǎohào | trumpet | [TO-DO] | | [TO-DO] |
-| 号 | 法国号 | shuānghuángguǎn | French horn | [TO-DO] | | [TO-DO] |
+| 号 | 法国号 | shuānghuánghào | French horn | [TO-DO] | | [TO-DO] |
 | 号 | 长号 | chánghào | trombone   | [TO-DO] | | [TO-DO] |
 | | 吉他 | jíta | guitar | [TO-DO] | | [TO-DO] |
 | 唢; 呐 | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | loud double-reed woodwind horn; used at weddings, funerals, festivals | [Wikimedia](https://commons.wikimedia.org/wiki/File:Suona_xinesa.jpg); contrast improved with [Gemini AI](https://gemini.google.com/share/0f897c0271da) |
