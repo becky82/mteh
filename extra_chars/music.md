@@ -2,7 +2,7 @@
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
-| | 三弦 | sānxián | sanxian | [TO-DO] | family of 3-stringed plucked musical instruments | [TO-DO] |
+| | 三弦 | sānxián | sanxian | ![三弦](./music/三弦.jpg) | family of 3-stringed plucked musical instruments | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chanzy_performance.jpg) |
 | | 三角铁 | sānjiǎotiě | triangle | ![三角铁](./music/三角铁.jpg) | | [Pexels](https://www.pexels.com/photo/man-in-gray-shirt-holding-a-musical-instrument-7285257/) |
 | | 二胡 | èrhú | erhu | ![二胡](./music/二胡.jpg) | bowed two-string fiddle | [Wikimedia](https://commons.wikimedia.org/wiki/File:La_Nau_Universitat_de_Val%C3%A8ncia_-_Erhu.jpg) |
 | 号 | 大号 | dàhào | tuba | ![大号](./music/大号.jpg) | | [Pexels](https://www.pexels.com/photo/men-playing-trombones-19953443/) |
