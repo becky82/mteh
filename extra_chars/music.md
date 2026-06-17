@@ -44,5 +44,5 @@
 | 锣 | 锣 | luó | gong | ![锣](./music/锣.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_Gong_-_Chengu,_Sichuan,_China_-_Collected_in_2003.jpg) |
 | 鼓 | 定音鼓 | dìngyīngǔ | timpani | [TO-DO] | | [TO-DO] |
 | 鼓 | 架子鼓 | jiàzigǔ | drum kit | ![架子鼓](./music/架子鼓.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-drums-7802342/) |
-| 鼓 | 鼓 | gǔ | drum | [TO-DO] | | [TO-DO] |
+| 鼓 | 大鼓 | dàgǔ | bass drum | ![大鼓](./music/大鼓.jpg) | | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
 
