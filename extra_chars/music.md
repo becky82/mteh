@@ -42,8 +42,10 @@
 | 铃 | 铃 | líng | bell | [TO-DO] | | [TO-DO] |
 | 铙 | 铙 | náo | [TO-DO] | [TO-DO] | | [TO-DO] |
 | 锣 | 锣 | luó | gong | ![锣](./music/锣.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_Gong_-_Chengu,_Sichuan,_China_-_Collected_in_2003.jpg) |
+| 鼓 | 堂鼓 | tánggǔ | ceremonial hall drum | ![堂鼓](./music/堂鼓.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:T%C3%A1ngg%C7%94_(%E5%A0%82%E9%BC%93)_MET_DP219344.jpg) |
+| 鼓 | 大鼓 | dàgǔ | bass drum | ![大鼓](./music/大鼓.jpg) | | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
 | 鼓 | 定音鼓 | dìngyīngǔ | timpani | ![定音鼓](./music/定音鼓.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Timpani,_I_Solisti_Veneti,_La_tromba,_regina_degli_ottoni_27_sett_2022_(Chesa_della_Rotonda,_Rovigo)_01.jpg) |
 | 鼓 | 架子鼓 | jiàzigǔ | drum kit | ![架子鼓](./music/架子鼓.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-drums-7802342/) |
-| 鼓 | 大鼓 | dàgǔ | bass drum | ![大鼓](./music/大鼓.jpg) | | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
-| 鼓 | 鼓 | gǔ | drum | ![鼓](./music/鼓.jpg) | | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
+| 鼓 | 腰鼓 | yāogǔ | waist drum | ![腰鼓](./music/腰鼓.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-festival-performer-in-costume-28776085/) |
+| 鼓 | 鼓 | gǔ | drum | ![鼓](./music/鼓.jpg) | generic term | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
 
