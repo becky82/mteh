@@ -34,10 +34,10 @@
 | 管 | 单簧管 | dānhuángguǎn | clarinet | [TO-DO] | | [TO-DO] |
 | 管 | 双簧管 | shuānghuángguǎn | oboe | [TO-DO] | | [TO-DO] |
 | 箫 | 箫 | xiāo | xiao | [TO-DO] | vertical bamboo flute | [TO-DO] |
-|  | 编钟 | biānzhōng | set of bells | [TO-DO] | | [TO-DO] |
-| | 萨克斯 | sàkèsī | saxophone | [TO-DO] | | [TO-DO] |
-| | 角 | jiǎo | horn | [TO-DO] | | [TO-DO] |
-| | 贝斯 | bèisī | bass guitar | [TO-DO] | | [TO-DO] |
+| | 编钟 | biānzhōng | set of bells | [TO-DO] | | [TO-DO] |
+| | 萨克斯 | sàkèsī | saxophone | ![萨克斯](./music/萨克斯.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-man-playing-a-saxophone-9002853/) |
+| 角 | 角 | jiǎo | horn | [TO-DO] | | [TO-DO] |
+| | 贝斯 | bèisī | bass guitar | ![贝斯](./music/贝斯.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-a-bass-guitarist-performing-live-36219462/) |
 | 钹 | 钹 | bó | cymbals | [TO-DO] | 铙 [TO-DO] | [TO-DO] |
 | | 铃 | líng | bell | [TO-DO] | | [TO-DO] |
 | 锣 | 锣 | luó | gong | ![锣](./music/锣.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_Gong_-_Chengu,_Sichuan,_China_-_Collected_in_2003.jpg) |
