@@ -30,7 +30,7 @@
 | 笙 | 笙 | shēng | sheng | ![笙](./music/笙.jpg) | multiple bamboo pipes | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%AC%99_Sheng_%D0%A8%D1%8D%D0%BD_(7851401076).jpg) |
 | 笛 | 笛子 | dízi | bamboo flute | [TO-DO] | | [TO-DO] |
 | 笛 | 长笛 | chángdí | flute | [TO-DO] | | [TO-DO] |
-| 笛 | 陶笛 | táodí | ocarina | ![陶笛](./music/陶笛.jpg) | generic term | [Wikimedia](https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg); margins expanded with PixelCut AI |
+| 笛 | 陶笛 | táodí | ocarina | ![陶笛](./music/陶笛.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg); margins expanded with PixelCut AI |
 | 筝 | 筝; 古筝 | zhēng; gǔzhēng | guzheng | ![筝](./music/筝.JPG) | Chinese zither; usually 21 strings | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vi_An_Diep_plays_guzheng_1.JPG) |
 | 管 | 单簧管; 黑管 | dānhuángguǎn; hēiguǎn | clarinet | ![单簧管](./music/单簧管.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-clarinet-on-a-street-15551341/) |
 | 管 | 双簧管 | shuānghuángguǎn | oboe | ![双簧管](./music/双簧管.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-clarinet-7095727/) |
