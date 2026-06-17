@@ -15,15 +15,15 @@
 | | 曼陀林 | màntuólín | mandolin | ![曼陀林](./music/曼陀林.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Busker_playing_mandolin,_St._Lawrence_Market_(13626179644).jpg) |
 | | 木鱼 | mùyú | wooden fish | [TO-DO] | | [TO-DO] |
 | 琴 | 中提琴 | zhōngtíqín | viola | ![中提琴](./music/中提琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-violin-7095512/) |
-| 琴 | 低音提琴 | dīyīn tíqín | double bass | [TO-DO] | | [TO-DO] |
+| 琴 | 低音提琴 | dīyīn tíqín | double bass | ![低音提琴](./music/低音提琴.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-double-bass-in-a-park-27136100/) |
 | 琴 | 大提琴 | dàtíqín | cello | ![大提琴](./music/大提琴.jpg) | | [Pexels](https://www.pexels.com/photo/woman-sitting-on-stage-and-playing-double-bass-13768516/) |
 | 琴 | 小提琴 | xiǎotíqín | violin | ![小提琴](./music/小提琴.jpg) | | [Pexels](https://www.pexels.com/photo/woman-playing-the-violin-6671385/) |
 | 琴 | 扬琴 | yángqín | yangqin | ![扬琴](./music/扬琴.jpg) | Chinese hammered dulcimer | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%89%AC%E7%90%B4_%D0%AF%D0%BD%D1%86%D0%B8%D0%BD%D1%8C.jpg) |
 | 琴 | 木琴 | mùqín | xylophone | [TO-DO] | | [TO-DO] |
 | 琴 | 琴; 古琴 | qín; gǔqín | qin | ![琴](./music/琴.jpg) | 7-stringed Chinese zither | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B%E7%8E%89%E5%A3%B6%E5%86%B0%E7%90%B409554.jpg) |
-| 琴 | 电子琴 | diànzǐqín | keyboard | [TO-DO] | | [TO-DO] |
-| 琴 | 钟琴 | zhōngqín | glockenspiel | [TO-DO] | | [TO-DO] |
-| 琴 | 钢琴 | gāngqín | piano | [TO-DO] | | [TO-DO] |
+| 琴 | 电子琴 | diànzǐqín | keyboard | ![电子琴](./music/电子琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-person-playing-the-keyboard-5562683/) |
+| 琴 | 钟琴 | zhōngqín | glockenspiel | ![钟琴](./music/钟琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-child-playing-with-a-xylophone-6274908/) |
+| 琴 | 钢琴 | gāngqín | piano | ![钢琴](./music/钢琴.jpg) | | [Pexels](https://www.pexels.com/photo/vintage-piano-in-a-room-17082397/) |
 | 琴; 阮  | 阮琴; 中阮 | ruǎnqín; zhōngruǎn | ruan | ![阮琴](./music/阮琴.jpg) | 4-stringed round-bodied lute | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E9%98%AE_Ruan_%D0%96%D1%83%D0%B0%D0%BD%D1%8C_(7851401654).jpg) |
 | 琵; 琶 | 琵琶 | pípa | pipa; Chinese lute | ![琵琶](./music/琵琶.jpg) | | [Pexels](https://www.pexels.com/photo/elegant-woman-playing-pipa-in-traditional-attire-33667340/) |
 | 磬 | 编磬 | biānqìng | set of chime stones | [TO-DO] | | [TO-DO] |
