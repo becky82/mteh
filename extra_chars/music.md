@@ -28,13 +28,13 @@
 | 琵; 琶 | 琵琶 | pípa | pipa; Chinese lute | ![琵琶](./music/琵琶.jpg) | | [Pexels](https://www.pexels.com/photo/elegant-woman-playing-pipa-in-traditional-attire-33667340/) |
 | 磬 | 编磬 | biānqìng | set of chime stones | ![编磬](./music/编磬.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jongmyo_DSC_6892.jpg) |
 | 笙 | 笙 | shēng | sheng | ![笙](./music/笙.jpg) | multiple bamboo pipes | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%AC%99_Sheng_%D0%A8%D1%8D%D0%BD_(7851401076).jpg) |
-| 笛 | 笛子 | dízi | bamboo flute | [TO-DO] | | [TO-DO] |
-| 笛 | 长笛 | chángdí | flute | [TO-DO] | | [TO-DO] |
+| 笛 | 笛子 | dízi | bamboo flute | ![笛子](./music/笛子.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-musician-playing-bamboo-flute-outdoors-34128562/) |
+| 笛 | 长笛 | chángdí | flute | ![长笛](./music/长笛.jpg) | | [Pexels](https://www.pexels.com/photo/a-boy-learning-how-the-play-the-flute-from-his-mentor-8191574/) |
 | 笛 | 陶笛 | táodí | ocarina | ![陶笛](./music/陶笛.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg); margins expanded with PixelCut AI |
 | 筝 | 筝; 古筝 | zhēng; gǔzhēng | guzheng | ![筝](./music/筝.JPG) | Chinese zither; usually 21 strings | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vi_An_Diep_plays_guzheng_1.JPG) |
 | 管 | 单簧管; 黑管 | dānhuángguǎn; hēiguǎn | clarinet | ![单簧管](./music/单簧管.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-clarinet-on-a-street-15551341/) |
 | 管 | 双簧管 | shuānghuángguǎn | oboe | ![双簧管](./music/双簧管.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-clarinet-7095727/) |
-| 箫 | 箫 | xiāo | xiao | [TO-DO] | vertical bamboo flute | [TO-DO] |
+| 箫 | 箫 | xiāo | xiao | ![双簧管](./music/箫.jpg) | vertical bamboo flute | [Pexels](https://www.pexels.com/photo/man-using-a-flute-12391588/) |
 | | 编钟 | biānzhōng | set of bells | [TO-DO] | | [TO-DO] |
 | | 萨克斯 | sàkèsī | saxophone | ![萨克斯](./music/萨克斯.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-man-playing-a-saxophone-9002853/) |
 | 角 | 角 | jiǎo | horn | [TO-DO] | | [TO-DO] |
