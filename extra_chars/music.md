@@ -7,7 +7,7 @@
 | | 二胡 | èrhú | erhu | ![二胡](./music/二胡.jpg) | bowed two-string fiddle | [Wikimedia](https://commons.wikimedia.org/wiki/File:La_Nau_Universitat_de_Val%C3%A8ncia_-_Erhu.jpg) |
 | 号 | 大号 | dàhào | tuba | ![大号](./music/大号.jpg) | | [Pexels](https://www.pexels.com/photo/men-playing-trombones-19953443/) |
 | 号 | 小号 | xiǎohào | trumpet | ![小号](./music/小号.jpg) | | [Pexels](https://www.pexels.com/photo/man-in-military-uniform-playing-trumpet-10706370/) |
-| 号 | 法国号; 圆号 | shuānghuánghào; yuánhào | French horn | [TO-DO] | | [TO-DO] |
+| 号 | 法国号; 圆号 | fǎguóhào; yuánhào | French horn | [TO-DO] | | [TO-DO] |
 | 号 | 长号 | chánghào | trombone | ![长号](./music/长号.jpg) | | [Pexels](https://www.pexels.com/photo/two-people-playing-trombone-11939132/) |
 | | 吉他 | jíta | guitar | ![吉他](./music/吉他.jpg) | | [Pexels](https://www.pexels.com/photo/man-sitting-in-grass-and-playing-guitar-20742180/) |
 | 唢; 呐 | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | loud double-reed woodwind horn; used at weddings, funerals, festivals | [Wikimedia](https://commons.wikimedia.org/wiki/File:Suona_xinesa.jpg); contrast improved with [Gemini AI](https://gemini.google.com/share/0f897c0271da) |
