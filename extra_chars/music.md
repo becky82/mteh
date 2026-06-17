@@ -5,19 +5,19 @@
 | | 三弦 | sānxián | sanxian | [TO-DO] | family of 3-stringed plucked musical instruments | [TO-DO] |
 | | 三角铁 | | sānjiǎotiě | triangle | [TO-DO] | | [TO-DO] |
 | | 二胡 | èrhú | erhu | ![二胡](./music/二胡.jpg) | bowed two-string fiddle | [Wikimedia](https://commons.wikimedia.org/wiki/File:La_Nau_Universitat_de_Val%C3%A8ncia_-_Erhu.jpg) |
-| 号 | 大号 | dàhào | tuba | [TO-DO] | | [TO-DO] |
-| 号 | 小号 | xiǎohào | trumpet | [TO-DO] | | [TO-DO] |
-| 号 | 法国号 | shuānghuánghào | French horn | [TO-DO] | | [TO-DO] |
-| 号 | 长号 | chánghào | trombone   | [TO-DO] | | [TO-DO] |
-| | 吉他 | jíta | guitar | [TO-DO] | | [TO-DO] |
+| 号 | 大号 | dàhào | tuba | ![大号](./music/大号.jpg) | | [Pexels](https://www.pexels.com/photo/men-playing-trombones-19953443/) |
+| 号 | 小号 | xiǎohào | trumpet | ![小号](./music/小号.jpg) | | [Pexels](https://www.pexels.com/photo/man-in-military-uniform-playing-trumpet-10706370/) |
+| 号 | 法国号; 圆号 | shuānghuánghào; yuánhào | French horn | [TO-DO] | | [TO-DO] |
+| 号 | 长号 | chánghào | trombone | ![长号](./music/长号.jpg) | | [Pexels](https://www.pexels.com/photo/two-people-playing-trombone-11939132/) |
+| | 吉他 | jíta | guitar | ![吉他](./music/吉他.jpg) | | [Pexels](https://www.pexels.com/photo/man-sitting-in-grass-and-playing-guitar-20742180/) |
 | 唢; 呐 | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | loud double-reed woodwind horn; used at weddings, funerals, festivals | [Wikimedia](https://commons.wikimedia.org/wiki/File:Suona_xinesa.jpg); contrast improved with [Gemini AI](https://gemini.google.com/share/0f897c0271da) |
 | | 拍板; 快板 | pāibǎn; kuàibǎn | paiban; bamboo clappers | ![拍板](./music/拍板.jpg) | bamboo clappers used for rhythmic storytelling | [Wikimedia](https://commons.wikimedia.org/wiki/File:Man_playing_Paiban_in_Kunming.jpg) |
-| | 曼陀林 | màntuólín | mandolin | [TO-DO] | | [TO-DO] |
+| | 曼陀林 | màntuólín | mandolin | ![曼陀林](./music/曼陀林.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-guitar-in-town-10132009/) |
 | | 木鱼 | mùyú | wooden fish | [TO-DO] | | [TO-DO] |
-| 琴 | 中提琴 | zhōngtíqín | viola | [TO-DO] | | [TO-DO] |
+| 琴 | 中提琴 | zhōngtíqín | viola | ![中提琴](./music/中提琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-violin-7095512/) |
 | 琴 | 低音提琴 | dīyīn tíqín | double bass | [TO-DO] | | [TO-DO] |
-| 琴 | 大提琴 | dàtíqín | cello | [TO-DO] | | [TO-DO] |
-| 琴 | 小提琴 | xiǎotíqín | violin | [TO-DO] | | [TO-DO] |
+| 琴 | 大提琴 | dàtíqín | cello | ![大提琴](./music/大提琴.jpg) | | [Pexels](https://www.pexels.com/photo/woman-sitting-on-stage-and-playing-double-bass-13768516/) |
+| 琴 | 小提琴 | xiǎotíqín | violin | ![小提琴](./music/小提琴.jpg) | | [Pexels](https://www.pexels.com/photo/woman-playing-the-violin-6671385/) |
 | 琴 | 扬琴 | yángqín | yangqin | ![扬琴](./music/扬琴.jpg) | Chinese hammered dulcimer | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%89%AC%E7%90%B4_%D0%AF%D0%BD%D1%86%D0%B8%D0%BD%D1%8C.jpg) |
 | 琴 | 木琴 | mùqín | xylophone | [TO-DO] | | [TO-DO] |
 | 琴 | 琴; 古琴 | qín; gǔqín | qin | ![琴](./music/琴.jpg) | 7-stringed Chinese zither | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B%E7%8E%89%E5%A3%B6%E5%86%B0%E7%90%B409554.jpg) |
