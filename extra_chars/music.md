@@ -17,6 +17,7 @@
 | | 木鱼 | mùyú | wooden fish | ![木鱼](./music/木鱼.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:A_Wooden_Fish_at_sacrifical_altar_in_Yuen_Yuen_Institule.jpg) |
 | 琴 | 中提琴 | zhōngtíqín | viola | ![中提琴](./music/中提琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-violin-7095512/) |
 | 琴 | 低音提琴 | dīyīn tíqín | double bass | ![低音提琴](./music/低音提琴.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-double-bass-in-a-park-27136100/) |
+| 琴 | 口琴 | kǒuqín | harmonica; mouth organ | ![口琴](./music/口琴.jpg) | | [Pexels](https://www.pexels.com/photo/man-in-black-tank-top-playing-a-harmonica-11351552/) |
 | 琴 | 大提琴 | dàtíqín | cello | ![大提琴](./music/大提琴.jpg) | | [Pexels](https://www.pexels.com/photo/woman-sitting-on-stage-and-playing-double-bass-13768516/) |
 | 琴 | 小提琴 | xiǎotíqín | violin | ![小提琴](./music/小提琴.jpg) | | [Pexels](https://www.pexels.com/photo/woman-playing-the-violin-6671385/) |
 | 琴 | 扬琴 | yángqín | yangqin | ![扬琴](./music/扬琴.jpg) | Chinese hammered dulcimer | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%89%AC%E7%90%B4_%D0%AF%D0%BD%D1%86%D0%B8%D0%BD%D1%8C.jpg) |
