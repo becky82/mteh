@@ -37,6 +37,7 @@
 | 琴 | 马头琴 | mǎtóuqín | morin khuur | ![马头琴](./music/马头琴.jpg) | Mongolian | [Pexels](https://www.pexels.com/photo/crop-person-playing-traditional-mongolian-stringed-instrument-in-countryside-4348093/) |
 | 琵; 琶 | 琵琶 | pípa | pipa; Chinese lute | ![琵琶](./music/琵琶.jpg) | | [Pexels](https://www.pexels.com/photo/elegant-woman-playing-pipa-in-traditional-attire-33667340/) |
 | 瑟 | 古瑟; 瑟 | gǔsè; sè | guse; se | ![古瑟](./music/古瑟.jpg) | historical; noted for its harmony with 琴; used figuratively in 琴瑟 to represent marital harmony | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AD%94%E5%BB%9F%E6%96%87%E7%89%A9%E6%94%B6%E8%97%8F_%E6%A8%82%E5%99%A8%E7%91%9F.JPG) |
+| | 电吉他 | diànjítā | electric guitar | ![电吉他](./music/电吉他.jpg) | | [Pexels](https://www.pexels.com/photo/young-woman-playing-guitar-19350224/) |
 | 磬 | 编磬 | biānqìng | set of chime stones | ![编磬](./music/编磬.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jongmyo_DSC_6892.jpg) |
 | 笙 | 笙 | shēng | sheng | ![笙](./music/笙.jpg) | multiple bamboo pipes | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%AC%99_Sheng_%D0%A8%D1%8D%D0%BD_(7851401076).jpg) |
 | 笛 | 短笛 | duǎndí | piccolo | ![短笛](./music/短笛.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-shot-of-black-and-brown-flutes-14587582/) |
