@@ -39,6 +39,7 @@
 | 笛 | 长笛 | chángdí | flute | ![长笛](./music/长笛.jpg) | | [Pexels](https://www.pexels.com/photo/a-boy-learning-how-the-play-the-flute-from-his-mentor-8191574/) |
 | 笛 | 陶笛 | táodí | ocarina | ![陶笛](./music/陶笛.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg); margins expanded with PixelCut AI |
 | 筝 | 筝; 古筝 | zhēng; gǔzhēng | guzheng | ![筝](./music/筝.JPG) | Chinese zither; usually 21 strings | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vi_An_Diep_plays_guzheng_1.JPG) |
+| 箜; 篌 | 箜篌 | kōnghóu | konghou; Chinese harp | ![箜篌](./music/箜篌.jpg) | went "extinct" during the Ming Dynasty; modern 箜篌 resembles western 竖琴 (harps) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Konghou.jpg) |
 | 管 | 单簧管; 黑管 | dānhuángguǎn; hēiguǎn | clarinet | ![单簧管](./music/单簧管.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-clarinet-on-a-street-15551341/) |
 | 管 | 双簧管 | shuānghuángguǎn | oboe | ![双簧管](./music/双簧管.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-clarinet-7095727/) |
 | 箫 | 箫 | xiāo | xiao | ![箫](./music/箫.jpg) | vertical bamboo flute | [Pexels](https://www.pexels.com/photo/man-using-a-flute-12391588/) |
@@ -55,6 +56,7 @@
 | 鼓 | 定音鼓 | dìngyīngǔ | timpani | ![定音鼓](./music/定音鼓.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Timpani,_I_Solisti_Veneti,_La_tromba,_regina_degli_ottoni_27_sett_2022_(Chesa_della_Rotonda,_Rovigo)_01.jpg) |
 | 鼓 | 架子鼓 | jiàzigǔ | drum kit | ![架子鼓](./music/架子鼓.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-drums-7802342/) |
 | 鼓 | 腰鼓 | yāogǔ | waist drum | ![腰鼓](./music/腰鼓.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-festival-performer-in-costume-28776085/) |
-| 鼓; 铃 | 铃鼓 | línggǔ | tamborine | ![腰鼓](./music/铃鼓.jpg) | | [Pexels](https://www.pexels.com/photo/colorful-tambourine-with-star-design-on-yellow-background-37414885/) |
+| 鼓; 铃 | 铃鼓 | línggǔ | tamborine | ![铃鼓](./music/铃鼓.jpg) | | [Pexels](https://www.pexels.com/photo/colorful-tambourine-with-star-design-on-yellow-background-37414885/) |
 | 鼓 | 鼓 | gǔ | drum | ![鼓](./music/鼓.jpg) | generic term | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
+
 
