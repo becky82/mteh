@@ -22,6 +22,7 @@
 | 琴 | 木琴 | mùqín | xylophone | ![木琴](./music/木琴.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tres_xil%C3%B3fonos.JPG) |
 | 琴 | 琴; 古琴 | qín; gǔqín | qin | ![琴](./music/琴.jpg) | 7-stringed Chinese zither | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B%E7%8E%89%E5%A3%B6%E5%86%B0%E7%90%B409554.jpg) |
 | 琴 | 电子琴 | diànzǐqín | keyboard | ![电子琴](./music/电子琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-person-playing-the-keyboard-5562683/) |
+| 琴 | 管风琴 | guǎnfēngqín | pipe organ | ![管风琴](./music/管风琴.jpg) | generic term | [Pexels](https://www.pexels.com/photo/ornamented-interior-with-man-playing-pipe-organ-19500635/) |
 | 琴 | 钟琴 | zhōngqín | glockenspiel | ![钟琴](./music/钟琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-child-playing-with-a-xylophone-6274908/) |
 | 琴 | 钢琴 | gāngqín | piano | ![钢琴](./music/钢琴.jpg) | | [Pexels](https://www.pexels.com/photo/vintage-piano-in-a-room-17082397/) |
 | 琴; 阮  | 阮琴; 中阮 | ruǎnqín; zhōngruǎn | ruan | ![阮琴](./music/阮琴.jpg) | 4-stringed round-bodied lute | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E9%98%AE_Ruan_%D0%96%D1%83%D0%B0%D0%BD%D1%8C_(7851401654).jpg) |
@@ -49,4 +50,6 @@
 | 鼓 | 架子鼓 | jiàzigǔ | drum kit | ![架子鼓](./music/架子鼓.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-drums-7802342/) |
 | 鼓 | 腰鼓 | yāogǔ | waist drum | ![腰鼓](./music/腰鼓.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-festival-performer-in-costume-28776085/) |
 | 鼓 | 鼓 | gǔ | drum | ![鼓](./music/鼓.jpg) | generic term | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
+
+
 
