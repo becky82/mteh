@@ -10,7 +10,7 @@
 | 号 | 长号 | chánghào | trombone | ![长号](./music/长号.jpg) | | [Pexels](https://www.pexels.com/photo/two-people-playing-trombone-11939132/) |
 | | 合成器 | héchéngqì | synthesizer | ![合成器](./music/合成器.jpg) | | [Pexels](https://www.pexels.com/photo/switchers-on-sound-mixer-10827832/) |
 | | 吉他 | jítā | guitar | ![吉他](./music/吉他.jpg) | | [Pexels](https://www.pexels.com/photo/man-sitting-in-grass-and-playing-guitar-20742180/) |
-| 唢; 呐 | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | used at weddings, funerals, festivals | [Pexels](https://www.pexels.com/photo/elderly-man-playing-a-traditional-chinese-instrument-suona-on-the-sidewalk-at-night-9220728/) |
+| | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | used at weddings, funerals, festivals | [Pexels](https://www.pexels.com/photo/elderly-man-playing-a-traditional-chinese-instrument-suona-on-the-sidewalk-at-night-9220728/) |
 | 埙 | 埙 | xūn | xun; Chinese ocarina | ![埙](./music/埙.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xun_MET_DP169485.jpg) |
 | | 尤克里里 | yóukèlǐlǐ | ukulele | ![尤克里里](./music/尤克里里.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-in-a-hijab-sitting-on-a-chair-playing-a-ukule-28207863/) |
 | 弦 | 三弦 | sānxián | sanxian | ![三弦](./music/三弦.jpg) | family of 3-stringed plucked musical instruments | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chanzy_performance.jpg) |
