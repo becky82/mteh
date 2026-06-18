@@ -42,7 +42,6 @@
 | 钹 | 钹 | bó | cymbals | ![钹](./music/钹.jpg) | | [Pexels](https://www.pexels.com/photo/military-orchestra-on-a-field-17551521/) |
 | 铃 | 铃 | líng | bell | ![铃](./music/铃.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-shot-of-a-person-ringing-a-bell-hanging-from-the-brick-wall-8391511/) |
 | 铃 | 风铃 | fēnglíng | wind chimes | ![风铃](./music/风铃.jpg) | | [Pexels](https://www.pexels.com/photo/bamboo-wind-chimes-9153309/) |
-| 铙 | 铙 | náo | [TO-DO] | [TO-DO] | | [TO-DO] |
 | 锣 | 锣 | luó | gong | ![锣](./music/锣.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_Gong_-_Chengu,_Sichuan,_China_-_Collected_in_2003.jpg) |
 | 鼓 | 堂鼓 | tánggǔ | ceremonial hall drum | ![堂鼓](./music/堂鼓.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:T%C3%A1ngg%C7%94_(%E5%A0%82%E9%BC%93)_MET_DP219344.jpg) |
 | 鼓 | 大鼓 | dàgǔ | bass drum | ![大鼓](./music/大鼓.jpg) | | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
