@@ -8,7 +8,7 @@
 | 号 | 小号 | xiǎohào | trumpet | ![小号](./music/小号.jpg) | | [Pexels](https://www.pexels.com/photo/man-in-military-uniform-playing-trumpet-10706370/) |
 | 号 | 法国号; 圆号 | fǎguóhào; yuánhào | French horn | ![法国号](./music/法国号.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:230128-N-DK722-2012_-_NAVEUR-NAVAF_Band_performs_at_Terra_Kulture_Hall_in_Lagos.jpg) |
 | 号 | 长号 | chánghào | trombone | ![长号](./music/长号.jpg) | | [Pexels](https://www.pexels.com/photo/two-people-playing-trombone-11939132/) |
-| | 吉他 | jíta | guitar | ![吉他](./music/吉他.jpg) | | [Pexels](https://www.pexels.com/photo/man-sitting-in-grass-and-playing-guitar-20742180/) |
+| | 吉他 | jítā | guitar | ![吉他](./music/吉他.jpg) | | [Pexels](https://www.pexels.com/photo/man-sitting-in-grass-and-playing-guitar-20742180/) |
 | 唢; 呐 | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | used at weddings, funerals, festivals | [Pexels](https://www.pexels.com/photo/elderly-man-playing-a-traditional-chinese-instrument-suona-on-the-sidewalk-at-night-9220728/) |
 | 弦 | 三弦 | sānxián | sanxian | ![三弦](./music/三弦.jpg) | family of 3-stringed plucked musical instruments | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chanzy_performance.jpg) |
 | | 拍板; 快板 | pāibǎn; kuàibǎn | paiban; bamboo clappers | ![拍板](./music/拍板.jpg) | used for rhythmic storytelling | [Wikimedia](https://commons.wikimedia.org/wiki/File:Man_playing_Paiban_in_Kunming.jpg) |
@@ -34,7 +34,7 @@
 | 筝 | 筝; 古筝 | zhēng; gǔzhēng | guzheng | ![筝](./music/筝.JPG) | Chinese zither; usually 21 strings | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vi_An_Diep_plays_guzheng_1.JPG) |
 | 管 | 单簧管; 黑管 | dānhuángguǎn; hēiguǎn | clarinet | ![单簧管](./music/单簧管.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-clarinet-on-a-street-15551341/) |
 | 管 | 双簧管 | shuānghuángguǎn | oboe | ![双簧管](./music/双簧管.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-clarinet-7095727/) |
-| 箫 | 箫 | xiāo | xiao | ![双簧管](./music/箫.jpg) | vertical bamboo flute | [Pexels](https://www.pexels.com/photo/man-using-a-flute-12391588/) |
+| 箫 | 箫 | xiāo | xiao | ![箫](./music/箫.jpg) | vertical bamboo flute | [Pexels](https://www.pexels.com/photo/man-using-a-flute-12391588/) |
 | | 编钟 | biānzhōng | set of bells | ![编钟](./music/编钟.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bell_set_unearthed_from_Tomb_1,_Dayun_Mountain,_Xuyi,_Jiangsu_Western_Han_period_(206_BCE%E2%80%939_CE)_MH_01.jpg) |
 | | 萨克斯 | sàkèsī | saxophone | ![萨克斯](./music/萨克斯.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-man-playing-a-saxophone-9002853/) |
 | 角 | 角 | jiǎo | horn | ![角](./music/角.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hungary_Jaszbereny_Lehel.jpg); margins expanded using PixelCut AI |
