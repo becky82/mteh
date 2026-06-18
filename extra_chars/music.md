@@ -48,6 +48,7 @@
 | 管 | 双簧管 | shuānghuángguǎn | oboe | ![双簧管](./music/双簧管.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-clarinet-7095727/) |
 | 管 | 巴松管; 大管 | bāsōngguǎn; dàguǎn | bassoon | ![巴松管](./music/巴松管.jpg) | | [Pexels](https://www.pexels.com/photo/outdoor-performance-of-bassoon-soloist-at-concert-33661048/) |
 | 管 | 萨克斯 | sàkèsī | saxophone | ![萨克斯](./music/萨克斯.jpg) | also called 萨克斯风 (sàkèsīfēng) and 萨克斯管 (sàkèsīguǎn) | [Pexels](https://www.pexels.com/photo/photo-of-a-man-playing-a-saxophone-9002853/) |
+| 箫 | 排箫 | páixiāo | panpipes | ![排箫](./music/排箫.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shakuhachi_and_Paixiao_of_theTang_Dynasty_2011-07.JPG) |
 | 箫 | 箫 | xiāo | xiao | ![箫](./music/箫.jpg) | vertical bamboo flute | [Pexels](https://www.pexels.com/photo/man-using-a-flute-12391588/) |
 | 箫 | 葫芦丝; 葫芦箫 | húlúsī; húlúxiāo | hulusi; cucurbit flute; gourd flute | ![葫芦丝](./music/葫芦丝.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hulusi_Medieval_festival_of_Saint-Antoine-l%27Abbaye.jpg) |
 | | 编钟 | biānzhōng | set of bells | ![编钟](./music/编钟.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bell_set_unearthed_from_Tomb_1,_Dayun_Mountain,_Xuyi,_Jiangsu_Western_Han_period_(206_BCE%E2%80%939_CE)_MH_01.jpg) |
