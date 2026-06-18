@@ -31,6 +31,7 @@
 | 琴 | 钟琴 | zhōngqín | glockenspiel | ![钟琴](./music/钟琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-child-playing-with-a-xylophone-6274908/) |
 | 琴 | 钢琴 | gāngqín | piano | ![钢琴](./music/钢琴.jpg) | | [Pexels](https://www.pexels.com/photo/vintage-piano-in-a-room-17082397/) |
 | 琴; 阮  | 阮琴; 中阮 | ruǎnqín; zhōngruǎn | ruan | ![阮琴](./music/阮琴.jpg) | 4-stringed round-bodied lute | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E9%98%AE_Ruan_%D0%96%D1%83%D0%B0%D0%BD%D1%8C_(7851401654).jpg) |
+| 琴 | 马头琴 | mǎtóuqín | morin khuur | ![马头琴](./music/马头琴.jpg) | | [Pexels](https://www.pexels.com/photo/crop-person-playing-traditional-mongolian-stringed-instrument-in-countryside-4348093/) |
 | 琵; 琶 | 琵琶 | pípa | pipa; Chinese lute | ![琵琶](./music/琵琶.jpg) | | [Pexels](https://www.pexels.com/photo/elegant-woman-playing-pipa-in-traditional-attire-33667340/) |
 | 磬 | 编磬 | biānqìng | set of chime stones | ![编磬](./music/编磬.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jongmyo_DSC_6892.jpg) |
 | 笙 | 笙 | shēng | sheng | ![笙](./music/笙.jpg) | multiple bamboo pipes | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%AC%99_Sheng_%D0%A8%D1%8D%D0%BD_(7851401076).jpg) |
