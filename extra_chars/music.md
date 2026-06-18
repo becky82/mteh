@@ -8,6 +8,7 @@
 | 号 | 小号 | xiǎohào | trumpet | ![小号](./music/小号.jpg) | | [Pexels](https://www.pexels.com/photo/man-in-military-uniform-playing-trumpet-10706370/) |
 | 号 | 法国号; 圆号 | fǎguóhào; yuánhào | French horn | ![法国号](./music/法国号.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:230128-N-DK722-2012_-_NAVEUR-NAVAF_Band_performs_at_Terra_Kulture_Hall_in_Lagos.jpg) |
 | 号 | 长号 | chánghào | trombone | ![长号](./music/长号.jpg) | | [Pexels](https://www.pexels.com/photo/two-people-playing-trombone-11939132/) |
+| | 合成器 | héchéngqì | synthesizer | ![合成器](./music/合成器.jpg) | | [Pexels](https://www.pexels.com/photo/switchers-on-sound-mixer-10827832/) |
 | | 吉他 | jítā | guitar | ![吉他](./music/吉他.jpg) | | [Pexels](https://www.pexels.com/photo/man-sitting-in-grass-and-playing-guitar-20742180/) |
 | 唢; 呐 | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | used at weddings, funerals, festivals | [Pexels](https://www.pexels.com/photo/elderly-man-playing-a-traditional-chinese-instrument-suona-on-the-sidewalk-at-night-9220728/) |
 | 埙 | 埙 | xūn | xun; Chinese ocarina | ![埙](./music/埙.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xun_MET_DP169485.jpg) |
