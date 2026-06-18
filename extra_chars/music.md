@@ -27,7 +27,7 @@
 | 琴 | 扬琴 | yángqín | yangqin | ![扬琴](./music/扬琴.jpg) | Chinese hammered dulcimer | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%89%AC%E7%90%B4_%D0%AF%D0%BD%D1%86%D0%B8%D0%BD%D1%8C.jpg) |
 | 琴 | 木琴 | mùqín | xylophone | ![木琴](./music/木琴.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tres_xil%C3%B3fonos.JPG) |
 | 琴 | 柳琴 | liǔqín | liuqin lute | ![柳琴](./music/柳琴.jpg) | smaller than 琵琶 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Liuqin_player.jpg) |
-| 琴 | 特雷门琴 | tèléiménqín | theremin | ![特雷门琴](./music/特雷门琴.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Donna-maya-um-festival-2021.jpg) |
+| 琴 | 特雷门琴; 泰勒明 | tèléiménqín; tàilèmíng | theremin | ![特雷门琴](./music/特雷门琴.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Donna-maya-um-festival-2021.jpg) |
 | 琴 | 班卓琴 | bānzhuóqín | banjo | ![班卓琴](./music/班卓琴.jpg) | | [Pexels](https://www.pexels.com/photo/people-in-cowboy-hats-playing-on-musical-instruments-12444472/) |
 | 琴 | 琴; 古琴 | qín; gǔqín | qin | ![琴](./music/琴.jpg) | 7-stringed Chinese zither | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B%E7%8E%89%E5%A3%B6%E5%86%B0%E7%90%B409554.jpg) |
 | 琴 | 电子琴 | diànzǐqín | keyboard | ![电子琴](./music/电子琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-person-playing-the-keyboard-5562683/) |
