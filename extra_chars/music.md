@@ -36,6 +36,7 @@
 | 琴; 阮  | 阮琴; 中阮 | ruǎnqín; zhōngruǎn | ruan | ![阮琴](./music/阮琴.jpg) | 4-stringed round-bodied lute | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E9%98%AE_Ruan_%D0%96%D1%83%D0%B0%D0%BD%D1%8C_(7851401654).jpg) |
 | 琴 | 马头琴 | mǎtóuqín | morin khuur | ![马头琴](./music/马头琴.jpg) | Mongolian | [Pexels](https://www.pexels.com/photo/crop-person-playing-traditional-mongolian-stringed-instrument-in-countryside-4348093/) |
 | 琵; 琶 | 琵琶 | pípa | pipa; Chinese lute | ![琵琶](./music/琵琶.jpg) | | [Pexels](https://www.pexels.com/photo/elegant-woman-playing-pipa-in-traditional-attire-33667340/) |
+| 瑟 | 古瑟; 瑟 | gǔsè; sè | guse; se | ![古瑟](./music/古瑟.jpg) | historical; noted for its harmony with 琴; used figuratively in 琴瑟 to represent marital harmony | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AD%94%E5%BB%9F%E6%96%87%E7%89%A9%E6%94%B6%E8%97%8F_%E6%A8%82%E5%99%A8%E7%91%9F.JPG) |
 | 磬 | 编磬 | biānqìng | set of chime stones | ![编磬](./music/编磬.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jongmyo_DSC_6892.jpg) |
 | 笙 | 笙 | shēng | sheng | ![笙](./music/笙.jpg) | multiple bamboo pipes | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%AC%99_Sheng_%D0%A8%D1%8D%D0%BD_(7851401076).jpg) |
 | 笛 | 笛子 | dízi | bamboo flute | ![笛子](./music/笛子.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-musician-playing-bamboo-flute-outdoors-34128562/) |
@@ -63,5 +64,4 @@
 | 鼓 | 腰鼓 | yāogǔ | waist drum | ![腰鼓](./music/腰鼓.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-festival-performer-in-costume-28776085/) |
 | 鼓; 铃 | 铃鼓 | línggǔ | tambourine | ![铃鼓](./music/铃鼓.jpg) | | [Pexels](https://www.pexels.com/photo/colorful-tambourine-with-star-design-on-yellow-background-37414885/) |
 | 鼓 | 鼓 | gǔ | drum | ![鼓](./music/鼓.jpg) | generic term | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
-
 
