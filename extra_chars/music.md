@@ -45,7 +45,7 @@
 | | 萨克斯; 萨克斯风 | sàkèsī; sàkèsīfēng | saxophone | ![萨克斯](./music/萨克斯.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-man-playing-a-saxophone-9002853/) |
 | 角 | 角 | jiǎo | horn | ![角](./music/角.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hungary_Jaszbereny_Lehel.jpg); margins expanded using PixelCut AI |
 | | 贝斯 | bèisī | bass guitar | ![贝斯](./music/贝斯.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-a-bass-guitarist-performing-live-36219462/) |
-| 钹 | 钹 | bó | cymbals | ![钹](./music/钹.jpg) | | [Pexels](https://www.pexels.com/photo/military-orchestra-on-a-field-17551521/) |
+| 钹; 镲 | 钹; 镲 | bó; chǎ | cymbals | ![钹](./music/钹.jpg) | | [Pexels](https://www.pexels.com/photo/military-orchestra-on-a-field-17551521/) |
 | 铃 | 铃 | líng | bell | ![铃](./music/铃.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-shot-of-a-person-ringing-a-bell-hanging-from-the-brick-wall-8391511/) |
 | 铃 | 风铃 | fēnglíng | wind chimes | ![风铃](./music/风铃.jpg) | | [Pexels](https://www.pexels.com/photo/bamboo-wind-chimes-9153309/) |
 | 锣 | 锣 | luó | gong | ![锣](./music/锣.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_Gong_-_Chengu,_Sichuan,_China_-_Collected_in_2003.jpg) |
