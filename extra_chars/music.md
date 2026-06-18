@@ -39,7 +39,7 @@
 | 笛 | 长笛 | chángdí | flute | ![长笛](./music/长笛.jpg) | | [Pexels](https://www.pexels.com/photo/a-boy-learning-how-the-play-the-flute-from-his-mentor-8191574/) |
 | 笛 | 陶笛 | táodí | ocarina | ![陶笛](./music/陶笛.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg); margins expanded with PixelCut AI |
 | 筝 | 筝; 古筝 | zhēng; gǔzhēng | guzheng | ![筝](./music/筝.JPG) | Chinese zither; usually 21 strings | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vi_An_Diep_plays_guzheng_1.JPG) |
-| 箜; 篌 | 箜篌 | kōnghóu | konghou; Chinese harp | ![箜篌](./music/箜篌.jpg) | went "extinct" during the Ming Dynasty; modern 箜篌 resembles western 竖琴 (harps) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Konghou.jpg) |
+| 箜; 篌 | 箜篌 | kōnghóu | konghou; Chinese harp | ![箜篌](./music/箜篌.jpg) | went "extinct" during the Ming Dynasty; modern 箜篌 resemble western 竖琴 (harps) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Konghou.jpg) |
 | 管 | 单簧管; 黑管 | dānhuángguǎn; hēiguǎn | clarinet | ![单簧管](./music/单簧管.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-clarinet-on-a-street-15551341/) |
 | 管 | 双簧管 | shuānghuángguǎn | oboe | ![双簧管](./music/双簧管.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-clarinet-7095727/) |
 | 箫 | 箫 | xiāo | xiao | ![箫](./music/箫.jpg) | vertical bamboo flute | [Pexels](https://www.pexels.com/photo/man-using-a-flute-12391588/) |
