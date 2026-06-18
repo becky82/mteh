@@ -10,7 +10,7 @@
 | 号 | 长号 | chánghào | trombone | ![长号](./music/长号.jpg) | | [Pexels](https://www.pexels.com/photo/two-people-playing-trombone-11939132/) |
 | | 合成器 | héchéngqì | synthesizer | ![合成器](./music/合成器.jpg) | | [Pexels](https://www.pexels.com/photo/switchers-on-sound-mixer-10827832/) |
 | | 吉他 | jítā | guitar | ![吉他](./music/吉他.jpg) | | [Pexels](https://www.pexels.com/photo/man-sitting-in-grass-and-playing-guitar-20742180/) |
-| | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | used at weddings, funerals, festivals | [Pexels](https://www.pexels.com/photo/elderly-man-playing-a-traditional-chinese-instrument-suona-on-the-sidewalk-at-night-9220728/) |
+| 唢 | 唢呐 | suǒnà | suona | ![唢呐](./music/唢呐.jpg) | used at weddings, funerals, festivals | [Pexels](https://www.pexels.com/photo/elderly-man-playing-a-traditional-chinese-instrument-suona-on-the-sidewalk-at-night-9220728/) |
 | 埙 | 埙 | xūn | xun; Chinese ocarina | ![埙](./music/埙.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xun_MET_DP169485.jpg) |
 | | 尤克里里 | yóukèlǐlǐ | ukulele | ![尤克里里](./music/尤克里里.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-in-a-hijab-sitting-on-a-chair-playing-a-ukule-28207863/) |
 | 弦 | 三弦 | sānxián | sanxian | ![三弦](./music/三弦.jpg) | family of 3-stringed plucked musical instruments | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chanzy_performance.jpg) |
@@ -27,6 +27,7 @@
 | 琴 | 扬琴 | yángqín | yangqin | ![扬琴](./music/扬琴.jpg) | Chinese hammered dulcimer | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%89%AC%E7%90%B4_%D0%AF%D0%BD%D1%86%D0%B8%D0%BD%D1%8C.jpg) |
 | 琴 | 木琴 | mùqín | xylophone | ![木琴](./music/木琴.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tres_xil%C3%B3fonos.JPG) |
 | 琴 | 柳琴 | liǔqín | liuqin lute | ![柳琴](./music/柳琴.jpg) | smaller than 琵琶 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Liuqin_player.jpg) |
+| 琴 | 特雷门琴 | tèléiménqín | theremin | ![特雷门琴](./music/特雷门琴.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Donna-maya-um-festival-2021.jpg) |
 | 琴 | 班卓琴 | bānzhuóqín | banjo | ![班卓琴](./music/班卓琴.jpg) | | [Pexels](https://www.pexels.com/photo/people-in-cowboy-hats-playing-on-musical-instruments-12444472/) |
 | 琴 | 琴; 古琴 | qín; gǔqín | qin | ![琴](./music/琴.jpg) | 7-stringed Chinese zither | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B%E7%8E%89%E5%A3%B6%E5%86%B0%E7%90%B409554.jpg) |
 | 琴 | 电子琴 | diànzǐqín | keyboard | ![电子琴](./music/电子琴.jpg) | | [Pexels](https://www.pexels.com/photo/a-person-playing-the-keyboard-5562683/) |
@@ -69,4 +70,5 @@
 | 鼓 | 腰鼓 | yāogǔ | waist drum | ![腰鼓](./music/腰鼓.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-festival-performer-in-costume-28776085/) |
 | 鼓; 铃 | 铃鼓 | línggǔ | tambourine | ![铃鼓](./music/铃鼓.jpg) | | [Pexels](https://www.pexels.com/photo/colorful-tambourine-with-star-design-on-yellow-background-37414885/) |
 | 鼓 | 鼓 | gǔ | drum | ![鼓](./music/鼓.jpg) | generic term | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
+
 
