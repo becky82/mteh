@@ -39,6 +39,7 @@
 | 瑟 | 古瑟; 瑟 | gǔsè; sè | guse; se | ![古瑟](./music/古瑟.jpg) | historical; noted for its harmony with 琴; used figuratively in 琴瑟 to represent marital harmony | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AD%94%E5%BB%9F%E6%96%87%E7%89%A9%E6%94%B6%E8%97%8F_%E6%A8%82%E5%99%A8%E7%91%9F.JPG) |
 | 磬 | 编磬 | biānqìng | set of chime stones | ![编磬](./music/编磬.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jongmyo_DSC_6892.jpg) |
 | 笙 | 笙 | shēng | sheng | ![笙](./music/笙.jpg) | multiple bamboo pipes | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%AC%99_Sheng_%D0%A8%D1%8D%D0%BD_(7851401076).jpg) |
+| 笛 | 短笛 | duǎndí | piccolo | ![短笛](./music/短笛.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-shot-of-black-and-brown-flutes-14587582/) |
 | 笛 | 笛子 | dízi | bamboo flute | ![笛子](./music/笛子.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-musician-playing-bamboo-flute-outdoors-34128562/) |
 | 笛 | 长笛 | chángdí | flute | ![长笛](./music/长笛.jpg) | | [Pexels](https://www.pexels.com/photo/a-boy-learning-how-the-play-the-flute-from-his-mentor-8191574/) |
 | 笛 | 陶笛 | táodí | ocarina | ![陶笛](./music/陶笛.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg); margins expanded with PixelCut AI |
