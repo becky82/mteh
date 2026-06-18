@@ -53,6 +53,7 @@
 | 鼓 | 定音鼓 | dìngyīngǔ | timpani | ![定音鼓](./music/定音鼓.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Timpani,_I_Solisti_Veneti,_La_tromba,_regina_degli_ottoni_27_sett_2022_(Chesa_della_Rotonda,_Rovigo)_01.jpg) |
 | 鼓 | 架子鼓 | jiàzigǔ | drum kit | ![架子鼓](./music/架子鼓.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-drums-7802342/) |
 | 鼓 | 腰鼓 | yāogǔ | waist drum | ![腰鼓](./music/腰鼓.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-festival-performer-in-costume-28776085/) |
+| 鼓; 铃 | 铃鼓 | línggǔ | tamborine | ![腰鼓](./music/铃鼓.jpg) | | [Pexels](https://www.pexels.com/photo/colorful-tambourine-with-star-design-on-yellow-background-37414885/) |
 | 鼓 | 鼓 | gǔ | drum | ![鼓](./music/鼓.jpg) | generic term | [Pexels](https://www.pexels.com/photo/a-large-drum-on-a-wooden-construction-standing-outside-18131025/) |
 
 
