@@ -43,6 +43,7 @@
 | 管 | 单簧管; 黑管 | dānhuángguǎn; hēiguǎn | clarinet | ![单簧管](./music/单簧管.jpg) | | [Pexels](https://www.pexels.com/photo/man-playing-the-clarinet-on-a-street-15551341/) |
 | 管 | 双簧管 | shuānghuángguǎn | oboe | ![双簧管](./music/双簧管.jpg) | | [Pexels](https://www.pexels.com/photo/a-woman-playing-clarinet-7095727/) |
 | 箫 | 箫 | xiāo | xiao | ![箫](./music/箫.jpg) | vertical bamboo flute | [Pexels](https://www.pexels.com/photo/man-using-a-flute-12391588/) |
+| 箫 | 葫芦丝; 葫芦箫 | húlúsī; húlúxiāo | hulusi; cucurbit flute; gourd flute | ![葫芦丝](./music/葫芦丝.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hulusi_Medieval_festival_of_Saint-Antoine-l%27Abbaye.jpg) |
 | | 编钟 | biānzhōng | set of bells | ![编钟](./music/编钟.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bell_set_unearthed_from_Tomb_1,_Dayun_Mountain,_Xuyi,_Jiangsu_Western_Han_period_(206_BCE%E2%80%939_CE)_MH_01.jpg) |
 | | 萨克斯; 萨克斯风 | sàkèsī; sàkèsīfēng | saxophone | ![萨克斯](./music/萨克斯.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-man-playing-a-saxophone-9002853/) |
 | 角 | 角 | jiǎo | horn | ![角](./music/角.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hungary_Jaszbereny_Lehel.jpg); margins expanded using PixelCut AI |
