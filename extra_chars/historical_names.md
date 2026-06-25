@@ -41,5 +41,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
 | 遂 | 毛遂 | Máo Suì| ![毛遂](./names/毛遂.png) | Zhao diplomat in Warring States period; volunteered to secure Chu alliance [毛遂自荐](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82%E8%87%AA%E8%8D%90/81734) | [Baidu Baike](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82/342316) |
 | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
-| 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.jpg) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
+| 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
 
