@@ -24,7 +24,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 炀 | 隋炀帝 | Suí Yáng Dì | ![隋炀帝](./names/隋炀帝.jpg) | Emperor Yang of Sui; 杨广 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Sui_Yangdi_Tang.jpg) |
 | 熙 | 康熙 | Kāngxī | ![康熙](./names/康熙.jpg) | Qing emperor; known for e.g. Kangxi dictionary 《康熙字典》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Portrait_of_the_Kangxi_Emperor_in_Court_Dress.jpg) |
 | 熹 | 朱熹 | Zhū Xī | ![朱熹](./names/朱熹.jpg) | Song dynasty Neo-Confucian philosopher | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhu_Xi.jpg) |
-| 珅 | 和珅 | Hé Shēn | ![和珅](./names/和珅.jpg) | Corrupt manchu official of Qing dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hesen.jpg) |
+| 珅 | 和珅 | Hé Shēn | ![和珅](./names/和珅.jpg) | Corrupt manchu Qing dynasty official | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hesen.jpg) |
 | 瑜 | 周瑜 | Zhōu Yú | ![周瑜](./names/周瑜.jpg) | Eastern Wu general, strategist in Three Kingdoms period | [Wikimedia](https://commons.wikimedia.org/wiki/File:DSC_0365_(44986130604).jpg) |
 | 甫 | 杜甫 | Dù Fǔ | ![杜甫](./names/杜甫.jpg) | Tang dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dufu.jpg) |
 | 祯 | 崇祯 | Chóng Zhēn | ![崇祯](./names/崇祯.jpg) | last Ming emperor | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%98%8E%E6%84%8D%E5%B8%9D%E6%9C%B1%E7%94%B1%E6%A3%80.jpg) |
