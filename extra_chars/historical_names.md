@@ -26,6 +26,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 熹 | 朱熹 | Zhū Xī | ![朱熹](./names/朱熹.jpg) | Song dynasty Neo-Confucian philosopher | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhu_Xi.jpg) |
 | 珅 | 和珅 | Hé Shēn | ![和珅](./names/和珅.jpg) | Corrupt manchu Qing dynasty official | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hesen.jpg) |
 | 瑜 | 周瑜 | Zhōu Yú | ![周瑜](./names/周瑜.jpg) | Eastern Wu general, strategist in Three Kingdoms period | [Wikimedia](https://commons.wikimedia.org/wiki/File:DSC_0365_(44986130604).jpg) |
+| 瓒 | 公孙瓒 | Gōngsūn Zàn | ![公孙瓒](./names/公孙瓒.jpg) | late-Han warlord; called 白马将军 for riding a white horse; he called his followers who also rode white horses 白马义从 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Gongsun_Zan_Qing_illustration.jpg) |
 | 甫 | 杜甫 | Dù Fǔ | ![杜甫](./names/杜甫.jpg) | Tang dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dufu.jpg) |
 | 祯 | 崇祯 | Chóng Zhēn | ![崇祯](./names/崇祯.jpg) | last Ming emperor | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%98%8E%E6%84%8D%E5%B8%9D%E6%9C%B1%E7%94%B1%E6%A3%80.jpg) |
 | 禧 | 慈禧 | Cíxǐ | ![慈禧](./names/慈禧.jpg) | Qing dynasty empress dowager | [Wikimedia](https://commons.wikimedia.org/wiki/File:Empress_Dowager_Cixi_(c._1890,_small_version)_-_02.jpg) |
@@ -48,5 +49,4 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
 | 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
-
 
