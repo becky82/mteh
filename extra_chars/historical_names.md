@@ -53,5 +53,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
 | 颉 | 仓颉 | Cāng Jié | ![仓颉](./names/仓颉.png) | mythological; four-eyed bureaucrat of the 黄帝 (Yellow Emperor); "inventor" of Chinese characters; origin of the name of the Cangjie input method | [Wikimedia](https://commons.wikimedia.org/wiki/File:Cangjie.png) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
-| 鲧 | 鲧 | Gǔn | Gun | ![鲧](./鱼/鲧.jpg) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 (Yǔ) succeeded by creating canals in the story of 大禹治水 | [ChatGPT](https://chatgpt.com/share/693373e7-e204-8010-a215-eda4b58e03ef); PixelCut AI used to extend boundaries |
+| 鲧 | 鲧 | Gǔn | ![鲧](./鱼/鲧.jpg) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 (Yǔ) succeeded by creating canals in the story of 大禹治水 | [ChatGPT](https://chatgpt.com/share/693373e7-e204-8010-a215-eda4b58e03ef); PixelCut AI used to extend boundaries |
 
