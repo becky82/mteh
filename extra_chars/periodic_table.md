@@ -30,17 +30,17 @@ The majority of these Chinese characters are not familiar to most people, unless
 | 20 | 钙 | gài | Calcium | ![钙](./periodic_table/钙.jpg) | 补钙 (calcium supplement) | [Pexels](https://www.pexels.com/photo/back-view-of-a-person-writing-on-a-blackboard-8197529/) |
 | 22 | 钛 | tài | Titanium | ![钛](./periodic_table/钛.jpg) | 钛合金 (titanium alloy) | [Pexels](https://www.pexels.com/photo/logo-on-the-head-of-a-golf-club-8557693/) |
 | 24 | 铬 | gè | Chromium | ![铬](./periodic_table/铬.jpg) | 电镀铬 (chrome plating) | [Wikimedia](https://commons.wikimedia.org/wiki/File:BMW_E92_M3_Chrome_Bullet_Goodwood_FoS_2012-06-29.jpg) |
-| 26 | 铁 | tiě | Iron | ![铁](./periodic_table/铁.jpg) | 地铁 (subway); 铁路 (railroad); 磁铁 (magnet); 钢铁 (steel); 钢铁侠 (Iron Man) | [Pexels](https://www.pexels.com/photo/brown-train-rails-2213140/) |
+| 26 | 铁 | tiě | Iron | ![铁](./periodic_table/铁.jpg) | 地铁 (subway); 铁路 (railroad); 磁铁 (magnet); 钢铁 (steel); 钢铁侠 (Iron Man); 烙铁 (branding iron); an "iron" for pressing clothes is 熨斗 | [Pexels](https://www.pexels.com/photo/brown-train-rails-2213140/) |
 | 28 | 镍 | niè | Nickel | ![镍](./periodic_table/镍.png) | 镀镍 (nickel plating); also used in many alloys (e.g. 镍铬合金 NiCr found in e.g. toasters); USA's 5-cent coin 5美分硬币 can be called 镍币 | [Wikimedia](https://commons.wikimedia.org/wiki/File:US_Nickel_2013_Rev.png) |
 | 29 | 铜 | tóng | Copper | ![铜](./periodic_table/铜.jpg) | 铜牌 (bronze medal); 青铜 (bronze) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bronze_Monster_Mask_from_a_horse_bridle_Western_Zhou_dynasty_China_9th_century_BCE.jpg) |
 | 30 | 锌 | xīn | Zinc | ![锌](./periodic_table/锌.jpg) | 镀锌 (galvanize [zinc plated]) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hot_galvanized_sheet.jpg) |
 | 47 | 银 | yín | Silver | ![银](./periodic_table/银.jpg) | 银牌 (silver medal); 银行 (bank) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Maica_Garc%C3%ADa_Godoy.jpg) |
-| 50 | 锡 | xī | Tin | ![锡](./periodic_table/锡.jpg) | 锡罐 (tin can); 锡纸 (tin foil) | [Pexels](https://www.pexels.com/photo/tin-can-on-gravel-surface-1003103/) |
+| 50 | 锡 | xī | Tin | ![锡](./periodic_table/锡.jpg) | 锡罐 (tin can); 锡纸 (tin foil); used in 焊料 (solder) | [Pexels](https://www.pexels.com/photo/tin-can-on-gravel-surface-1003103/) |
 | 53 | 碘 | diǎn | Iodine | ![碘](./periodic_table/碘.jpg) | 碘化食盐 (iodized salt) | [Wikimedia](https://commons.wikimedia.org/wiki/File:China_Salt_low_sodium_iodized_salt_on_shelf_(20230824183556).jpg) |
 | 74 | 钨 | wū | Tungsten | ![钨](./periodic_table/钨.jpg) | 钨丝 (tungsten filament) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Drill_tip_masonry.jpg) |
 | 78 | 铂 | bó  | Platinum | ![铂](./periodic_table/铂.jpg) | 铂金 (platinum); sometimes called 白金 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Platinum_finger_ring_with_diamond.jpg) |
 | 79 | 金 | jīn | Gold | ![金](./periodic_table/金.jpg) | 黄金 (gold); 金牌 (gold medal); 金融 (finance); 金属 (metal) | [Pexels](https://www.pexels.com/photo/gold-bar-lot-47047/) |
 | 80 | 汞 | gǒng | Mercury | ![汞](./periodic_table/汞.jpg) | aka 水银 (quicksilver) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mercury_(Element_-_80)_2.jpg) |
-| 82 | 铅 | qiān | Lead | ![铅](./periodic_table/铅.jpg) | 铅笔 (grey lead pencil), although they actually use 石墨 (graphite) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Angeln_zubehoer_grundblei_01.jpg) |
+| 82 | 铅 | qiān | Lead | ![铅](./periodic_table/铅.jpg) | 铅笔 (grey lead pencil), although they actually use 石墨 (graphite); 含铅汽油 (leaded petrol); 无铅汽油 (unleaded petrol); 铅坠 (fishing sinkers; aka 鱼坠); used to be used in 焊料 (solder) along with 锡 (tin) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Angeln_zubehoer_grundblei_01.jpg) |
 | 84 | 钋 | pō | Polonium | ![钋](./periodic_table/钋.jpg) | used in 核反应堆 (nuclear reactors) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Polonium_(Element_-_84)_2.jpg) |
 | 92 | 铀 | yóu | Uranium | ![铀](./periodic_table/铀.jpg) | 浓缩铀 (enriched uranium) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Uranium_glass_(Polke)_(34394837730).jpg) |
