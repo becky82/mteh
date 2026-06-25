@@ -17,6 +17,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 妲 | 妲己 | Dájǐ | ![妲己](./names/妲己.jpg) | favourite consort of 商纣王 King Zhou of Shang | [Wikimedia](https://zh-classical.wikipedia.org/wiki/%E6%AA%94%E6%A1%88:Ping_Sien_Si_-_026_Daji_(16133466711).jpg) |
 | 姒 | 褒姒 | Bāo Sì | ![褒姒](./names/褒姒.jpg) | a wife of 周幽王 (King You of Zhou); a figure in the [烽火戏诸侯](https://baike.baidu.com/item/烽火戏诸侯/34836) (a Chinese fable akin to "the boy who cried wolf") leading to the end of the Western Zhou dynasty | [Wikimedia](https://zh.wikipedia.org/zh-cn/%E8%A4%92%E5%A7%92) |
 | 嬴 | 嬴政 | Yíng Zhèng | ![嬴政](./names/嬴政.png) | personal name of 秦始皇, the first emperor of a unified China | [Wikimedia](https://commons.wikimedia.org/wiki/File:Qin_Shi_Huang_statue.jpg) |
+| 尧 | 尧 | Yáo | ![尧](./names/尧.jpg) | legendary ruler Yao; one of the 五帝 (Five Legendary Emperors); passed the throne to the meritorious 舜 (Shun) instead of his own son | [Wikimedia](https://commons.wikimedia.org/wiki/File:EmperorYao2.jpg) |
 | 彧 | 荀彧 | Xún Yù | ![荀彧](./names/荀彧.jpg) | Political strategist and advisor to Cao Cao in late Han dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xun_Yu_Qing_illustration.jpg) |
 | 晁 | 晁补之 | Cháo Bǔzhī | ![晁补之](./names/晁补之.png) | Northern Song dynasty poet; one of the four 苏门四学士 who studied under 苏轼 | [Wikimedia](https://zh.wikipedia.org/wiki/%E6%99%81%E8%A1%A5%E4%B9%8B#/media/File:%E6%99%81%E8%A3%9C%E4%B9%8B.jpg) |
 | 棠 | 左宗棠 | Zuǒ Zōngtáng | ![左宗棠](./names/左宗棠.jpg) | Qing dynasty general; used in 左宗棠鸡 "General Tso's chicken" | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg) |
@@ -54,4 +55,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 颉 | 仓颉 | Cāng Jié | ![仓颉](./names/仓颉.png) | mythological; four-eyed bureaucrat of the 黄帝 (Yellow Emperor); "inventor" of Chinese characters; origin of the name of the Cangjie input method | [Wikimedia](https://commons.wikimedia.org/wiki/File:Cangjie.png) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
 | 鲧 | 鲧 | Gǔn | ![鲧](./鱼/鲧.jpg) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 (Yǔ) succeeded by creating canals in the story of 大禹治水 | [ChatGPT](https://chatgpt.com/share/693373e7-e204-8010-a215-eda4b58e03ef); PixelCut AI used to extend boundaries |
+
 
