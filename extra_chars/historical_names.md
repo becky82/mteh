@@ -37,6 +37,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 羲 | 王羲之 | Wáng Xīzhī | ![王羲之](./names/王羲之.jpg) | Jin dynasty calligrapher, known as 书圣 "Sage of Calligraphy" | [Wikimedia](https://en.wikipedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg) |
 | 羿 | 后羿 | Hòuyì | ![后羿](./names/后羿.png) | mythological archer; wife is 嫦娥; known for shooting down 9 of 10 suns 后羿射日 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif) |
 | 聃 | 老聃 | Lǎo Dān | ![老聃](./names/老聃.jpg) | 老子 (Laozi), ancient philosopher and founder of Taoism | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg) |
+| 胥 | 伍子胥 | Wǔ Zǐxū | ![伍子胥](./names/伍子胥.png) | military general and politician of Wu during the Spring and Autumn period; also called 伍员 (Wǔ Yún)  | [Wikimedia](https://zh.wikipedia.org/wiki/File:Wu_Yun_(Wu_Zixu).png) |
 | 膑 | 孙膑 | Sūn Bìn | ![孙膑](./names/孙膑.jpg) | Warring States military strategist of Qi; author of [《孙膑兵法》](https://baike.baidu.com/item/%E5%AD%99%E8%86%91%E5%85%B5%E6%B3%95/436235) (Sun Bin's Art of War) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Sun_Bin.jpg) |
 | 舜 | 舜 | Shùn | ![舜](./names/舜.png) | legendary ruler Yao; one of the 五帝 (Five Legendary Emperors); aka 虞舜 (Yú Shùn) | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%B8%9D%E8%88%9C.png) |
 | 荀 | 荀子 | Xún Zǐ | ![荀子](./names/荀子.jpg) | Warring States Confucian philosopher; author of 《荀子》 | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%88%98%E5%9B%BD%E6%97%B6%E6%A5%9A%E5%85%B0%E9%99%B5%E4%BB%A4%E8%8D%80%E5%86%B5.jpg) |
@@ -59,4 +60,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 馗 | 钟馗 | Zhōng Kuí | ![钟馗](./names/钟馗.jpg) | mythological; Tang Dynasty scholar, amazing scores on the imperial civil service examination but was terrifyingly ugly and stripped of honors; he killed himself and became a vanquisher of evil spirits; his likeness is used to ward off evil spirits | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhong_Kui_by_Shibata_Zeshin.jpg) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
 | 鲧 | 鲧 | Gǔn | ![鲧](./names/鲧.png) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 succeeded | [Baidu Baike](https://baike.baidu.com/item/%E9%B2%A7/952007) |
+
 
