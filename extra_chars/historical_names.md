@@ -32,6 +32,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 纣 | 商纣王 | Shāng Zhòu Wáng | ![商纣王](./names/商纣王.jpg) | tyrannical Shang dynasty king | [Wikimedia](https://commons.wikimedia.org/wiki/File:King_Zhou_of_Shng_Dynasty.jpg) |
 | 羲 | 王羲之 | Wáng Xīzhī | ![王羲之](./names/王羲之.jpg) | Jin dynasty calligrapher, known as 书圣 "Sage of Calligraphy" | [Wikimedia](https://en.wikipedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg) |
 | 羿 | 后羿 | Hòuyì | ![后羿](./names/后羿.png) | mythological archer; wife is 嫦娥; known for shooting down 9 of 10 suns 后羿射日 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif) |
+| 聃 | 老聃 | Lǎo Dān | ![老聃](./names/老聃.jpg) | 老子 (Laozi), ancient philosopher and founder of Taoism | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg) |
 | 膑 | 孙膑 | Sūn Bìn | ![孙膑](./names/孙膑.jpg) | Warring States military strategist of Qi; author of [《孙膑兵法》](https://baike.baidu.com/item/%E5%AD%99%E8%86%91%E5%85%B5%E6%B3%95/436235) (Sun Bin's Art of War) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Sun_Bin.jpg) |
 | 荀 | 荀子 | Xún Zǐ | ![荀子](./names/荀子.jpg) | Warring States Confucian philosopher; author of 《荀子》 | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%88%98%E5%9B%BD%E6%97%B6%E6%A5%9A%E5%85%B0%E9%99%B5%E4%BB%A4%E8%8D%80%E5%86%B5.jpg) |
 | 菩 | 观音菩萨 | Guānyīn Púsà | ![观音菩萨](./names/观音菩萨.jpeg) | the 菩萨 Bodhisattva of compassion in Buddhism | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thousand_Armed_Avalokitesvara_-_Guanyin_Nunnery_-_2.jpeg) |
@@ -47,4 +48,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
 | 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
+
 
