@@ -53,6 +53,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 轲 | 孟轲 | Mèng Kē | ![孟轲](./names/孟轲.jpg) | Confucian philosopher Mencius; also known as 孟子 Mèngzǐ | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mencius_Chinese_portrait.jpg) |
 | 轼 | 苏轼 | Sū Shì | ![苏轼](./names/苏轼.jpg) | Song dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Su_shi.jpg) |
 | 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
+| 逖 | 祖逖 | Zǔ Tì | ![祖逖](./names/祖逖.jpg) | Jin Dynasty general; forces lost during 五胡乱华 (Upheaval of the Five Barbarians) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zu_Ti(%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8).jpg) |
 | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
 | 遂 | 毛遂 | Máo Suì| ![毛遂](./names/毛遂.png) | Zhao diplomat in Warring States period; volunteered to secure Chu alliance [毛遂自荐](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82%E8%87%AA%E8%8D%90/81734) | [Baidu Baike](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82/342316) |
 | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
@@ -61,4 +62,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 馗 | 钟馗 | Zhōng Kuí | ![钟馗](./names/钟馗.jpg) | mythological; Tang Dynasty scholar, amazing scores on the imperial civil service examination but was terrifyingly ugly and stripped of honors; he killed himself and became a vanquisher of evil spirits; his likeness is used to ward off evil spirits | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhong_Kui_by_Shibata_Zeshin.jpg) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
 | 鲧 | 鲧 | Gǔn | ![鲧](./names/鲧.png) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 succeeded | [Baidu Baike](https://baike.baidu.com/item/%E9%B2%A7/952007) |
+
 
