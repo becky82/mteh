@@ -11,6 +11,7 @@ Currently, MteH focuses entirely on **simplified Chinese characters**, especiall
 - [Extra characters](./extra_chars/characters-to-know-exist.md) (good to know, but not part of MteH)
     - [Repeated-component characters](./extra_chars/repeated_components.md)
     - [Periodic table of the elements](./extra_chars/periodic_table.md)
+    - [Musical instruments](./extra_chars/music.md)
     - [Province abbreviations](./extra_chars/province_abbreviations.md)
     - [Characters/words using or related to 虫](./extra_chars/虫.md) (insects; lower life forms)
     - [Characters/words using or related to 鸟](./extra_chars/鸟.md) (birds)
