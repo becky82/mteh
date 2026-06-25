@@ -35,7 +35,7 @@ The majority of these Chinese characters are not familiar to most people, unless
 | 29 | 铜 | tóng | Copper | ![铜](./periodic_table/铜.jpg) | 铜牌 (bronze medal); 青铜 (bronze) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bronze_Monster_Mask_from_a_horse_bridle_Western_Zhou_dynasty_China_9th_century_BCE.jpg) |
 | 30 | 锌 | xīn | Zinc | ![锌](./periodic_table/锌.jpg) | 镀锌 (galvanize [zinc plated]) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hot_galvanized_sheet.jpg) |
 | 47 | 银 | yín | Silver | ![银](./periodic_table/银.jpg) | 银牌 (silver medal); 银行 (bank) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Maica_Garc%C3%ADa_Godoy.jpg) |
-| 50 | 锡 | xī | Tin | ![锡](./periodic_table/锡.jpg) | 锡罐 (tin can); 锡纸 (tin foil); used in 焊料 (solder) | [Pexels](https://www.pexels.com/photo/tin-can-on-gravel-surface-1003103/) |
+| 50 | 锡 | xī | Tin | ![锡](./periodic_table/锡.jpg) | 锡罐 (tin can); 锡箔 and 锡纸 (tin foil); used in 焊料 (solder) | [Pexels](https://www.pexels.com/photo/tin-can-on-gravel-surface-1003103/) |
 | 53 | 碘 | diǎn | Iodine | ![碘](./periodic_table/碘.jpg) | 碘化食盐 (iodized salt) | [Wikimedia](https://commons.wikimedia.org/wiki/File:China_Salt_low_sodium_iodized_salt_on_shelf_(20230824183556).jpg) |
 | 74 | 钨 | wū | Tungsten | ![钨](./periodic_table/钨.jpg) | 钨丝 (tungsten filament) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Drill_tip_masonry.jpg) |
 | 78 | 铂 | bó  | Platinum | ![铂](./periodic_table/铂.jpg) | 铂金 (platinum); sometimes called 白金 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Platinum_finger_ring_with_diamond.jpg) |
