@@ -37,12 +37,12 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 蔺 | 蔺相如 | Lìn Xiāngrú | ![蔺相如](./names/蔺相如.jpg) | Warring States Zhao diplomat, famous for 《战国策》; part of the background stories for the chengyus [完璧归赵](https://baike.baidu.com/item/%E5%AE%8C%E7%92%A7%E5%BD%92%E8%B5%B5/358352) and [刎颈之交](https://baike.baidu.com/item/%E5%88%8E%E9%A2%88%E4%B9%8B%E4%BA%A4/318215) | [Wikimedia](https://en.wikipedia.org/wiki/File:Heshibi_%E5%AE%8C%E7%92%A7%E5%BD%92%E8%B5%B5%E6%AD%A6%E6%B0%8F%E7%A5%A0_%E9%87%91%E7%9F%B3%E7%B4%A23.jpg) |
 | 襄 | 赵襄子 | Zhào Xiāngzǐ | ![赵襄子](./names/赵襄子.png) | founder of 赵国 during the late Spring and Autumn period; appears in the background story for [争先恐后](https://baike.baidu.com/item/%E4%BA%89%E5%85%88%E6%81%90%E5%90%8E/1663456) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Yu_Rang_cuts_the_robe,_ascribed_Nobukazu.jpg) |
 | 诩 | 贾诩 | Jiǎ Xǔ | ![贾诩](./names/贾诩.jpg) | Cao Wei official in Three Kingdoms period | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jia_Xu2.jpg) |
-    | 轲 | 孟轲 | Mèng Kē | ![孟轲](./names/孟轲.jpg) | Confucian philosopher Mencius; also known as 孟子 Mèngzǐ | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mencius_Chinese_portrait.jpg) |
-    | 轼 | 苏轼 | Sū Shì | ![苏轼](./names/苏轼.jpg) | Song dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Su_shi.jpg) |
-    | 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
-    | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
-    | 遂 | 毛遂 | Máo Suì| ![毛遂](./names/毛遂.png) | Zhao diplomat in Warring States period; volunteered to secure Chu alliance [毛遂自荐](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82%E8%87%AA%E8%8D%90/81734) | [Baidu Baike](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82/342316) |
-    | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
-    | 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
+| 轲 | 孟轲 | Mèng Kē | ![孟轲](./names/孟轲.jpg) | Confucian philosopher Mencius; also known as 孟子 Mèngzǐ | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mencius_Chinese_portrait.jpg) |
+| 轼 | 苏轼 | Sū Shì | ![苏轼](./names/苏轼.jpg) | Song dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Su_shi.jpg) |
+| 辙 | 苏辙 | Sū Zhé | ![苏辙](./names/苏辙.jpg) | Song dynasty scholar, younger brother of 苏轼 Su Shi | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E9%97%A8%E4%B8%8B%E4%BE%8D%E9%83%8E%E8%8B%8F%E6%96%87%E5%AE%9A%E5%85%AC%E8%BE%99.jpg) |
+| 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
+| 遂 | 毛遂 | Máo Suì| ![毛遂](./names/毛遂.png) | Zhao diplomat in Warring States period; volunteered to secure Chu alliance [毛遂自荐](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82%E8%87%AA%E8%8D%90/81734) | [Baidu Baike](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82/342316) |
+| 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
+| 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
 
 
