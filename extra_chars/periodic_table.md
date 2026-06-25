@@ -12,7 +12,7 @@ The majority of these Chinese characters are not familiar to most people, unless
 
 | atomic number | element | pinyin | English | image | notes | image source |
 |--------|-----------|------|-------|-----------|-----------|-----------|
-| 1 | 氢 | qīng | Hydrogen | ![氢](./periodic_table/氢.png) | 氢弹 (hydrogen bomb) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
+| 1 | 氢 | qīng | Hydrogen | ![氢](./periodic_table/氢.png) | 氢弹 (hydrogen bomb); also comes in the forms 氘 (dāo; deuterium; 重氢) and 氚 (chuān; tritium; 超重氢) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
 | 2 | 氦 | hài | Helium | ![氦](./periodic_table/氦.jpg) | 氦气球 (helium balloon) | [Pexels](https://www.pexels.com/photo/close-up-shot-of-a-gold-balloon-5725971/) |
 | 3 | 锂 | lǐ | Lithium | ![锂](./periodic_table/锂.jpg) | 锂电池 (lithium ion battery) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Motorola_HF5X_Battery.jpg) |
 | 6 | 碳 | tàn | Carbon | ![碳](./periodic_table/碳.jpg) | 二氧化碳 (carbon dioxide); 碳水化合物 (carbohydrate) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Carbon_black.jpg) |
