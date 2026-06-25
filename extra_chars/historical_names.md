@@ -57,10 +57,10 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 逵 | 李逵 | Lǐ Kuí | ![李逵](./names/李逵.jpg) | hero in novel "Water Margin" 《水浒传》 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shuipo_Liangshan_(2910767757).jpg) |
 | 遂 | 毛遂 | Máo Suì| ![毛遂](./names/毛遂.png) | Zhao diplomat in Warring States period; volunteered to secure Chu alliance [毛遂自荐](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82%E8%87%AA%E8%8D%90/81734) | [Baidu Baike](https://baike.baidu.com/item/%E6%AF%9B%E9%81%82/342316) |
 | 郃 | 张郃 | Zhāng Hé | ![张郃](./names/张郃.jpg) | Cao Wei general in Three Kingdoms period; also called 儁乂 (Jùnyì) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhang_He_Portrait.jpg) |
+| 郦 | 郦道元 | Lì Dàoyuán | ![郦道元](./names/郦道元.png) | Northern Wei geographer and writer; author of 《水经注》 (Commentary on the Water Classic) | [Baidu Baike](https://baike.baidu.com/item/%E9%83%A6%E9%81%93%E5%85%83/378151) |
 | 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
 | 颉 | 仓颉 | Cāng Jié | ![仓颉](./names/仓颉.png) | mythological; four-eyed bureaucrat of the 黄帝 (Yellow Emperor); "inventor" of Chinese characters; origin of the name of the Cangjie input method | [Wikimedia](https://commons.wikimedia.org/wiki/File:Cangjie.png) |
 | 馗 | 钟馗 | Zhōng Kuí | ![钟馗](./names/钟馗.jpg) | mythological; Tang Dynasty scholar, amazing scores on the imperial civil service examination but was terrifyingly ugly and stripped of honors; he killed himself and became a vanquisher of evil spirits; his likeness is used to ward off evil spirits | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zhong_Kui_by_Shibata_Zeshin.jpg) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
 | 鲧 | 鲧 | Gǔn | ![鲧](./names/鲧.png) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 succeeded | [Baidu Baike](https://baike.baidu.com/item/%E9%B2%A7/952007) |
-
 
