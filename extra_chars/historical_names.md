@@ -14,7 +14,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 匡, 胤 | 赵匡胤 | Zhào Kuāngyìn | ![赵匡胤](./names/赵匡胤.png) | Founder of Song dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
 | 奘 | 玄奘 | Xuánzàng | ![玄奘](./names/玄奘.jpg) | Tang dynasty monk | [Wikimedia](https://zh.wikipedia.org/wiki/File:Xuanzang_w.jpg) |
 | 妲 | 妲己 | Dájǐ | ![妲己](./names/妲己.jpg) | favourite consort of 商纣王 King Zhou of Shang | [Wikimedia](https://zh-classical.wikipedia.org/wiki/%E6%AA%94%E6%A1%88:Ping_Sien_Si_-_026_Daji_(16133466711).jpg) |
-| 姒 | 褒姒 | Bāo Sì | ![褒姒](./names/褒姒.jpg) | a wife of 周幽王 (King You of Zhou); a figure in the 烽火戏诸侯 (a Chinese fable akin to "the boy who cried wolf") leading to the end of the Western Zhou dynasty | [Wikimedia](https://zh.wikipedia.org/zh-cn/%E8%A4%92%E5%A7%92) |
+| 姒 | 褒姒 | Bāo Sì | ![褒姒](./names/褒姒.jpg) | a wife of 周幽王 (King You of Zhou); a figure in the [烽火戏诸侯](https://baike.baidu.com/item/烽火戏诸侯/34836) (a Chinese fable akin to "the boy who cried wolf") leading to the end of the Western Zhou dynasty | [Wikimedia](https://zh.wikipedia.org/zh-cn/%E8%A4%92%E5%A7%92) |
 | 嬴 | 嬴政 | Yíng Zhèng | ![嬴政](./names/嬴政.png) | personal name of 秦始皇, the first emperor of a unified China | [Wikimedia](https://commons.wikimedia.org/wiki/File:Qin_Shi_Huang_statue.jpg) |
 | 晁 | 晁补之 | Cháo Bǔzhī | ![晁补之](./names/晁补之.png) | Northern Song dynasty poet; one of the four 苏门四学士 who studied under 苏轼 | [Wikimedia](https://zh.wikipedia.org/wiki/%E6%99%81%E8%A1%A5%E4%B9%8B#/media/File:%E6%99%81%E8%A3%9C%E4%B9%8B.jpg) |
 | 棠 | 左宗棠 | Zuǒ Zōngtáng | ![左宗棠](./names/左宗棠.jpg) | Qing dynasty general; used in 左宗棠鸡 "General Tso's chicken" | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg) |
