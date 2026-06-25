@@ -32,6 +32,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 甫 | 杜甫 | Dù Fǔ | ![杜甫](./names/杜甫.jpg) | Tang dynasty poet | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dufu.jpg) |
 | 祯 | 崇祯 | Chóng Zhēn | ![崇祯](./names/崇祯.jpg) | last Ming emperor | [Wikimedia](https://zh.wikipedia.org/wiki/File:%E6%98%8E%E6%84%8D%E5%B8%9D%E6%9C%B1%E7%94%B1%E6%A3%80.jpg) |
 | 禧 | 慈禧 | Cíxǐ | ![慈禧](./names/慈禧.jpg) | Qing dynasty empress dowager | [Wikimedia](https://commons.wikimedia.org/wiki/File:Empress_Dowager_Cixi_(c._1890,_small_version)_-_02.jpg) |
+| 禹 | 大禹 | Dà Yǔ | ![大禹](./names/大禹.jpg) | Yu the Great (or Yu the Engineer), founder of the Xia dynasty; legendary ruler who tamed the Great Flood through irrigation canals [大禹治水](https://baike.baidu.com/item/%E5%A4%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4/13884282) | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4%E5%9C%96.jpg) |
 | 纣 | 商纣王 | Shāng Zhòu Wáng | ![商纣王](./names/商纣王.jpg) | tyrannical Shang dynasty king | [Wikimedia](https://commons.wikimedia.org/wiki/File:King_Zhou_of_Shng_Dynasty.jpg) |
 | 羲 | 王羲之 | Wáng Xīzhī | ![王羲之](./names/王羲之.jpg) | Jin dynasty calligrapher, known as 书圣 "Sage of Calligraphy" | [Wikimedia](https://en.wikipedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg) |
 | 羿 | 后羿 | Hòuyì | ![后羿](./names/后羿.png) | mythological archer; wife is 嫦娥; known for shooting down 9 of 10 suns 后羿射日 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif) |
@@ -55,5 +56,5 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 雉 | 吕雉 | Lǚ Zhì | ![吕雉](./names/吕雉.png) | Empress Dowager Lü of Han | [Baidu Baike](https://baike.baidu.com/item/%E5%90%95%E9%9B%89/85327) |
 | 颉 | 仓颉 | Cāng Jié | ![仓颉](./names/仓颉.png) | mythological; four-eyed bureaucrat of the 黄帝 (Yellow Emperor); "inventor" of Chinese characters; origin of the name of the Cangjie input method | [Wikimedia](https://commons.wikimedia.org/wiki/File:Cangjie.png) |
 | 骞 | 张骞 | Zhāng Qiān | ![张骞](./names/张骞.jpg) | Western Han diplomat; expeditions opened up the Silk Road | [Wikimedia](https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg) |
-| 鲧 | 鲧 | Gǔn | ![鲧](./names/鲧.png) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 (Yǔ) succeeded by creating canals in the story of 大禹治水 | [Baidu Baike](https://baike.baidu.com/item/%E9%B2%A7/952007) |
+| 鲧 | 鲧 | Gǔn | ![鲧](./names/鲧.png) | mythical; failed at taming the great floods by building dams, and was executed; his son 禹 succeeded | [Baidu Baike](https://baike.baidu.com/item/%E9%B2%A7/952007) |
 
