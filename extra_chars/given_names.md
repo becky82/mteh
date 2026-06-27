@@ -22,7 +22,7 @@ These characters appear often in given names in Chinese (in Chinese names and/or
 | 昊 | ![张昊](./names/张昊.jpg) 张昊 Zhāng Hào | ![李昊](./names/李昊.png) 李昊 Lǐ Hào | ![陈昊宇](./names/陈昊宇.png) 陈昊宇 Chén Hàoyǔ | [Wikimedia](https://commons.wikimedia.org/wiki/File:Photos_%E2%80%93_Olympics_2018_%E2%80%93_Pairs_(YU_Xiaoyu_ZHANG_Hao_CHN_%E2%80%93_8th_Place)_(22).jpg); [Baidu Baike](https://baike.baidu.com/item/%E6%9D%8E%E6%98%8A/22336959); [Baidu Baike](https://baike.baidu.com/item/%E9%99%88%E6%98%8A%E5%AE%87/769842) |
 | 昕 | ![吴昕](./names/吴昕.png) 吴昕 Wú Xīn | ![张昕宇](./names/张昕宇.png) 张昕宇 Zhāng Xīnyǔ | ![李昕](./names/李昕.png) 李昕 Lǐ Xīn | [Wap Baike](https://wapbaike.baidu.com/tashuo/browse/content?id=0705d7139dcf0efd71a207fc); [baidu Baike](https://baike.baidu.com/item/%E5%BC%A0%E6%98%95%E5%AE%87/79048); [Baidu Baike](https://baike.baidu.com/item/李昕/2069892) |
 | 梓 | ![王梓薇](./names/王梓薇.png) 王梓薇 Wáng Zǐwēi | ![张梓琳](./names/张梓琳.jpg) 张梓琳 Zhāng Zǐlín | ![赵梓冲](./names/赵梓冲.png) 赵梓冲 Zhào Zǐchōng | [Baidu Baike](https://baike.baidu.com/item/%E7%8E%8B%E6%A2%93%E8%96%87/19709653); [Wikimedia](https://commons.wikimedia.org/wiki/File:Miss_World_2007_-_Zhang_Zilin_(3243539382).jpg); [Baidu Baike](https://baike.baidu.com/item/%E8%B5%B5%E6%A2%93%E5%86%B2/8679256) |
-| 烨 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
+| 烨 | ![陈烨](./names/陈烨.png) 陈烨 Chén Yè | [TO DO] | [TO DO] | [Baidu Baike](https://baike.baidu.com/item/%E9%99%88%E7%83%A8/20786488); [source 2]; [source 3] |
 | 煜 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 玑 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
 | 珂 | [TO DO] | [TO DO] | [TO DO] | [source 1]; [source 2]; [source 3] |
