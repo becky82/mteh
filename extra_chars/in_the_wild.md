@@ -7,6 +7,7 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 坞 | wù | 前方坞道 "dock access road ahead" related to 船坞 "dry dock"; found near waterways (the same 坞 as in 好莱坞 "Hollywood") | ![坞](./in_the_wild/坞.jpg) | original photo |
 | 戗 | qiàng | [戗面馒头](https://baike.baidu.com/item/戗面馒头) steamed buns made by kneading extra dry flour into fermented dough; seen on e.g. home delivery apps | ![戗](./in_the_wild/戗.jpg) | original photo (anonymized) |
 | 扦 | qiān | 扦裤脚 "to hem trousers"; seen at tailors | ![扦](./in_the_wild/扦.jpg) | original photo |
+| 撸 | lū | [撸串](https://baike.baidu.com/item/撸串) another word for skewers 烧烤; the character 撸 is also used in 撸猫 "to stroke a cat"; 撸铁 "to pump iron"; 撸袖子 "to roll up [one's] sleves" | ![撸](./in_the_wild/撸.jpg) | original photo |
 | 擀 | gǎn | [手擀面](https://baike.baidu.com/item/手擀面) "hand-rolled noodles"; 擀 "to roll (dough, with a 擀面杖 rolling pin)"; seen at some restaurants | ![擀](./in_the_wild/擀.jpg) | original photo |
 | 殡 | bìn | [殡葬](https://baike.baidu.com/item/%E6%AE%A1%E8%91%AC) "funeral and burial service" (this one is named 福霖 "Fúlín"); seen at 殡仪馆 (bìnyíguǎn) funeral parlors | ![殡](./in_the_wild/殡.jpg) | original photo (anonymized) |
 | 毂 | gǔ | [轮毂](https://baike.baidu.com/item/轮毂)焊修 "wheel hub welding/repair"; seen at mechanics | ![毂](./in_the_wild/毂.jpg) | original photo |
@@ -28,4 +29,5 @@ This list is for rare Chinese characters students might see in the wild (e.g., o
 | 钎 | qiān | [钢钎](https://baike.baidu.com/item/钢钎/5924569)羊肉串 "steel skewer mutton kebabs"; 钎 "skewer" or "sharp metal probe"; used for Xinjiang-style barbecue | ![钎](./in_the_wild/钎.jpg) | original photo |
 | 钣 | bǎn | [钣金](https://baike.baidu.com/item/钣金)喷漆 "sheet metal and spray painting"; refers to auto-body repairs; seen at mechanics | ![钣](./in_the_wild/钣.jpg) | original photo |
 | 镀 | dù | [镀晶](https://baike.baidu.com/item/镀晶) "ceramic coating" used to protect car paint, making it shiny, like a crystal; 镀 is a verb meaning "to coat/plate"; seen at car detailing shops | ![镀](./in_the_wild/镀.jpg) | original photo |
+
 
