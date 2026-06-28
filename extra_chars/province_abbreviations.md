@@ -52,7 +52,7 @@ Some other characters also appear on license plates in China:
 | 警       | jǐng  | police 警察     | ![警](./license_plates/警.jpg) | original photo |
 | 学       | xué  | student (e.g. driving schools)     | ![学](./license_plates/学.png) | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E6%B4%A5%E6%95%99%E7%BB%83%E8%BD%A6%E7%89%8C.png) |
 | 挂       | guà  | large trailors 拖挂车     | ![挂](./license_plates/挂.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Yellow_vehicle_registration_plate_%E6%8B%96%E6%8C%82%E8%BD%A6_Trailer_in_Beijing,_P.R._China.jpg) |
-| 使       | shǐ  | diplomat 大使     | ![使](./license_plates/使.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BD%BF_diplomatic_license_plate_from_the_People%27s_Republic_of_China.jpg) |
+| 使       | shǐ  | diplomat 大使 / 使者     | ![使](./license_plates/使.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BD%BF_diplomatic_license_plate_from_the_People%27s_Republic_of_China.jpg) |
 | 领       | lǐng    | consul 领事     | ![领](./license_plates/领.jpg) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vehicle_registration_plate_of_Consulate-General_of_France_in_Wuhan_%E9%84%82_China.jpg)  |
 
 Some provinces and other administrative divisions have multiple abbreivations:
