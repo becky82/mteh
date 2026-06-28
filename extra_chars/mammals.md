@@ -6,7 +6,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 |--------|------|--------|----------|--------|-----------|--------------|
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
 | 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./mammals/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
-| 狨; 猴 | 狨猴 | rónghóu | marmoset | ![麝](./mammals/麝.jpg) | | [Wikimedia](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
+| 狨; 猴 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Wikimedia](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
 | 猩 | 大猩猩 | dàxīngxing | gorilla | ![大猩猩](./mammals/大猩猩.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_(Gorille_des_plaines_de_l%27Ouest)_-_458.jpg) |
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
 | 獾 | 獾 | huān | badger | ![獾](./mammals/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
