@@ -4,6 +4,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
+| 兽 | 年兽 | niánshòu | nian; nian beast | ![年兽](./mammals/年兽.png) | mythical; chased away during Chinese New Year celebrations using 鞭炮 (firecrackers) and the color red | [Gemini](https://share.gemini.google/G0dULoKs7AbQ) |
 | 浣; 熊 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
 | 熊 | 北极熊 | běijíxióng | polar bear | ![北极熊](./mammals/北极熊.jpg) | | [Pexels](https://www.pexels.com/photo/a-polar-bear-walking-on-the-rock-10962759/) |
 | 熊 | 大熊猫 | dàxióngmāo | giant panda | ![大熊猫](./mammals/大熊猫.jpg) | used in the rhyme: 大熊猫，真憨厚， 爱吃竹叶不吃肉， 肚子饱了慢慢走， 山泉天水当美酒; known for eating bamboo, but can eat meat (this can come up on exams); downgraded from 濒危物种 (endangered species) to 易危物种 (vulnerable species) | [Pexels](https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/) |
