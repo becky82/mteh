@@ -28,5 +28,6 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 麋 | 麋鹿 | mílù | Père David's deer | ![麋鹿](./mammals/麋鹿.jpg) | sometimes called "Chinese reindeer"; [Père David](https://en.wikipedia.org/wiki/Armand_David) was a mid-1800s zoologist and French missionary to China | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Pere_David_Deer_-_Woburn_Deer_Park_%285115883164%29.jpg) |
 | 麝 | 麝 | shè | musk deer | ![麝](./mammals/麝.jpg) | 麝香 "musk" (fragrance) historically extracted from 麝; unrelated to 埃隆·马斯克 Elon Musk | [Wikimedia](https://commons.wikimedia.org/wiki/File:Musk_deer_in_Edinburgh_Zoo.jpg) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
+| 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
 
 
