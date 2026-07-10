@@ -12,7 +12,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15水獭320328/) |
 | 犸 | 猛犸 | měngmǎ | mammoth | ![猛犸](./mammals/猛犸.png) | 已灭绝动物 (extinct animal) | [Wikimedia](https://commons.wikimedia.org/wiki/File:202003_Woolly_mammoth.png) |
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
-| 狐 | 九尾狐 | jiǔwěihú | nine-tailed fox | ![九尾狐](./mammals/九尾狐.jpg) | mythical | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
+| 狐 | 九尾狐 | jiǔwěihú | nine-tailed fox | ![九尾狐](./mammals/九尾狐.jpg) | mythical | [Wikimedia](https://commons.wikimedia.org/wiki/File:Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol5b-ninetailfox.jpg) |
 | 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482)  | [Pexels](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) |
 | 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./mammals/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
 | 狨; 猴 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Pexels](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
@@ -34,6 +34,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 蝙; 蝠 | 蝙蝠 | biānfú | bat | ![蝙蝠](./mammals/蝙蝠.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-bat-hanging-upside-down-in-cave-38098005/) |
 | 豺 | 豺 | chái | jackal | ![豺](./mammals/豺.jpg) | | [Pexels](https://www.pexels.com/photo/jackal-in-a-field-26921851/) |
 | 貂 | 雪貂 | xuědiāo | ferret | ![雪貂](./mammals/雪貂.jpg) |  | [Pexels](https://www.pexels.com/photo/adorable-ferret-on-black-studio-background-37850790/) |
+| 貔; 貅 | 貔貅 | píxiū | pixiu | ![貔貅](./mammals/貔貅.jpg) | mythical; head of a dragon, and body of a lion | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bixie.jpg) |
 | 貘 | 貘 | mò | tapir | ![貘](./mammals/貘.jpg) |  | [Pexels](https://www.pexels.com/photo/malayan-tapir-in-natural-habitat-outdoors-35872359/) |
 | 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is used in 鬣蜥 (iguana) and means "mane", but 鬃毛 (zōngmáo; mane) is used for 狮子 (lions) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
 | 麂 | 麂子 | jǐzi | muntjac | ![麂子](./mammals/麂子.jpg) | | [Pexels](https://www.pexels.com/photo/muntjac-deer-crossing-a-road-in-thailand-30819811/) |
