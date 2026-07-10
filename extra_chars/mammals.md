@@ -14,6 +14,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
 | 猬 | 刺猬 | cìwei | hedgehog | ![刺猬](./mammals/刺猬.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-hedgehog-on-ground-18447656/) |
 | 獭 | 水獭 | shuǐtǎ | otter | ![水獭](./mammals/水獭.jpg) | | [Pexels](https://www.pexels.com/photo/north-american-river-otter-on-rocky-shore-37836718/) |
+| 獴 | 獴 | měng | mongoose | ![獴](./mammals/獴.jpg) | | [Pexels](https://www.pexels.com/photo/banded-mongoose-in-kenyan-wilderness-33650772/) |
 | 獾 | 獾 | huān | badger | ![獾](./mammals/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
 | | 穿山甲 | chuānshānjiǎ | pangolin | ![穿山甲](./mammals/穿山甲.jpg) | | [wikimedia](https://commons.wikimedia.org/wiki/File:Manis.jpg) |
 | 羚 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is the 藏羚羊 (Tibetan antelope) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
