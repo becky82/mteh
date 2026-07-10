@@ -12,6 +12,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 猞; 猁 | 猞猁 | shēlì | lynx | ![猞猁](./mammals/猞猁.jpg) | | [Pexels](https://www.pexels.com/photo/lynx-looking-away-on-snowy-terrain-in-nature-7896217/) |
 | 猩 | 大猩猩 | dàxīngxing | gorilla | ![大猩猩](./mammals/大猩猩.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_(Gorille_des_plaines_de_l%27Ouest)_-_458.jpg) |
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
+| 猬 | 刺猬 | cìwei | hedgehog | ![刺猬](./mammals/刺猬.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-hedgehog-on-ground-18447656/) |
 | 獾 | 獾 | huān | badger | ![獾](./mammals/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
 | | 穿山甲 | chuānshānjiǎ | pangolin | ![穿山甲](./mammals/穿山甲.jpg) | | [wikimedia](https://commons.wikimedia.org/wiki/File:Manis.jpg) |
 | 貂 | 雪貂 | xuědiāo | ferret | ![雪貂](./mammals/雪貂.jpg) |  | [Pexels](https://www.pexels.com/photo/adorable-ferret-on-black-studio-background-37850790/) |
