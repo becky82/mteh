@@ -6,6 +6,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 |--------|------|--------|----------|--------|-----------|--------------|
 | 浣; 熊 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
 | 熊 | 北极熊 | běijíxióng | polar bear | ![北极熊](./mammals/北极熊.jpg) | | [Pexels](https://www.pexels.com/photo/a-polar-bear-walking-on-the-rock-10962759/) |
+| 熊 | 大熊猫 | dàxióngmāo | giant panda | ![大熊猫](./mammals/大熊猫.jpg) | used in the rhyme: 大熊猫，真憨厚， 爱吃竹叶不吃肉， 肚子饱了慢慢走， 山泉天水当美酒; known for eating bamboo, but can eat meat (this can come up on exams); downgraded from 濒危物种 (endangered species) to 易危物种 (vulnerable species) | [Pexels](https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/) |
 | | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15水獭320328/) |
 | 犸 | 猛犸 | měngmǎ | mammoth | ![猛犸](./mammals/猛犸.png) | 已灭绝动物 (extinct animal) | [Wikimedia](https://commons.wikimedia.org/wiki/File:202003_Woolly_mammoth.png) |
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
