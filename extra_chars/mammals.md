@@ -5,7 +5,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
 | | 儒艮 | rúgèn | dugong | ![儒艮](./mammals/儒艮.jpg) | closely related to 海牛 (manatee) | [Pexels](https://www.pexels.com/photo/manatee-in-the-zoo-aquarium-13277593/) |
-| 浣 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
+| 浣; 熊 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
 | | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15水獭320328/) |
 | 犸 | 猛犸 | měngmǎ | mammoth | ![猛犸](./mammals/猛犸.png) | 已灭绝动物 (extinct animal) | [Wikimedia](https://commons.wikimedia.org/wiki/File:202003_Woolly_mammoth.png) |
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
