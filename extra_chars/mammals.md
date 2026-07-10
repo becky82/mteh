@@ -27,7 +27,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 豺 | 豺 | chái | jackal | ![豺](./mammals/豺.jpg) | | [Pexels](https://www.pexels.com/photo/jackal-in-a-field-26921851/) |
 | 貂 | 雪貂 | xuědiāo | ferret | ![雪貂](./mammals/雪貂.jpg) |  | [Pexels](https://www.pexels.com/photo/adorable-ferret-on-black-studio-background-37850790/) |
 | 貘 | 貘 | mò | tapir | ![貘](./mammals/貘.jpg) |  | [Pexels](https://www.pexels.com/photo/malayan-tapir-in-natural-habitat-outdoors-35872359/) |
-| 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
+| 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is used in 鬣蜥 (iguana) and means "mane", but 鬃毛 (zōngmáo; mane) is used for 狮子 (lions) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
 | 麂 | 麂子 | jǐzi | muntjac | ![麂子](./mammals/麂子.jpg) | | [Pexels](https://www.pexels.com/photo/muntjac-deer-crossing-a-road-in-thailand-30819811/) |
 | 麋 | 麋鹿 | mílù | Père David's deer | ![麋鹿](./mammals/麋鹿.jpg) | sometimes called "Chinese reindeer"; [Père David](https://en.wikipedia.org/wiki/Armand_David) was a mid-1800s zoologist and French missionary to China | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Pere_David_Deer_-_Woburn_Deer_Park_%285115883164%29.jpg) |
 | 麝 | 麝 | shè | musk deer | ![麝](./mammals/麝.jpg) | 麝香 "musk" (fragrance) historically extracted from 麝; unrelated to 埃隆·马斯克 Elon Musk | [Wikimedia](https://commons.wikimedia.org/wiki/File:Musk_deer_in_Edinburgh_Zoo.jpg) |
