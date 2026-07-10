@@ -16,6 +16,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
 | 猩 | 黑猩猩 | hēixīngxing | chimpanzee | ![黑猩猩](./mammals/黑猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/chimpanzee-smiling-19730393/) |
 | 猬 | 刺猬 | cìwei | hedgehog | ![刺猬](./mammals/刺猬.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-hedgehog-on-ground-18447656/) |
+| 猿 | 猿 | yuán | ape | ![猿](./mammals/猿.jpg) | general term for multiple apes; in biology, it includes 类人猿 (homonids); unlike 猴 (monkeys), 猿 (apes) do not have tails | [Pexels](https://www.pexels.com/photo/monkey-27260618/) |
 | 獭 | 水獭 | shuǐtǎ | otter | ![水獭](./mammals/水獭.jpg) | | [Pexels](https://www.pexels.com/photo/north-american-river-otter-on-rocky-shore-37836718/) |
 | 獴 | 獴 | měng | mongoose | ![獴](./mammals/獴.jpg) | | [Pexels](https://www.pexels.com/photo/banded-mongoose-in-kenyan-wilderness-33650772/) |
 | 獾 | 獾 | huān | badger | ![獾](./mammals/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
@@ -31,4 +32,5 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 麝 | 麝 | shè | musk deer | ![麝](./mammals/麝.jpg) | 麝香 "musk" (fragrance) historically extracted from 麝; unrelated to 埃隆·马斯克 Elon Musk | [Wikimedia](https://commons.wikimedia.org/wiki/File:Musk_deer_in_Edinburgh_Zoo.jpg) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
 | 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
+
 
