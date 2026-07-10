@@ -6,6 +6,7 @@
 | | 常青藤 | chángqīngténg | ivy | ![常青藤](./plants/常青藤.jpg) | | [Pexels](https://www.pexels.com/photo/green-plants-in-wall-bricks-at-daytime-1171719/) |
 | 昙 | 昙花 | tánhuā | night-blooming cereus | ![昙花](./plants/昙花.jpg) | nocturnal cactus flower | [Wikimedia](https://zh.wikipedia.org/wiki/File:3_blooms_of_Epiphyllum_oxypetalum.jpg) |
 | 牡, 丹 | 牡丹花 | mǔdānhuā | tree peony | ![牡丹花](./plants/牡丹花.jpg) | national flower of China | [Wikimedia](https://zh.wikipedia.org/wiki/File:Paeonia_suffruticosa01_2048.jpg) |
+| 艾 | 艾草 | àicǎo | Asian mugwort | ![艾草](./plants/艾草.jpg) | dried and bundled into 艾条 (moxa stick); used in 艾灸 (moxibustion) to apply deep heat to 驱寒 (expel cold) and 除湿 (remove dampness), two of the 六邪 in traditional Chinese medicine | [Wikimedia](https://commons.wikimedia.org/wiki/File:Aicao.jpg) |
 | 芍 | 芍药 | sháoyào | Chinese peony   | ![芍药](./plants/芍药.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lactiflora1b.UME.jpg) |
 | 芙, 蓉 | 芙蓉 | fúróng | hibiscus | ![芙蓉](./plants/芙蓉.jpg) | many Chinese place names are named after this flower | [Wikimedia](https://en.wikipedia.org/wiki/File:Mufurong1.jpg) |
 | 莲; 荷 | 莲花; 荷花 | liánhuā; héhuā | lotus flower | ![莲花](./plants/莲花.jpg) | 莲蓬 liánpéng (seedpod); 莲蓬头 (showerhead; resembles lotus seedpod); 莲藕 liánǒu (lotus root) | [Pexels](https://www.pexels.com/photo/tilt-shift-photography-of-pink-and-white-flower-1179860/) |
