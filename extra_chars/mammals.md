@@ -33,7 +33,8 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 獾 | 獾 | huān | badger | ![獾](./mammals/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
 | | 穿山甲 | chuānshānjiǎ | pangolin | ![穿山甲](./mammals/穿山甲.jpg) | | [wikimedia](https://commons.wikimedia.org/wiki/File:Manis.jpg) |
 | 羚 | 羚牛 | língniú | takin | ![羚牛](./mammals/羚牛.jpg) | | [Pexels](https://www.pexels.com/photo/animal-with-horns-15289300/) |
-| 羚 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is the 藏羚羊 (Tibetan antelope) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
+| 羚 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a 大羚羊 (oryx) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
+| 羚 | 藏羚羊 | zànglíngyáng | Tibetan antelope | ![藏羚羊](./mammals/藏羚羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | 蝙; 蝠 | 蝙蝠 | biānfú | bat | ![蝙蝠](./mammals/蝙蝠.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-bat-hanging-upside-down-in-cave-38098005/) |
 | 豺 | 豺 | chái | jackal | ![豺](./mammals/豺.jpg) | | [Pexels](https://www.pexels.com/photo/jackal-in-a-field-26921851/) |
 | 貂 | 雪貂 | xuědiāo | ferret | ![雪貂](./mammals/雪貂.jpg) |  | [Pexels](https://www.pexels.com/photo/adorable-ferret-on-black-studio-background-37850790/) |
