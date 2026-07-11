@@ -38,6 +38,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 羚 | 藏羚羊 | zànglíngyáng | Tibetan antelope | ![藏羚羊](./mammals/藏羚羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | 虎 | 老虎 | lǎohǔ | tiger | ![老虎](./mammals/老虎.jpg) | | [Pexels](https://www.pexels.com/photo/majestic-bengal-tiger-in-natural-habitat-37339203/) |
 | 蝙; 蝠 | 蝙蝠 | biānfú | bat | ![蝙蝠](./mammals/蝙蝠.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-bat-hanging-upside-down-in-cave-38098005/) |
+| 象 | 大象 | dàxiàng | elephant | ![大象](./mammals/大象.jpg) | | [Pexels](https://www.pexels.com/photo/asiatic-elephant-in-lush-jungle-habitat-29480531/) |
 | 豺 | 豺 | chái | jackal | ![豺](./mammals/豺.jpg) | | [Pexels](https://www.pexels.com/photo/jackal-in-a-field-26921851/) |
 | 貂 | 雪貂 | xuědiāo | ferret | ![雪貂](./mammals/雪貂.jpg) |  | [Pexels](https://www.pexels.com/photo/adorable-ferret-on-black-studio-background-37850790/) |
 | 貔; 貅 | 貔貅 | píxiū | pixiu | ![貔貅](./mammals/貔貅.jpg) | mythical; head of a dragon, and body of a lion | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bixie.jpg) |
