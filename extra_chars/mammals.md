@@ -17,9 +17,9 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482)  | [Pexels](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) |
 | 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./mammals/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
 | 狨; 猴 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Pexels](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
-| 狮 | 狮子 | shīzi | lion | ![狮子](./mammals/狮子.jpg) | | [Pexels](https://www.pexels.com/photo/majestic-lion-resting-in-green-forest-32196368/) |
+| 狮 | 狮子 | shīzi | lion | ![狮子](./mammals/狮子.jpg) | male lions have 鬃毛 (zōngmáo; manes); 《狮子王》 (*The Lion King*) | [Pexels](https://www.pexels.com/photo/majestic-lion-resting-in-green-forest-32196368/) |
 | 狻; 猊 | 狻猊 | suānní |  | ![狻猊](./mammals/狻猊.jpg) | mythical | [Wikimedia](https://commons.wikimedia.org/wiki/File:%EC%B2%AD%EC%9E%90_%EC%82%AC%EC%9E%90_%EC%9E%A5%EC%8B%9D_%EB%9A%9C%EA%BB%91_%ED%96%A5%EB%A1%9C.jpg) |
-| 狼 | 狼 | láng | wolf | ![狼](./mammals/狼.jpg) | used in the chengyu [狼吞虎咽](https://baike.baidu.com/item/%E7%8B%BC%E5%90%9E%E8%99%8E%E5%92%BD/4438649) | [Pexels](https://www.pexels.com/photo/gray-wolf-in-forest-clearing-during-daytime-31767241/) |
+| 狼 | 狼 | láng | wolf | ![狼](./mammals/狼.jpg) | used in the chengyu [狼吞虎咽](https://baike.baidu.com/item/%E7%8B%BC%E5%90%9E%E8%99%8E%E5%92%BD/4438649); 灰太狼 is the antagonist in the cartoon 《喜羊羊与灰太狼》 | [Pexels](https://www.pexels.com/photo/gray-wolf-in-forest-clearing-during-daytime-31767241/) |
 | 猞; 猁 | 猞猁 | shēlì | lynx | ![猞猁](./mammals/猞猁.jpg) | | [Pexels](https://www.pexels.com/photo/lynx-looking-away-on-snowy-terrain-in-nature-7896217/) |
 | 猩 | 大猩猩 | dàxīngxing | gorilla | ![大猩猩](./mammals/大猩猩.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_(Gorille_des_plaines_de_l%27Ouest)_-_458.jpg) |
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
