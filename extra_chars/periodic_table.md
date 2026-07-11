@@ -37,7 +37,7 @@ The majority of these Chinese characters are not familiar to most people, unless
 | 47 | 银 | yín | Silver | ![银](./periodic_table/银.jpg) | 银牌 (silver medal); 银行 (bank) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Maica_Garc%C3%ADa_Godoy.jpg) |
 | 50 | 锡 | xī | Tin | ![锡](./periodic_table/锡.jpg) | 锡罐 (tin can); 锡箔 and 锡纸 (tin foil, sometimes the name used for aluminium foil); used in 焊料 (solder); 锡箔 or 锡箔纸 also refers to "joss paper", burned for 祭祀 sacrifices | [Pexels](https://www.pexels.com/photo/tin-can-on-gravel-surface-1003103/) |
 | 53 | 碘 | diǎn | Iodine | ![碘](./periodic_table/碘.jpg) | 碘化食盐 (iodized salt) added to prevent 甲状腺肿 (goitre, an enlargement of the thyroid gland) | [Wikimedia](https://commons.wikimedia.org/wiki/File:China_Salt_low_sodium_iodized_salt_on_shelf_(20230824183556).jpg) |
-| 74 | 钨 | wū | Tungsten | ![钨](./periodic_table/钨.jpg) | 钨丝 (tungsten filament) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Drill_tip_masonry.jpg) |
+| 74 | 钨 | wū | Tungsten | ![钨](./periodic_table/钨.jpg) | 钨丝 (tungsten filament); used in 钻头 (drill bits) for it high 熔点 (melting point) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Drill_tip_masonry.jpg) |
 | 78 | 铂 | bó  | Platinum | ![铂](./periodic_table/铂.jpg) | 铂金 (platinum); sometimes called 白金 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Platinum_finger_ring_with_diamond.jpg) |
 | 79 | 金 | jīn | Gold | ![金](./periodic_table/金.jpg) | 黄金 (gold); 金牌 (gold medal); 金融 (finance); 金属 (metal) | [Pexels](https://www.pexels.com/photo/gold-bar-lot-47047/) |
 | 80 | 汞 | gǒng | Mercury | ![汞](./periodic_table/汞.jpg) | aka 水银 (quicksilver) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mercury_(Element_-_80)_2.jpg) |
