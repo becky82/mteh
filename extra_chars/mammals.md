@@ -58,7 +58,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 鼠 | 袋鼠 | dàishǔ | kangaroo | ![袋鼠](./mammals/袋鼠.jpg) | | [Pexels](https://www.pexels.com/photo/a-kangaroo-and-her-baby-are-standing-in-the-grass-27110776/) |
 | 鼠; 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
-
+| 鼹 | 针鼹 | zhēnyǎn | echidna | ![针鼹](./mammals/针鼹.jpg) | | [Pexels](https://www.pexels.com/photo/brown-and-black-hedgehog-on-green-grass-field-7329775/) |
 
 Mythical:
 
