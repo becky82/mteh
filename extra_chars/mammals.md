@@ -4,26 +4,26 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
-| 浣; 熊 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
 | 熊 | 北极熊 | běijíxióng | polar bear | ![北极熊](./mammals/北极熊.jpg) | | [Pexels](https://www.pexels.com/photo/a-polar-bear-walking-on-the-rock-10962759/) |
 | 熊 | 大熊猫 | dàxióngmāo | giant panda | ![大熊猫](./mammals/大熊猫.jpg) | used in the rhyme: 大熊猫，真憨厚， 爱吃竹叶不吃肉， 肚子饱了慢慢走， 山泉天水当美酒; known for eating bamboo, but can eat meat (this can come up on exams); downgraded from 濒危物种 (endangered species) to 易危物种 (vulnerable species) | [Pexels](https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/) |
 | 熊 | 小熊猫; 红熊猫 | xiǎoxióngmāo; hóngxióngmāo | red panda | ![小熊猫](./mammals/小熊猫.jpg) | not actually a bear; not closely related to 大熊猫 | [Pexels](https://www.pexels.com/photo/red-panda-poses-gracefully-in-tree-branches-30692710/) |
+| 熊; 浣 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
+| 牛 | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15水獭320328/) |
 | 牦 | 牦牛 | máoniú | yak | ![牦牛](./mammals/牦牛.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
-| | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15水獭320328/) |
 | 犸 | 猛犸 | měngmǎ | mammoth | ![猛犸](./mammals/猛犸.png) | 已灭绝动物 (extinct animal) | [Wikimedia](https://commons.wikimedia.org/wiki/File:202003_Woolly_mammoth.png) |
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
 | 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482)  | [Pexels](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) |
 | 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./mammals/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
-| 猴; 狨 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Pexels](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
 | 狮 | 狮子 | shīzi | lion | ![狮子](./mammals/狮子.jpg) | male lions have 鬃毛 (zōngmáo; manes); 《狮子王》 (*The Lion King*) | [Pexels](https://www.pexels.com/photo/majestic-lion-resting-in-green-forest-32196368/) |
 | 狼 | 狼 | láng | wolf | ![狼](./mammals/狼.jpg) | used in the chengyu [狼吞虎咽](https://baike.baidu.com/item/%E7%8B%BC%E5%90%9E%E8%99%8E%E5%92%BD/4438649); 灰太狼 is the antagonist in the cartoon 《喜羊羊与灰太狼》 | [Pexels](https://www.pexels.com/photo/gray-wolf-in-forest-clearing-during-daytime-31767241/) |
-| 猴; 猕 | 猕猴 | míhóu | macaque | ![猕猴](./mammals/猕猴.jpg) | also used in 猕猴桃 (kiwi fruit) | [Pexels](https://www.pexels.com/photo/photo-of-a-monkey-family-against-a-tree-18612365/) |
 | 猞; 猁 | 猞猁 | shēlì | lynx | ![猞猁](./mammals/猞猁.jpg) | | [Pexels](https://www.pexels.com/photo/lynx-looking-away-on-snowy-terrain-in-nature-7896217/) |
 | 猩 | 大猩猩 | dàxīngxing | gorilla | ![大猩猩](./mammals/大猩猩.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_(Gorille_des_plaines_de_l%27Ouest)_-_458.jpg) |
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
 | 猩 | 黑猩猩 | hēixīngxing | chimpanzee | ![黑猩猩](./mammals/黑猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/chimpanzee-smiling-19730393/) |
 | 猪 | 豪猪 | háozhū | porcupine | ![豪猪](./mammals/豪猪.jpg) | | [Pexels](https://www.pexels.com/photo/wild-porcupine-foraging-near-a-cage-outdoors-33329562/) |
 | 猬 | 刺猬 | cìwei | hedgehog | ![刺猬](./mammals/刺猬.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-hedgehog-on-ground-18447656/) |
+| 猴; 狨 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Pexels](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
+| 猴; 猕 | 猕猴 | míhóu | macaque | ![猕猴](./mammals/猕猴.jpg) | also used in 猕猴桃 (kiwi fruit) | [Pexels](https://www.pexels.com/photo/photo-of-a-monkey-family-against-a-tree-18612365/) |
 | 猴 | 猴子 | hóuzi | monkey | ![猴子](./mammals/猴子.jpg) | pictured is a 蜘蛛猴 (spider monkey) | [Pexels](https://www.pexels.com/photo/spider-monkey-climbing-tree-in-costa-rica-33181302/) |
 | 猿 | 猿 | yuán | ape | ![猿](./mammals/猿.jpg) | general term for multiple apes; in biology, it includes 类人猿 (homonids); unlike 猴 (monkeys), 猿 (apes) do not have tails | [Pexels](https://www.pexels.com/photo/monkey-27260618/) |
 | 獐 | 獐子 | zhāngzi | water deer | ![獐子](./mammals/獐子.jpg) | males have tusk-like canine teeth | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydropotes_inermis_male.JPG) |
