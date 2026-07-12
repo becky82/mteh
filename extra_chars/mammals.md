@@ -47,7 +47,9 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 貉 | 貉 | hé | raccoon dog | ![貉](./mammals/貉.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Miajiima_raccoon_dog_(1).JPG) |
 | 貘 | 貘 | mò | tapir | ![貘](./mammals/貘.jpg) |  | [Pexels](https://www.pexels.com/photo/malayan-tapir-in-natural-habitat-outdoors-35872359/) |
 | 马 | 河马 | hémǎ | hippopotamus | ![河马](./mammals/河马.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-hippo-in-a-zoo-27174054/) |
+| 驴 | 驴子 | lǘzi | donkey | ![驴子](./mammals/驴子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jielbeaumadier_ane_des_pyrenees_vda_2010.jpeg) |
 | 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | 单峰驼 (dromedary) and 双峰驼 (Bactrian) | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
+| 骡 | 骡子 | luózi | mule | ![骡子](./mammals/骡子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:MULE_(2976074852).jpg) |
 | 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is also used in 鬣蜥 (iguana) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
 | | 鸭嘴兽 | yāzuǐshòu | platypus | ![鸭嘴兽](./mammals/鸭嘴兽.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg) |
 | 鹿 | 长颈鹿 | chángjǐnglù | giraffe | ![长颈鹿](./mammals/长颈鹿.jpg) | | [Pexels](https://www.pexels.com/photo/giraffes-in-grassland-4577134/) |
