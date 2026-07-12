@@ -28,6 +28,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 猬 | 刺猬 | cìwei | hedgehog | ![刺猬](./mammals/刺猬.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-hedgehog-on-ground-18447656/) |
 | 猴 | 猴子 | hóuzi | monkey | ![猴子](./mammals/猴子.jpg) | pictured is a 蜘蛛猴 (spider monkey) | [Pexels](https://www.pexels.com/photo/spider-monkey-climbing-tree-in-costa-rica-33181302/) |
 | 猿 | 猿 | yuán | ape | ![猿](./mammals/猿.jpg) | general term for multiple apes; in biology, it includes 类人猿 (homonids); unlike 猴 (monkeys), 猿 (apes) do not have tails | [Pexels](https://www.pexels.com/photo/monkey-27260618/) |
+| 獐 | 獐子 | zhāngzi | water deer | ![獐子](./mammals/獐子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydropotes_inermis_male.JPG) |
 | 獬; 豸 | 獬豸 | xièzhì | xiezhi | ![獬豸](./mammals/獬豸.jpg) | mythical | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xiezhi1.jpg) |
 | 獭 | 水獭 | shuǐtǎ | otter | ![水獭](./mammals/水獭.jpg) | | [Pexels](https://www.pexels.com/photo/north-american-river-otter-on-rocky-shore-37836718/) |
 | 獴 | 獴 | měng | mongoose | ![獴](./mammals/獴.jpg) | | [Pexels](https://www.pexels.com/photo/banded-mongoose-in-kenyan-wilderness-33650772/) |
