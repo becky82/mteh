@@ -19,6 +19,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482)  | [Pexels](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) |
 | 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./mammals/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
 | 狗; 犬 | 狗; 犬 | gǒu; quǎn | dog | ![狗](./mammals/狗.jpg) | 警犬 (police dog); 导盲犬 (guide dog); 猎犬/猎狗 (hunting dog; hound); 搜救犬 (search and rescue dog); 缉毒犬 (drug detector dog); 牧羊犬 (sheepdog); 看门狗 (kānméngǒu; guard dog); there are many 犬种 (dog breeds) such as 贵宾犬 (poodle), 拉布拉多 (labrador), and 藏獒 (Tibetan mastiff) | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
+| 狗; 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is also used in 鬣蜥 (iguana) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
 | 狮 | 狮子 | shīzi | lion | ![狮子](./mammals/狮子.jpg) | male lions have 鬃毛 (zōngmáo; manes); 《狮子王》 (*The Lion King*) | [Pexels](https://www.pexels.com/photo/majestic-lion-resting-in-green-forest-32196368/) |
 | 狼 | 狼 | láng | wolf | ![狼](./mammals/狼.jpg) | used in the chengyu [狼吞虎咽](https://baike.baidu.com/item/%E7%8B%BC%E5%90%9E%E8%99%8E%E5%92%BD/4438649); 灰太狼 is the antagonist in the cartoon 《喜羊羊与灰太狼》 | [Pexels](https://www.pexels.com/photo/gray-wolf-in-forest-clearing-during-daytime-31767241/) |
 | 猞; 猁 | 猞猁 | shēlì | lynx | ![猞猁](./mammals/猞猁.jpg) | | [Pexels](https://www.pexels.com/photo/lynx-looking-away-on-snowy-terrain-in-nature-7896217/) |
@@ -26,6 +27,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
 | 猩 | 黑猩猩 | hēixīngxing | chimpanzee | ![黑猩猩](./mammals/黑猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/chimpanzee-smiling-19730393/) |
 | 猪 | 豪猪 | háozhū | porcupine | ![豪猪](./mammals/豪猪.jpg) | | [Pexels](https://www.pexels.com/photo/wild-porcupine-foraging-near-a-cage-outdoors-33329562/) |
+| 猫 | 猫; 家猫 | māo; jiāmāo | cat; housecat | ![猫](./mammals/猫.jpg) | 猫科 (the cat family; Felidae); they eat 猫粮 (cat food); sometimes called 猫咪; you can buy movie tickets with the app 猫眼电影 | [Pexels](https://www.pexels.com/photo/close-up-of-relaxed-domestic-cat-lying-indoors-29748152/) |
 | 猬 | 刺猬 | cìwei | hedgehog | ![刺猬](./mammals/刺猬.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-hedgehog-on-ground-18447656/) |
 | 猴; 狨 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Pexels](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
 | 猴; 猕 | 猕猴 | míhóu | macaque | ![猕猴](./mammals/猕猴.jpg) | also used in 猕猴桃 (kiwi fruit) | [Pexels](https://www.pexels.com/photo/photo-of-a-monkey-family-against-a-tree-18612365/) |
@@ -54,7 +56,6 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 驴 | 驴子 | lǘzi | donkey | ![驴子](./mammals/驴子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jielbeaumadier_ane_des_pyrenees_vda_2010.jpeg) |
 | 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | 单峰驼 (dromedary) and 双峰驼 (Bactrian) | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
 | 骡 | 骡子 | luózi | mule | ![骡子](./mammals/骡子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:MULE_(2976074852).jpg) |
-| 狗; 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is also used in 鬣蜥 (iguana) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
 | | 鸭嘴兽 | yāzuǐshòu | platypus | ![鸭嘴兽](./mammals/鸭嘴兽.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg) |
 | 鹿 | 长颈鹿 | chángjǐnglù | giraffe | ![长颈鹿](./mammals/长颈鹿.jpg) | | [Pexels](https://www.pexels.com/photo/giraffes-in-grassland-4577134/) |
 | 鹿; 麋 | 麋鹿 | mílù | Père David's deer | ![麋鹿](./mammals/麋鹿.jpg) | sometimes called "Chinese reindeer"; [Père David](https://en.wikipedia.org/wiki/Armand_David) was a mid-1800s zoologist and French missionary to China | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Pere_David_Deer_-_Woburn_Deer_Park_%285115883164%29.jpg) |
