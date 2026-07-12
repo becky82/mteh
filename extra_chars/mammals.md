@@ -37,6 +37,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 羊 | 黄羊 | huángyáng | Mongolian gazelle | ![黄羊](./mammals/黄羊.jpg) | | [Pexels](https://commons.wikimedia.org/wiki/File:Procapra_gutturosa_357203968.jpg) |
 | 羚; 羊 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a 大羚羊 (oryx) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | 羚; 羊 | 藏羚羊 | zànglíngyáng | Tibetan antelope | ![藏羚羊](./mammals/藏羚羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
+| | 考拉 | kǎolā | koala | ![考拉](./mammals/考拉.jpg) | | [Pexels](https://www.pexels.com/photo/a-koala-on-a-tree-5322338/) |
 | 虎 | 老虎 | lǎohǔ | tiger | ![老虎](./mammals/老虎.jpg) | | [Pexels](https://www.pexels.com/photo/majestic-bengal-tiger-in-natural-habitat-37339203/) |
 | 蝙; 蝠 | 蝙蝠 | biānfú | bat | ![蝙蝠](./mammals/蝙蝠.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-bat-hanging-upside-down-in-cave-38098005/) |
 | 象 | 大象 | dàxiàng | elephant | ![大象](./mammals/大象.jpg) | | [Pexels](https://www.pexels.com/photo/asiatic-elephant-in-lush-jungle-habitat-29480531/) |
@@ -56,7 +57,6 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 鼠 | 袋鼠 | dàishǔ | kangaroo | ![袋鼠](./mammals/袋鼠.jpg) | | [Pexels](https://www.pexels.com/photo/a-kangaroo-and-her-baby-are-standing-in-the-grass-27110776/) |
 | 鼠; 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
-
 
 
 Mythical:
