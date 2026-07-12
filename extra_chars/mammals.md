@@ -48,6 +48,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 马 | 河马 | hémǎ | hippopotamus | ![河马](./mammals/河马.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-hippo-in-a-zoo-27174054/) |
 | 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | 单峰驼 (dromedary) and 双峰驼 (Bactrian) | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
 | 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is also used in 鬣蜥 (iguana) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
+| | 鸭嘴兽 | yāzuǐshòu | platypus | ![鸭嘴兽](./mammals/鸭嘴兽.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg) |
 | 鹿 | 长颈鹿 | chángjǐnglù | giraffe | ![长颈鹿](./mammals/长颈鹿.jpg) | | [Pexels](https://www.pexels.com/photo/giraffes-in-grassland-4577134/) |
 | 鹿; 麋 | 麋鹿 | mílù | Père David's deer | ![麋鹿](./mammals/麋鹿.jpg) | sometimes called "Chinese reindeer"; [Père David](https://en.wikipedia.org/wiki/Armand_David) was a mid-1800s zoologist and French missionary to China | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Pere_David_Deer_-_Woburn_Deer_Park_%285115883164%29.jpg) |
 | 麂 | 麂子 | jǐzi | muntjac | ![麂子](./mammals/麂子.jpg) | | [Pexels](https://www.pexels.com/photo/muntjac-deer-crossing-a-road-in-thailand-30819811/) |
