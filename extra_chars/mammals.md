@@ -5,6 +5,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
 | 兔 | 兔子 | tùzi | rabbit | ![兔子](./mammals/兔子.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-brown-and-white-bunny-on-floor-30197040/) |
+| | 树懒 | shùlǎn | sloth | ![树懒](./mammals/树懒.jpg) | literally "tree lazy" | [Pexels](https://www.pexels.com/photo/sloth-in-zoo-22610440/) |
 | 熊 | 北极熊 | běijíxióng | polar bear | ![北极熊](./mammals/北极熊.jpg) | | [Pexels](https://www.pexels.com/photo/a-polar-bear-walking-on-the-rock-10962759/) |
 | 熊 | 大熊猫 | dàxióngmāo | giant panda | ![大熊猫](./mammals/大熊猫.jpg) | used in the rhyme: 大熊猫，真憨厚， 爱吃竹叶不吃肉， 肚子饱了慢慢走， 山泉天水当美酒; known for eating bamboo, but can eat meat (this can come up on exams); downgraded from 濒危物种 (endangered species) to 易危物种 (vulnerable species) | [Pexels](https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/) |
 | 熊 | 小熊猫; 红熊猫 | xiǎoxióngmāo; hóngxióngmāo | red panda | ![小熊猫](./mammals/小熊猫.jpg) | not actually a bear; not closely related to 大熊猫 | [Pexels](https://www.pexels.com/photo/red-panda-poses-gracefully-in-tree-branches-30692710/) |
@@ -55,6 +56,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 鼠 | 袋鼠 | dàishǔ | kangaroo | ![袋鼠](./mammals/袋鼠.jpg) | | [Pexels](https://www.pexels.com/photo/a-kangaroo-and-her-baby-are-standing-in-the-grass-27110776/) |
 | 鼠; 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
+
 
 
 Mythical:
