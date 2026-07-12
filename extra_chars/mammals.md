@@ -44,7 +44,8 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 貂 | 雪貂 | xuědiāo | ferret | ![雪貂](./mammals/雪貂.jpg) |  | [Pexels](https://www.pexels.com/photo/adorable-ferret-on-black-studio-background-37850790/) |
 | 貔; 貅 | 貔貅 | píxiū | pixiu | ![貔貅](./mammals/貔貅.jpg) | mythical; head of a dragon, and body of a lion | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bixie.jpg) |
 | 貘 | 貘 | mò | tapir | ![貘](./mammals/貘.jpg) |  | [Pexels](https://www.pexels.com/photo/malayan-tapir-in-natural-habitat-outdoors-35872359/) |
-| 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
+| 马 | 河马 | hémǎ | hippopotamus | ![河马](./mammals/河马.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-hippo-in-a-zoo-27174054/) |
+| 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | 单峰驼 (dromedary) and 双峰驼 (Bactrian) | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
 | 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is also used in 鬣蜥 (iguana) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
 | 鹿 | 长颈鹿 | chángjǐnglù | giraffe | ![长颈鹿](./mammals/长颈鹿.jpg) | | [Pexels](https://www.pexels.com/photo/giraffes-in-grassland-4577134/) |
 | 麂 | 麂子 | jǐzi | muntjac | ![麂子](./mammals/麂子.jpg) | | [Pexels](https://www.pexels.com/photo/muntjac-deer-crossing-a-road-in-thailand-30819811/) |
@@ -54,4 +55,5 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 鼠 | 袋鼠 | dàishǔ | kangaroo | ![袋鼠](./mammals/袋鼠.jpg) | | [Pexels](https://www.pexels.com/photo/a-kangaroo-and-her-baby-are-standing-in-the-grass-27110776/) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
 | 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
+
 
