@@ -44,6 +44,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 豹 | 豹子; 金钱豹 | bàozi; jīnqiánbào | leopard | ![豹子](./mammals/豹子.jpg) | | [Pexels](https://www.pexels.com/photo/resting-jaguar-in-a-green-enclosure-29944428/) |
 | 豺 | 豺 | chái | jackal | ![豺](./mammals/豺.jpg) | | [Pexels](https://www.pexels.com/photo/jackal-in-a-field-26921851/) |
 | 貂 | 雪貂 | xuědiāo | ferret | ![雪貂](./mammals/雪貂.jpg) |  | [Pexels](https://www.pexels.com/photo/adorable-ferret-on-black-studio-background-37850790/) |
+| 貉 | 貉 | hé | raccoon dog | ![貉](./mammals/貉.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Miajiima_raccoon_dog_(1).JPG) |
 | 貘 | 貘 | mò | tapir | ![貘](./mammals/貘.jpg) |  | [Pexels](https://www.pexels.com/photo/malayan-tapir-in-natural-habitat-outdoors-35872359/) |
 | 马 | 河马 | hémǎ | hippopotamus | ![河马](./mammals/河马.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-hippo-in-a-zoo-27174054/) |
 | 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | 单峰驼 (dromedary) and 双峰驼 (Bactrian) | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
