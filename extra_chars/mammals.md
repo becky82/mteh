@@ -18,6 +18,7 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
 | 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482)  | [Pexels](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) |
 | 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./mammals/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
+| 狗 | 狗; 犬 | gǒu; quǎn | dog | ![狗](./mammals/狗.jpg) | 警犬 (police dog); 导盲犬 (guide dog); 猎犬/猎狗 (hunting dog; hound); 搜救犬 (search and rescue dog); 缉毒犬 (drug detector dog); 牧羊犬 (sheepdog); 看门狗 (kānméngǒu; guard dog); there are many 犬种 (dog breeds) such as 贵宾犬 (poodle), 拉布拉多 (labrador), and 藏獒 (Tibetan mastiff) | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
 | 狮 | 狮子 | shīzi | lion | ![狮子](./mammals/狮子.jpg) | male lions have 鬃毛 (zōngmáo; manes); 《狮子王》 (*The Lion King*) | [Pexels](https://www.pexels.com/photo/majestic-lion-resting-in-green-forest-32196368/) |
 | 狼 | 狼 | láng | wolf | ![狼](./mammals/狼.jpg) | used in the chengyu [狼吞虎咽](https://baike.baidu.com/item/%E7%8B%BC%E5%90%9E%E8%99%8E%E5%92%BD/4438649); 灰太狼 is the antagonist in the cartoon 《喜羊羊与灰太狼》 | [Pexels](https://www.pexels.com/photo/gray-wolf-in-forest-clearing-during-daytime-31767241/) |
 | 猞; 猁 | 猞猁 | shēlì | lynx | ![猞猁](./mammals/猞猁.jpg) | | [Pexels](https://www.pexels.com/photo/lynx-looking-away-on-snowy-terrain-in-nature-7896217/) |
@@ -48,6 +49,8 @@ The goal here is to survey Chinese characters used in words for mammals.  We can
 | 貉 | 貉 | hé | raccoon dog | ![貉](./mammals/貉.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Miajiima_raccoon_dog_(1).JPG) |
 | 貘 | 貘 | mò | tapir | ![貘](./mammals/貘.jpg) |  | [Pexels](https://www.pexels.com/photo/malayan-tapir-in-natural-habitat-outdoors-35872359/) |
 | 马 | 河马 | hémǎ | hippopotamus | ![河马](./mammals/河马.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-hippo-in-a-zoo-27174054/) |
+| 马 | 马 | mǎ | horse | ![马](./mammals/马.jpg) | 千里马 describe a horse that can travel long distances; 骏马 is a general fine horse; there are quite a few characters related to horses, like 驷 (sì; four horses) and 驮 (tuó; to carry on one's back, for pack animals) | [Pexels](https://www.pexels.com/photo/horse-28455219/) |
+| 马; 驹 | 马驹 | mǎjū | colt or filly (young horse) | ![马驹](./mammals/马驹.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
 | 驴 | 驴子 | lǘzi | donkey | ![驴子](./mammals/驴子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jielbeaumadier_ane_des_pyrenees_vda_2010.jpeg) |
 | 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | 单峰驼 (dromedary) and 双峰驼 (Bactrian) | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
 | 骡 | 骡子 | luózi | mule | ![骡子](./mammals/骡子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:MULE_(2976074852).jpg) |
