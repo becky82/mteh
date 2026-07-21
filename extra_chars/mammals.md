@@ -60,7 +60,6 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 貘 | 貘 | mò | tapir | ![貘](./mammals/貘.jpg) |  | [Pexels](https://www.pexels.com/photo/malayan-tapir-in-natural-habitat-outdoors-35872359/) |
 | 马 | 河马 | hémǎ | hippopotamus | ![河马](./mammals/河马.jpg) | | [Pexels](https://www.pexels.com/photo/photo-of-a-hippo-in-a-zoo-27174054/) |
 | 马 | 马 | mǎ | horse | ![马](./mammals/马.jpg) | 千里马 describe a horse that can travel long distances; 骏马 is a general fine horse; there are quite a few characters related to horses, like 驷 (sì; four horses) and 驮 (tuó; to carry on one's back, for pack animals) | [Pexels](https://www.pexels.com/photo/horse-28455219/) |
-| 马; 驹 | 马驹 | mǎjū | colt or filly (young horse) | ![马驹](./mammals/马驹.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
 | 驴 | 驴子 | lǘzi | donkey | ![驴子](./mammals/驴子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jielbeaumadier_ane_des_pyrenees_vda_2010.jpeg) |
 | 骆; 驼 | 骆驼 | luòtuo | camel | ![骆驼](./mammals/骆驼.jpg) | 单峰驼 (dromedary) and 双峰驼 (Bactrian) | [Pexels](https://www.pexels.com/photo/graceful-camels-walking-in-desert-in-afternoon-4321179/) |
 | 骡 | 骡子 | luózi | mule | ![骡子](./mammals/骡子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:MULE_(2976074852).jpg) |
@@ -90,7 +89,7 @@ Mythical:
 | 貔; 貅 | 貔貅 | píxiū | pixiu | ![貔貅](./mammals/貔貅.jpg) | head of a dragon, and body of a lion | [Wikimedia](https://commons.wikimedia.org/wiki/File:Bixie.jpg) |
 | 麒; 麟 | 麒麟 | qílín | qilin | ![麒麟](./mammals/麒麟.jpg) | has hooves, antlers, scales, and whiskers; depicted e.g. in the [*Fantastic Beasts*](https://harrypotter.fandom.com/wiki/Qilin) series | [Wikimedia](https://commons.wikimedia.org/wiki/File:Statue_of_Qilin,_Tielu_Temple_2023030502.jpg) |
 
-Auxiliary:
+Male/female:
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
@@ -103,4 +102,10 @@ Auxiliary:
 | 雌 | 雌 | cí | female | ![雌狮](./mammals/雌狮.jpg) | scientific term; pictured is a 雌狮 (lioness); females are noted for 卵子 (ovum; egg); female mammals are noted for their ability to 母乳喂养 (breastfeed) | [Pexels](https://www.pexels.com/photo/lioness-walking-in-a-serene-outdoor-enclosure-28483746/) |
 | 雄 | 雄 | xióng | male | ![雄狮](./mammals/雄狮.jpg) | scientific term; pictured is a 雄狮 (male lion); males are noted for producting 精子 (sperm), the male 生殖细胞 (reproductive cell), which typically has 鞭毛 (flagellum) for mobility | [Pexels](https://www.pexels.com/photo/majestic-african-lion-resting-in-the-grass-37075690/) |
 
+Offspring:
+
+| 崽; 幼 | 崽; 幼崽 | zǎi; yòuzǎi | immature offspring | ![猪崽](./mammals/猪崽.jpg) | general term; 崽 is often used as a suffix; pictured is a 猪崽 (piglet); 崽 is often used interchangably with 仔 (zǎi) | [Pexels](https://www.pexels.com/photo/black-and-white-piglet-4767455/) |
+| 犊 | 牛犊 | niúdú | calf | ![牛犊](./mammals/牛犊.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-calf-standing-beside-mother-cow-outdoors-31437425/) |
+| 羔 | 羊羔 | niúdú | kid; lamb | ![羊羔](./mammals/羊羔.jpg) | | [Pexels](https://www.pexels.com/photo/lamb-grazing-peacefully-in-sunlit-pasture-36339005/) |
+| 驹 | 马驹 | mǎjū | colt or filly (young horse) | ![马驹](./mammals/马驹.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
 
