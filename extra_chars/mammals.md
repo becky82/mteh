@@ -25,6 +25,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 狗; 犬 | 狗; 犬 | gǒu; quǎn | dog | ![狗](./mammals/狗.jpg) | 警犬 (police dog); 导盲犬 (guide dog); 猎犬/猎狗 (hunting dog; hound); 搜救犬 (search and rescue dog); 缉毒犬 (drug detector dog); 牧羊犬 (sheepdog); 看门狗 (kānméngǒu; guard dog); there are many 犬种 (dog breeds) such as 贵宾犬 (poodle), 拉布拉多 (labrador), and 藏獒 (Tibetan mastiff) | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
 | 狗; 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is also used in 鬣蜥 (iguana) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
 | 狮 | 狮子 | shīzi | lion | ![狮子](./mammals/狮子.jpg) | male lions have 鬃毛 (zōngmáo; manes); 《狮子王》 (*The Lion King*) | [Pexels](https://www.pexels.com/photo/majestic-lion-resting-in-green-forest-32196368/) |
+| 狸 | 海狸; 河狸 | hǎilí; hélí | beaver | ![海狸](./mammals/海狸.jpg) | | [Pexels](https://www.pexels.com/photo/wet-beaver-on-river-bank-21562091/) |
 | 狼 | 狼 | láng | wolf | ![狼](./mammals/狼.jpg) | used in the chengyu [狼吞虎咽](https://baike.baidu.com/item/%E7%8B%BC%E5%90%9E%E8%99%8E%E5%92%BD/4438649); 灰太狼 is the antagonist in the cartoon 《喜羊羊与灰太狼》 | [Pexels](https://www.pexels.com/photo/gray-wolf-in-forest-clearing-during-daytime-31767241/) |
 | 猞; 猁 | 猞猁 | shēlì | lynx | ![猞猁](./mammals/猞猁.jpg) | | [Pexels](https://www.pexels.com/photo/lynx-looking-away-on-snowy-terrain-in-nature-7896217/) |
 | 猩 | 大猩猩 | dàxīngxing | gorilla | ![大猩猩](./mammals/大猩猩.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_(Gorille_des_plaines_de_l%27Ouest)_-_458.jpg) |
@@ -70,7 +71,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 鼠 | 老鼠 | lǎoshǔ | mouse; rat | ![老鼠](./mammals/老鼠.jpg) | | [Pexels](https://www.pexels.com/photo/rad-eating-cheese-15193801/) |
 | 鼠 | 花栗鼠; 花鼠 | huālìshǔ; huāshǔ | chipmunk | ![花栗鼠](./mammals/花栗鼠.jpg) | | [Pexels](https://www.pexels.com/photo/tender-moment-between-two-chipmunks-outdoors-35463402/) |
 | 鼠 | 袋鼠 | dàishǔ | kangaroo | ![袋鼠](./mammals/袋鼠.jpg) | | [Pexels](https://www.pexels.com/photo/a-kangaroo-and-her-baby-are-standing-in-the-grass-27110776/) |
-| 鼠; 鼯 | 鼯鼠 | wúshǔ | flying squirrel | ![鼯鼠](./mammals/鼯鼠.jpg) | | [Pexels](https://www.pexels.com/photo/charming-sugar-glider-on-textured-blanket-37799574/) |
+| 鼠; 鼯 | 飞鼠; 鼯鼠 | fēishǔ; wúshǔ | flying squirrel | ![飞鼠](./mammals/飞鼠.jpg) | | [Pexels](https://www.pexels.com/photo/charming-sugar-glider-on-textured-blanket-37799574/) |
 | 鼠; 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
 | 鼹 | 针鼹 | zhēnyǎn | echidna | ![针鼹](./mammals/针鼹.jpg) | | [Pexels](https://www.pexels.com/photo/brown-and-black-hedgehog-on-green-grass-field-7329775/) |
