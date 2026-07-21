@@ -13,14 +13,14 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 | 熊; 浣 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
 | 牛 | 奶牛; 乳牛 | nǎiniú; rǔniú | dairy cow; milk cow | ![奶牛](./mammals/奶牛.jpg) | produces 牛奶 (cow milk); used in the chengyus [对牛弹琴](https://baike.baidu.com/item/%E5%AF%B9%E7%89%9B%E5%BC%B9%E7%90%B4/3490), [九牛一毛](https://baike.baidu.com/item/%E4%B9%9D%E7%89%9B%E4%B8%80%E6%AF%9B), and [气壮如牛](https://baike.baidu.com/item/%E6%B0%94%E5%A3%AE%E5%A6%82%E7%89%9B) | [Pexels](https://www.pexels.com/photo/holstein-dairy-cow-nursing-calf-in-pasture-29535256/) |
 | 牛 | 水牛 | shuǐniú | water buffalo | ![水牛](./mammals/水牛.jpg) | | [Pexels](https://www.pexels.com/photo/a-herd-of-buffalo-running-through-the-water-28121324/) |
-| 牛; 牦 | 牦牛 | máoniú | yak | ![牦牛](./mammals/牦牛.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
-| 牛 | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15水獭320328/) |
+| 牛; 牦 | 牦牛 | máoniú | yak | ![牦牛](./mammals/牦牛.jpg) | | [Pexels](https://www.pexels.com/photo/white-yak-by-a-serene-lake-in-altai-xinjiang-34649126/) |
+| 牛 | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15320328/) |
 | 牛; 羚 | 羚牛 | língniú | takin | ![羚牛](./mammals/羚牛.jpg) | | [Pexels](https://www.pexels.com/photo/animal-with-horns-15289300/) |
 | 牛 | 野牛 | yěniú | bison | ![野牛](./mammals/野牛.jpg) |  | [Pexels](https://www.pexels.com/photo/majestic-american-bison-grazing-in-open-field-37107310/) |
 | 牛; 麝 | 麝牛 | shèniú | muskox | ![麝牛](./mammals/麝牛.jpg) |  | [Pexels](https://www.pexels.com/photo/muskox-grazing-in-dovrefjell-national-park-38256691/) |
 | 犸 | 猛犸 | měngmǎ | mammoth | ![猛犸](./mammals/猛犸.png) | 已灭绝动物 (extinct animal) | [Wikimedia](https://commons.wikimedia.org/wiki/File:202003_Woolly_mammoth.png) |
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
-| 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) | [Pexels](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) |
+| 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) | [Pexels](https://www.pexels.com/photo/fox-on-a-field-13533977/) |
 | 狒 | 狒狒 | fèifèi | baboon | ![狒狒](./mammals/狒狒.jpg) | | [Pexels](https://www.pexels.com/photo/a-baboon-sitting-near-wild-plants-while-looking-afar-13717879/) |
 | 狗; 犬 | 狗; 犬 | gǒu; quǎn | dog | ![狗](./mammals/狗.jpg) | 警犬 (police dog); 导盲犬 (guide dog); 猎犬/猎狗 (hunting dog; hound); 搜救犬 (search and rescue dog); 缉毒犬 (drug detector dog); 牧羊犬 (sheepdog); 看门狗 (kānméngǒu; guard dog); there are many 犬种 (dog breeds) such as 贵宾犬 (poodle), 拉布拉多 (labrador), and 藏獒 (Tibetan mastiff) | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
 | 狗; 鬣 | 鬣狗 | liègǒu | hyena | ![鬣狗](./mammals/鬣狗.jpg) | not to be confused with 猎狗 (liègǒu; hunting dog); the character 鬣 is also used in 鬣蜥 (iguana) | [Pexels](https://www.pexels.com/photo/spotted-hyenas-in-the-wild-11727678/) |
@@ -66,7 +66,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 | | 鸭嘴兽 | yāzuǐshòu | platypus | ![鸭嘴兽](./mammals/鸭嘴兽.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg) |
 | 鹿 | 长颈鹿 | chángjǐnglù | giraffe | ![长颈鹿](./mammals/长颈鹿.jpg) | | [Pexels](https://www.pexels.com/photo/giraffes-in-grassland-4577134/) |
 | 鹿; 驯 | 驯鹿 | xùnlù | reindeer | ![驯鹿](./mammals/驯鹿.jpg) | a species of deer, capable of being 驯养 (domesticated) | [Pexels](https://www.pexels.com/photo/reindeer-grazing-on-snowy-terrain-in-winter-5592614/) |
-| 鹿 | 鹿 | lù | deer | ![鹿](./mammals/鹿.jpg) | generic term; used in the chengyu [指鹿为马](https://baike.baidu.com/item/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/239153) | [Pexels](https://www.pexels.com/photo/serene-deer-in-a-sunlit-forest-clearing-29241394/) 
+| 鹿 | 鹿 | lù | deer | ![鹿](./mammals/鹿.jpg) | generic term; used in the chengyu [指鹿为马](https://baike.baidu.com/item/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/239153) | [Pexels](https://www.pexels.com/photo/serene-deer-in-a-sunlit-forest-clearing-29241394/) |
 | 鹿; 麋 | 麋鹿 | mílù | Père David's deer | ![麋鹿](./mammals/麋鹿.jpg) | sometimes called "Chinese reindeer"; [Père David](https://en.wikipedia.org/wiki/Armand_David) was a mid-1800s zoologist and French missionary to China | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Pere_David_Deer_-_Woburn_Deer_Park_%285115883164%29.jpg) |
 | 麂 | 麂子 | jǐzi | muntjac | ![麂子](./mammals/麂子.jpg) | | [Pexels](https://www.pexels.com/photo/muntjac-deer-crossing-a-road-in-thailand-30819811/) |
 | 麝 | 麝 | shè | musk deer | ![麝](./mammals/麝.jpg) | 麝香 "musk" (fragrance) historically extracted from 麝; unrelated to 埃隆·马斯克 Elon Musk | [Wikimedia](https://commons.wikimedia.org/wiki/File:Musk_deer_in_Edinburgh_Zoo.jpg) |
@@ -111,6 +111,6 @@ Offspring:
 | 崽; 幼 | 崽; 幼崽 | zǎi; yòuzǎi | immature offspring | ![猪崽](./mammals/猪崽.jpg) | general term; 崽 is often used as a suffix; pictured is a 猪崽 (piglet); 崽 is often used interchangeably with 仔 (zǎi); it's also common in everyday speech to use 小 as a prefix (小狗, 小马, 小猫, etc.) | [Pexels](https://www.pexels.com/photo/black-and-white-piglet-4767455/) |
 | 犊 | 牛犊 | niúdú | calf | ![牛犊](./mammals/牛犊.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-calf-standing-beside-mother-cow-outdoors-31437425/) |
 | 羔 | 羊羔 | yánggāo | kid; lamb | ![羊羔](./mammals/羊羔.jpg) | | [Pexels](https://www.pexels.com/photo/lamb-grazing-peacefully-in-sunlit-pasture-36339005/) |
-| 驹 | 马驹 | mǎjū | colt or filly (young horse) | ![马驹](./mammals/马驹.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
+| 驹 | 马驹 | mǎjū | colt or filly (young horse) | ![马驹](./mammals/马驹.jpg) | | [Pexels](https://www.pexels.com/photo/brown-horse-feeding-white-horse-785327/) |
 | 麑 | 麑 | ní | fawn (young deer) | ![麑](./mammals/麑.jpg) | | [Pexels](https://www.pexels.com/photo/young-deer-in-sunlit-forest-clearing-37284372/) |
 
