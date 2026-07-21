@@ -65,6 +65,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 骡 | 骡子 | luózi | mule | ![骡子](./mammals/骡子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:MULE_(2976074852).jpg) |
 | | 鸭嘴兽 | yāzuǐshòu | platypus | ![鸭嘴兽](./mammals/鸭嘴兽.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg) |
 | 鹿 | 长颈鹿 | chángjǐnglù | giraffe | ![长颈鹿](./mammals/长颈鹿.jpg) | | [Pexels](https://www.pexels.com/photo/giraffes-in-grassland-4577134/) |
+| 鹿; 驯 | 驯鹿 | xùnlù | reindeer | ![驯鹿](./mammals/驯鹿.jpg) | a species of deer, capable of being 驯养 (domesticated) | [Wikimedia](https://www.pexels.com/photo/reindeer-grazing-on-snowy-terrain-in-winter-5592614/) |
 | 鹿; 麋 | 麋鹿 | mílù | Père David's deer | ![麋鹿](./mammals/麋鹿.jpg) | sometimes called "Chinese reindeer"; [Père David](https://en.wikipedia.org/wiki/Armand_David) was a mid-1800s zoologist and French missionary to China | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Pere_David_Deer_-_Woburn_Deer_Park_%285115883164%29.jpg) |
 | 麂 | 麂子 | jǐzi | muntjac | ![麂子](./mammals/麂子.jpg) | | [Pexels](https://www.pexels.com/photo/muntjac-deer-crossing-a-road-in-thailand-30819811/) |
 | 麝 | 麝 | shè | musk deer | ![麝](./mammals/麝.jpg) | 麝香 "musk" (fragrance) historically extracted from 麝; unrelated to 埃隆·马斯克 Elon Musk | [Wikimedia](https://commons.wikimedia.org/wiki/File:Musk_deer_in_Edinburgh_Zoo.jpg) |
