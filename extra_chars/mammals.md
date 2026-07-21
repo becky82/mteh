@@ -1,6 +1,6 @@
 # Characters/words for mammals
 
-Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md).
+Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
@@ -40,13 +40,13 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 猴; 狨 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Pexels](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
 | 猴; 猕 | 猕猴 | míhóu | macaque | ![猕猴](./mammals/猕猴.jpg) | also used in 猕猴桃 (kiwi fruit) | [Pexels](https://www.pexels.com/photo/photo-of-a-monkey-family-against-a-tree-18612365/) |
 | 猴 | 猴子 | hóuzi | monkey | ![猴子](./mammals/猴子.jpg) | pictured is a 蜘蛛猴 (spider monkey); used in the chengyus [杀鸡儆猴](https://baike.baidu.com/item/%E6%9D%80%E9%B8%A1%E5%84%86%E7%8C%B4/2389214) and [猴年马月](https://baike.baidu.com/item/%E7%8C%B4%E5%B9%B4%E9%A9%AC%E6%9C%88/1499064) | [Pexels](https://www.pexels.com/photo/spider-monkey-climbing-tree-in-costa-rica-33181302/) |
-| 猿 | 猿 | yuán | ape | ![猿](./mammals/猿.jpg) | general term for multiple apes; in biology, it includes 类人猿 (homonids); unlike 猴 (monkeys), 猿 (apes) do not have tails | [Pexels](https://www.pexels.com/photo/monkey-27260618/) |
+| 猿 | 猿 | yuán | ape | ![猿](./mammals/猿.jpg) | general term for multiple apes; in biology, it includes 类人猿 (hominids); unlike 猴 (monkeys), 猿 (apes) do not have tails | [Pexels](https://www.pexels.com/photo/monkey-27260618/) |
 | 獐 | 獐子 | zhāngzi | water deer | ![獐子](./mammals/獐子.jpg) | males have tusk-like canine teeth | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydropotes_inermis_male.JPG) |
 | 獭 | 水獭 | shuǐtǎ | otter | ![水獭](./mammals/水獭.jpg) | | [Pexels](https://www.pexels.com/photo/north-american-river-otter-on-rocky-shore-37836718/) |
 | 獴 | 獴 | měng | mongoose | ![獴](./mammals/獴.jpg) | | [Pexels](https://www.pexels.com/photo/banded-mongoose-in-kenyan-wilderness-33650772/) |
 | 獾 | 獾 | huān | badger | ![獾](./mammals/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
 | | 穿山甲 | chuānshānjiǎ | pangolin | ![穿山甲](./mammals/穿山甲.jpg) | | [wikimedia](https://commons.wikimedia.org/wiki/File:Manis.jpg) |
-| 羊 | 黄羊 | huángyáng | Mongolian gazelle | ![黄羊](./mammals/黄羊.jpg) | | [Pexels](https://commons.wikimedia.org/wiki/File:Procapra_gutturosa_357203968.jpg) |
+| 羊 | 黄羊 | huángyáng | Mongolian gazelle | ![黄羊](./mammals/黄羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Procapra_gutturosa_357203968.jpg) |
 | 羚; 羊 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a 大羚羊 (oryx) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | 羚; 羊 | 藏羚羊 | zànglíngyáng | Tibetan antelope | ![藏羚羊](./mammals/藏羚羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | | 考拉 | kǎolā | koala | ![考拉](./mammals/考拉.jpg) | | [Pexels](https://www.pexels.com/photo/a-koala-on-a-tree-5322338/) |
@@ -65,8 +65,8 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 骡 | 骡子 | luózi | mule | ![骡子](./mammals/骡子.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:MULE_(2976074852).jpg) |
 | | 鸭嘴兽 | yāzuǐshòu | platypus | ![鸭嘴兽](./mammals/鸭嘴兽.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg) |
 | 鹿 | 长颈鹿 | chángjǐnglù | giraffe | ![长颈鹿](./mammals/长颈鹿.jpg) | | [Pexels](https://www.pexels.com/photo/giraffes-in-grassland-4577134/) |
-| 鹿; 驯 | 驯鹿 | xùnlù | reindeer | ![驯鹿](./mammals/驯鹿.jpg) | a species of deer, capable of being 驯养 (domesticated) | [Wikimedia](https://www.pexels.com/photo/reindeer-grazing-on-snowy-terrain-in-winter-5592614/) |
-| 鹿 | 鹿 | lù | deer | ![鹿](./mammals/鹿.jpg) | generic term; used in the chengyu [指鹿为马](https://baike.baidu.com/item/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/239153) | [Wikimedia](https://www.pexels.com/photo/serene-deer-in-a-sunlit-forest-clearing-29241394/) 
+| 鹿; 驯 | 驯鹿 | xùnlù | reindeer | ![驯鹿](./mammals/驯鹿.jpg) | a species of deer, capable of being 驯养 (domesticated) | [Pexels](https://www.pexels.com/photo/reindeer-grazing-on-snowy-terrain-in-winter-5592614/) |
+| 鹿 | 鹿 | lù | deer | ![鹿](./mammals/鹿.jpg) | generic term; used in the chengyu [指鹿为马](https://baike.baidu.com/item/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/239153) | [Pexels](https://www.pexels.com/photo/serene-deer-in-a-sunlit-forest-clearing-29241394/) 
 | 鹿; 麋 | 麋鹿 | mílù | Père David's deer | ![麋鹿](./mammals/麋鹿.jpg) | sometimes called "Chinese reindeer"; [Père David](https://en.wikipedia.org/wiki/Armand_David) was a mid-1800s zoologist and French missionary to China | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Pere_David_Deer_-_Woburn_Deer_Park_%285115883164%29.jpg) |
 | 麂 | 麂子 | jǐzi | muntjac | ![麂子](./mammals/麂子.jpg) | | [Pexels](https://www.pexels.com/photo/muntjac-deer-crossing-a-road-in-thailand-30819811/) |
 | 麝 | 麝 | shè | musk deer | ![麝](./mammals/麝.jpg) | 麝香 "musk" (fragrance) historically extracted from 麝; unrelated to 埃隆·马斯克 Elon Musk | [Wikimedia](https://commons.wikimedia.org/wiki/File:Musk_deer_in_Edinburgh_Zoo.jpg) |
@@ -97,18 +97,18 @@ Male/female:
 |--------|------|--------|----------|--------|-----------|--------------|
 | | 公 | gōng| male | ![公牛](./mammals/公牛.jpg) | used for male animals; pictured is a 公牛 (bull) with prominent 阴茎 (yīnjīng; penis), 阴囊 (yīnnáng; scrotum) and 睾丸 (gāowán; testicles); the female 母牛 (cow) instead has a prominent 乳房 (breasts, or udder) | [Pexels](https://www.pexels.com/photo/majestic-bull-standing-against-misty-backdrop-35712118/) |
 | | 母 | mǔ | female | ![母猫](./mammals/母猫.jpg) | used for female animals; also used in human words such as 母亲 (mother) and 祖母 (paternal grandmother) | [Pexels](https://www.pexels.com/photo/tabby-cat-feeding-her-kittens-13975879/) |
-| 牝 | 牝 | pìn | female | ![牝马](./mammals/牝马.jpg) | pictured is a 牝马 (more specifically a mare) that is 怀孕 / 有孕 (pregnant) or in a 妊娠期 (gestation period); 牝马之贞 is used in 《易经》 to describe 坤 |
-| 牡 | 牡 | mǔ | male | ![牡鹿](./mammals/牡鹿.jpg) | pictured is a 牡鹿 (buck, or male deer); in many deer species, only males have 角 horns; the character 牡 is also used in 牡丹 (a flower) and 牡蛎 (oyster), but this usage is unrelated to the meaning "male" | [Pexels](https://www.pexels.com/photo/brown-deer-in-close-up-photography-10106090/) | [Pexels](https://www.pexels.com/photo/pregnant-horse-grazing-in-lush-green-pasture-31438471/) |
+| 牝 | 牝 | pìn | female | ![牝马](./mammals/牝马.jpg) | pictured is a 牝马 (more specifically a mare) that is 怀孕 / 有孕 (pregnant) or in a 妊娠期 (gestation period); 牝马之贞 is used in 《易经》 to describe 坤 | [Pexels](https://www.pexels.com/photo/pregnant-horse-grazing-in-lush-green-pasture-31438471/) |
+| 牡 | 牡 | mǔ | male | ![牡鹿](./mammals/牡鹿.jpg) | pictured is a 牡鹿 (buck, or male deer); in many deer species, only males have 角 horns; the character 牡 is also used in 牡丹 (a flower) and 牡蛎 (oyster), but this usage is unrelated to the meaning "male" | [Pexels](https://www.pexels.com/photo/brown-deer-in-close-up-photography-10106090/) |
 | | 男 | nán | male | ![男人](./mammals/男人.jpg) | used for male humans | [Pexels](https://www.pexels.com/photo/casual-portrait-of-smiling-young-man-in-camouflage-cap-38114107/) |
 | | 女 | nǚ | female | ![女人](./mammals/女人.jpg) | used for female humans | [Pexels](https://www.pexels.com/photo/young-woman-in-traditional-blue-sari-outdoors-34324399/) |
 | 雌 | 雌 | cí | female | ![雌狮](./mammals/雌狮.jpg) | scientific term; pictured is a 雌狮 (lioness); females are noted for 卵子 (ovum; egg); female mammals are noted for their ability to 母乳喂养 (breastfeed) | [Pexels](https://www.pexels.com/photo/lioness-walking-in-a-serene-outdoor-enclosure-28483746/) |
-| 雄 | 雄 | xióng | male | ![雄狮](./mammals/雄狮.jpg) | scientific term; pictured is a 雄狮 (male lion); males are noted for producting 精子 (sperm), the male 生殖细胞 (reproductive cell), which typically has 鞭毛 (flagellum) for mobility | [Pexels](https://www.pexels.com/photo/majestic-african-lion-resting-in-the-grass-37075690/) |
+| 雄 | 雄 | xióng | male | ![雄狮](./mammals/雄狮.jpg) | scientific term; pictured is a 雄狮 (male lion); males are noted for producing 精子 (sperm), the male 生殖细胞 (reproductive cell), which typically has 鞭毛 (flagellum) for mobility | [Pexels](https://www.pexels.com/photo/majestic-african-lion-resting-in-the-grass-37075690/) |
 
 Offspring:
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
-| 崽; 幼 | 崽; 幼崽 | zǎi; yòuzǎi | immature offspring | ![猪崽](./mammals/猪崽.jpg) | general term; 崽 is often used as a suffix; pictured is a 猪崽 (piglet); 崽 is often used interchangably with 仔 (zǎi); it's also common in everyday speech to use 小 as a prefix (小狗, 小马, 小猫, etc.) | [Pexels](https://www.pexels.com/photo/black-and-white-piglet-4767455/) |
+| 崽; 幼 | 崽; 幼崽 | zǎi; yòuzǎi | immature offspring | ![猪崽](./mammals/猪崽.jpg) | general term; 崽 is often used as a suffix; pictured is a 猪崽 (piglet); 崽 is often used interchangeably with 仔 (zǎi); it's also common in everyday speech to use 小 as a prefix (小狗, 小马, 小猫, etc.) | [Pexels](https://www.pexels.com/photo/black-and-white-piglet-4767455/) |
 | 犊 | 牛犊 | niúdú | calf | ![牛犊](./mammals/牛犊.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-calf-standing-beside-mother-cow-outdoors-31437425/) |
 | 羔 | 羊羔 | yánggāo | kid; lamb | ![羊羔](./mammals/羊羔.jpg) | | [Pexels](https://www.pexels.com/photo/lamb-grazing-peacefully-in-sunlit-pasture-36339005/) |
 | 驹 | 马驹 | mǎjū | colt or filly (young horse) | ![马驹](./mammals/马驹.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-dog-walking-at-sunset-in-park-34405083/) |
