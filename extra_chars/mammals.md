@@ -100,7 +100,7 @@ Auxiliary:
 | 牡 | 牡 | mǔ | male | ![牡鹿](./mammals/牡鹿.jpg) | pictured is a 牡鹿 (buck, or male deer); in many deer species, only males have 角 horns; the character 牡 is also used in 牡丹 (a flower) and 牡蛎 (oyster), but this usage is unrelated to the meaning "male" | [Pexels](https://www.pexels.com/photo/brown-deer-in-close-up-photography-10106090/) |
 | | 女 | nǚ | female | ![女人](./mammals/女人.jpg) | used for female humans | [Pexels](https://www.pexels.com/photo/young-woman-in-traditional-blue-sari-outdoors-34324399/) |
 | | 男 | nán | male | ![男人](./mammals/男人.jpg) | used for male humans | [Pexels](https://www.pexels.com/photo/contemplative-man-leaning-on-a-wooden-railing-outdoors-28831258/) |
-| 雄 | 雄 | xióng | male | ![雄狮](./mammals/雄狮.jpg) | scientific term; pictured is a 雄狮 (male lion); noted for producting 精子 (sperm), the male 生殖细胞 (reproductive cell), which typically has 鞭毛 (flagellum) for mobility | [Pexels](https://www.pexels.com/photo/majestic-african-lion-resting-in-the-grass-37075690/) |
+| 雄 | 雄 | xióng | male | ![雄狮](./mammals/雄狮.jpg) | scientific term; pictured is a 雄狮 (male lion); males are noted for producting 精子 (sperm), the male 生殖细胞 (reproductive cell), which typically has 鞭毛 (flagellum) for mobility | [Pexels](https://www.pexels.com/photo/majestic-african-lion-resting-in-the-grass-37075690/) |
 | 雌 | 雌 | cí | female | ![雌狮](./mammals/雌狮.jpg) | scientific term; pictured is a 雌狮 (lioness); females are noted for 卵子 (ovum; egg); female mammals are noted for their ability to 母乳喂养 (breastfeed) | [Pexels](https://www.pexels.com/photo/lioness-walking-in-a-serene-outdoor-enclosure-28483746/) |
 
 
