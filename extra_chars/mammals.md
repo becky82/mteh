@@ -96,7 +96,7 @@ Mythical:
 Male/female:
 
 | char | pinyin | English | image | comments | image source |
-|--------|------|--------|----------|--------|-----------|--------------|
+|--------|------|--------|----------|--------|-----------|
 | 公 | gōng| male | ![公牛](./mammals/公牛.jpg) | used for male animals; pictured is a 公牛 (bull) with prominent 阴茎 (yīnjīng; penis), 阴囊 (yīnnáng; scrotum) and 睾丸 (gāowán; testicles); the female 母牛 (cow) instead has a prominent 乳房 (breasts, or udder) | [Pexels](https://www.pexels.com/photo/majestic-bull-standing-against-misty-backdrop-35712118/) |
 | 母 | mǔ | female | ![母猫](./mammals/母猫.jpg) | used for female animals; also used in human words such as 母亲 (mother) and 祖母 (paternal grandmother) | [Pexels](https://www.pexels.com/photo/tabby-cat-feeding-her-kittens-13975879/) |
 | 牝 | pìn | female | ![牝马](./mammals/牝马.jpg) | pictured is a 牝马 (more specifically a mare) that is 怀孕 / 有孕 (pregnant) or in a 妊娠期 (gestation period); 牝马之贞 is used in 《易经》 to describe 坤 | [Pexels](https://www.pexels.com/photo/pregnant-horse-grazing-in-lush-green-pasture-31438471/) |
