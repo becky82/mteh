@@ -12,7 +12,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 | 熊 | 小熊猫; 红熊猫 | xiǎoxióngmāo; hóngxióngmāo | red panda | ![小熊猫](./mammals/小熊猫.jpg) | not actually a bear; not closely related to 大熊猫 | [Pexels](https://www.pexels.com/photo/red-panda-poses-gracefully-in-tree-branches-30692710/) |
 | 熊; 浣 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
 | 牛 | 奶牛; 乳牛 | nǎiniú; rǔniú | dairy cow; milk cow | ![奶牛](./mammals/奶牛.jpg) | produces 牛奶 (cow milk); used in the chengyus [对牛弹琴](https://baike.baidu.com/item/%E5%AF%B9%E7%89%9B%E5%BC%B9%E7%90%B4/3490), [九牛一毛](https://baike.baidu.com/item/%E4%B9%9D%E7%89%9B%E4%B8%80%E6%AF%9B), and [气壮如牛](https://baike.baidu.com/item/%E6%B0%94%E5%A3%AE%E5%A6%82%E7%89%9B) | [Pexels](https://www.pexels.com/photo/holstein-dairy-cow-nursing-calf-in-pasture-29535256/) |
-| 牛 | 水牛 | shuǐniú | water buffalo | ![水牛](./mammals/水牛.jpg) | | [Pexels](https://www.pexels.com/photo/a-herd-of-buffalo-running-through-the-water-28121324/) |
+| 牛 | 水牛 | shuǐniú | water buffalo | ![水牛](./mammals/水牛.jpg) | the city Buffalo in New York State (USA) is 布法罗 or 水牛城 | [Pexels](https://www.pexels.com/photo/a-herd-of-buffalo-running-through-the-water-28121324/) |
 | 牛; 牦 | 牦牛 | máoniú | yak | ![牦牛](./mammals/牦牛.jpg) | | [Pexels](https://www.pexels.com/photo/white-yak-by-a-serene-lake-in-altai-xinjiang-34649126/) |
 | 牛 | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15320328/) |
 | 牛; 羚 | 羚牛 | língniú | takin | ![羚牛](./mammals/羚牛.jpg) | | [Pexels](https://www.pexels.com/photo/animal-with-horns-15289300/) |
