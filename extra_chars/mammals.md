@@ -110,7 +110,7 @@ Offspring:
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
-| 崽; 幼 | 崽; 幼崽 | zǎi; yòuzǎi | immature offspring | ![猪崽](./mammals/猪崽.jpg) | general term; 崽 is often used as a suffix; pictured is a 猪崽 (piglet); 崽 is often used interchangeably with 仔 (zǎi); it's also common in everyday speech to use 小 as a prefix (小狗, 小马, 小猫, etc.) | [Pexels](https://www.pexels.com/photo/black-and-white-piglet-4767455/) |
+| 崽; 幼 | 幼崽 | yòuzǎi | immature offspring | ![猪崽](./mammals/猪崽.jpg) | general term; 崽 is often used as a suffix; pictured is a 猪崽 (piglet); 崽 is often used interchangeably with 仔 (zǎi); it's also common in everyday speech to use 小 as a prefix (小狗, 小马, 小猫, etc.) | [Pexels](https://www.pexels.com/photo/black-and-white-piglet-4767455/) |
 | 犊 | 牛犊 | niúdú | calf | ![牛犊](./mammals/牛犊.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-calf-standing-beside-mother-cow-outdoors-31437425/) |
 | 羔 | 羊羔 | yánggāo | kid; lamb | ![羊羔](./mammals/羊羔.jpg) | | [Pexels](https://www.pexels.com/photo/lamb-grazing-peacefully-in-sunlit-pasture-36339005/) |
 | 驹 | 马驹 | mǎjū | colt or filly (young horse) | ![马驹](./mammals/马驹.jpg) | | [Pexels](https://www.pexels.com/photo/brown-horse-feeding-white-horse-785327/) |
