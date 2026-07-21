@@ -34,6 +34,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 猪 | 猪 | zhū | pig | ![猪](./mammals/猪.jpg) | | [Pexels](https://www.pexels.com/photo/piglet-on-a-farm-in-ohio-usa-37073014/) |
 | 猪 | 疣猪 | yóuzhū | warthog | ![疣猪](./mammals/疣猪.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-photo-of-warthogs-on-green-grass-5521658/) |
 | 猪 | 豪猪 | háozhū | porcupine | ![豪猪](./mammals/豪猪.jpg) | | [Pexels](https://www.pexels.com/photo/wild-porcupine-foraging-near-a-cage-outdoors-33329562/) |
+| 猪 | 野猪 | yězhū | wild boar | ![野猪](./mammals/野猪.jpg) | | [Pexels](https://www.pexels.com/photo/wild-boars-in-forest-enclosure-during-fall-29034760/) |
 | 猫 | 猫; 家猫 | māo; jiāmāo | cat; housecat | ![猫](./mammals/猫.jpg) | 猫科 (the cat family; Felidae); they eat 猫粮 (cat food); sometimes called 猫咪; you can buy movie tickets with the app 猫眼电影 | [Pexels](https://www.pexels.com/photo/close-up-of-relaxed-domestic-cat-lying-indoors-29748152/) |
 | 猬 | 刺猬 | cìwei | hedgehog | ![刺猬](./mammals/刺猬.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-hedgehog-on-ground-18447656/) |
 | 猴; 狨 | 狨猴 | rónghóu | marmoset | ![狨猴](./mammals/狨猴.jpg) | | [Pexels](https://www.pexels.com/photo/common-marmoset-climbing-a-tree-in-forest-30206436/) |
