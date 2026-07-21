@@ -11,11 +11,12 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 熊 | 大熊猫 | dàxióngmāo | giant panda | ![大熊猫](./mammals/大熊猫.jpg) | used in the rhyme: 大熊猫，真憨厚， 爱吃竹叶不吃肉， 肚子饱了慢慢走， 山泉天水当美酒; known for eating bamboo, but can eat meat (this can come up on exams); downgraded from 濒危物种 (endangered species) to 易危物种 (vulnerable species) | [Pexels](https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/) |
 | 熊 | 小熊猫; 红熊猫 | xiǎoxióngmāo; hóngxióngmāo | red panda | ![小熊猫](./mammals/小熊猫.jpg) | not actually a bear; not closely related to 大熊猫 | [Pexels](https://www.pexels.com/photo/red-panda-poses-gracefully-in-tree-branches-30692710/) |
 | 熊; 浣 | 浣熊 | huànxióng | raccoon | ![浣熊](./mammals/浣熊.jpg) | | [Pexels](https://www.pexels.com/photo/curious-raccoon-exploring-forest-edge-36419442/) |
-| 牛 | 奶牛 | nǎiniú | dairy cow | ![奶牛](./mammals/奶牛.jpg) |  | [Pexels](https://www.pexels.com/photo/holstein-dairy-cow-nursing-calf-in-pasture-29535256/) |
+| 牛 | 奶牛; 乳牛 | nǎiniú; rǔniú | dairy cow; milk cow | ![奶牛](./mammals/奶牛.jpg) | produces 牛奶 (cow milk) | [Pexels](https://www.pexels.com/photo/holstein-dairy-cow-nursing-calf-in-pasture-29535256/) |
 | 牛 | 水牛 | shuǐniú | water buffalo | ![水牛](./mammals/水牛.jpg) | | [Pexels](https://www.pexels.com/photo/a-herd-of-buffalo-running-through-the-water-28121324/) |
 | 牛; 牦 | 牦牛 | máoniú | yak | ![牦牛](./mammals/牦牛.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
 | 牛 | 犀牛 | xīniú | rhinoceros | ![犀牛](./mammals/犀牛.jpg) |  | [Pexels](https://www.pexels.com/photo/a-rhinoceros-on-a-field-15水獭320328/) |
 | 牛; 羚 | 羚牛 | língniú | takin | ![羚牛](./mammals/羚牛.jpg) | | [Pexels](https://www.pexels.com/photo/animal-with-horns-15289300/) |
+| 牛 | 野牛 | yěniú | bison | ![野牛](./mammals/野牛.jpg) |  | [Pexels](https://www.pexels.com/photo/majestic-american-bison-grazing-in-open-field-37107310/) |
 | 犸 | 猛犸 | měngmǎ | mammoth | ![猛犸](./mammals/猛犸.png) | 已灭绝动物 (extinct animal) | [Wikimedia](https://commons.wikimedia.org/wiki/File:202003_Woolly_mammoth.png) |
 | 狍 | 狍子 | páozi | roe deer | ![狍子](./mammals/狍子.jpg) | | [Pexels](https://www.pexels.com/photo/roe-deer-on-grass-11390830/) |
 | 狐; 狸 | 狐狸 | húli | fox | ![狐狸](./mammals/狐狸.jpg) | used in the chengyu [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482)  | [Pexels](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482) |
