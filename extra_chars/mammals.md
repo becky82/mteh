@@ -4,7 +4,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
-| 人 | 人 | rén | human | ![人](./mammals/人.jpg) | noted for their intelligence and tool usage; 智人 (homo sapiens) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hou_Yifan_(29762728494)_(cropped).jpg) |
+| 人 | 人 | rén | human | ![人](./mammals/人.jpg) | noted for their intelligence and tool usage; 智人 (homo sapiens) | [Pexels](https://www.pexels.com/photo/joyful-woman-smiling-outdoors-in-baku-33438768/) |
 | 兔 | 兔子 | tùzi | rabbit | ![兔子](./mammals/兔子.jpg) | used in the chengyus [守株待兔](https://baike.baidu.com/item/%E5%AE%88%E6%A0%AA%E5%BE%85%E5%85%94/560205) and [狡兔三窟](https://baike.baidu.com/item/狡兔三窟) | [Pexels](https://www.pexels.com/photo/adorable-brown-and-white-bunny-on-floor-30197040/) |
 | | 树懒 | shùlǎn | sloth | ![树懒](./mammals/树懒.jpg) | literally "tree lazy" | [Pexels](https://www.pexels.com/photo/sloth-in-zoo-22610440/) |
 | 熊 | 北极熊 | běijíxióng | polar bear | ![北极熊](./mammals/北极熊.jpg) | | [Pexels](https://www.pexels.com/photo/a-polar-bear-walking-on-the-rock-10962759/) |
