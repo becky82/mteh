@@ -46,6 +46,8 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 | 獴 | 獴 | měng | mongoose | ![獴](./mammals/獴.jpg) | | [Pexels](https://www.pexels.com/photo/banded-mongoose-in-kenyan-wilderness-33650772/) |
 | 獾 | 獾 | huān | badger | ![獾](./mammals/獾.jpg) | | [Pexels](https://www.pexels.com/photo/a-gray-badger-on-green-grass-10830792/) |
 | | 穿山甲 | chuānshānjiǎ | pangolin | ![穿山甲](./mammals/穿山甲.jpg) | | [wikimedia](https://commons.wikimedia.org/wiki/File:Manis.jpg) |
+| 羊 | 山羊 | shānyáng | goat | ![山羊](./mammals/山羊.jpg) | | [Pexels](https://www.pexels.com/photo/goats-on-the-cliff-15251053/) |
+| 羊 | 绵羊 | miányáng | sheep | ![绵羊](./mammals/绵羊.jpg) | produces 羊毛 (wool) | [Pexels](https://www.pexels.com/photo/texel-sheep-on-grass-field-under-the-blue-sky-12555344/) |
 | 羊 | 黄羊 | huángyáng | Mongolian gazelle | ![黄羊](./mammals/黄羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Procapra_gutturosa_357203968.jpg) |
 | 羚; 羊 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a 大羚羊 (oryx) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | 羚; 羊 | 藏羚羊 | zànglíngyáng | Tibetan antelope | ![藏羚羊](./mammals/藏羚羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
