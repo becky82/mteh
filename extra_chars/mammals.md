@@ -68,6 +68,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 | 鼠 | 仓鼠 | cāngshǔ | hamster | ![仓鼠](./mammals/仓鼠.jpg) | | [Pexels](https://www.pexels.com/photo/guinea-pig-in-clay-pot-15316907/) |
 | 鼠 | 松鼠 | sōngshǔ | squirrel | ![松鼠](./mammals/松鼠.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-of-squirrel-in-green-grass-37770235/) |
 | 鼠 | 老鼠 | lǎoshǔ | mouse; rat | ![老鼠](./mammals/老鼠.jpg) | | [Pexels](https://www.pexels.com/photo/rad-eating-cheese-15193801/) |
+| 鼠 | 花栗鼠; 花鼠 | huālìshǔ; huāshǔ | chipmunk | ![花栗鼠](./mammals/花栗鼠.jpg) | | [Pexels](https://www.pexels.com/photo/tender-moment-between-two-chipmunks-outdoors-35463402/) |
 | 鼠 | 袋鼠 | dàishǔ | kangaroo | ![袋鼠](./mammals/袋鼠.jpg) | | [Pexels](https://www.pexels.com/photo/a-kangaroo-and-her-baby-are-standing-in-the-grass-27110776/) |
 | 鼠; 鼹 | 鼹鼠 | yǎnshǔ | mole | ![鼹鼠](./mammals/鼹鼠.jpg) | | [Pexels](https://www.pexels.com/photo/black-mole-in-black-soil-88512/) |
 | 鼬 | 鼬 | yòu | weasel | ![鼬](./mammals/鼬.jpg) | | [Pexels](https://www.pexels.com/photo/weasel-and-leaf-18527637/) |
