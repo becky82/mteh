@@ -4,7 +4,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the ![鱼 notes](./鱼.md)
 
 | chars | word | pinyin | English | image | comments | image source |
 |--------|------|--------|----------|--------|-----------|--------------|
-| 人 | 人 | rén | human | ![人](./mammals/人.jpg) | known for their intelligence and tool usage; pictured is [侯逸凡](https://baike.baidu.com/item/%E4%BE%AF%E9%80%B8%E5%87%A1/8039288), noted chessplayer and university professor | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hou_Yifan_(29762728494)_(cropped).jpg) |
+| 人 | 人 | rén | human | ![人](./mammals/人.jpg) | noted for their intelligence and tool usage; 智人 (homo sapiens) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hou_Yifan_(29762728494)_(cropped).jpg) |
 | 兔 | 兔子 | tùzi | rabbit | ![兔子](./mammals/兔子.jpg) | | [Pexels](https://www.pexels.com/photo/adorable-brown-and-white-bunny-on-floor-30197040/) |
 | | 树懒 | shùlǎn | sloth | ![树懒](./mammals/树懒.jpg) | literally "tree lazy" | [Pexels](https://www.pexels.com/photo/sloth-in-zoo-22610440/) |
 | 熊 | 北极熊 | běijíxióng | polar bear | ![北极熊](./mammals/北极熊.jpg) | | [Pexels](https://www.pexels.com/photo/a-polar-bear-walking-on-the-rock-10962759/) |
