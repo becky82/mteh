@@ -59,7 +59,7 @@ Recognized ethnic minorities:
 | 乌孜别克族 | Wūzībiékèzú | Uzbek | ![乌孜别克族](./ethnicities/乌孜别克族.png) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothing-9194538/) |
 | 佤族 | Wǎzú | Va | [TO DO] | | [TO DO] |
 | 锡伯族 | Xíbózú | Xibe | [TO DO] | | [TO DO] |
-| 瑶族 | Yáozú | Yao | [TO DO] | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Yao_people%27s_Harvest_Festival_in_Nala_Village_-_5.jpg) |
+| 瑶族 | Yáozú | Yao | ![瑶族](./ethnicities/瑶族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Yao_people%27s_Harvest_Festival_in_Nala_Village_-_5.jpg) |
 | 彝族 | Yízú | Yi | ![彝族](./ethnicities/彝族.jpg) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothes-12368070/) |
 | 裕固族 | Yùgùzú | Yugur | [TO DO] | | [TO DO] |
 | 壮族 | Zhuàngzú | Zhuang | ![壮族](./ethnicities/壮族.jpg) ![壮族2](./ethnicities/壮族2.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-zhuang-folk-music-performance-34748480/) |
