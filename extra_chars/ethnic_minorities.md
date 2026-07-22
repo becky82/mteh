@@ -45,7 +45,7 @@ Recognized ethnic minorities:
 | 怒族 | Nùzú | Nu | ![怒族](./ethnicities/怒族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Nu_plays_dabiya.jpg) |
 | 鄂伦春族 | Èlúnchūnzú | Oroqen | [TO DO] | | [TO DO] |
 | 普米族 | Pǔmǐzú | Pumi | ![普米族](./ethnicities/普米族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:P1090077.JPG) |
-| 羌族 | Qiāngzú | Qiang | [TO DO] | | [TO DO] |
+| 羌族 | Qiāngzú | Qiang | ![羌族](./ethnicities/羌族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Qiangpeople.jpg) |
 | 俄罗斯族 | Éluósīzú | Russian | [TO DO] | | [TO DO] |
 | 撒拉族 | Sālāzú | Salar | [TO DO] | | [TO DO] |
 | 畲族 | Shēzú | She | [TO DO] | | [TO DO] |
