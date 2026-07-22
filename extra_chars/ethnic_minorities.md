@@ -1,8 +1,13 @@
-# Chinese ethnic minorities
+# Chinese ethnicities
 
 | ethnic group | pinyin | English | images | comments | image source |
 |--------------|--------|---------|--------|----------|--------------|
 | 汉族 | Hànzú | Han | ![汉服](./ethnicities/汉服.jpg) ![文房四宝](./ethnicities/文房四宝.jpg) | 90%+ of Chinese people are Han Chinese (largest ethnic group in the world; 1.4 billion people; 20%+ of the world's population); there are another 55 officially recognized ethnic groups in China; depicted is 汉服 (traditional Han clothing) and [文房四宝](https://baike.baidu.com/item/%E6%96%87%E6%88%BF%E5%9B%9B%E5%AE%9D/25870) (Four Treasures of the Study), namely 笔, 墨, 纸, 砚 | [Pexels](https://www.pexels.com/photo/elegant-woman-in-traditional-asian-attire-34521640/); [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%96%87%E6%88%BF%E5%9B%9B%E5%AF%B6_Four_Treasures_in_the_Study,_Paper,_Writing_Brush,_Ink_Stick,_and_Ink_Stone_-_panoramio.jpg) |
+
+Recognized ethnic minorities:
+
+| ethnic group | pinyin | English | images | comments | image source |
+|--------------|--------|---------|--------|----------|--------------|
 | 阿昌族 | Āchāngzú | Achang | [TO DO] | | [TO DO] |
 | 白族 | Báizú | Bai | [TO DO] | | [TO DO] |
 | 布朗族 | Bùlǎngzú | Blang | [TO DO] | | [TO DO] |
@@ -13,18 +18,18 @@
 | 德昂族 | Dé'ángzú | De'ang | [TO DO] | | [TO DO] |
 | 侗族 | Dòngzú | Dong | [TO DO] | | [TO DO] |
 | 东乡族 | Dōngxiāngzú | Dongxiang | [TO DO] | | [TO DO] |
-| 独龙族 | Dúlóngzú | Derung / Dulong | [TO DO] | | [TO DO] |
+| 独龙族 | Dúlóngzú | Drung / Dulong | [TO DO] | | [TO DO] |
 | 鄂温克族 | Èwēnkèzú | Ewenki | [TO DO] | | [TO DO] |
 | 高山族 | Gāoshānzú | Gaoshan | [TO DO] | | [TO DO] |
-| 仡佬族 | Gélǎozú | Gelao | [TO DO] | | [TO DO] |
+| 仡佬族 | Gēlǎozú | Gelao | [TO DO] | | [TO DO] |
 | 哈尼族 | Hānízú | Hani | [TO DO] | | [TO DO] |
 | 哈萨克族 | Hāsàkèzú | Kazak | [TO DO] | | [TO DO] |
 | 回族 | Huízú | Hui | [TO DO] | | [TO DO] |
 | 赫哲族 | Hèzhézú | Hezhen | [TO DO] | | [TO DO] |
-| 京族 | Jīngzú | Gin / Jing | [TO DO] | | [TO DO] |
+| 京族 | Jīngzú | Gin; Jing | [TO DO] | | [TO DO] |
 | 景颇族 | Jǐngpōzú | Jingpo | [TO DO] | | [TO DO] |
 | 基诺族 | Jīnuòzú | Jino | [TO DO] | | [TO DO] |
-| 柯尔克孜族 | Kē'ěrkèzīzú | Kirgiz | [TO DO] | | [TO DO] |
+| 柯尔克孜族 | Kē'ěrkèzīzú | Kyrghiz | [TO DO] | | [TO DO] |
 | 朝鲜族 | Cháoxiǎnzú | Korean | [TO DO] | | [TO DO] |
 | 拉祜族 | Lāhùzú | Lahu | [TO DO] | | [TO DO] |
 | 黎族 | Lízú | Li | [TO DO] | | [TO DO] |
@@ -34,7 +39,7 @@
 | 毛南族 | Máonánzú | Maonan | [TO DO] | | [TO DO] |
 | 门巴族 | Ménbāzú | Monba | [TO DO] | | [TO DO] |
 | 蒙古族 | Měnggǔzú | Mongol | [TO DO] | | [TO DO] |
-| 苗族 | Miáozú | Miao | [TO DO] | | [TO DO] |
+| 苗族 | Miáozú | Miao; Hmong | [TO DO] | | [TO DO] |
 | 仫佬族 | Mùlǎozú | Mulao | [TO DO] | | [TO DO] |
 | 纳西族 | Nàxīzú | Naxi | [TO DO] | | [TO DO] |
 | 怒族 | Nùzú | Nu | [TO DO] | | [TO DO] |
@@ -58,3 +63,15 @@
 | 彝族 | Yízú | Yi | [TO DO] | | [TO DO] |
 | 裕固族 | Yùgùzú | Yugur | [TO DO] | | [TO DO] |
 | 壮族 | Zhuàngzú | Zhuang | [TO DO] | | [TO DO] |
+
+Unrecognized ethnic minorities:
+
+| ethnic group | pinyin | English | images | comments | image source |
+|--------------|--------|---------|--------|----------|--------------|
+| 摩梭人 | Mósuōrén | Mosuo | [TO DO] | | [TO DO] |
+| 穿青人 | Chuānqīngrén | Chuanqing | [TO DO] | | [TO DO] |
+| 艾努人 | Àinǔrén | Äynu | [TO DO] | | [TO DO] |
+| 革家人 | Géjiārén | Gejia | [TO DO] | | [TO DO] |
+| 白马人 | Báimǎrén | Baima | [TO DO] | | [TO DO] |
+| 回辉人 | Huíhuīrén | Utsul | [TO DO] | | [TO DO] |
+| 夏尔巴人 | Xià'ěrbārén | Sherpa | [TO DO] | | [TO DO] |
