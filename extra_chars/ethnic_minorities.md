@@ -12,7 +12,7 @@ Recognized ethnic minorities:
 | 白族 | Báizú | Bai | ![白族](./ethnicities/白族.jpg) | | [Pexels](https://www.pexels.com/photo/woman-in-pink-traditional-clothing-18658203/) |
 | 布朗族 | Bùlǎngzú | Blang | [TO DO] | | [TO DO] |
 | 保安族 | Bǎo'ānzú | Bonan | [TO DO] | | [TO DO] |
-| 布依族 | Bùyīzú | Bouyei | [TO DO] | | [TO DO] |
+| 布依族 | Bùyīzú | Bouyei | ![布依族](./ethnicities/布依族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Three_matchmakers.jpg) |
 | 达斡尔族 | Dáwò'ěrzú | Daur | [TO DO] | | [TO DO] |
 | 傣族 | Dǎizú | Dai | [TO DO] | | [TO DO] |
 | 德昂族 | Dé'ángzú | De'ang | [TO DO] | | [TO DO] |
