@@ -50,7 +50,7 @@ Recognized ethnic minorities:
 | 撒拉族 | Sālāzú | Salar | [TO DO] | | [TO DO] |
 | 畲族 | Shēzú | She | ![畲族](./ethnicities/畲族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:She_people_traditional_dance_performance_in_Huanglongyan,_Heyuan,_Guangdon.jpg) |
 | 水族 | Shuǐzú | Shui | [TO DO] | | [TO DO] |
-| 塔吉克族 | Tǎjíkèzú | Tajik | [TO DO] | | [TO DO] |
+| 塔吉克族 | Tǎjíkèzú | Tajik | ![塔吉克族](./ethnicities/塔吉克族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Happy_Tajik_children.jpg) |
 | 塔塔尔族 | Tǎtǎ'ěrzú | Tatar | [TO DO] | | [TO DO] |
 | 藏族 | Zàngzú | Tibetan | ![藏族](./ethnicities/藏族.jpg) | | [Pexels](https://www.pexels.com/photo/asian-woman-wearing-colorful-kimono-16762991/) |
 | 土族 | Tǔzú | Tu | [TO DO] | | [TO DO] |
