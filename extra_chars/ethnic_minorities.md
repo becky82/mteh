@@ -52,7 +52,7 @@ Recognized ethnic minorities:
 | 水族 | Shuǐzú | Shui | [TO DO] | | [TO DO] |
 | 塔吉克族 | Tǎjíkèzú | Tajik | [TO DO] | | [TO DO] |
 | 塔塔尔族 | Tǎtǎ'ěrzú | Tatar | [TO DO] | | [TO DO] |
-| 藏族 | Zàngzú | Tibetan | [TO DO] | | [TO DO] |
+| 藏族 | Zàngzú | Tibetan | ![藏族](./ethnicities/藏族.jpg) | | [Pexels](https://www.pexels.com/photo/asian-woman-wearing-colorful-kimono-16762991/) |
 | 土族 | Tǔzú | Tu | [TO DO] | | [TO DO] |
 | 土家族 | Tǔjiāzú | Tujia | [TO DO] | | [TO DO] |
 | 维吾尔族 | Wéiwú'ěrzú | Uyghur | ![维吾尔族](./ethnicities/维吾尔族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-dress-walking-in-chinese-market-32792820/) |
