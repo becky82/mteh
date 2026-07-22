@@ -34,7 +34,7 @@ Recognized ethnic minorities:
 | 拉祜族 | Lāhùzú | Lahu | ![拉祜族](./ethnicities/拉祜族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lahu_girls.jpg) |
 | 黎族 | Lízú | Li | [TO DO] | | [TO DO] |
 | 傈僳族 | Lìsùzú | Lisu | ![傈僳族](./ethnicities/傈僳族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jingpo_girl,_Lisu_girl_and_Rawang_girl.jpg) |
-| 珞巴族 | Luòbāzú | Lhoba | [TO DO] | | [TO DO] |
+| 珞巴族 | Luòbāzú | Lhoba | ![珞巴族](./ethnicities/珞巴族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Horsemen_ride_during_Yartung_Festival.jpg) |
 | 满族 | Mǎnzú | Manchu | [TO DO] | | [TO DO] |
 | 毛南族 | Máonánzú | Maonan | [TO DO] | | [TO DO] |
 | 门巴族 | Ménbāzú | Monba | [TO DO] | | [TO DO] |
