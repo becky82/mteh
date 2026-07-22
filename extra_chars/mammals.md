@@ -32,7 +32,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 | 猩 | 猩猩 | xīngxing | orangutan | ![猩猩](./mammals/猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/orangutans-sitting-on-big-rocks-11644939/) |
 | 猩 | 黑猩猩 | hēixīngxing | chimpanzee | ![黑猩猩](./mammals/黑猩猩.jpg) | | [Pexels](https://www.pexels.com/photo/chimpanzee-smiling-19730393/) |
 | 猪 | 猪 | zhū | pig | ![猪](./mammals/猪.jpg) | | [Pexels](https://www.pexels.com/photo/piglet-on-a-farm-in-ohio-usa-37073014/) |
-| 猪 | 疣猪 | yóuzhū | warthog | ![疣猪](./mammals/疣猪.jpg) | | [Pexels](https://www.pexels.com/photo/close-up-photo-of-warthogs-on-green-grass-5521658/) |
+| 猪 | 疣猪 | yóuzhū | warthog | ![疣猪](./mammals/疣猪.jpg) | literally "wart hog" | [Pexels](https://www.pexels.com/photo/close-up-photo-of-warthogs-on-green-grass-5521658/) |
 | 猪 | 豪猪 | háozhū | porcupine | ![豪猪](./mammals/豪猪.jpg) | | [Pexels](https://www.pexels.com/photo/wild-porcupine-foraging-near-a-cage-outdoors-33329562/) |
 | 猪 | 野猪 | yězhū | wild boar | ![野猪](./mammals/野猪.jpg) | | [Pexels](https://www.pexels.com/photo/wild-boars-in-forest-enclosure-during-fall-29034760/) |
 | 猫 | 猫; 家猫 | māo; jiāmāo | cat; housecat | ![猫](./mammals/猫.jpg) | 猫科 (the cat family; Felidae); they eat 猫粮 (cat food); sometimes called 猫咪; you can buy movie tickets with the app 猫眼电影 | [Pexels](https://www.pexels.com/photo/close-up-of-relaxed-domestic-cat-lying-indoors-29748152/) |
@@ -49,7 +49,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 | 羊 | 山羊 | shānyáng | goat | ![山羊](./mammals/山羊.jpg) | | [Pexels](https://www.pexels.com/photo/goats-on-the-cliff-15251053/) |
 | 羊 | 绵羊 | miányáng | sheep | ![绵羊](./mammals/绵羊.jpg) | produces 羊毛 (wool) | [Pexels](https://www.pexels.com/photo/texel-sheep-on-grass-field-under-the-blue-sky-12555344/) |
 | 羊 | 黄羊 | huángyáng | Mongolian gazelle | ![黄羊](./mammals/黄羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Procapra_gutturosa_357203968.jpg) |
-| 羚; 羊 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a 大羚羊 (oryx) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
+| 羚; 羊 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a 伊兰羚羊 (eland) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | 羚; 羊 | 藏羚羊 | zànglíngyáng | Tibetan antelope | ![藏羚羊](./mammals/藏羚羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | | 考拉 | kǎolā | koala | ![考拉](./mammals/考拉.jpg) | | [Pexels](https://www.pexels.com/photo/a-koala-on-a-tree-5322338/) |
 | 虎 | 老虎 | lǎohǔ | tiger | ![老虎](./mammals/老虎.jpg) | used in the chengyus [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482), [骑虎难下](https://baike.baidu.com/item/%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B/1566600), and [虎头蛇尾](https://baike.baidu.com/item/虎头蛇尾) | [Pexels](https://www.pexels.com/photo/majestic-bengal-tiger-in-natural-habitat-37339203/) |
