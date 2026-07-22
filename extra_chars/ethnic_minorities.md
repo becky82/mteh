@@ -54,7 +54,7 @@ Recognized ethnic minorities:
 | 塔塔尔族 | Tǎtǎ'ěrzú | Tatar | [TO DO] | | [TO DO] |
 | 藏族 | Zàngzú | Tibetan | ![藏族](./ethnicities/藏族.jpg) | | [Pexels](https://www.pexels.com/photo/asian-woman-wearing-colorful-kimono-16762991/) |
 | 土族 | Tǔzú | Tu | ![土族](./ethnicities/土族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%B2%9C%E5%8D%91%E5%90%8E%E8%A3%94-%E9%9D%92%E6%B5%B7%E5%9C%9F%E6%97%8F%E5%A7%91%E5%A8%98_beauty_of_China_Tu_-_panoramio.jpg) |
-| 土家族 | Tǔjiāzú | Tujia | [TO DO] | | [TO DO] |
+| 土家族 | Tǔjiāzú | Tujia | ![土家族](./ethnicities/土家族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tujia_women.jpg) |
 | 维吾尔族 | Wéiwú'ěrzú | Uyghur | ![维吾尔族](./ethnicities/维吾尔族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-dress-walking-in-chinese-market-32792820/) |
 | 乌孜别克族 | Wūzībiékèzú | Uzbek | ![乌孜别克族](./ethnicities/乌孜别克族.png) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothing-9194538/) |
 | 佤族 | Wǎzú | Va | [TO DO] | | [TO DO] |
