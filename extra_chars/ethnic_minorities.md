@@ -29,7 +29,7 @@ Recognized ethnic minorities:
 | 京族 | Jīngzú | Gin; Jing | [TO DO] | | [TO DO] |
 | 景颇族 | Jǐngpōzú | Jingpo | [TO DO] | | [TO DO] |
 | 基诺族 | Jīnuòzú | Jino | [TO DO] | | [TO DO] |
-| 柯尔克孜族 | Kē'ěrkèzīzú | Kyrghiz | [TO DO] | | [TO DO] |
+| 柯尔克孜族 | Kē'ěrkèzīzú | Kyrghiz | ![柯尔克孜族人](./ethnicities/柯尔克孜族人.jpg) | | [Pexels](https://www.pexels.com/photo/women-in-traditional-hats-17116610/) |
 | 朝鲜族 | Cháoxiǎnzú | Korean | [TO DO] | | [TO DO] |
 | 拉祜族 | Lāhùzú | Lahu | [TO DO] | | [TO DO] |
 | 黎族 | Lízú | Li | [TO DO] | | [TO DO] |
