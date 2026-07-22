@@ -38,7 +38,7 @@ Recognized ethnic minorities:
 | 满族 | Mǎnzú | Manchu | ![满族](./ethnicities/满族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Traditional_Chinese_cloth.jpg) |
 | 毛南族 | Máonánzú | Maonan | [TO DO] | | [TO DO] |
 | 门巴族 | Ménbāzú | Monba | [TO DO] | | [TO DO] |
-| 蒙古族 | Měnggǔzú | Mongol | [TO DO] | | [TO DO] |
+| 蒙古族 | Měnggǔzú | Mongol | ![蒙古族](./ethnicities/蒙古族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Naadam_women_archery.jpg) |
 | 苗族 | Miáozú | Miao; Hmong | ![苗族](./ethnicities/苗族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-costume-with-silver-headwear-30770253/) |
 | 仫佬族 | Mùlǎozú | Mulao | [TO DO] | | [TO DO] |
 | 纳西族 | Nàxīzú | Naxi | [TO DO] | | [TO DO] |
