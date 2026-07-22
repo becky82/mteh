@@ -22,7 +22,7 @@ Recognized ethnic minorities:
 | 鄂温克族 | Èwēnkèzú | Ewenki | [TO DO] | | [TO DO] |
 | 高山族 | Gāoshānzú | Gaoshan | [TO DO] | | [TO DO] |
 | 仡佬族 | Gēlǎozú | Gelao | ![仡佬族](./ethnicities/仡佬族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%BB%A3%E8%A5%BF%E9%9A%86%E6%9E%97%E9%BA%BC%E5%9F%BA%E6%9D%91%E4%BB%A1%E4%BD%AC%E6%97%8F%EF%BC%88%E5%A4%9A%E7%BE%85%E6%96%B9%E8%A8%80%EF%BC%89.jpg) |
-| 哈尼族 | Hānízú | Hani | [TO DO] | | [TO DO] |
+| 哈尼族 | Hānízú | Hani | ![哈尼族](./ethnicities/哈尼族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethnic_Hani_Headgear_China.jpg) |
 | 哈萨克族 | Hāsàkèzú | Kazak | [TO DO] | | [TO DO] |
 | 回族 | Huízú | Hui | ![回族](./ethnicities/回族.jpg) | Islamic ethnic group, noted for 兰州拉面 (Lanzhou pulled noodles) which are 清真 (halal) | [Pexels](https://www.pexels.com/photo/group-praying-at-historical-asian-temple-entrance-30419194/); [Wikimedia](https://commons.wikimedia.org/wiki/File:Lanzhou_Handmade_Beef_Noodles.jpg) |
 | 赫哲族 | Hèzhézú | Hezhen | [TO DO] | | [TO DO] |
