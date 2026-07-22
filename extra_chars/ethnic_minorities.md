@@ -24,7 +24,7 @@ Recognized ethnic minorities:
 | 仡佬族 | Gēlǎozú | Gelao | [TO DO] | | [TO DO] |
 | 哈尼族 | Hānízú | Hani | [TO DO] | | [TO DO] |
 | 哈萨克族 | Hāsàkèzú | Kazak | [TO DO] | | [TO DO] |
-| 回族 | Huízú | Hui | [TO DO] | | [TO DO] |
+| 回族 | Huízú | Hui | ![回族人](./ethnicities/回族人.jpg) ![兰州拉面店](./ethnicities/兰州拉面店.jpg) | Islamic ethnic group, noted for 兰州拉面 (Lanzhou pulled noodles) which are 清真 (halal) | [Pexels](https://www.pexels.com/photo/group-praying-at-historical-asian-temple-entrance-30419194/); [Wikimedia](https://commons.wikimedia.org/wiki/File:Lanzhou_Handmade_Beef_Noodles.jpg) |
 | 赫哲族 | Hèzhézú | Hezhen | [TO DO] | | [TO DO] |
 | 京族 | Jīngzú | Gin; Jing | [TO DO] | | [TO DO] |
 | 景颇族 | Jǐngpōzú | Jingpo | [TO DO] | | [TO DO] |
