@@ -55,7 +55,7 @@ Recognized ethnic minorities:
 | 藏族 | Zàngzú | Tibetan | [TO DO] | | [TO DO] |
 | 土族 | Tǔzú | Tu | [TO DO] | | [TO DO] |
 | 土家族 | Tǔjiāzú | Tujia | [TO DO] | | [TO DO] |
-| 维吾尔族 | Wéiwú'ěrzú | Uyghur | [TO DO] | | [TO DO] |
+| 维吾尔族 | Wéiwú'ěrzú | Uyghur | ![维吾尔族人](./ethnicities/维吾尔族人.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-dress-walking-in-chinese-market-32792820/) |
 | 乌孜别克族 | Wūzībiékèzú | Uzbek | ![乌孜别克族人](./ethnicities/乌孜别克族人.png) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothing-9194538/) |
 | 佤族 | Wǎzú | Va | [TO DO] | | [TO DO] |
 | 锡伯族 | Xíbózú | Xibe | [TO DO] | | [TO DO] |
