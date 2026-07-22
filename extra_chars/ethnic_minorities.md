@@ -39,7 +39,7 @@ Recognized ethnic minorities:
 | 毛南族 | Máonánzú | Maonan | [TO DO] | | [TO DO] |
 | 门巴族 | Ménbāzú | Monba | [TO DO] | | [TO DO] |
 | 蒙古族 | Měnggǔzú | Mongol | [TO DO] | | [TO DO] |
-| 苗族 | Miáozú | Miao; Hmong | [TO DO] | | [TO DO] |
+| 苗族 | Miáozú | Miao; Hmong | ![苗族人](./ethnicities/苗族人.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-costume-with-silver-headwear-30770253/) |
 | 仫佬族 | Mùlǎozú | Mulao | [TO DO] | | [TO DO] |
 | 纳西族 | Nàxīzú | Naxi | [TO DO] | | [TO DO] |
 | 怒族 | Nùzú | Nu | [TO DO] | | [TO DO] |
