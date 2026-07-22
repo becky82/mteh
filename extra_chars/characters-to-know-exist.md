@@ -12,7 +12,7 @@ Some topics deserve their own page:
 
 - Some characters with specific components are fairly regular: [虫](虫.md) (insects and "lower life forms"), [鱼](鱼.md) (fish and other aquatic animals), [鸟](鸟.md) (birds), [木](木.md) (trees and woods).
 
-- Characters relating to [mammals](./mammals.md) [pre-first draft], [plants and flowers](./plants_and_flowers.md) [pre-first draft], [musical instruments](./music.md) [first draft].  
+- Characters relating to [mammals](./mammals.md) [first draft], [plants and flowers](./plants_and_flowers.md) [pre-first draft], [musical instruments](./music.md) [first draft].  
 
 - Characters in names: [historical](./historical_names.md) [first draft], [given](./given_names.md) [first draft], [family](./family_names.md) [pre-first draft].
 
