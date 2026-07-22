@@ -49,7 +49,7 @@ Fully aquatic mammals (whales, dolphins, etc.) are in the [鱼 notes](./鱼.md).
 | 羊 | 山羊 | shānyáng | goat | ![山羊](./mammals/山羊.jpg) | | [Pexels](https://www.pexels.com/photo/goats-on-the-cliff-15251053/) |
 | 羊 | 绵羊 | miányáng | sheep | ![绵羊](./mammals/绵羊.jpg) | produces 羊毛 (wool) | [Pexels](https://www.pexels.com/photo/texel-sheep-on-grass-field-under-the-blue-sky-12555344/) |
 | 羊 | 黄羊 | huángyáng | Mongolian gazelle | ![黄羊](./mammals/黄羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Procapra_gutturosa_357203968.jpg) |
-| 羚; 羊 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a 伊兰羚羊 (eland) | [Wikimedia](https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%98%AD%E7%BE%9A%E7%BE%8A) |
+| 羚; 羊 | 羚羊 | língyáng | antelope | ![羚羊](./mammals/羚羊.jpg) | pictured is a [伊兰羚羊](https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%98%AD%E7%BE%9A%E7%BE%8A) (eland) | [Wikimedia](https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%98%AD%E7%BE%9A%E7%BE%8A) |
 | 羚; 羊 | 藏羚羊 | zànglíngyáng | Tibetan antelope | ![藏羚羊](./mammals/藏羚羊.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiru_(Pantholops_hodgsonii)_02.jpg) |
 | | 考拉 | kǎolā | koala | ![考拉](./mammals/考拉.jpg) | | [Pexels](https://www.pexels.com/photo/a-koala-on-a-tree-5322338/) |
 | 虎 | 老虎 | lǎohǔ | tiger | ![老虎](./mammals/老虎.jpg) | used in the chengyus [狐假虎威](https://baike.baidu.com/item/%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81/482), [骑虎难下](https://baike.baidu.com/item/%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B/1566600), and [虎头蛇尾](https://baike.baidu.com/item/虎头蛇尾) | [Pexels](https://www.pexels.com/photo/majestic-bengal-tiger-in-natural-habitat-37339203/) |
