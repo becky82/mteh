@@ -57,7 +57,7 @@ Recognized ethnic minorities:
 | 土家族 | Tǔjiāzú | Tujia | ![土家族](./ethnicities/土家族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tujia_women.jpg) |
 | 维吾尔族 | Wéiwú'ěrzú | Uyghur | ![维吾尔族](./ethnicities/维吾尔族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-dress-walking-in-chinese-market-32792820/) |
 | 乌孜别克族 | Wūzībiékèzú | Uzbek | ![乌孜别克族](./ethnicities/乌孜别克族.png) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothing-9194538/) |
-| 佤族 | Wǎzú | Va | [TO DO] | | [TO DO] |
+| 佤族 | Wǎzú | Va | ![佤族](./ethnicities/佤族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%B2%A7%E6%BA%90%E4%BD%A4%E6%97%8F01.jpg) |
 | 锡伯族 | Xíbózú | Xibe | [TO DO] | | [TO DO] |
 | 瑶族 | Yáozú | Yao | ![瑶族](./ethnicities/瑶族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Yao_people%27s_Harvest_Festival_in_Nala_Village_-_5.jpg) |
 | 彝族 | Yízú | Yi | ![彝族](./ethnicities/彝族.jpg) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothes-12368070/) |
