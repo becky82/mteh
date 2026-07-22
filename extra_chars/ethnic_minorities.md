@@ -28,7 +28,7 @@ Recognized ethnic minorities:
 | 赫哲族 | Hèzhézú | Hezhen | [TO DO] | | [TO DO] |
 | 京族 | Jīngzú | Gin; Jing | [TO DO] | | [TO DO] |
 | 景颇族 | Jǐngpōzú | Jingpo | [TO DO] | | [TO DO] |
-| 基诺族 | Jīnuòzú | Jino | [TO DO] | | [TO DO] |
+| 基诺族 | Jīnuòzú | Jino | ![基诺族](./ethnicities/基诺族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jinuo_Village.jpg) |
 | 柯尔克孜族 | Kē'ěrkèzīzú | Kyrghiz | ![柯尔克孜族](./ethnicities/柯尔克孜族.jpg) | | [Pexels](https://www.pexels.com/photo/women-in-traditional-hats-17116610/) |
 | 朝鲜族 | Cháoxiǎnzú | Korean | [TO DO] | | [TO DO] |
 | 拉祜族 | Lāhùzú | Lahu | [TO DO] | | [TO DO] |
