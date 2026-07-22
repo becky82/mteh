@@ -60,7 +60,7 @@ Recognized ethnic minorities:
 | 佤族 | Wǎzú | Va | [TO DO] | | [TO DO] |
 | 锡伯族 | Xíbózú | Xibe | [TO DO] | | [TO DO] |
 | 瑶族 | Yáozú | Yao | [TO DO] | | [TO DO] |
-| 彝族 | Yízú | Yi | [TO DO] | | [TO DO] |
+| 彝族 | Yízú | Yi | ![彝族](./ethnicities/彝族人.jpg) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothes-12368070/) |
 | 裕固族 | Yùgùzú | Yugur | [TO DO] | | [TO DO] |
 | 壮族 | Zhuàngzú | Zhuang | ![壮族人](./ethnicities/壮族人.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-zhuang-folk-music-performance-34748480/) |
 
