@@ -2,7 +2,7 @@
 
 | ethnic group | pinyin | English | images | comments | image source |
 |--------------|--------|---------|--------|----------|--------------|
-| 汉族 | Hànzú | Han | ![汉服](./ethnicities/汉服.jpg) ![文房四宝](./ethnicities/汉服.jpg) | 90%+ of Chinese people are Han Chinese; there are another 55 officially recognized ethnic groups in China | [Pexels](https://www.pexels.com/photo/elegant-woman-in-traditional-asian-attire-34521640/); [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%96%87%E6%88%BF%E5%9B%9B%E5%AF%B6_Four_Treasures_in_the_Study,_Paper,_Writing_Brush,_Ink_Stick,_and_Ink_Stone_-_panoramio.jpg) |
+| 汉族 | Hànzú | Han | ![汉服](./ethnicities/汉服.jpg) ![文房四宝](./ethnicities/文房四宝.jpg) | 90%+ of Chinese people are Han Chinese; there are another 55 officially recognized ethnic groups in China | [Pexels](https://www.pexels.com/photo/elegant-woman-in-traditional-asian-attire-34521640/); [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%96%87%E6%88%BF%E5%9B%9B%E5%AF%B6_Four_Treasures_in_the_Study,_Paper,_Writing_Brush,_Ink_Stick,_and_Ink_Stone_-_panoramio.jpg) |
 | 阿昌族 | Āchāngzú | Achang | [TO DO] | | [TO DO] |
 | 白族 | Báizú | Bai | [TO DO] | | [TO DO] |
 | 布朗族 | Bùlǎngzú | Blang | [TO DO] | | [TO DO] |
