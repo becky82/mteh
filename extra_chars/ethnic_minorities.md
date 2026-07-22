@@ -9,7 +9,7 @@ Recognized ethnic minorities:
 | ethnic group | pinyin | English | images | comments | image source |
 |--------------|--------|---------|--------|----------|--------------|
 | 阿昌族 | Āchāngzú | Achang | [TO DO] | | [TO DO] |
-| 白族 | Báizú | Bai | ![白族人](./ethnicities/白族人.jpg) | | [Pexels](https://www.pexels.com/photo/woman-in-pink-traditional-clothing-18658203/) |
+| 白族 | Báizú | Bai | ![白族](./ethnicities/白族.jpg) | | [Pexels](https://www.pexels.com/photo/woman-in-pink-traditional-clothing-18658203/) |
 | 布朗族 | Bùlǎngzú | Blang | [TO DO] | | [TO DO] |
 | 保安族 | Bǎo'ānzú | Bonan | [TO DO] | | [TO DO] |
 | 布依族 | Bùyīzú | Bouyei | [TO DO] | | [TO DO] |
@@ -24,12 +24,12 @@ Recognized ethnic minorities:
 | 仡佬族 | Gēlǎozú | Gelao | [TO DO] | | [TO DO] |
 | 哈尼族 | Hānízú | Hani | [TO DO] | | [TO DO] |
 | 哈萨克族 | Hāsàkèzú | Kazak | [TO DO] | | [TO DO] |
-| 回族 | Huízú | Hui | ![回族人](./ethnicities/回族人.jpg) | Islamic ethnic group, noted for 兰州拉面 (Lanzhou pulled noodles) which are 清真 (halal) | [Pexels](https://www.pexels.com/photo/group-praying-at-historical-asian-temple-entrance-30419194/); [Wikimedia](https://commons.wikimedia.org/wiki/File:Lanzhou_Handmade_Beef_Noodles.jpg) |
+| 回族 | Huízú | Hui | ![回族](./ethnicities/回族.jpg) | Islamic ethnic group, noted for 兰州拉面 (Lanzhou pulled noodles) which are 清真 (halal) | [Pexels](https://www.pexels.com/photo/group-praying-at-historical-asian-temple-entrance-30419194/); [Wikimedia](https://commons.wikimedia.org/wiki/File:Lanzhou_Handmade_Beef_Noodles.jpg) |
 | 赫哲族 | Hèzhézú | Hezhen | [TO DO] | | [TO DO] |
 | 京族 | Jīngzú | Gin; Jing | [TO DO] | | [TO DO] |
 | 景颇族 | Jǐngpōzú | Jingpo | [TO DO] | | [TO DO] |
 | 基诺族 | Jīnuòzú | Jino | [TO DO] | | [TO DO] |
-| 柯尔克孜族 | Kē'ěrkèzīzú | Kyrghiz | ![柯尔克孜族人](./ethnicities/柯尔克孜族人.jpg) | | [Pexels](https://www.pexels.com/photo/women-in-traditional-hats-17116610/) |
+| 柯尔克孜族 | Kē'ěrkèzīzú | Kyrghiz | ![柯尔克孜族](./ethnicities/柯尔克孜族.jpg) | | [Pexels](https://www.pexels.com/photo/women-in-traditional-hats-17116610/) |
 | 朝鲜族 | Cháoxiǎnzú | Korean | [TO DO] | | [TO DO] |
 | 拉祜族 | Lāhùzú | Lahu | [TO DO] | | [TO DO] |
 | 黎族 | Lízú | Li | [TO DO] | | [TO DO] |
@@ -39,7 +39,7 @@ Recognized ethnic minorities:
 | 毛南族 | Máonánzú | Maonan | [TO DO] | | [TO DO] |
 | 门巴族 | Ménbāzú | Monba | [TO DO] | | [TO DO] |
 | 蒙古族 | Měnggǔzú | Mongol | [TO DO] | | [TO DO] |
-| 苗族 | Miáozú | Miao; Hmong | ![苗族人](./ethnicities/苗族人.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-costume-with-silver-headwear-30770253/) |
+| 苗族 | Miáozú | Miao; Hmong | ![苗族](./ethnicities/苗族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-costume-with-silver-headwear-30770253/) |
 | 仫佬族 | Mùlǎozú | Mulao | [TO DO] | | [TO DO] |
 | 纳西族 | Nàxīzú | Naxi | [TO DO] | | [TO DO] |
 | 怒族 | Nùzú | Nu | [TO DO] | | [TO DO] |
@@ -55,14 +55,14 @@ Recognized ethnic minorities:
 | 藏族 | Zàngzú | Tibetan | [TO DO] | | [TO DO] |
 | 土族 | Tǔzú | Tu | [TO DO] | | [TO DO] |
 | 土家族 | Tǔjiāzú | Tujia | [TO DO] | | [TO DO] |
-| 维吾尔族 | Wéiwú'ěrzú | Uyghur | ![维吾尔族人](./ethnicities/维吾尔族人.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-dress-walking-in-chinese-market-32792820/) |
-| 乌孜别克族 | Wūzībiékèzú | Uzbek | ![乌孜别克族人](./ethnicities/乌孜别克族人.png) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothing-9194538/) |
+| 维吾尔族 | Wéiwú'ěrzú | Uyghur | ![维吾尔族](./ethnicities/维吾尔族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-dress-walking-in-chinese-market-32792820/) |
+| 乌孜别克族 | Wūzībiékèzú | Uzbek | ![乌孜别克族](./ethnicities/乌孜别克族.png) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothing-9194538/) |
 | 佤族 | Wǎzú | Va | [TO DO] | | [TO DO] |
 | 锡伯族 | Xíbózú | Xibe | [TO DO] | | [TO DO] |
 | 瑶族 | Yáozú | Yao | [TO DO] | | [TO DO] |
-| 彝族 | Yízú | Yi | ![彝族](./ethnicities/彝族人.jpg) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothes-12368070/) |
+| 彝族 | Yízú | Yi | ![彝族](./ethnicities/彝族.jpg) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothes-12368070/) |
 | 裕固族 | Yùgùzú | Yugur | [TO DO] | | [TO DO] |
-| 壮族 | Zhuàngzú | Zhuang | ![壮族人](./ethnicities/壮族人.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-zhuang-folk-music-performance-34748480/) |
+| 壮族 | Zhuàngzú | Zhuang | ![壮族](./ethnicities/壮族.jpg) ![壮族2](./ethnicities/壮族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-zhuang-folk-music-performance-34748480/) |
 
 Unrecognized ethnic minorities:
 
