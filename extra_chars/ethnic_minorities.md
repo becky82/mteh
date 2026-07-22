@@ -41,7 +41,7 @@ Recognized ethnic minorities:
 | 蒙古族 | Měnggǔzú | Mongol | ![蒙古族](./ethnicities/蒙古族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Naadam_women_archery.jpg) |
 | 苗族 | Miáozú | Miao; Hmong | ![苗族](./ethnicities/苗族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-costume-with-silver-headwear-30770253/) |
 | 仫佬族 | Mùlǎozú | Mulao | [TO DO] | | [TO DO] |
-| 纳西族 | Nàxīzú | Naxi | [TO DO] | | [TO DO] |
+| 纳西族 | Nàxīzú | Naxi | ![纳西族](./ethnicities/纳西族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lijiang-danza-naxi-l01.jpg) |
 | 怒族 | Nùzú | Nu | [TO DO] | | [TO DO] |
 | 鄂伦春族 | Èlúnchūnzú | Oroqen | [TO DO] | | [TO DO] |
 | 普米族 | Pǔmǐzú | Pumi | [TO DO] | | [TO DO] |
