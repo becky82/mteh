@@ -31,7 +31,7 @@ Recognized ethnic minorities:
 | 基诺族 | Jīnuòzú | Jino | ![基诺族](./ethnicities/基诺族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Jinuo_Village.jpg) |
 | 柯尔克孜族 | Kē'ěrkèzīzú | Kyrghiz | ![柯尔克孜族](./ethnicities/柯尔克孜族.jpg) | | [Pexels](https://www.pexels.com/photo/women-in-traditional-hats-17116610/) |
 | 朝鲜族 | Cháoxiǎnzú | Korean | ![朝鲜族](./ethnicities/朝鲜族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%9C%9D%E9%B2%9C%E6%97%8F%E8%B1%A1%E5%B8%BD%E8%88%9E.jpg) |
-| 拉祜族 | Lāhùzú | Lahu | [TO DO] | | [TO DO] |
+| 拉祜族 | Lāhùzú | Lahu | ![拉祜族](./ethnicities/拉祜族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lahu_girls.jpg) |
 | 黎族 | Lízú | Li | [TO DO] | | [TO DO] |
 | 傈僳族 | Lìsùzú | Lisu | [TO DO] | | [TO DO] |
 | 珞巴族 | Luòbāzú | Lhoba | [TO DO] | | [TO DO] |
