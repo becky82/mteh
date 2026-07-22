@@ -62,7 +62,7 @@ Recognized ethnic minorities:
 | 瑶族 | Yáozú | Yao | [TO DO] | | [TO DO] |
 | 彝族 | Yízú | Yi | ![彝族](./ethnicities/彝族.jpg) | | [Pexels](https://www.pexels.com/photo/women-wearing-traditional-clothes-12368070/) |
 | 裕固族 | Yùgùzú | Yugur | [TO DO] | | [TO DO] |
-| 壮族 | Zhuàngzú | Zhuang | ![壮族](./ethnicities/壮族.jpg) ![壮族2](./ethnicities/壮族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-zhuang-folk-music-performance-34748480/) |
+| 壮族 | Zhuàngzú | Zhuang | ![壮族](./ethnicities/壮族.jpg) ![壮族2](./ethnicities/壮族2.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-zhuang-folk-music-performance-34748480/) |
 
 Unrecognized ethnic minorities:
 
