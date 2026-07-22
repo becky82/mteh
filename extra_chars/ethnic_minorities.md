@@ -2,14 +2,14 @@
 
 | ethnic group | pinyin | English | images | comments | image source |
 |--------------|--------|---------|--------|----------|--------------|
-| 汉族 | Hànzú | Han | ![汉服](./ethnicities/汉服.jpg) ![文房四宝](./ethnicities/文房四宝.jpg) | 90%+ of Chinese people are Han Chinese (largest ethnic group in the world; 1.4 billion people; 20%+ of the world's population); there are another 55 officially recognized ethnic groups in China; depicted is 汉服 (traditional Han clothing) and [文房四宝](https://baike.baidu.com/item/%E6%96%87%E6%88%BF%E5%9B%9B%E5%AE%9D/25870) (Four Treasures of the Study), namely 笔, 墨, 纸, 砚 | [Pexels](https://www.pexels.com/photo/elegant-woman-in-traditional-asian-attire-34521640/); [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%96%87%E6%88%BF%E5%9B%9B%E5%AF%B6_Four_Treasures_in_the_Study,_Paper,_Writing_Brush,_Ink_Stick,_and_Ink_Stone_-_panoramio.jpg) |
+| 汉族 | Hànzú | Han | ![汉服](./ethnicities/汉服.jpg) ![文房四宝](./ethnicities/文房四宝.jpg) | 90%+ of Chinese people are Han Chinese (largest ethnic group in the world; 1.4 billion people; 20%+ of the world's population); there are another 55 officially recognized ethnic groups in China | [Pexels](https://www.pexels.com/photo/elegant-woman-in-traditional-asian-attire-34521640/); [Wikimedia](https://commons.wikimedia.org/wiki/File:%E6%96%87%E6%88%BF%E5%9B%9B%E5%AF%B6_Four_Treasures_in_the_Study,_Paper,_Writing_Brush,_Ink_Stick,_and_Ink_Stone_-_panoramio.jpg) |
 
 Recognized ethnic minorities:
 
 | ethnic group | pinyin | English | images | comments | image source |
 |--------------|--------|---------|--------|----------|--------------|
 | 阿昌族 | Āchāngzú | Achang | [TO DO] | | [TO DO] |
-| 白族 | Báizú | Bai | [TO DO] | | [TO DO] |
+| 白族 | Báizú | Bai | ![白族人](./ethnicities/白族人.jpg) | | [Pexels](https://www.pexels.com/photo/woman-in-pink-traditional-clothing-18658203/) |
 | 布朗族 | Bùlǎngzú | Blang | [TO DO] | | [TO DO] |
 | 保安族 | Bǎo'ānzú | Bonan | [TO DO] | | [TO DO] |
 | 布依族 | Bùyīzú | Bouyei | [TO DO] | | [TO DO] |
@@ -24,7 +24,7 @@ Recognized ethnic minorities:
 | 仡佬族 | Gēlǎozú | Gelao | [TO DO] | | [TO DO] |
 | 哈尼族 | Hānízú | Hani | [TO DO] | | [TO DO] |
 | 哈萨克族 | Hāsàkèzú | Kazak | [TO DO] | | [TO DO] |
-| 回族 | Huízú | Hui | ![回族人](./ethnicities/回族人.jpg) ![兰州拉面店](./ethnicities/兰州拉面店.jpg) | Islamic ethnic group, noted for 兰州拉面 (Lanzhou pulled noodles) which are 清真 (halal) | [Pexels](https://www.pexels.com/photo/group-praying-at-historical-asian-temple-entrance-30419194/); [Wikimedia](https://commons.wikimedia.org/wiki/File:Lanzhou_Handmade_Beef_Noodles.jpg) |
+| 回族 | Huízú | Hui | ![回族人](./ethnicities/回族人.jpg) | Islamic ethnic group, noted for 兰州拉面 (Lanzhou pulled noodles) which are 清真 (halal) | [Pexels](https://www.pexels.com/photo/group-praying-at-historical-asian-temple-entrance-30419194/); [Wikimedia](https://commons.wikimedia.org/wiki/File:Lanzhou_Handmade_Beef_Noodles.jpg) |
 | 赫哲族 | Hèzhézú | Hezhen | [TO DO] | | [TO DO] |
 | 京族 | Jīngzú | Gin; Jing | [TO DO] | | [TO DO] |
 | 景颇族 | Jǐngpōzú | Jingpo | [TO DO] | | [TO DO] |
