@@ -17,7 +17,7 @@ Recognized ethnic minorities:
 | 傣族 | Dǎizú | Dai | ![傣族](./ethnicities/傣族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BA%91%E5%8D%97%E7%9C%81%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E5%82%A3%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E%E6%99%AF%E6%B4%AA%E5%B8%822009%E5%B9%B4%E4%BC%A0%E7%BB%9F%E6%B3%BC%E6%B0%B4%E8%8A%82%E6%97%A5%E9%87%8C%E5%8C%85%E5%90%AB%E9%93%9C%E8%87%AD%E7%85%A7%E7%89%87%E7%BE%A4%E4%BC%97%E7%9A%84%E9%98%9F%E4%BC%8D_-_panoramio.jpg) |
 | 德昂族 | Dé'ángzú | De'ang | [TO DO] | | [TO DO] |
 | 侗族 | Dòngzú | Dong | ![侗族](./ethnicities/侗族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E4%BE%97%E6%97%8F%E6%9C%8D%E9%A5%B02.jpg) |
-| 东乡族 | Dōngxiāngzú | Dongxiang | [TO DO] | | [TO DO] |
+| 东乡族 | Dōngxiāngzú | Dongxiang | ![东乡族](./ethnicities/东乡族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dongxiang_minority_student.jpg) |
 | 独龙族 | Dúlóngzú | Drung / Dulong | [TO DO] | | [TO DO] |
 | 鄂温克族 | Èwēnkèzú | Ewenki | [TO DO] | | [TO DO] |
 | 高山族 | Gāoshānzú | Gaoshan | [TO DO] | | [TO DO] |
