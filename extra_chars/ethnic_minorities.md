@@ -52,7 +52,7 @@ Recognized ethnic minorities:
 | 水族 | Shuǐzú | Shui | [TO DO] | | [TO DO] |
 | 塔吉克族 | Tǎjíkèzú | Tajik | ![塔吉克族](./ethnicities/塔吉克族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Happy_Tajik_children.jpg) |
 | 塔塔尔族 | Tǎtǎ'ěrzú | Tatar | [TO DO] | | [TO DO] |
-| 藏族 | Zàngzú | Tibetan | ![藏族](./ethnicities/藏族.jpg) | | [Pexels](https://www.pexels.com/photo/asian-woman-wearing-colorful-kimono-16762991/) |
+| 藏族 | Zàngzú | Tibetan | ![藏族](./ethnicities/藏族.jpg) ![藏文](./ethnicities/藏文.jpg) | pictured is the sign on the 永佑殿 (Yongyou Palace) inside the 雍和宮 (Lama Temple) in Beijing; it was the former residence of 雍亲王 (Prince Yong) before being converted into a Tibetan Buddhist temple; 喇嘛 (lǎma; བླ་མ་; Lama) refers to a spiritual leader in Tibetan Buddhist | [Pexels](https://www.pexels.com/photo/asian-woman-wearing-colorful-kimono-16762991/); [Wikimedia](https://commons.wikimedia.org/wiki/File:Yongyou_Hall,_Yonghe_Temple,_Dongcheng_District,_Beijing_(202208111051).jpg) |
 | 土族 | Tǔzú | Tu | ![土族](./ethnicities/土族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%B2%9C%E5%8D%91%E5%90%8E%E8%A3%94-%E9%9D%92%E6%B5%B7%E5%9C%9F%E6%97%8F%E5%A7%91%E5%A8%98_beauty_of_China_Tu_-_panoramio.jpg) |
 | 土家族 | Tǔjiāzú | Tujia | ![土家族](./ethnicities/土家族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Tujia_women.jpg) |
 | 维吾尔族 | Wéiwú'ěrzú | Uyghur | ![维吾尔族](./ethnicities/维吾尔族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-dress-walking-in-chinese-market-32792820/) |
