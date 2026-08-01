@@ -38,7 +38,7 @@ Recognized ethnic minorities:
 | 满族 | Mǎnzú | Manchu | ![满族](./ethnicities/满族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Traditional_Chinese_cloth.jpg) |
 | 毛南族 | Máonánzú | Maonan | [TO DO] | | [TO DO] |
 | 门巴族 | Ménbāzú | Monba | [TO DO] | | [TO DO] |
-| 蒙古族 | Měnggǔzú | Mongol | ![蒙古族](./ethnicities/蒙古族.jpg)![蒙古文](./ethnicities/蒙古文.jpg)  | pictured is ᠴᠠᠭᠯᠠᠰᠢ ᠦᠭᠡᠢ ᠰᠦᠮ᠎ᠡ ([无量寺](https://baike.baidu.com/item/%E5%A4%A7%E5%8F%AC%E5%AF%BA/1024669)), the name of a temple in 呼和浩特 (Hohhot) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Naadam_women_archery.jpg); [Wikimedia](https://commons.wikimedia.org/wiki/File:Hohhot_Dazhao_temple.ecriteau_miltilingue.jpg) |
+| 蒙古族 | Měnggǔzú | Mongol | ![蒙古族](./ethnicities/蒙古族.jpg)![蒙古文](./ethnicities/蒙古文.jpg)  | pictured is ᠴᠠᠭᠯᠠᠰᠢ ᠦᠭᠡᠢ ᠰᠦᠮ᠎ᠡ ([大召寺](https://baike.baidu.com/item/%E5%A4%A7%E5%8F%AC%E5%AF%BA/1024669)), the name of a temple in 呼和浩特 (Hohhot) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Naadam_women_archery.jpg); [Wikimedia](https://commons.wikimedia.org/wiki/File:Hohhot_Dazhao_temple.ecriteau_miltilingue.jpg) |
 | 苗族 | Miáozú | Miao; Hmong | ![苗族](./ethnicities/苗族.jpg) | | [Pexels](https://www.pexels.com/photo/traditional-chinese-costume-with-silver-headwear-30770253/) |
 | 仫佬族 | Mùlǎozú | Mulao | [TO DO] | | [TO DO] |
 | 纳西族 | Nàxīzú | Naxi | ![纳西族](./ethnicities/纳西族.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Lijiang-danza-naxi-l01.jpg) |
