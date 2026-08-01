@@ -68,7 +68,7 @@ Unrecognized ethnic minorities:
 
 | ethnic group | pinyin | English | images | comments | image source |
 |--------------|--------|---------|--------|----------|--------------|
-| 摩梭人 | Mósuōrén | Mosuo | [TO DO] | | [TO DO] |
+| 摩梭人 | Mósuōrén | Mosuo | ![摩梭人](./ethnicities/摩梭人.jpg) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mosuo_girl_weaver_in_Old_town_Lijiang.JPG) |
 | 穿青人 | Chuānqīngrén | Chuanqing | [TO DO] | | [TO DO] |
 | 艾努人 | Àinǔrén | Äynu | [TO DO] | | [TO DO] |
 | 革家人 | Géjiārén | Gejia | [TO DO] | | [TO DO] |
