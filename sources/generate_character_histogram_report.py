@@ -24,6 +24,7 @@ CORPUS_FILES = [
     "现代汉语常用字表/现代汉语常用字表_chars_unicode_order.txt",
     "普通话水平测试/普通话水平测试_chars_level1_unicode_order.txt",
     "普通话水平测试/普通话水平测试_chars_level2_unicode_order.txt",
+    "TaiwanMoE/TaiwanMoE_simplified_unicode_order.txt",
     "primary_school/primary_school_2016_unicode_order.txt",
     "Singapore_primary_school/Singapore_chars_unicode_order.txt",
     "age_of_acquisition/age_of_acquisition_chars.txt",

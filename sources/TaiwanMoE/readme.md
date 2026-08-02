@@ -1,0 +1,1 @@
+Sourced direclty from [Taiwan's MoE](https://language.moe.gov.tw/material/info?m=9fe3ff5a-5a8c-4817-9e60-6337dd55a509).  Converted to simplified characters using OpenCC `opencc -i TaiwanMoE_original_traditional.txt -c t2s.json | sort -u > TaiwanMoE_simplified_unicode_order.txt`.
