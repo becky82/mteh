@@ -53,6 +53,30 @@ Nowadays, "ta" (also written "Ta" or "TA") is sometimes used as a gender-neutral
 >
 > <sub>[约5000斤稻谷、房屋变“焦炭”，别小看TA的破坏力](https://finance.sina.com.cn/roll/2025-10-25/doc-infvaynn5812262.shtml?cref=cj), 环球网, 2025.</sub>
 
+## Heavenly stems and earthly branches
+
+In Chinese, there is a counting system which involves 10 heavenly stems:
+
+> 甲 (jiǎ), 乙 (yǐ), 丙 (bǐng), 丁 (dīng), wù (戊), 己 (jǐ), 庚 (gēng), 辛 (xīn), 壬 (rén), 癸 (guǐ)
+
+Heavenly stems are often seem in case studies (e.g. 甲 is person 1, and 乙 is person 2, and so on) and in chemistry (甲烷 methane, 乙烷 ethane, 丙烷 propane, 丁烷 butane, 戊烷 pentane, etc.).
+
+There are also 12 earthly branches:
+
+> 子 (zǐ), 丑 (chǒu), 寅 (yín), 卯 (mǎo), 辰 (chén), 巳 (sì), 午 (wǔ), 未 (wèi), 申 (shēn), 酉 (yǒu), 戌 (xū), 亥 (hài)
+
+These correspond to the Chinese zodiac, respectively:
+
+> 鼠, 牛, 虎, 兔, 龙, 蛇, 马, 羊, 猴, 鸡, 狗, 猪
+
+For the Chinese lunar calendar, we combine these to form a counting system that cycles every lcm(12,10) = 60 elements:
+
+> 甲子 乙丑 丙寅 丁卯 戊辰 己巳 庚午 辛未 壬申 癸酉 甲戌 乙亥 丙子 丁丑 戊寅 己卯 庚辰 辛巳 壬午 癸未 甲申 乙酉 丙戌 丁亥 戊子 己丑 庚寅 辛卯 壬辰 癸巳 甲午 乙未 丙申 丁酉 戊戌 己亥 庚子 辛丑 壬寅 癸卯 甲辰 乙巳 丙午 丁未 戊申 己酉 庚戌 辛亥 壬子 癸丑 甲寅 乙卯 丙辰 丁巳 戊午 己未 庚申 辛酉 壬戌 癸亥
+
+We start with 甲子 and increment both the heavenly stem and earthly branch in each step.
+
+Some of these characters (like 庚) are used in Chinese names.
+
 ## Abbreviation characters
 
 There's a small number characters which are essentially just abbreviations:
