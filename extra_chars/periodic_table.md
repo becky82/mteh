@@ -54,4 +54,6 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 烯 | xī | alkene | ![丁烯](./periodic_table/丁烯.png) | 乙烯 (ethylene), 丙烯 (propylene), 丁烯 (butylene), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Trans-but-2-ene-3D-balls.png) |
 | 烷 | wán | alkane | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane), etc.; also called 烷烃 (wántīng) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Octane-3D-balls.png) |
 | 醇 | chún | alcohol | ![乙醇](./periodic_table/乙醇.png) | 甲醇 (methanol) 乙醇 (ethanol), 丙醇 (propanol), 丁醇 (butanol), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethanol-3D-balls.png) |
+| 醛 | quán | aldehyde | ![甲醛](./periodic_table/甲醛.png) | 甲醛 (formaldehyde, aka methanal) 乙醛 (acetaldehyde, aka ethanal), 丙醛 (propanal), 丁醛 (butanal), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Formaldehyde-3D-balls.png) |
+
 
