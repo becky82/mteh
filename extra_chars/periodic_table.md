@@ -58,6 +58,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 酮 | tóng | ketone | ![丙酮](./periodic_table/丙酮.png) | has a carbon-oxygen double bond C=O; 丙酮 (acetone); 孕酮 (progesterone); 睾丸酮 (testosterone); 硅酮 (silicone); etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetone-3D-vdW.png) |
 | 酯 | zhǐ | ester | ![聚酯](./periodic_table/聚酯.png) | 聚酯 (polyester) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Polyester_Polyol_Structural_Formula_V.2.svg) |
 | 醇 | chún | alcohol | ![乙醇](./periodic_table/乙醇.png) | has a hydroxyl functional group −OH; 甲醇 (methanol) 乙醇 (ethanol), 丙醇 (propanol), 丁醇 (butanol), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethanol-3D-balls.png) |
+| 醚 | mí | ether | ![乙醚](./periodic_table/乙醚.png) | general formula R−O−R', for [organyl groups](https://en.wikipedia.org/wiki/Organyl_group) R and R' | [Wikimedia](https://commons.wikimedia.org/wiki/File:Diethyl-ether-3D-balls.png) |
 | 醛 | quán | aldehyde | ![甲醛](./periodic_table/甲醛.png) | has a functional group with the structure R−CH=O; 甲醛 (formaldehyde, aka methanal) 乙醛 (acetaldehyde, aka ethanal), 丙醛 (propanal), 丁醛 (butanal), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Formaldehyde-3D-balls.png) |
 
 
