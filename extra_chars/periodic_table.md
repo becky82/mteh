@@ -59,6 +59,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 胺 | àn | amine | ![多巴胺](./periodic_table/多巴胺.png) | contain carbon-nitrogen bonds, such as －NH₂; 多巴胺 (dopamine); 苯丙胺 (amphetamine); 抗组胺剂 (antihistamine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dopamine_3D_ball.png) |
 | 腈 | jīng | nitrile | ![丙腈](./periodic_table/丙腈.png) | has a carbon-nitrogen triple bond –C≡N | [Wikimedia](https://en.wikipedia.org/wiki/File:Propionitrile-3D-balls.png) |
 | 苯 | běn | benzene | ![苯](./periodic_table/苯.png) | found in 芳香烃 (aromatic hydrocarbons); 苯环 (benzene ring); 苯丙胺 (amphetamine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Benzene-aromatic-3D-balls.png) |
+| 菲 | fēi | phenanthrene | ![菲](./periodic_table/菲.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Phenanthrene-3D-balls.png) |
 | 萘 | nài | naphthalene | ![萘](./periodic_table/萘.png) |  | [Wikimedia](https://commons.wikimedia.org/wiki/File:Naphthalene-3D-balls.png) |
 | 蒽 | ēn | anthracene | ![蒽](./periodic_table/蒽.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Anthracene-3D-balls.png) |
 | 酚 | fēn | phenol | ![水杨酸](./periodic_table/水杨酸.png) | has a hydroxyl group (−OH) bonded directly to an aromatic hydrocarbon group; 对乙酰氨基酚 (paracetamol) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Salicylic-acid-from-xtal-2006-3D-balls.png) |
@@ -67,5 +68,4 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 醇 | chún | alcohol | ![乙醇](./periodic_table/乙醇.png) | has a hydroxyl functional group −OH; 甲醇 (methanol) 乙醇 (ethanol), 丙醇 (propanol), 丁醇 (butanol), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethanol-3D-balls.png) |
 | 醚 | mí | ether | ![乙醚](./periodic_table/乙醚.png) | general formula R−O−R', for [organyl groups](https://en.wikipedia.org/wiki/Organyl_group) R and R' | [Wikimedia](https://commons.wikimedia.org/wiki/File:Diethyl-ether-3D-balls.png) |
 | 醛 | quán | aldehyde | ![甲醛](./periodic_table/甲醛.png) | has a functional group with the structure R−CH=O; 甲醛 (formaldehyde, aka methanal) 乙醛 (acetaldehyde, aka ethanal), 丙醛 (propanal), 丁醛 (butanal), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Formaldehyde-3D-balls.png) |
-
 
