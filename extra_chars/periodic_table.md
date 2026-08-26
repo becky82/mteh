@@ -50,5 +50,6 @@ Some Chinese characters, while not elements on the periodic table are specific t
 
 | character | word | pinyin | English | image | notes | image source |
 |--------|-----------|------|-------|-----------|-----------|-----------|
-| 烷 | 烷烃 | wántīng | alkene | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
+| 烃 | 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
+| 烷; 烃 | 烷烃 | wántīng | alkane | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Octane-3D-balls.png) |
 
