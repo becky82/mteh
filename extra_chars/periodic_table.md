@@ -58,7 +58,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 喃 | nán | | ![吡喃](./periodic_table/吡喃.png) | used in 呋喃 (furan); 吡喃 (pyran, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:1,2-Pyran_3D_ball.png) |
 | 嗪 | qín | | ![吡嗪](./periodic_table/吡嗪.png) | used in 吡嗪 (pyrazine); 哒嗪 (pyridazine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyridine-3D-balls.png) |
 | 嘧 | mì | | ![嘧啶](./periodic_table/嘧啶.png) | used in 嘧啶 (pyrimidine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrimidine-3D-balls.png) |
-| 噻 | sāi | | ![噻唑](./periodic_table/噻唑.png) | used in 噻吩 (thiophene); 噻唑 (thiazole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:1,2-Pyran_3D_ball.png) |
+| 噻 | sāi | | ![噻唑](./periodic_table/噻唑.png) | used in 噻吩 (thiophene); 噻唑 (thiazole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thiazole-3D-balls.png) |
 | 巯 | qiú | thiol; sulfhydryl | ![巯基乙酸](./periodic_table/巯基乙酸.png) | −SH | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thioglycolic-acid-van-der-waals.png) |
 | 炔 | quē | alkyne | ![乙炔](./periodic_table/乙炔.png) | has a carbon-carbon triple bond; 乙炔 (acetylene, aka ethyne), 丙炔 (propyne), 丁炔 (butyne), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetylene-3D-vdW.png) |
 | 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
