@@ -22,7 +22,7 @@ The characters listed below are noteworthy because they occur in Chinese histori
 | 彧 | 荀彧 | Xún Yù | ![荀彧](./names/荀彧.jpg) | Political strategist and advisor to Cao Cao in late Han dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xun_Yu_Qing_illustration.jpg) |
 | 晁 | 晁补之 | Cháo Bǔzhī | ![晁补之](./names/晁补之.png) | Northern Song dynasty poet; one of the four [苏门四学士](https://baike.baidu.com/item/苏门四学士) who studied under 苏轼 | [Wikimedia](https://zh.wikipedia.org/wiki/%E6%99%81%E8%A1%A5%E4%B9%8B#/media/File:%E6%99%81%E8%A3%9C%E4%B9%8B.jpg) |
 | 曌 | 武曌 | Wǔ Zhào | ![武则天](./names/武则天.jpg) | the character 曌 (along with 瞾) was chosen by empress 武则天 (Wu Zetian) as her name; it's a variant of 照; one of [the chracters she invented](https://en.wikipedia.org/wiki/Chinese_characters_of_Empress_Wu) | [Wikimedia](https://commons.wikimedia.org/wiki/File:A_Tang_Dynasty_Empress_Wu_Zetian.JPG) |
-| 桀 | 桀 | Jié | ![桀](./names/桀.png) | the last ruler of the Xia Dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xiajie.png) |
+| 桀 | 桀 | Jié | ![桀](./names/桀.jpg) | the last ruler of the Xia Dynasty | [Wikimedia](https://commons.wikimedia.org/wiki/File:Xiajie.png) |
 | 棠 | 左宗棠 | Zuǒ Zōngtáng | ![左宗棠](./names/左宗棠.jpg) | Qing dynasty general; used in 左宗棠鸡 (General Tso's chicken) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg) |
 | 棣 | 朱棣 | Zhū Dì | ![朱棣](./names/朱棣.jpg) | Ming emperor 永乐 Yongle | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E5%AE%97%E6%96%87%E7%9A%87%E5%B8%9D.jpg) |
 | 洵 | 苏洵 | Sū Xún | ![苏洵](./names/苏洵.jpg) | Song dynasty scholar, father of 苏轼 Su Shi and 苏辙 Su Zhe | [Wikimedia](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E5%A4%AA%E5%B8%B8%E7%BC%96%E6%A0%A1%E8%8B%8F%E6%B4%B5.jpg) |
