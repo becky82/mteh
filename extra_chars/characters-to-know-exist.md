@@ -191,6 +191,24 @@ exclusively refers to a type of noodles 𰻞𰻞面.  The character is noted for
 >
 > <sub>招牌 biangbiang 面</sub>
 
+### Duang
+
+The character [duang](https://en.wikipedia.org/wiki/Duang)
+
+> ⿱成龙 (duāng)
+
+was [popularized around 2015](https://www.bbc.com/news/blogs-trending-31689148), and merges Jackie Chan's Chinese name 成龙 into a single character; the character doesn't exist in Unicode.  [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/duang-how-jackie-chan-helped-780040/) writes:
+
+> We do know where “duang” started though. It was Hong Kong action star Jackie Chan, who in 2004 was featured in a shampoo infomercial, where he spread his hands and described how his sleek dark locks would simply “duang” after a scrub with Bawang organic shampoo. A useful way of translating the word is as “boing,” in the sense of “bouncy and vibrant,” or even “ta-da!”
+
+It's also used in the name of a type of food in Shandong, called duangduang饼:
+
+> ![duangduang饼 price tag](./misc/duangduang饼2.jpg)
+> 
+> ![duangduang饼](./misc/duangduang饼.jpg)
+>
+> <sub>duangduang饼</sub>
+
 ### Shuangxi
 
 The character 
