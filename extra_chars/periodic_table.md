@@ -48,14 +48,7 @@ The majority of these Chinese characters are not familiar to most people, unless
 
 Some Chinese characters, while not elements on the periodic table are specific to chemistry:
 
-| molecule | pinyin | English | image | notes | image source |
-|--------|-----------|------|-------|-----------|-----------|
-| 甲烷 | jiǎwán | methane | ![甲烷](./periodic_table/甲烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Methane-3D-balls.png) |
-| 乙烷 | yǐwán | ethane | ![乙烷](./periodic_table/乙烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethane-A-3D-balls.png) |
-| 丙烷 | bǐngwán | propane | ![丙烷](./periodic_table/丙烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Propane-3D-balls-A.png) |
-| 丁烷 | dīngwán | butane | ![丁烷](./periodic_table/丁烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:N-butane_3D.png) |
-| 戊烷 | wùwán | pentane | ![戊烷](./periodic_table/戊烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:N-Pentane_conformation_trans_trans.png) |
-| 己烷 | jǐwán | hexane | ![己烷](./periodic_table/己烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hexane-3D-balls.png) |
-| 庚烷 | gēngwán | septane | ![庚烷](./periodic_table/庚烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Heptane-3D-balls.png) |
-| 辛烷 | xīnwán | octane | ![辛烷](./periodic_table/辛烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
+| character | word | pinyin | English | image | notes | image source |
+|--------|-----------|------|-------|-----------|-----------|-----------|
+| 烷 | 烷烃 | wántīng | alkene | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
 
