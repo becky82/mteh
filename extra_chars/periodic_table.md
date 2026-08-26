@@ -42,5 +42,7 @@ The majority of these Chinese characters are not familiar to most people, unless
 | 79 | 金 | jīn | Gold | ![金](./periodic_table/金.jpg) | 黄金 (gold); 金牌 (gold medal); 金融 (finance); 金属 (metal) | [Pexels](https://www.pexels.com/photo/gold-bar-lot-47047/) |
 | 80 | 汞 | gǒng | Mercury | ![汞](./periodic_table/汞.jpg) | aka 水银 (quicksilver) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Mercury_(Element_-_80)_2.jpg) |
 | 82 | 铅 | qiān | Lead | ![铅](./periodic_table/铅.jpg) | 铅笔 (grey lead pencil), although they actually use 石墨 (graphite); 含铅汽油 (leaded petrol); 无铅汽油 (unleaded petrol); 铅坠 (fishing sinkers; aka 鱼坠); used to be used in 焊料 (solder) along with 锡 (tin) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Angeln_zubehoer_grundblei_01.jpg) |
-| 84 | 钋 | pō | Polonium | ![钋](./periodic_table/钋.jpg) | used in 核反应堆 (nuclear reactors) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Polonium_(Element_-_84)_2.jpg) |
+| 84 | 钋 | pō | Polonium | ![钋](./periodic_table/钋.jpg) | strong alpha emitter; used to kill [Alexander Litvinenko](https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Polonium_(Element_-_84)_2.jpg) |
 | 92 | 铀 | yóu | Uranium | ![铀](./periodic_table/铀.jpg) | 浓缩铀 (enriched uranium); 放射性 (radioactive); used in 核反应堆 (nuclear reactors) and 核武器 (nuclear weapons) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Uranium_glass_(Polke)_(34394837730).jpg) |
+| 94 | 钚 | bù | Plutonium | ![钚](./periodic_table/钚.jpg) | used in 核反应堆 (nuclear reactors) and 核武器 (nuclear weapons) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Plutonium_ring.jpg) |
+
