@@ -50,6 +50,15 @@ Some Chinese characters, while not elements on the periodic table are specific t
 
 | character | pinyin | English | image | notes | image source |
 |--------|------|-------|-----------|-----------|-----------|
+| 吡 | bǐ | | ![吡嗪](./periodic_table/吡嗪.png) | used in 吡啶 (pyridine); 吡嗪 (pyrazine, pictured); 吡咯 (pyrrole); 吡喃 (pyran) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrazine-3D-balls-2.png) |
+| 呋 | fū | | ![呋喃](./periodic_table/呋喃.png) | used in 呋喃 (furan, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Furan-CRC-MW-3D-balls-B.png) |
+| 咯 | luò | | ![吡咯](./periodic_table/吡咯.png) | 吡咯 (pyrrole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrrole-CRC-MW-3D-balls-B.png) |
+| 唑 | zuò | azole | ![咪唑](./periodic_table/咪唑.png) | 咪唑 (imidazole, pictured); 噻唑 (thiazole) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Imidazole-3D-balls.png) |
+| 啶 | dìng | -idine | ![吡啶](./periodic_table/吡啶.png) | a ring containing nitrogen; 吡啶 (pyridine, pictured); 嘧啶 (pyrimidine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyridine-3D-balls.png) |
+| 喃 | nán | | ![吡喃](./periodic_table/吡喃.png) | used in 呋喃 (furan); 吡喃 (pyran, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:1,2-Pyran_3D_ball.png) |
+| 嗪 | qín | | ![吡嗪](./periodic_table/吡嗪.png) | used in 吡嗪 (pyrazine); 哒嗪 (pyridazine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyridine-3D-balls.png) |
+| 嘧 | mì | | ![嘧啶](./periodic_table/嘧啶.png) | used in 嘧啶 (pyrimidine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrimidine-3D-balls.png) |
+| 噻 | sāi | | ![噻唑](./periodic_table/噻唑.png) | used in 噻吩 (thiophene); 噻唑 (thiazole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:1,2-Pyran_3D_ball.png) |
 | 巯 | qiú | thiol; sulfhydryl | ![巯基乙酸](./periodic_table/巯基乙酸.png) | −SH | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thioglycolic-acid-van-der-waals.png) |
 | 炔 | quē | alkyne | ![乙炔](./periodic_table/乙炔.png) | has a carbon-carbon triple bond; 乙炔 (acetylene, aka ethyne), 丙炔 (propyne), 丁炔 (butyne), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetylene-3D-vdW.png) |
 | 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
