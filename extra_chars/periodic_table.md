@@ -46,3 +46,16 @@ The majority of these Chinese characters are not familiar to most people, unless
 | 92 | 铀 | yóu | Uranium | ![铀](./periodic_table/铀.jpg) | 浓缩铀 (enriched uranium); 放射性 (radioactive); used in 核反应堆 (nuclear reactors) and 核武器 (nuclear weapons) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Uranium_glass_(Polke)_(34394837730).jpg) |
 | 94 | 钚 | bù | Plutonium | ![钚](./periodic_table/钚.jpg) | used in 核反应堆 (nuclear reactors) and 核武器 (nuclear weapons) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Plutonium_ring.jpg) |
 
+Some Chinese characters, while not elements on the periodic table are specific to chemistry:
+
+| molecule | pinyin | English | image | notes | image source |
+|--------|-----------|------|-------|-----------|-----------|-----------|
+| 甲烷 | ??? | methane | ![甲烷](./periodic_table/甲烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Methane-3D-balls.png) |
+| 乙烷 | ??? | ethane | ![乙烷](./periodic_table/乙烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethane-A-3D-balls.png) |
+| 丙烷 | ??? | propane | ![丙烷](./periodic_table/丙烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Propane-3D-balls-A.png) |
+| 丁烷 | ??? | butane | ![丁烷](./periodic_table/丁烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:N-butane_3D.png) |
+| 戊烷 | ??? | pentane | ![戊烷](./periodic_table/戊烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:N-Pentane_conformation_trans_trans.png) |
+| 己烷 | ??? | hexane | ![己烷](./periodic_table/己烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hexane-3D-balls.png) |
+| 庚烷 | ??? | septane | ![庚烷](./periodic_table/庚烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Heptane-3D-balls.png) |
+| 辛烷 | ??? | octane | ![辛烷](./periodic_table/辛烷.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Hydrogen_Atom.svg) |
+
