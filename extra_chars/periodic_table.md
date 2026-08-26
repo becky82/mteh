@@ -48,8 +48,9 @@ The majority of these Chinese characters are not familiar to most people, unless
 
 Some Chinese characters, while not elements on the periodic table are specific to chemistry:
 
-| character | word | pinyin | English | image | notes | image source |
-|--------|-----------|------|-------|-----------|-----------|-----------|
-| 烃 | 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
-| 烷; 烃 | 烷烃 | wántīng | alkane | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Octane-3D-balls.png) |
+| character | pinyin | English | image | notes | image source |
+|--------|------|-------|-----------|-----------|-----------|
+| 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
+| 烯 | xī | alkene | ![丁烯](./periodic_table/丁烯.png) | 乙烯 (ethylene), 丙烯 (propylene), 丁烯 (butylene), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Trans-but-2-ene-3D-balls.png) |
+| 烷 | wán | alkane | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane), etc.; also called 烷烃 (wántīng) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Octane-3D-balls.png) |
 
