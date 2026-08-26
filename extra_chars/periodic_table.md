@@ -50,6 +50,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 
 | character | pinyin | English | image | notes | image source |
 |--------|------|-------|-----------|-----------|-----------|
+| 巯 | qiú | thiol; sulfhydryl | ![巯基乙酸](./periodic_table/巯基乙酸.png) | −SH | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thioglycolic-acid-van-der-waals.png) |
 | 炔 | quē | alkyne | ![乙炔](./periodic_table/乙炔.png) | has a carbon-carbon triple bond; 乙炔 (acetylene, aka ethyne), 丙炔 (propyne), 丁炔 (butyne), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetylene-3D-vdW.png) |
 | 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
 | 烯 | xī | alkene | ![丁烯](./periodic_table/丁烯.png) | has a carbon-carbon double bond; 乙烯 (ethylene), 丙烯 (propylene), 丁烯 (butylene), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Trans-but-2-ene-3D-balls.png) |
