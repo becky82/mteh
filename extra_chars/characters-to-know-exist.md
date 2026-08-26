@@ -207,7 +207,7 @@ It's also used in the name of a type of food in Shandong, called duangduang饼:
 > 
 > ![duangduang饼](./misc/duangduang饼.jpg)
 >
-> <sub>duangduang饼</sub>
+> <sub>品名：duangduang饼</sub>
 
 ### Shuangxi
 
