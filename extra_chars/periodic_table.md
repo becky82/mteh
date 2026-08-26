@@ -54,7 +54,9 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
 | 烯 | xī | alkene | ![丁烯](./periodic_table/丁烯.png) | has a carbon-carbon double bond; 乙烯 (ethylene), 丙烯 (propylene), 丁烯 (butylene), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Trans-but-2-ene-3D-balls.png) |
 | 烷 | wán | alkane | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane), etc.; also called 烷烃 (wántīng) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Octane-3D-balls.png) |
+| 羧 | suō | carboxylic acid | ![乙酸](./periodic_table/乙酸.png) | 羧酸 is a family of organic acids that contains a carboxyl group −COOH, such as 乙酸 (acetic acid)  | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vinegar_Acetic_Acid_CH3COOH.png) |
 | 酮 | tóng | ketone | ![丙酮](./periodic_table/丙酮.png) | has a carbon-oxygen double bond C=O; 丙酮 (acetone); 孕酮 (progesterone); 睾丸酮 (testosterone); 硅酮 (silicone); etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetone-3D-vdW.png) |
 | 醇 | chún | alcohol | ![乙醇](./periodic_table/乙醇.png) | has a hydroxyl functional group −OH; 甲醇 (methanol) 乙醇 (ethanol), 丙醇 (propanol), 丁醇 (butanol), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethanol-3D-balls.png) |
 | 醛 | quán | aldehyde | ![甲醛](./periodic_table/甲醛.png) | has a functional group with the structure R−CH=O; 甲醛 (formaldehyde, aka methanal) 乙醛 (acetaldehyde, aka ethanal), 丙醛 (propanal), 丁醛 (butanal), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Formaldehyde-3D-balls.png) |
+
 
