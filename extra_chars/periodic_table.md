@@ -59,6 +59,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 胺 | àn | amine | ![多巴胺](./periodic_table/多巴胺.png) | contain carbon-nitrogen bonds, such as －NH₂; 多巴胺 (dopamine); 苯丙胺 (amphetamine); 抗组胺剂 (antihistamine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dopamine_3D_ball.png) |
 | 腈 | jīng | nitrile | ![丙腈](./periodic_table/丙腈.png) | has a carbon-nitrogen triple bond –C≡N | [Wikimedia](https://en.wikipedia.org/wiki/File:Propionitrile-3D-balls.png) |
 | 苯 | běn | benzene | ![苯](./periodic_table/苯.png) | found in 芳香烃 (aromatic hydrocarbons); 苯环 (benzene ring); 苯丙胺 (amphetamine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Benzene-aromatic-3D-balls.png) |
+| 萘 | nài | naphthalene | ![萘](./periodic_table/萘.png) |  | [Wikimedia](https://commons.wikimedia.org/wiki/File:Naphthalene-3D-balls.png) |
 | 酚 | fēn | phenol | ![水杨酸](./periodic_table/水杨酸.png) | has a hydroxyl group (−OH) bonded directly to an aromatic hydrocarbon group; 对乙酰氨基酚 (paracetamol) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Salicylic-acid-from-xtal-2006-3D-balls.png) |
 | 酮 | tóng | ketone | ![丙酮](./periodic_table/丙酮.png) | has a carbon-oxygen double bond –C=O; 丙酮 (acetone); 孕酮 (progesterone); 睾丸酮 (testosterone); 硅酮 (silicone); etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetone-3D-vdW.png) |
 | 酯 | zhǐ | ester | ![聚酯](./periodic_table/聚酯.png) | 聚酯 (polyester) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Polyester_Polyol_Structural_Formula_V.2.svg) |
