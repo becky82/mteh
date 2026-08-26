@@ -55,6 +55,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 烯 | xī | alkene | ![丁烯](./periodic_table/丁烯.png) | has a carbon-carbon double bond; 乙烯 (ethylene), 丙烯 (propylene), 丁烯 (butylene), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Trans-but-2-ene-3D-balls.png) |
 | 烷 | wán | alkane | ![辛烷](./periodic_table/辛烷.png) | 甲烷 (methane, aka 沼气), 乙烷 (ethane), 丙烷 (bǐngwán), 丁烷 (butane), 戊烷 (pentane), 己烷 (hexane), 庚烷 (septane), 辛烷 (octane), etc.; also called 烷烃 (wántīng) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Octane-3D-balls.png) |
 | 羧 | suō | carboxylic acid | ![乙酸](./periodic_table/乙酸.png) | 羧酸 is a family of organic acids that contains a carboxyl group −COOH, such as 乙酸 (acetic acid)  | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vinegar_Acetic_Acid_CH3COOH.png) |
+| 肽 | tài | peptide | ![肽键](./periodic_table/肽键.png) | short chains of 氨基酸 (amino acids) linked by 肽键 (peptide bonds -CO-NH-); 多肽 (polypeptide); 肽链 (peptide chain) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Peptide_bond_s_leizinom_i_treoninom%2B.jpg) |
 | 胺 | àn | amine | ![多巴胺](./periodic_table/多巴胺.png) | contain carbon-nitrogen bonds, such as －NH₂; 多巴胺 (dopamine); 苯丙胺 (amphetamine); 抗组胺剂 (antihistamine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dopamine_3D_ball.png) |
 | 腈 | jīng | nitrile | ![丙腈](./periodic_table/丙腈.png) | has a carbon-nitrogen triple bond –C≡N | [Wikimedia](https://en.wikipedia.org/wiki/File:Propionitrile-3D-balls.png) |
 | 酮 | tóng | ketone | ![丙酮](./periodic_table/丙酮.png) | has a carbon-oxygen double bond –C=O; 丙酮 (acetone); 孕酮 (progesterone); 睾丸酮 (testosterone); 硅酮 (silicone); etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetone-3D-vdW.png) |
@@ -62,4 +63,5 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 醇 | chún | alcohol | ![乙醇](./periodic_table/乙醇.png) | has a hydroxyl functional group −OH; 甲醇 (methanol) 乙醇 (ethanol), 丙醇 (propanol), 丁醇 (butanol), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethanol-3D-balls.png) |
 | 醚 | mí | ether | ![乙醚](./periodic_table/乙醚.png) | general formula R−O−R', for [organyl groups](https://en.wikipedia.org/wiki/Organyl_group) R and R' | [Wikimedia](https://commons.wikimedia.org/wiki/File:Diethyl-ether-3D-balls.png) |
 | 醛 | quán | aldehyde | ![甲醛](./periodic_table/甲醛.png) | has a functional group with the structure R−CH=O; 甲醛 (formaldehyde, aka methanal) 乙醛 (acetaldehyde, aka ethanal), 丙醛 (propanal), 丁醛 (butanal), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Formaldehyde-3D-balls.png) |
+
 
