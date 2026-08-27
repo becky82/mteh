@@ -72,6 +72,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 羧 | suō | carboxylic acid | ![乙酸](./periodic_table/乙酸.png) | 羧酸 is a family of organic acids that contains a carboxyl group −COOH, such as 乙酸 (acetic acid)  | [Wikimedia](https://commons.wikimedia.org/wiki/File:Vinegar_Acetic_Acid_CH3COOH.png) |
 | 肽 | tài | peptide | ![肽键](./periodic_table/肽键.jpg) | short chains of 氨基酸 (amino acids) linked by 肽键 (peptide bonds -CO-NH-); 多肽 (polypeptide); 肽链 (peptide chain) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Peptide_bond_s_leizinom_i_treoninom%2B.jpg) |
 | 胺 | àn | amine | ![多巴胺](./periodic_table/多巴胺.png) | contain carbon-nitrogen bonds, such as －NH₂; 多巴胺 (dopamine); 苯丙胺 (amphetamine); 抗组胺剂 (antihistamine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Dopamine_3D_ball.png) |
+| 脲 | niào | urea | ![脲](./periodic_table/脲.png) | CO(NH₂)₂; aka 尿素; found in urine | [Wikimedia](https://commons.wikimedia.org/wiki/File:Urea_3D_ball.png) |
 | 腈 | jīng | nitrile | ![丙腈](./periodic_table/丙腈.png) | has a carbon-nitrogen triple bond –C≡N | [Wikimedia](https://en.wikipedia.org/wiki/File:Propionitrile-3D-balls.png) |
 | 苯 | běn | benzene | ![苯](./periodic_table/苯.png) | found in 芳香烃 (aromatic hydrocarbons); 苯环 (benzene ring); 苯丙胺 (amphetamine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Benzene-aromatic-3D-balls.png) |
 | 菲 | fēi | phenanthrene | ![菲](./periodic_table/菲.png) | | [Wikimedia](https://commons.wikimedia.org/wiki/File:Phenanthrene-3D-balls.png) |
