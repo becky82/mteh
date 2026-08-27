@@ -56,7 +56,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 咪 | mī | | ![咪唑](./periodic_table/咪唑.png) | 咪唑 (imidazole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Imidazole-3D-balls.png) |
 | 咯 | luò | | ![吡咯](./periodic_table/吡咯.png) | 吡咯 (pyrrole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrrole-CRC-MW-3D-balls-B.png) |
 | 唑 | zuò | azole | ![吡唑](./periodic_table/吡唑.png) | 吡唑 (pyrazole, pictured); 咪唑 (imidazole); 噻唑 (thiazole) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrazole-3D-balls.png) |
-| 啶 | dìng | -idine | ![吡啶](./periodic_table/吡啶.png) | a ring containing nitrogen; 吡啶 (pyridine, pictured); 嘧啶 (pyrimidine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyridine-3D-balls.png) |
+| 啶 | dìng | -idine | ![吡啶](./periodic_table/吡啶.png) | 吡啶 (pyridine, pictured); 嘧啶 (pyrimidine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyridine-3D-balls.png) |
 | 喃 | nán | | ![吡喃](./periodic_table/吡喃.png) | used in 呋喃 (furan); 吡喃 (pyran, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:1,2-Pyran_3D_ball.png) |
 | 嗪 | qín | | ![吡嗪](./periodic_table/吡嗪.png) | used in 吡嗪 (pyrazine); 哒嗪 (pyridazine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyridine-3D-balls.png) |
 | 嘧 | mì | | ![嘧啶](./periodic_table/嘧啶.png) | used in 嘧啶 (pyrimidine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrimidine-3D-balls.png) |
