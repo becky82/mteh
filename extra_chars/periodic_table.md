@@ -52,6 +52,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 |--------|------|-------|-----------|-----------|-----------|
 | 吡 | bǐ | | ![吡嗪](./periodic_table/吡嗪.png) | used in 吡啶 (pyridine); 吡嗪 (pyrazine, pictured); 吡咯 (pyrrole); 吡喃 (pyran) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrazine-3D-balls-2.png) |
 | 呋 | fū | | ![呋喃](./periodic_table/呋喃.png) | used in 呋喃 (furan, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Furan-CRC-MW-3D-balls-B.png) |
+| 呤 | lìng | | ![嘌呤](./periodic_table/嘌呤.png) | 嘌呤 (purine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Purine-3D-balls.png) |
 | 咯 | luò | | ![吡咯](./periodic_table/吡咯.png) | 吡咯 (pyrrole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrrole-CRC-MW-3D-balls-B.png) |
 | 唑 | zuò | azole | ![咪唑](./periodic_table/咪唑.png) | 咪唑 (imidazole, pictured); 噻唑 (thiazole) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Imidazole-3D-balls.png) |
 | 啶 | dìng | -idine | ![吡啶](./periodic_table/吡啶.png) | a ring containing nitrogen; 吡啶 (pyridine, pictured); 嘧啶 (pyrimidine) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyridine-3D-balls.png) |
