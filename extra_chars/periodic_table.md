@@ -60,7 +60,7 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 嘧 | mì | | ![嘧啶](./periodic_table/嘧啶.png) | used in 嘧啶 (pyrimidine, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pyrimidine-3D-balls.png) |
 | 噻 | sāi | | ![噻唑](./periodic_table/噻唑.png) | used in 噻吩 (thiophene); 噻唑 (thiazole, pictured) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thiazole-3D-balls.png) |
 | 巯 | qiú | thiol; sulfhydryl | ![巯基乙酸](./periodic_table/巯基乙酸.png) | −SH | [Wikimedia](https://commons.wikimedia.org/wiki/File:Thioglycolic-acid-van-der-waals.png) |
-| 氨 | ān | ammonia | ![氨](./periodic_table/氨.png) | used in 氨基酸 (amino acids) such as 丙氨酸 (alanine) and 甘氨酸 (glycine, pictured); 氨纶 (spandex) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ammonia-3D-balls-A.png) |
+| 氨 | ān | ammonia | ![氨](./periodic_table/氨.png) | used in 氨基酸 (amino acids) such as 丙氨酸 (alanine) and 甘氨酸 (glycine); 氨纶 (spandex) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ammonia-3D-balls-A.png) |
 | 炔 | quē | alkyne | ![乙炔](./periodic_table/乙炔.png) | has a carbon-carbon triple bond; 乙炔 (acetylene, aka ethyne), 丙炔 (propyne), 丁炔 (butyne), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Acetylene-3D-vdW.png) |
 | 烃 | tīng | hydrocarbon | ![烃](./periodic_table/烃.png) | family of molecules composed of hydrogen and carbon | [Wikimedia](https://commons.wikimedia.org/wiki/File:Corannulene_3D.png) |
 | 烯 | xī | alkene | ![丁烯](./periodic_table/丁烯.png) | has a carbon-carbon double bond; 乙烯 (ethylene), 丙烯 (propylene), 丁烯 (butylene), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Trans-but-2-ene-3D-balls.png) |
@@ -79,4 +79,5 @@ Some Chinese characters, while not elements on the periodic table are specific t
 | 醇 | chún | alcohol | ![乙醇](./periodic_table/乙醇.png) | has a hydroxyl functional group −OH; 甲醇 (methanol) 乙醇 (ethanol), 丙醇 (propanol), 丁醇 (butanol), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ethanol-3D-balls.png) |
 | 醚 | mí | ether | ![乙醚](./periodic_table/乙醚.png) | general formula R−O−R', for [organyl groups](https://en.wikipedia.org/wiki/Organyl_group) R and R' | [Wikimedia](https://commons.wikimedia.org/wiki/File:Diethyl-ether-3D-balls.png) |
 | 醛 | quán | aldehyde | ![甲醛](./periodic_table/甲醛.png) | has a functional group with the structure R−CH=O; 甲醛 (formaldehyde, aka methanal) 乙醛 (acetaldehyde, aka ethanal), 丙醛 (propanal), 丁醛 (butanal), etc. | [Wikimedia](https://commons.wikimedia.org/wiki/File:Formaldehyde-3D-balls.png) |
+| 铵 | ǎn | ammonium | ![铵](./periodic_table/铵.png) | in compounds such as 氢氧化铵 (ammonium hydroxide) and 氯化铵 (ammonium chloride)| [Wikimedia](https://commons.wikimedia.org/wiki/File:Ammonium-3D-balls.png) |
 
