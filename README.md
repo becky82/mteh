@@ -67,7 +67,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 Those marked * have extraction steps (documented in their respective readmes): selection of top-N words/characters, conversion from traditional to simplified.
 
-Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620)** (excluding variants), grouping visually or structurally related forms as much as possible.  
+Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620)**, grouping visually or structurally related forms as much as possible.  
 
 MteH also incorporates:  
 - Character structure data and character drawings from [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) and [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids)
