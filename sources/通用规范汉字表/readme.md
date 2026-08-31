@@ -2,7 +2,7 @@
 
 - 一级字表 (level 1): 3500 characters, as in `通用规范汉字表_chars_unicode_order.txt` in unicode order;
 - 二级字表 (level 2): 3000 characters, as in `通用规范汉字表_level2_chars_unicode_order.txt`;
-- 三级字表 (level 3): 1605 characters.
+- 三级字表 (level 3): 1605 characters, as in `通用规范汉字表_level3_chars_unicode_order.txt`.
 
 The level 1 characters are described as 常用字 = "common-use characters".
 
