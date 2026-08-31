@@ -16,7 +16,7 @@ There is also an Anki Deck ([here](./mteh_anki_deck.apkg)) which should already 
 
 ## Summary
 
-The MteH corpus is built to minimize "missing" characters; any characters not included are extremely rare or niche.  The current in-progress update merges the following corpora (not all of the characters are included):
+The MteH corpus is built to minimize "missing" characters; any characters not included are extremely rare or niche.  The current update merges the following diverse corpora.  Not all of the characters are included (there are way too many); omitted characters are documented in the [missing chars](./sources/missing_chars_report.md) report).
 
 <div align="left">
 
@@ -63,7 +63,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 
 </div>
 
-Those marked * have extraction steps (documented in their respective readmes): selection of top-N words/characters, conversion from traditional to simplified.
+Those marked * have extraction steps (documented in their respective readmes), typically this involves the selection of top-N words/characters, conversion from traditional to simplified, or sporadic bugs.
 
 Characters are ordered in **[Unicode order](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-18/#G11620)**, grouping visually or structurally related forms as much as possible.  
 
