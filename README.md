@@ -33,33 +33,34 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 9 | [普通话水平测试](./sources/普通话水平测试) | 3,788 | Putonghua Proficiency Test for native Mandarin fluency |
 | 10 | [Taiwan MoE](./sources/TaiwanMoE) | 4,661* | Taiwan Ministry of Education 常用字 | 
 | 11 | [primary school](./sources/primary_school) | 2,468 | China primary schools (2016) |
-| 12 | [Singapore](./sources/Singapore_primary_school) | 1,655 | Singapore primary schools (2015) |
-| 13 | [age of acquisition](./sources/age_of_acquisition) | 4,237 | Cai et al. (2022) |
-| 14 | [psycholinguistic](./sources/psycholinguistic) | 3,253 | Chang et al. (2016) |
-| 15 | [Heisig](./sources/Heisig) | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
-| 16 | [Hoenig](./sources/Hoenig) | 2,177 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 17 | [Jun Da](./sources/JunDa) | 4,485* | modern Chinese corpus |
-| 18 | [SUBTLEX](./sources/SUBTLEX) | 4,462* | film and TV subtitle corpus |
-| 19 | [Tsai](./sources/Tsai) | 4,329* | Usenet newsgroups (1993-1994) |
-| 20 | [CKIP](./sources/CKIP) | 3,392* | CKIP (Chinese Knowledge and Information Processing) research group |
-| 21 | [Wikipedia](./sources/Wikipedia) | 3,476* | Chinese Wikipedia |
-| 22 | [Chinese.SE](./sources/ChineseSE) | 4,525* | Chinese Stack Exchange (Jan 2026) |
-| 23 | [classical](./sources/classical) | 1,968* | prior to the end of the Han dynasty |
-| 24 | [THUOCL](./sources/THUOCL) | 3,421* | mostly Sogou webpages |
-| 25 | [Leeds](./sources/Leeds) | 4,230* | Internet corpus |
-| 26 | [BLCU](./sources/BLCU) | 4,445* | "balanced", written Chinese |
-| 27 | [LWC](./sources/LWC) | 4,130* | Sina Weibo |
-| 28 | [food](./sources/food) | 1,182 | food-related terms |
-| 29 | [species](./sources/species) | 4,086 | species names |
-| 30 | [Chinese surnames](./sources/surnames) | 1,745 | 1,807 Chinese surnames |
-| 31 | [Chinese names](./sources/names) | 2,269 | 1,200,000 Chinese names |
-| 32 | [city-geo](./sources/city-geo) | 1,277 | mainland China city terms |
-| 33 | [company](./sources/company) | 4,363* | company proper nouns |
-| 34 | [med-orgs](./sources/med-orgs) | 4,826 | medical organizations |
-| 35 | [MCT](./sources/MCT) | 1,180 | Medical Chinese Test |
-| 36 | [BCT](./sources/BCT) | 1,752 | Business Chinese Test |
-| 37 | [chengyu convention](./sources/chengyu_convention) | 2,226 | characters in "chengyu convention" chengyu |
-| 38 | [Xinhua](./sources/Xinhua) | 5,357 | Xinhua chengyu and xiehouyu |
+| 12 | [语文](./sources/语文) | 3,500 | China compulsory education 语文 (2022) |
+| 13 | [Singapore](./sources/Singapore_primary_school) | 1,655 | Singapore primary schools (2015) |
+| 14 | [age of acquisition](./sources/age_of_acquisition) | 4,237 | Cai et al. (2022) |
+| 15 | [psycholinguistic](./sources/psycholinguistic) | 3,253 | Chang et al. (2016) |
+| 16 | [Heisig](./sources/Heisig) | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
+| 17 | [Hoenig](./sources/Hoenig) | 2,177 | *Learn & Remember 2,178 Characters and Their Meanings* |
+| 18 | [Jun Da](./sources/JunDa) | 4,485* | modern Chinese corpus |
+| 19 | [SUBTLEX](./sources/SUBTLEX) | 4,462* | film and TV subtitle corpus |
+| 20 | [Tsai](./sources/Tsai) | 4,329* | Usenet newsgroups (1993-1994) |
+| 21 | [CKIP](./sources/CKIP) | 3,392* | CKIP (Chinese Knowledge and Information Processing) research group |
+| 22 | [Wikipedia](./sources/Wikipedia) | 3,476* | Chinese Wikipedia |
+| 23 | [Chinese.SE](./sources/ChineseSE) | 4,525* | Chinese Stack Exchange (Jan 2026) |
+| 24 | [classical](./sources/classical) | 1,968* | prior to the end of the Han dynasty |
+| 25 | [THUOCL](./sources/THUOCL) | 3,421* | mostly Sogou webpages |
+| 26 | [Leeds](./sources/Leeds) | 4,230* | Internet corpus |
+| 27 | [BLCU](./sources/BLCU) | 4,445* | "balanced", written Chinese |
+| 28 | [LWC](./sources/LWC) | 4,130* | Sina Weibo |
+| 29 | [food](./sources/food) | 1,182 | food-related terms |
+| 30 | [species](./sources/species) | 4,086 | species names |
+| 31 | [Chinese surnames](./sources/surnames) | 1,745 | 1,807 Chinese surnames |
+| 32 | [Chinese names](./sources/names) | 2,269 | 1,200,000 Chinese names |
+| 33 | [city-geo](./sources/city-geo) | 1,277 | mainland China city terms |
+| 34 | [company](./sources/company) | 4,363* | company proper nouns |
+| 35 | [med-orgs](./sources/med-orgs) | 4,826 | medical organizations |
+| 36 | [MCT](./sources/MCT) | 1,180 | Medical Chinese Test |
+| 37 | [BCT](./sources/BCT) | 1,752 | Business Chinese Test |
+| 38 | [chengyu convention](./sources/chengyu_convention) | 2,226 | characters in "chengyu convention" chengyu |
+| 39 | [Xinhua](./sources/Xinhua) | 5,357 | Xinhua chengyu and xiehouyu |
 
 </div>
 
