@@ -28,6 +28,7 @@ CORPUS_FILES = [
     "K-5/K5_chars_unicode_order.txt",
     "通用规范汉字表/通用规范汉字表_chars_unicode_order.txt",
     "通用规范汉字表/通用规范汉字表_level2_chars_unicode_order.txt",
+    "通用规范汉字表/通用规范汉字表_level3_chars_unicode_order.txt",
     "现代汉语常用字表/现代汉语常用字表_chars_unicode_order.txt",
     "普通话水平测试/普通话水平测试_chars_level1_unicode_order.txt",
     "普通话水平测试/普通话水平测试_chars_level2_unicode_order.txt",
