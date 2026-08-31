@@ -21,7 +21,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 <div align="left">
 
 | # | Corpus | #chars | Source / Reference |
-|---|---------|---------------|--------------------|--------------------|
+|---|---------|---------------|--------------------|
 | 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | pre-2010, 11 levels |
 | 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | post-2010, 6 levels |
 | 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 2021 version 3.0 standards, 9 levels |
