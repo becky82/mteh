@@ -128,4 +128,4 @@ And if we extract the characters from these words
 
 The 2,866 characters are `HSK1.0_chars.txt`.
 
-It turns out I have an old version of the HSK1.0 character list, and I forget where it came from; I call it `HSK1.0_chars_mysterious_old_version.txt`; compared to `HSK1.0_chars.txt`, it has these extra characters `侯冀冯刘匈卢吕吴咋哩啥喧嗓埃埔孟宋岳崔彭戈曹朱桔欧殷沈沪浙淮潘澳秦粤耿聂萨葛蒋袁赫赵邓邢郭陕魏` (+47) but omits these characters `啰嗡帕暄涵蔓账镑` (-8); total 2905.
+It turns out I have an old version of the HSK1.0 character list, and I forget where it came from; I call it `HSK1.0_chars_mysterious_old_version.txt`; compared to `HSK1.0_chars.txt`, it has these extra characters `侯冀冯刘匈卢吕吴咋哩啥喧嗓埃埔孟宋岳崔彭戈曹朱桔欧殷沈沪浙淮潘澳秦粤耿聂萨葛蒋袁赫赵邓邢郭陕魏` (+47) but omits these characters `啰嗡帕暄涵蔓账镑` (-8); total 2905.  (I presume this is just multiple versions of the same corpus, just like with the 3.0 corpus, and the precise details have been lost to time.)
