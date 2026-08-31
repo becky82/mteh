@@ -38,11 +38,11 @@ There's not strictly 5000 words here because:
 
 From this we can extract the characters from each word:
 
-- level 1: 176 words;
-- level 2: +176 words [352 total];
-- level 3: +269 words [621 total];
-- level 4: +446 words [1067 total];
-- level 5: +620 words [1687 total];
-- level 6: +976 words [2663 total].
+- level 1: 176 chars;
+- level 2: +176 chars [352 total];
+- level 3: +269 chars [621 total];
+- level 4: +446 chars [1067 total];
+- level 5: +620 chars [1687 total];
+- level 6: +976 chars [2663 total].
 
 The 2,663 HSK 2.0 characters are those in `HSK2.0_chars.txt` and are included in MteH v0.1.1.
