@@ -1,19 +1,19 @@
 # MteH Character Occurrence Histogram
 
-**Report generated on:** 2026-08-31 12:32:24; Python script written by ChatGPT (GPT-5-mini).
+**Report generated on:** 2026-08-31 14:29:48; Python script written by ChatGPT (GPT-5-mini).
 
 **Checking MteH snapshot:** `../versions/v0.1.3/mteh_v0.1.3.txt`
 
-**Number of corpora checked:** 41
+**Number of corpora checked:** 43
 
 ![Histogram](mteh_char_corpus_histogram.png)
 
 
 ## Summary Table
 
-| # Corpora | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| # Characters | 0 | 2 | 7 | 16 | 31 | 37 | 49 | 58 | 60 | 76 | 74 | 93 | 104 | 102 | 95 | 97 | 99 | 101 | 115 | 106 | 103 | 110 | 100 | 112 | 105 | 118 | 139 | 135 | 156 | 182 | 189 | 239 | 254 | 282 | 308 | 245 | 238 | 169 | 34 | 0 | 0 | 0 |
+| # Corpora | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| # Characters | 0 | 2 | 7 | 16 | 31 | 37 | 48 | 58 | 60 | 73 | 74 | 88 | 93 | 103 | 83 | 100 | 83 | 100 | 93 | 99 | 101 | 99 | 94 | 104 | 103 | 104 | 117 | 139 | 135 | 156 | 182 | 189 | 239 | 254 | 282 | 308 | 245 | 238 | 169 | 34 | 0 | 0 | 0 | 0 |
 
 ## MteH Full Character List
 
@@ -44,147 +44,155 @@ The MteH characters that belong to X corpora, as X varies.
 
 倨偻刎剜咝咣唰喟嗥嗫嘞嘭圜忾怩揠撸殓涔湎犸獠眦秕纨绺胴舛芡裨觥詈讫铩锨镌镞
 
-### Characters in 6 corpora (49)
+### Characters in 6 corpora (48)
 
-佻僭哔哧唁啮噙噼嚅妲婀孱悻摁摞撂枳槁橇欸殚氖氪溏潸燧犒痍睨粕聒肄胛苫褓诌谲赝赭蹴钨锏闩飚馊馔骜鬣龇
+佻僭哔哧啮噙噼嚅妲婀孱悻摁摞撂枳槁橇欸殚氖氪溏潸燧犒痍睨粕聒肄胛苫褓诌谲赝赭蹴钨锏闩飚馊馔骜鬣龇
 
 ### Characters in 7 corpora (58)
 
-厩咂哝啐嘤噤嚓囫囵姹峋嵋幂弑忪怏恫惴愎愠愫擢毽氦汩淖焯焱獒珞瓤疽痂砧礴笞粲绌缜脍蓖虢衩觐诟诶谗谥蹙酊铣铰锂锒闫颦鹬龅
+厩咂哝唁啐嘤噤嚓囫囵姹峋嵋幂弑忪怏恫惴愎愠愫擢毽氦汩淖焯焱獒珞疽痂砧礴笞粲绌缜脍蓖虢衩觐诟诶谗谥蹙酊铣铰锂锒闫颦鹬龅
 
 ### Characters in 8 corpora (60)
 
-仃仨侗匝堇奘娆孀孑嶙怆慵戾拚搽撅攥攫洄淙淼湮滓漉漕炀狒獾瞟祜纣罄耷腓腩腭舐蓑裱觎誊豉赊跎蹉蹩酩醺铄铡铬锉镊镣颧飕黠鼬鼹龋
+仃仨侗匝堇奘娆孀孑嶙怆慵戾拚搽撅攥攫洄淙淼湮滓漉漕炀狒獾瓤瞟祜纣罄耷腓腩腭舐蓑裱觎豉赊跎蹉蹩酩醺铄铡铬锉镊镣颧飕黠鼬鼹龋
 
-### Characters in 9 corpora (76)
+### Characters in 9 corpora (73)
 
-丕俚倏卅卞叵呃呓呦呷咻哒啻啾嗔嘹囔坨堑夯岌徇徉徜戍抿拮捋掬掸擀杳氰淅痫皙睾矾秸笺粑粼糗纾绶罂罹羿肓胄臃茯荸蔫蚜蛭蛰蜴螯覃觊讴诩诿谒豢踮蹑遢邋镳陲靳颚骰麸
+丕俚倏卅卞叵呃呓呦呷咻哒啻啾嗔囔坨堑岌徇徉徜戍抿拮捋掬掸擀杳氰淅痫皙睾笺粑粼糗纾绶罂罹羿肓胄臃茯荸蔫蚜蛭蛰蜴螯覃觊誊讴诩诿谒豢踮蹑遢邋镳陲靳颚骰麸
 
 ### Characters in 10 corpora (74)
 
-亟俨冽刽劾匐呸咔喵嗑嗒嗖坳孢宥幄幺忒忖怦恻惆捌掳揩搐摒杈桀烯牍犷畦疣痞瞑瞠碴篑篙纭胯膘舀芍荠葩蚝蜚蜢袂袅谀谄谆跄逵邂钛镂镍阉隼霭颔饯驷骛鬃鳃鹌麾龌龛
+亟俨冽刽劾匐呸咔喵嗑嗒嗖嘹坳夯孢宥幄幺忒忖怦恻惆掳搐摒杈桀烯牍犷畦疣痞瞑瞠矾碴秸篑篙纭胯膘芍荠葩蚝蜚蜢袂袅谀谄跄逵邂钛镂镍阉隼霭颔饯驷骛鬃鳃鹌麾龌龛
 
-### Characters in 11 corpora (93)
+### Characters in 11 corpora (88)
 
-仄佟佯傣剽匍呗唏唔啕啜喱嗝嗟噗垛壑娓娲婊崽巳幡庖忐忑挞掇撬杷柒氟沏泓洱浒湍瀛烷焖煦熨狙狰玷珈甭疱痉瘀瘁瘴皈眈睽砺祉箔篝簪缰罔翟胫胺腼舷荞藓蜷褛褴谑谩豺跆踉蹿辍邃铀铆铐锲镯阖飨饷骁魇鹑黝龊
+仄佟佯傣剽匍呗唏唔啕啜喱嗝嗟噗壑娓娲婊崽幡庖忐忑挞捌掇揩杷氟沏泓洱浒湍瀛烷焖煦熨狙珈甭疱痉瘀瘁瘴皈眈睽砺祉箔篝簪罔翟胫胺腼舀舷荞藓蜷褛褴谆谑谩跆踉蹿辍邃铀铆锲镯阖飨饷骁魇鹑黝龊
 
-### Characters in 12 corpora (104)
+### Characters in 12 corpora (93)
 
-亘亵佃佼俟俸偌叁咛哽嗷坯埂妊娅娑娠嫡孺宕岷幔忏忡怔戌扈扪挝捺掣撵斓昵杵枇枭枸楂榷泸浚涸烊烬熠猝獭甬瘠瘪癞癸皑皖睑瞅瞭砾硼笈筏篆纂绛缄胤腆臊茬莅葆蓦蕨蛆褶觑诋诘诙谙跚跻踞踱踹蹒蹶躏辘逅酮酯釉铠铮锢颉颌飓馥鲑鳍黍
+亘亵佼俟俸偌咛哽嗷垛妊娅娑娠嫡孺宕岷巳幔忏忡扈扪挝掣撬斓昵杵枇枭枸柒楂榷泸浚涸烊烬熠狰猝獭玷甬瘠癞皑睑硼笈篆纂绛缄缰胤腆莅葆蓦蕨蛆褶觑诋诘诙谙豺跚跻踞踹蹒蹶辘逅酮酯釉铐铠铮锢颉颌飓馥鲑黍
 
-### Characters in 13 corpora (102)
+### Characters in 13 corpora (103)
 
-伫侏倭吱咫咯唧喙喳坂垠塾夙妩婢嫖帧弼彷徨忿恣愕慑懵戛扉抨掂揖搪敕斡旌桅楔楣榻槌殆殉毓泵涝渥湄烩焙熹猕猥獗璇盹瞿砥砰禀禺窕箴篡缨缭缮羁羯耆膺臆芮茴莘蓓蛎蜒蟑蟒袒裆谧踵蹂蹊轼迩迸遨邸酶铂锰镁镐馄馏骷髅髻鳌鳗鼾
+伫佃侏倭叁咫咯喙坂坯垠埂塾夙妩婢嫖帧弼彷徨怔恣慑懵戌戛扉抨捺揖搪撵敕斡旌桅楔楣榻槌殆毓渥湄烩焙熹猕猥獗璇瘪癸皖瞅瞭瞿砥砾禺窕筏箴缨缮羁羯耆膺臆臊芮茬茴莘蓓蛎蟑蟒袒裆谧踱踵蹊躏轼迩迸遨邸酶铂镁馄骷髅髻鳌鳍鳗鼾
 
-### Characters in 14 corpora (95)
+### Characters in 14 corpora (83)
 
-伎俑冢剁剿厮叟吆吠吮呱咄啧嘈坍娼媲宦岱帚弋彝怅恿悯惘惚惺抡拈挛搔擞昊曜梆殡汐汛汞沓溥滇潢炕煲犊玺瑙璀璞甥疟痢瘸盅瞥瞰矜秆稷窈箍篓耙胱腑苯虱蛊蛹蜥蜿蟋蟾褂谏谟赡跛跺轶迢迥邯郸鑫钗铿锭陛隽霎饨骡
+伎俑冢剁厮叟吱呱唧啧喳嘈坍娼媲岱弋彝忿怅恿惘惚惺愕拈挛掂擞昊曜殉殡汐沓泵涝溥潢煲犊玺璀璞盅盹瞥瞰矜砰禀稷窈箍篡缭胱腑苯虱蛊蛹蜒蜥蜿蟾谏谟蹂轶迥邯郸鑫钗铿锭锰镐陛隽饨馏
 
-### Characters in 15 corpora (97)
+### Characters in 15 corpora (100)
 
-偃偎傀匾叩叱叽呛咆咎咚唆啪喀喋喔嗨噬囤壕壬奄娩媛孚孪孰岖怂恺悖悸惬憩懿戊拗捅斌昙晌札枷栩毡汕泯涅涓涣渍滕漪潺燎狞痊痣癖睿瞌碉磺祁祛竺筵籁绫羌翌肮茜蘸蚓蚣蛟蟀蟆蠕讪诧谛踝躇遛锹镖阑阙靓鞘飙馍骸鱿龈
+偃傀剿叱吆吠吮咄咆咎咚喀喋喔嗨噬壕奄娩媛孚孪孰宦帚怂恺悯悸惬憩懿抡搔昙札枷栩梆汕汛汞泯涅涓渍滇滕漪潺炕燎瑙甥疟痢痣瘸癖睿瞌碉磺祁祛秆竺筵篓籁绫羌翌耙茜蘸蛟蟋褂讪诧谛赡跛跺踝躇迢遛镖阑阙霎靓鞘飙骡骸鱿龈
 
-### Characters in 16 corpora (99)
+### Characters in 16 corpora (83)
 
-丞佬佰俺偕儡吭咦嗤嘀嘘噎嚎圳妞妾娴嫣嫦孽帛幌恙恪悚悴憔憧懦戮抉拎捂掰掺摹撩敝晦暧樵毗沌浣涎涮渤瀚炯炳猬璋璨疚疡痔癣皓睐碘稣窖簸纫羲翎苓茗茨荼萦蒿蚯蜈蜕蝌蝗裴讷讹诠谕貂贻赣赦踌蹭辄辗迂钠隋霖韭飒鬓鸵麓
+丞佬佰偎偕儡匾叩叽呛咦唆啪嗤嘘噎囤圳壬妞妾娴嫣嫦岖帛恙恪悖悚憧戊戮抉拗捅敝斌晌暧樵毗毡沌浣涎涣瀚炯炳狞璋璨疡痊痔稣羲翎肮苓茗茨荼萦蒿蚓蚣蟀蟆蠕裴讷诠谕貂踌辄锹霖飒馍麓
 
-### Characters in 17 corpora (101)
+### Characters in 17 corpora (100)
 
-乾伽侥倩兮凋凛匮咋唬啰嗡嘟噜堰奚姗婪寐岑岚嵩弈弩徙恃惦扼拷挎捻擒攘斐朕栈楞榔榛槛槟沪泞渎渭漩濡煽狄狩玖琥痹癫眸眺砚硅碾禧穹箕箫纶绥缎翱胰脓腌舜芷苞荟菁藐蚤蚪褥诅诏诽谚贰邵郝酋釜钾铎锌锚锵镑阂阪阮霾饪驭龚
+伽俺倩兮凋匮吭嘀嘟噜嚎奚姗孽寐岑岚嵩幌弈弩悴憔懦拎捂掰掺摹撩攘斐晦朕楞榛槟涮渎渤渭漩濡狄狩猬琥疚癣癫皓眸眺睐碘禧穹窖簸纫纶绥翱腌舜芷荟菁蚯蜈蜕蝌蝗讹诅诏贻赣赦蹭辗迂邵郝酋釜钠铎锵阂阪阮隋霾韭饪驭鬓鸵龚
 
-### Characters in 18 corpora (115)
+### Characters in 18 corpora (93)
 
-侄倔冉冗匕匡咧喃喽嗣嗦嘎噢噩圭坞埔埠妍妓婶寰尧尬尴峨巅庵庶廿彗恤惮憎憬懊戟抠拄拧捎掐掖撮晾曳毋氨氯汀湃漱炙烙猖琦琶瓢瓮甄疵皎皿眩眯矶窘窿竣笠簧绚绮绯羹聆肛胭脐腋臼茹荤蕃蛀螂袄褪诛诣诲跋跤跷踊蹬遐邹酉锥镀闰阜雳霓韶馁驮骋骼髦鲨鳖麒黛
+乾侥凛匡咋唬啰喃喽嗡嗣嘎噢圭坞埔堰妍婪寰廿彗徙恃惦惮憬戟扼拷挎捻掖擒曳栈榔槛毋汀沪泞炙煽玖琦琶瓮甄疵痹皎眩矶砚硅碾笠箕箫绮绯缎胭胰脓苞茹蕃藐蚤蚪螂褥诛诣诽谚贰遐邹钾锌锚镑阜霓韶骋骼髦麒黛
 
-### Characters in 19 corpora (106)
+### Characters in 19 corpora (99)
 
-丐俞匣叼咒咪哆哉哟唠啥啬嗯嘶嚏嚣囱坷奎娟寅尹峦帷廖弗弛惋惶戎拭拴拽捶揍搀攸晖暄柑柚桓椭檐沁涟涧渲溺炽焊珀琵瑜疹瘟盎磐祀祠箩糠绊绢羔羚耘苇茸荚荧萃蕊薇薰蛤蝙衙裘褒詹诀豌豚贮赘蹋轧迦逞遁鄂酣钵铛镰闵雍霆霹靡靶颐驹驿黯
+侄俞倔冉冗匕咧啬嗦嗯噩嚏埠奎妓婶尧尬尴尹峨巅庵庶廖恤憎懊抠拄拧捎掐撮攸晖晾暄柚桓氨氯涟湃漱炽烙猖珀琵瑜瓢皿盎眯磐窘窿竣簧绚羹聆肛脐腋臼荚荤萃薰蛀袄裘褪詹诲跋跤跷踊蹬迦遁酉钵锥镀闰闵雍雳霆颐馁驮驿鲨鳖
 
-### Characters in 20 corpora (103)
+### Characters in 20 corpora (101)
 
-亥仕倪兀剃匈卯厄厥吝哩哮圃垢垮壹娄娥婷婿峙崛巍彤彪忱恬惫憋憨戳拂挟捍撰斟晏晤暨曝曦朔柬栅梵樊歼氮沥沽淌淤潇煞狈猾琐琪睫硝硫磊磋祟禹秽窒笆笙糜缉缪翩聂肋脯臻芥芸虔蝠衅褐襄诬谍赃赎趾辕迄邑邢郡鄙酗酝酪陕陨雹颓鸠
+丐仕倪兀匣厄厥叼咒咪哆哉哟唠啥嘶嚣囱坷娟婷寅峙峦帷弗弛惋惶戎拭拴拽捶揍搀晏晤暨曦朔柑梵椭樊檐沁涧渲溺焊琪疹瘟磋祀祠笆箩糜糠绊绢缪羔羚耘臻芸苇茸荧蕊薇虔蛤蝙衙褒襄诀豌豚贮赘蹋轧辕逞邢郡鄂酣铛镰霹靡靶驹鸠黯
 
-### Characters in 21 corpora (110)
+### Characters in 21 corpora (99)
 
-丫亢侃冥卤吩咕咙嚷垣墩姊姥姬嫉孜寥屎屹幢庇庚彦愣懈捆揪搁攒敖敛斋桦榄橄氢汝汲沦洼涤渝漓潦炖烽焉牟畸痘痪盔睬矗矣磷窦笃篱籽缅缆翡肘肴胚胧腮臀舔芋芜茁茉茵莎莓莞蔑藉藕藩蚌蝎襟讳诡诫谤谴辙遏邱酥闺闽阀阱陀雏霄鞍颅饵鲍鳞鹃鹉麟黔
+亥侃剃匈卯吝哩哮圃垢垣垮壹姬娄娥婿孜崛巍彤彦彪忱恬惫憋憨戳拂挟捍撰攒敖斟曝柬栅歼氮汲沥沽淌淤潇潦炖烽煞牟狈猾琐睫硝硫磊祟禹秽窒窦笃笙缉翡翩聂肋脯芥莎莓莞藩蝠衅褐诬谍赃赎趾迄邑邱鄙酗酝酪阱陀陕陨雹颓麟
 
-### Characters in 22 corpora (100)
+### Characters in 22 corpora (94)
 
-俐俘僚冀凿剔募勺卉卦吏呜哦啃啄啼囚堕奕妃妮孵尉屉弘弧徊徘怯悍惰拯捣揣撇擂暇杉棠棺椎榆橱氓沮浏淫溅濒烹狡珑琉瑶瘾瞄瞳磕窥簿粤粽糯翰肇胳腺舵芯芹苑苔茧荔莺菠菱萤蔗蘑虞蜻螃贱赁赂躯逍铝锄靖韦颊馅馈馋鳄鸯鸳鹦
+丫亢冥卤吩咕咙嚷墩奕姊姥嫉寥屎屹幢庇庚愣懈捆揪搁敛斋桦榄橄氢汝沦洼涤渝漓焉珑瑶畸痘痪盔睬矗矣磷篱籽粽缅缆肘肴胚胧腮臀舔芋芜茁茉茵蔑藉藕虞蚌蝎襟讳诡诫谤谴辙逍遏酥闺闽阀雏霄鞍韦颅饵鲍鳞鹃鹉黔
 
-### Characters in 23 corpora (112)
+### Characters in 23 corpora (104)
 
-乍亨仑伺侈倘兹冕刨卒卿呐呻咏哄哎嗜嘻嘿墅墟夭姚娜嬉崔庐恕悼惕惟憾拢掀掷朦杞枢柠柯桔桩梧檬殃殴汹浙涩淇漾澈澎灸炊猩猿琅琳瑕瑚甩瘩眶眷瞩砌祈祷秃秧窍窑窜筐簇粟粱紊絮绷缕缤腻膊膛膳舶苛菩薛虏蛾蜀袱裔譬讶谭轩钝钳铲阐隅隘靴顷颁驯骇黏
+亨俐俘僚冀冕凿剔募勺卉卦吏呜哦啃啄啼囚堕妃妮嬉孵尉屉弘弧徊徘怯悍惰拯捣揣撇擂暇杉杞柯棠棺椎榆橱氓沮浏淇淫溅濒烹狡琉瑕瑚瘾瞄瞳磕窥簿粤糯翰肇胳腺膳舵芯芹苑苔茧荔莺菠菱萤蔗蘑蜻螃裔贱赁赂躯铝锄靖颊馅馈馋鳄鸯鸳鹦黏
 
-### Characters in 24 corpora (105)
+### Characters in 24 corpora (103)
 
-亩佑倡僻兢冤凄凳凹刁劈匿呕咐哼喧嘛奠婉宛屡崎嵌彬恍扳拇拣挚挠挨揽搂搓摧撼昼曙枉栓椰毙氛汰涡淆淑淮渺湘湛溉炬烘焚熄熔熙爹犀犁琼瑟甫疙疮瞒碱禄稼稽糙绽耍耶肪腥艘芭莽菲葫蔡虐蜓蜗蜘讥讽谬账贿躬轿辫逮酵钧锈锯陋馨驼骏鸥
+乍仑伺侈倘兹刨卒卿呐呻咏哄哎嗜嘻嘿墅墟夭姚娜崔庐恕悼惕惟憾拢掀掷朦枢柠桔桩梧檬殃殴汹浙涩湛漾澈澎灸炊猩猿琅琳甩瘩眶眷瞩砌祈祷秃秧窍窑窜筐簇粟粱紊絮绷缕缤耶腻膊膛舶苛菩薛虏蛾蜀袱譬讶谭轩钝钳铲阐隅隘靴顷颁驯骇
 
-### Characters in 25 corpora (118)
+### Characters in 25 corpora (104)
 
-伶佣侮冈刃勋勘叛叨叭咀咨唉唾嗅嗓坎埃奸娶嫂寇寡屁彭怠怡慨扛抒拙挣捏掏揉擎旭杠桐桨梗楷歹殷沼泌泻浦淀淳渗溯滞潘炫狸璧疤痰瘫眨瞬矢矫砂碟礁祭秤篷纬绅绎绰缀缔缚耻耽腕芙荫莉菇萎葵蒋蒜蓉藻蚀袁觅讼谣贬赐赚趟跪蹄迭逛逝逾遂钮锣锻闸阎驳驴骆魅鲤鹊鹏
+亩佑倡僻兢冤凄凳凹刁劈匿呕咀咐哼喧嘛奠婉宛屡崎嵌彬恍扳拇拣挚挠挨揽搂搓摧撼昼曙枉栓椰毙氛汰涡淆淑淮渺湘溉炬烘焚熄熔熙爹犀犁琼瑟甫疙疮瞒碱禄稼稽糙绽耍肪腥艘芭莽菲葫蔡虐蜓蜗蜘讥讽谬账贿躬轿辫逮酵钧锈锯陋馨驼骏鸥
 
-### Characters in 26 corpora (139)
+### Characters in 26 corpora (117)
+
+伶佣侮冈刃勋勘叛叨叭咨唉唾嗅嗓坎埃奸娶嫂寇寡屁彭怠怡慨扛抒拙挣捏掏揉擎旭杠桐桨梗楷歹殷沼泌泻浦淀淳渗溯滞潘炫狸璧疤痰瘫眨瞬矢矫砂碟礁祭秤篷纬绅绎绰缀缔缚耻耽腕芙荫莉菇萎葵蒋蒜蓉藻蚀袁觅讼谣贬赐赚趟跪蹄迭逛逝逾遂钮锣锻闸阎驳驴骆魅鲤鹊鹏
+
+### Characters in 27 corpora (139)
 
 乒乓佐侨俄俏僧儒兑兜冯刹剖匪卢吨吼呀咱哗喇嗽嘱嘲嚼坤垦妒妥妨姻寝寞届峭崭帖弊徽怎恳悄惩惭慷扔挫搅搞旱晕暮曰朽杭枫柿梢梭梳棕棘棱榨榴樱歉毯沧涕滔澡瀑灼焕熏爵牡牺狠珊琢瓷甸畴痴癌盏睁瞎砸磅禅稚稠穆穗窟笋筛筝筷粥粪粹署膨舱莱蒲蔼蚕蛛蝇蝉蟹蠢裸谎豁贸赌趴蹦蹲轴迪酌醇钙镶隧雇雌韧驶髓鲸鸿
 
-### Characters in 27 corpora (135)
+### Characters in 28 corpora (135)
 
 乔乖侣俩俯倦偿凸函刊刘删勿匆卵厕吁吕吵吾哇哑哨哺啦圾垄堤契奢妄妆姨媚媳宴尿屯岂岔岭帜廓廷您愤愧慌扒拌捡携撑撤敷斥昭曼杏栖框棚槽沈沐泣浇渊滥澜熬牲狭玛玲痒瘤盯睦睹瞧瞪碳禾秉稿笛纽绞缴罢翘耿肾胀胁脊膝舅舆艰芝茎茫莹葬蔚蕴薯蛮螺衬订谜贾踩躁躺辖辜辱逻邓邦酬钥锤陡隙鞠颤饥馒魄鹤
 
-### Characters in 28 corpora (156)
+### Characters in 29 corpora (156)
 
 些亦仍估侠侦俭傍傻僵冶券匙卸厢吗吧呵咳哀哪售啊啤啸喉囊坊坝坟坠坪垫夷嫁嫌孟宋宰屑屠屿巫帕帘很怖悠戈扮拆拓拟拱挪掠掩摘擅敦斧旨昨晰曹杖枕枣档械橘橙橡氧浊涛涯渣溢溶滤澳灶烛焰狱疯砍禽窃竿粘纱纺绑绒绸缠缸耸聋聘肢苟茄萍葛蔓蕾虾蚂蚊蜡衍袜裳裹誓诈诊译诵谅谐豹贩赠赫赴轨轰辐辑这逸遣遭邪郭酱酷酿钉钞钦铭铸隶韵页颠饲驻骤魁鼎
 
-### Characters in 29 corpora (182)
+### Characters in 30 corpora (182)
 
 乞亏企伊伞伪侍侯侵倚债储兆兼凑凭凯凰刷剂劣劫匀匠卑叉叮吓吟呢唤啡喂址坑垃塌塑塘墓壶够奴她妖姜娱媒嫩孕宙宪寓岗岳峻巡帆帐庸彰役恋恨悬惧惨扯抄抛抵押拘捐掘摊撞敞斑斩旬昧晒柄某栏栽椒槐欠歧殿沛沾泊泼洛洽浆浸涵淹澄灿炸煎犬狐玄瑰畅畏畔畜疫疲症痕皆着瞻矛砖础硕碌碑窄筹罩肿胎胞脖膜舰艇芦茅荆菌萌萧萨葱蓄蔽薪虽蝴衔裤讯询谓谱贞贪购贷贼赋赔蹈躲辈逗邀钓钩链闷陌鞭韩颖饺骚魏鸦鸽龟
 
-### Characters in 30 corpora (189)
+### Characters in 31 corpora (189)
 
 丢丧串丸乃么件份伐允刑判剩割勾厅厘厨另吴吻咖哥哭喘噪垒填壤奥姆婚婴孩寨寺尸尼巩廊御恼患惑惹懂扇执找抖抬拐挖捉捞捧控描搏摔攀昔晋朱杆枯栗桌棍棵榜款歇殖毫污沸泄泳洒溃溪漆灾炒炭炮烁烫煌煤煮爆爷爸猜玫玻瓣甚疾皱盲盾矮碍碰磁祸秒秦秩税稻究竖筒签纤绘绣综缝罐罚羡翅耗肆肖肤肺腔般艾芬荐荒莲菊萄萝葡蒂蚁蛙衫衷袍裁裙览认讨访该诱课谊赵趁趋践踏踢踪辆辟辩违逆逊递逼遮钻锅闯雁霉霞鞋颂颇饰驰骂魂鹅
 
-### Characters in 31 corpora (239)
+### Characters in 32 corpora (239)
 
 乎乏乙亡仅仇仗们仲价伴供促俗俱倾假做傅兄兽册凌凝划刮剥办勃匹厂厦叔召叹否吹呈哲唐喝埋堪堵奈奏奖姐娇它宠宵属履峡崖崩巷币帅帝帽幻庞废座弃弦弹徐怨悔惯愁愉戒扑扩扫批抑抚抢披拦挑挡挤挽搜搬摄撕敢敲斜斤旷昌暂暑替杰析枚枪柏柜栋株桶梯此歪毁毅氏汁汇汪泛派浩浴涨渔港溜滚滨滩漂漏潭烤爪爬父猎猛猴玩璃疗疼皂盗眠督矩矿码碧票私租穴穷窗窝竭笨笼筋篇篮糕纠纲给编罪翔翠耕肌肝胃脂脆脏脾腐膀臣芳芽董蔬藤虑虚蛇蝶衰袖被袭覆评诉词诞谁谋贤贫跌跨较辅输辞辨辰迁返逐醋鉴铅锡阁阅队陪障靠频餐饼驱驾骗鬼鲁鸟鹰黎
 
-### Characters in 32 corpora (254)
+### Characters in 33 corpora (254)
 
 丙丛乘了予互亭仆仓仔付仿伙伦但你例俊倒借偷催像兔写凶刻削剪努势午又叙叠只吊君呆咬咽唇喊喻坦垂堆壳夕夸夺奉奶妻姿娘宅宏导射尝局岩己巾店庙廉弄弟弱待忆忙忧态怕怜恒恭悦惠愈愚慧懒戏我或戚截扭抓担拨括拳拼挥挺捕捷掉插揭援播擦攻既旺昏晃晶暗最朴杀杯染校核桂梁梨检棉棋椅概欣欧欲欺毒汽沃泪涉涌液淘添渠渴湾漠漫灭炉烂燕燥爽版牢牧犯猫率瑞瓶疆盆盒盟盼看研社稀策算箱籍粮紧纵纹组绕络绪绵罕羞翁耀聊肚肩肯胖脉脸腊腹腿膏臂臭艳芒茂莫著蓬蕉裕誉讲误读责赢跃跑距软辉辣辽迈迫述送逃逢遗邮郊郎郑铺销键闲阔阵阶阻限陷隔需霸顽颈颗饶魔鸭鼠龄
 
-### Characters in 33 corpora (282)
+### Characters in 34 corpora (282)
 
 丈丑丹之也买争亮亿仁伏众住佩使候停傲免入具决冻凤击剑剧劝励勒协卓卖卜卧厌取句吃吉吞吸哈唯嘉嘴圈均坐型培堡塔塞备央失妇妙妹姓委娃婆孝宁审害寂寸尖尺屋屏岸崇州已市希席帮幅幕幼床序弓弯彻循忘急怪恐恰恶悉惜扁扣扰把投抹拒拾拿损换授探推措握搭摆摇摩摸撒敌料断斯旁旋映晓更朵杜条构柳梅棒森模横歌止死残每汗沫泰泽洪淋混渡湿滋滴演灌灰燃片牵犹狂狗狮狼猪琴瓜瓦番疏的盈盐睛睡硬确碗磨祝禁稍稳站竞竟笔筑答箭粒糟素繁纷纸织终缩缺翼而耐肃肠股胆胶脚舌航苍苏若荷蒸虫虹蛋蜂蜜血街袋裂装触警议论设识试诗话详说请诸谦谨豫貌负败货贯贴走赶跟迅追透遍遥那钢锁锦闪闹际降院陵陶隆雀霍霜革预饮饱饿鹿鼻齿
 
-### Characters in 34 corpora (308)
+### Characters in 35 corpora (308)
 
 与且世丘丝两严个书乱事享京今他仰伍伟伤伸似低佛侧便值健党兵冒军况准减几凡初到刺副劲勉半卡即却压县反叫右各吐听启告员命咸唱商喷器因困圣在场坏块坛坡域墨壁声处夫奋奔套妈始姑威孔存孙季孤宇宣室宿对尘尚尤就尽层岁岛峰川巢差并幽庄库弥往径徒必忌忠忽恢悟悲想愿慈慎慕慰户才扎抗抱抽拍拖拥挂按据故敏救教散敬整斗旅族旦旧昆是普晴暖暴曾朋朗杂权材村束杨枝架柴样案桑殊毕永沉沟没沿泡泥注洁洗洞济浑浓浪润炼烦熊牌献申男画略疑病痛瘦皇益监盛省眉短碎示祖祥秀突童符第粉粗糊糖索级纯绝统继绩绳维缓置职育背脑腰腾舞舟艺苹范荡荣落融衡视言计训许诚诺谈豆豪贝财赖赛赤趣轻载近还迹退选途遵邻郁都配醒铃铜锋锐错陆除险隐难雅雕雾顶须领题额飘饭馆骄验骑骨鸣麦
 
-### Characters in 35 corpora (245)
+### Characters in 36 corpora (245)
 
 一下不专业为久义乌乳井交产亲什从仙令以任佳信倍偏偶元充先兰共其典再冠冬冰净切制动劳勇勤区升博印危厉厚去参受史号司名含固土坚堂境墙士壮夏夹学守宗宜客宫宾寄寻将尊屈左师幸庆异引录影彼得忍志念怒性总恩惊慢所手打托扶承技护报拜择持振排操支效数旗早昂显晨景服朝期李来板柔查标楚欢武段民气求池油泉洋洲测涂消渐湖潜灯炎烈烧焦然熟状玉王球甘甜田由甲电登目眼知破种科称穿章竹类系累约纪纳线续缘网羽翻考者联聪肉胜胸至舍船苗苦菜薄衣补见规证语谷贡质贺资赏赞越足身适遇避酸醉释量针钱镜闭问间防雨雪震静非面顾飞食齐龙
 
-### Characters in 36 corpora (238)
+### Characters in 37 corpora (238)
 
 丁七东丰临丽举九习乡二于五亚人介代仪会传伯位何作依修八公六兴养内农冷出刀分列则刚创别前务助化北医千华南占卫卷及友双变口古可同后味呼品响善喜团国图圆城基外夜头女如字安完官定宝实宽富寒寿封小少尔尾居展山巴带应底府康延式强形征律德思息情感成战戴扬折拉接收政文施晚智有木未机林柱桃梦植楼次步母毛江汤河法津浅淡温游潮激火烟爱牛物独珍珠班生用皮直相真石礼秋秘积移程立端笑等紫红练绍结罗羊美耳聚肥能花茶草获营蒙蓝藏虎行表西要观觉角让调象贵路跳迎运远连迟造部采野金闻阴阿附集雷露顿颜香鱼鸡默鼓
 
-### Characters in 37 corpora (169)
+### Characters in 38 corpora (169)
 
 万三上中主乐云休优体余保儿光全关冲凉利力功加包十单历原台叶向周和四园围地增复多大天太奇好子察工巧巨干平年广度建归彩微心快怀意拔招指掌提改放新方无日时明易星春月望末本松果树根桥正比水汉沙治活流浮深源滑灵点热照牙现界留白百盘福离空简管米细绿群老胡脱自致舒良色节英药解记谢超车转轮辛边达过进迷速道酒里重钟铁银镇长门陈随雄零青音项风首马高鲜麻黄黑
 
-### Characters in 38 corpora (34)
+### Characters in 39 corpora (34)
 
 克发合回家容密布常庭开张当房曲术极格波海清满特环理盖神精经费起通阳顺
-
-### Characters in 39 corpora (0)
-
-
 
 ### Characters in 40 corpora (0)
 
 
 
 ### Characters in 41 corpora (0)
+
+
+
+### Characters in 42 corpora (0)
+
+
+
+### Characters in 43 corpora (0)
 
 
 
@@ -196,33 +204,33 @@ The MteH characters that belong to X corpora, as X varies.
 The non-MteH characters that belong to X corpora, as X varies.
 
 
-### Non-MteH characters in 20 corpora (1)
-
-檀
-
 ### Non-MteH characters in 19 corpora (2)
 
 陇鹭
 
-### Non-MteH characters in 18 corpora (5)
+### Non-MteH characters in 18 corpora (6)
 
-岐梓楠汶蔷
+岐梓楠樟汶蔷
 
-### Non-MteH characters in 17 corpora (3)
+### Non-MteH characters in 17 corpora (2)
 
-樟萱雯
+萱雯
 
-### Non-MteH characters in 15 corpora (9)
+### Non-MteH characters in 16 corpora (1)
 
-椿泗泾漳瑾螳隍鲈鸾
+椿
 
-### Non-MteH characters in 14 corpora (9)
+### Non-MteH characters in 15 corpora (8)
 
-奂寮峪汾沅珂琛璐荀
+泗泾漳瑾螳隍鲈鸾
 
-### Non-MteH characters in 13 corpora (19)
+### Non-MteH characters in 14 corpora (10)
 
-侬剌樽沂澹炜皋祺缥胥臧蕙蜃褚诃轲闾鲫鳅
+奂寮峪汾沅珂琛璐荀鲫
+
+### Non-MteH characters in 13 corpora (18)
+
+侬剌樽沂澹炜皋祺缥胥臧蕙蜃褚诃轲闾鳅
 
 ### Non-MteH characters in 12 corpora (31)
 
@@ -272,7 +280,7 @@ The non-MteH characters that belong to X corpora, as X varies.
 
 〇㐷㑇㑊㕮㘎㙍㙘㙦㛃㛚㛹㟃㠇㠓㤘㥄㧐㧑㧟㫰㬊㬎㬚㭎㭕㮾㰀㳇㳘㳚㴔㵐㶲㸆㸌㺄㻬㽏㿠䁖䂮䃅䃎䅟䌹䎃䎖䏝䏡䏲䐃䓖䓛䓨䓫䓬䗖䗛䗪䗴䜣䝙䢺䢼䣘䥽䦃䲟䲠䲢䴓䴔䴕䴖䴗䴘䴙䶮丂丅丌丏丒丟丨丩丬丮丳丵丷丼丿乚乛乷亁亅亖亜亠亶亻亾仂仌仏仠伋伝伣伩伭伱佁佌佔佖佫佲併佷佸佹佺佽侁侂侎侒侘侜侴侹俍俙俛俠俣倓倕倖倝倞倣倧倸倻偑偓偡偢偪偰偺傃傉傒傫傯傺僇僎僔僝僦僩僪僬僯僽僾僿儇儍儗儛儞儦儳儴兎兿冂冃冄冎冏冔冖冘冡冧冫冱冿凊凓c凖凘刓刕剉剋剕剗剚剞剟剸劂劄劐劖劘劚劦劵劻勔勗勚勠c勷勹匚匸匼匽卄卌卐卝卩卺卻厓厖厵厶厷厽厾叆叏叒吅吣吪吰吷呇呖呪呬呯呴呿咅咇咈咉咍咥咴咺哃哢哱哳哹哿唂唃唅唝唣唵唻唼啎啛啣啴喁喣喤喾嗈嗌嗍嗐嗱嗵嘏嘡噁噂噃噇噉噐噷嚄嚆嚒嚞嚤嚬嚭囓囝図圌圐圙圝圞圢圫圲坉坋坒坥坫坬坰坵坽垍垎垏垙垞垾垿埄埆埘埜埪埳堍堐堔堞堦堧堲堺堼堾塂塥墈墕増墚墡墣墬墺墼売壴壿夂変夊夐夗夨夰奭奻妘妧妭姉姞姤姫姶姽娀娵婌婍婑婓婘婞婠婤婫婳婻媂媆媓媖媟媭媮媱媵媿嫄嫐嫑嫕嫜嫪嫭嫽嬝嬥嬭嬿孅孨宀宄実宧寁寔寛寳専尛尞尦屃屩屮屰屼岊岍岒岠岨岺峂峎峗峛峧峱峿崌崒崕崡崦崶崿嵁嵅嵫嵲嶅嶍嶒嶓嶟嶦嶲嶶巘巠巿帢帨帱幎幖幙幵幾庀広庤庱庳庼廆廑廒廙廲廴廸廻廾弆弇弨彐彛彞彡彫後徧忂忄忇忉忚忞怊恇恊恑恓恔恟恠恧悆悝悪悫悮悰惎惏惓惔惸愃愊愍愐愒愓愔愬愭愼慆慇慊慓慥慬慭慱慴憍憕憙憝憰憷憺戆戉戗戠戣戤戦戭戼扂扅扆扊扌扺扽抂抜抦抭抴抶拃拋拤拶挒挓挵挻捃捰捲捽掭掱掿揎揕揳搆搋搌搑搒搕搘搛搤搨搰搾摀摃摋摎摏摭摰摴摺撃撄撦撧擗擡擧擭攉攋攔攧攮攲攴攵攽敉斨斳斶斿旂旆旐旒旞旡旵旿昄昈昒昘昜昡昣昤昪昬昳昺昽晅晊晐晢晥晧晩晪晫晬晱暅暍暐暕暲暵暶暸暻暿曅曛曩曱曺朅朏朓朘朙朤朳朸朿杅杌杒杙杻枅枍枓枱枲枿柈柖柤柲柷栃栊栐栘栴栻桜桭桯桹梌梘梠梫梱梴梼梽棊棐棓棤棯棻棽椀椇椌椐椓椸楒楗楙楛楤楩楪楬楽榍榠榡榪榰榲榼槑槔様槙槚槜槱槺樕樘樫橉橞橥橿檑檨檵櫂櫆櫜欂欻歅歔歜歠歩歬歮歴歺殂殢殸殽毌毐毪毹氆氇氍氕氘氚氵氷氾汈汋汙汥汧沇沘沨沲泂泆泚泜泩洓洘洢洨洩洭洳洴洿浀浕浟浤浥浰浲涄涍涐涘淜淟淩淴淸渃済渋渒渖渮渰湉湋湑湝湣湶溇溍溓溙溚溠溦溵溹溻滃滉滗滛滧滪滫漈漋漤漦漭漴漶漻漼潏潓潠潥潩潵潾澂澋澒澔澨澴澼澽濊濋濛濨濩濬瀋瀌瀔瀬瀱灈灜灥灬炁炌炟炣炰炻烀烎烕烝烠烶烸烺烻烾焅焆焐焞焤焮煁煃煓煚煟煳煴煺熇熜熥熯熻燏燹燿爔爚爝爟爫爮爯牁牂牋牚牜牤牥牮牾犋犎犤犦犨犳狁狃狉狖狝狺猃猘猙猣猦猧猰猲猹猺猻獚獛獬獯玃玏玒玓玗玘玙玚玞玤玦玨玭玱玶玹玼玿珇珋珌珎珒珕珖珛珝珢珦珫珰珷珸珽琀琄琈琎琔琟琡琫琭琱琲瑂瑃瑆瑑瑓瑔瑖瑝瑠瑢瑨瑬璆璈璒璥璪璬璮璱璲瓀瓃瓖瓘瓟瓩瓻瓿甁甏甓甕甗甦甴畎畐畑畒畖畯畾疁疌疍疐疒疢疭疰痃痄痌痓痜痡痦瘃瘆瘉瘊瘏瘐瘕瘝瘥瘭瘵癃癍癗癯発癿皀皁皭盉盤盦盷盺眊県眍眐眔眴眵睄睍睎睖睘睭瞀瞍瞐瞚瞫瞶矅矞矧矰矻矼砄砆砘砜砦砫砮砵砹砽硃硄硊硏硔硭硿碁碃碈碏碥碨碲碹碻磇磏磒磛磜磝磹礌礐礓礞礡礤礲礵礻祅祊祋祏祓祾禇禊禋禒禔禘禤禿秂秊秬稆稈稊稌稑稙稜穄穅穇穉穙穜穞穟穠穢穣穸穽窀窅窆窊窭窳窾竘竜竤竨竻笹笾筅筊筘筢筤筥筴筶箎箑箖箜箣篚篛篠篥篯篲簃簉簑簖簩籦籴籵粞粢粨糁糇糈糒糵紏絫絷綈綟緌総緜縠繄繐繖繸纑纚纟纴纼绐绖绤绲绹缂缌缍缒缗缞缲缵罣罨罱罶罽羐羑羓羕羰羴翂翃翈習翙翛翯翷翾耂耇耋耎耔耖耠耢耤耥耰耱肁肜肟肭肷肸胈胏胔胣胨胩胬胲胾脇脎脕脘脞脟脧脰脶脷腃腈腒腙腠腨腽膎膙膣膮臁臑臤舎舙舠舥舭舯舲舴舺艅艉艎艏艚艟艨艻芑芔芠芤芧芴芼苉苊苐苖苨苪苺苼苾苿茋茍茓茔茖茚茞茺茻茽荁荅荌荓荖荗荵荿莋莕莝莰菂菑菫菴菵菼菾萂萑萚萜萣萮萳葔葖葠葨葯葰葴葾蒄蒇蒈蒎蒐蒒蒭蒮蒱蒷蒾蓏蓐蓧蓪蓰蓺蔃蔈蔍蔏蔘蔵蔸蕖蕫蕰薐薳薴薿藄藊蘗蘡蘩虉虍虓虤虷虸蚄蚆蚖蚮蚲蚿蛃蛑蛣蛷蜐蜑蝤蝥蝩蝻螓螬螭螱蟊蟖蟫蟱蟳蠙衃衄衎衠衤衯袗袯袴裈裉裓裛裣裦裰裵裻褀褎褕褟褢褧褯褵襀襕襚襜襦襪襫襼覅覈覌覚覧観觃觇觏觖觟觫觭觱訄訫訳詀読諠謇謦謭謷譌譶讠讱讻诔诪诼谳谵谼豔豠豭豮豳貆貎貒貤賏賔賖贶赒赕赗赙趙趯趱趿跅跏跐跕跞跫跱跹跼踒踕踖踚踡踤踦踧踨踫踶踷踺踼蹁蹅蹜蹢蹽蹾躐躔躜躥躭躱転輭輶轘轪轺辁辌辒辬辵辶辺辻辿迀迆迋迍迒迕迖迴逴逹遆遝適遫遬遯遶遹邅邘邠邲邿郃郈郉郘郛郪郿鄀鄃鄅鄐鄑鄗鄘鄜鄫酅酏酤酴酺酽醎醑醙醡醭醵醾釐鉥銎銤銧銲鋕錱錾鐀鐾钆钋钌钐钔钘钷铇铈铋铏铑铓铘铚铞铥铫铴铷铹铻铽锇锍锎锓锕锖锧锩锪锫锬锳锸锼锽锿镃镄镅镆镋镎镚镠镢镤镥镧镩镮镲镴镵閒閖閧閪闇闘闶闿阇阌阏阘阝阨阬阯陎陑陔陧隃隠隩隺雊雚雜雥雰霅霨靐靑靦靬靰靸靺靽靿鞀鞁鞔鞚鞞鞡鞧鞨鞬鞮鞲鞳鞴韁韂韟韡韨頣颃颋颎颙颥颿飂飐飑飔飖飗飝飡餧餬餵餸餿饐饣饳饻馃馇馉馝馞駅騒騣驲驵骃骍骒骘骙骟骣骦骱骺髃髈髌髎髐髑髙髟髢髽鬏鬵鬶鬷魀魋魣魨魾鮃鮄鮈鮊鮋鮍鮗鮟鮡鮣鮯鮸鮻鯆鯒鯕鯙鯥鯮鯵鯷鯻鯿鰆鰏鰕鰛鰜鰟鰤鰧鰳鰶鰺鱂鱇鱈鱊鱚鱝鱠鱥鱧鱯鱲鱵鱻鱽鱾鲊鲒鲕鲗鲘鲙鲝鲞鲧鲰鳆鳋鳘鳣鳽鳾鴂鴃鴆鴈鴞鴷鵖鵙鵟鵰鶗鶲鶺鷇鷉鷑鷦鷸鸊鸏鸤鸧鸼鹁鹐鹒鹓鹔鹖鹙鹝鹴鹺鹾麀麑麕麖麞麤麴麺黢黣黪黰黹鼇鼒鼔鼦鼪鼫鼽齇齧齰龁龂龖龘鿍鿎鿏𠅤𠙶𠳐𡎚𡐓𣗋𣲗𣲘𣸣𤧛𤩽𤫉𥔲𥕢𥖨𥻗𦈡𦒍𦙶𦝼𦭜𦰡𧿹𨐈𨙸𨚕𨟠𨭉𨱇𨱏𨱑𨱔𨺙𩾃𩾌𪟝𪣻𪤗𪨰𪨶𪩘𪱷𪾢𫄧𫄨𫄷𫄸𫇭𫌀𫍣𫍯𫍲𫍽𫐄𫐐𫐓𫑡𫓧𫓯𫓶𫓹𫔍𫔎𫔶𫖮𫖯𫖳𫗧𫗴𫘜𫘝𫘦𫘧𫘨𫘪𫘬𫚕𫚖𫚭𫛭𫞩𫟅𫟦𫟹𫟼𫠆𫠊𫠜𫢸𫫇c𫭟𫭢𫭼𫮃𫰛𫵷𫶇𫷷𫸩𬀩𬀪𬂩𬃊𬇕𬇙𬇹𬉼𬊈𬊤𬌗𬍛𬍡𬍤𬒈𬒔𬒗𬕂𬘓𬘘𬘡𬘩𬘫𬘬𬘭𬘯𬙂𬙊𬙋𬜬𬜯𬞟𬟁𬟽𬣙𬣞𬣡𬣳𬤇𬤊𬤝𬨂𬨎𬩽𬪩𬬩𬬭𬬮𬬱𬬸𬬹𬬻𬬿𬭁𬭊𬭎𬭚𬭛𬭤𬭩𬭬𬭯𬭳𬭶𬭸𬭼𬮱𬮿𬯀𬯎𬱖𬱟𬳵𬳶𬳽𬳿𬴂𬴃𬴊𬶋𬶍𬶏𬶐𬶟𬶠𬶨𬶭𬶮𬷕𬸘𬸚𬸣𬸦𬸪𬹼𬺈𬺓
 
-**Total 4618 chars.**
+**Total 4617 chars.**
 
 
 ## Corpus-specific unique MteH characters
@@ -307,68 +315,70 @@ Spearman correlation coefficient ρ = -0.919 (p = 0)
 
 - Characters in 5 corpora (37): most frequent 撸嗫裨 least frequent 犸秕揠
 
-- Characters in 6 corpora (48): most frequent 氖哧悻 least frequent 肄骜溏
+- Characters in 6 corpora (47): most frequent 氖哧悻 least frequent 肄骜溏
 
 - Characters in 7 corpora (58): most frequent 愫哝嚓 least frequent 焯獒毽
 
 - Characters in 8 corpora (60): most frequent 拚狒龋 least frequent 蹉豉腩
 
-- Characters in 9 corpora (76): most frequent 倏呃谒 least frequent 麸荸糗
+- Characters in 9 corpora (73): most frequent 倏呃谒 least frequent 麸荸糗
 
-- Characters in 10 corpora (74): most frequent 忖忒跄 least frequent 驷捌荠
+- Characters in 10 corpora (74): most frequent 忖忒跄 least frequent 蜢驷荠
 
-- Characters in 11 corpora (93): most frequent 饷铀舷 least frequent 跆喱柒
+- Characters in 11 corpora (88): most frequent 饷铀舷 least frequent 跆捌喱
 
-- Characters in 12 corpora (104): most frequent 怔瞅鳍 least frequent 烊黍枇
+- Characters in 12 corpora (93): most frequent 娅釉铮 least frequent 黍枇柒
 
-- Characters in 13 corpora (102): most frequent 璇咯愕 least frequent 遨羯茴
+- Characters in 13 corpora (103): most frequent 璇怔咯 least frequent 遨羯茴
 
-- Characters in 14 corpora (95): most frequent 剿陛瞥 least frequent 潢璀煲
+- Characters in 14 corpora (83): most frequent 陛瞥愕 least frequent 璀馏煲
 
-- Characters in 15 corpora (97): most frequent 涅斌喀 least frequent 遛鱿靓
+- Characters in 15 corpora (100): most frequent 涅喀剿 least frequent 遛鱿靓
 
-- Characters in 16 corpora (99): most frequent 茨圳稣 least frequent 涮璨佰
+- Characters in 16 corpora (83): most frequent 茨圳稣 least frequent 囤璨佰
 
-- Characters in 17 corpora (100): most frequent 乾禧狄 least frequent 濡榛玖
+- Characters in 17 corpora (100): most frequent 禧狄伽 least frequent 涮濡榛
 
-- Characters in 18 corpora (115): most frequent 喃噢黛 least frequent 皎麒妍
+- Characters in 18 corpora (92): most frequent 乾喃噢 least frequent 麒妍玖
 
-- Characters in 19 corpora (106): most frequent 弗嗯啥 least frequent 铛箩柚
+- Characters in 19 corpora (99): most frequent 嗯迦詹 least frequent 拄荤柚
 
-- Characters in 20 corpora (103): most frequent 歼哩陕 least frequent 彤酗壹
+- Characters in 20 corpora (101): most frequent 弗啥咒 least frequent 柑铛箩
 
-- Characters in 21 corpora (110): most frequent 矣鲍莎 least frequent 芋莞茁
+- Characters in 21 corpora (99): most frequent 歼哩莎 least frequent 酗莞壹
 
-- Characters in 22 corpora (100): most frequent 韦翰哦 least frequent 糯菠粽
+- Characters in 22 corpora (94): most frequent 韦矣鲍 least frequent 芋茁粽
 
-- Characters in 23 corpora (112): most frequent 娜兹惟 least frequent 淇灸柠
+- Characters in 23 corpora (104): most frequent 翰柯哦 least frequent 蜻糯菠
 
-- Characters in 24 corpora (105): most frequent 耶菲艘 least frequent 蜗椰蜓
+- Characters in 24 corpora (103): most frequent 耶娜兹 least frequent 檬灸柠
 
-- Characters in 25 corpora (118): most frequent 埃蒋彭 least frequent 葵璧秤
+- Characters in 25 corpora (104): most frequent 菲艘嘛 least frequent 蜗椰蜓
 
-- Characters in 26 corpora (139): most frequent 怎呀俄 least frequent 蔼乓榨
+- Characters in 26 corpora (117): most frequent 埃蒋彭 least frequent 葵璧秤
 
-- Characters in 27 corpora (135): most frequent 您刘订 least frequent 拌禾馒
+- Characters in 27 corpora (139): most frequent 怎呀俄 least frequent 蔼乓榨
 
-- Characters in 28 corpora (156): most frequent 这些很 least frequent 蕾橙橘
+- Characters in 28 corpora (135): most frequent 您刘订 least frequent 拌禾馒
 
-- Characters in 29 corpora (182): most frequent 着她呢 least frequent 槐椒饺
+- Characters in 29 corpora (156): most frequent 这些很 least frequent 蕾橙橘
 
-- Characters in 30 corpora (189): most frequent 么认件 least frequent 烫蛙瓣
+- Characters in 30 corpora (182): most frequent 着她呢 least frequent 槐椒饺
 
-- Characters in 31 corpora (239): most frequent 们它此 least frequent 醋皂宵
+- Characters in 31 corpora (189): most frequent 么认件 least frequent 烫蛙瓣
 
-- Characters in 32 corpora (254): most frequent 了我你 least frequent 膏梨蕉
+- Characters in 32 corpora (239): most frequent 们它此 least frequent 醋皂宵
 
-- Characters in 33 corpora (282): most frequent 的说也 least frequent 蒸沫霜
+- Characters in 33 corpora (254): most frequent 了我你 least frequent 膏梨蕉
 
-- Characters in 34 corpora (308): most frequent 是在他 least frequent 巢苹咸
+- Characters in 34 corpora (282): most frequent 的说也 least frequent 蒸沫霜
 
-- Characters in 35 corpora (245): most frequent 一不来 least frequent 苗昂甜
+- Characters in 35 corpora (308): most frequent 是在他 least frequent 巢苹咸
 
-- Characters in 36 corpora (238): most frequent 人有国 least frequent 柱浅桃
+- Characters in 36 corpora (245): most frequent 一不来 least frequent 苗昂甜
 
-- Characters in 37 corpora (169): most frequent 中上大 least frequent 滑拔凉
+- Characters in 37 corpora (238): most frequent 人有国 least frequent 柱浅桃
 
-- Characters in 38 corpora (34): most frequent 发家经 least frequent 顺盖曲
+- Characters in 38 corpora (169): most frequent 中上大 least frequent 滑拔凉
+
+- Characters in 39 corpora (34): most frequent 发家经 least frequent 顺盖曲
