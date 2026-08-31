@@ -7,5 +7,3 @@ From the top-4500 characters in SUBTLEX-CH-CHR, [OpenCC](https://github.com/BYVo
 > 乾 來 傢 內 凱 勛 吳 唸 噓 夥 孫 屍 張 後 徵 徹 捱 摺 於 朧 東 濃 煥 癒 竊 給 練 臺 菸 蝦 錫 鍔 鎬 鑽 餌 魯 鯊 鯨
 
 This left 4462 unique characters, namely `SUBTLEX_chars_top4500_simplified_unicode_order.txt`.
-
-The remaining 4034 characters were included in MteH v0.1.1.
