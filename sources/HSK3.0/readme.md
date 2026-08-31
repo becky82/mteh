@@ -12,13 +12,13 @@ The number of words are:
 
 For the HSK3.0, there are separate word and character lists.  The number of characters in the character lists are:
 
-- level 1: 300 words
-- level 2: +300 words [600 total];
-- level 3: +300 words [900 total];
-- level 4: +300 words [1200 total];
-- level 5: +300 words [1500 total];
-- level 6: +300 words [1800 total];
-- level 7-9: +1200 words [3000 total].
+- level 1: 300 chars
+- level 2: +300 chars [600 total];
+- level 3: +300 chars [900 total];
+- level 4: +300 chars [1200 total];
+- level 5: +300 chars [1500 total];
+- level 6: +300 chars [1800 total];
+- level 7-9: +1200 chars [3000 total].
 
 These HSK7-9 characters (29) do not appear in the word lists:
 
