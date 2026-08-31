@@ -19,3 +19,12 @@ There are a few minor discrepancies:
 - the character 店 is in level-1 words 店 (#34), 饭店 (#51), 商店 (#174), and 书店 (#191), yet is classed as a level-2 character (#17);
 - the character 饺 is in the level-1 word 饺子 (#90), yet is classed as a level-3 character (#106);
 - the character 留 first appears in level-3 words 留学 (#759), 留学生 (#760), yet is classed as a level-2 character (#50).
+
+Curiously, despite not being HSK 3.1 characters, these characters appear in the syllabus pdf:
+
+- 俑, as in 兵马俑 (terracotta warriors and horses, p.43);
+- 儒, as in 儒家 (Confucianism, p.43);
+- 宋, as in 宋朝 (the Song Dynasty, p.43);
+- 秦, as in 秦始皇 (the first emperor of China, p.43);
+- 札, as in 札记 (reading notes, p.52);
+- 憎, as in 憎义 (hatred, p.393).
