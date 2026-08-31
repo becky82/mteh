@@ -1,6 +1,6 @@
 ### What is "3.1"?
 
-The HSK 3.0 was officially released in 2021, and many sources (textbooks, apps, the HSK7-9 exam, etc.) used this syllabus and have referred to it as the "3.0 syllabus" for years.  And at the time of writing, almost all 3.0 resources are still using this 2021 3.0 syllabus.
+The [HSK 3.0](../HSK3.0) was officially released in 2021, and many sources (textbooks, apps, the HSK7-9 exam, etc.) used this syllabus and have referred to it as the "3.0 syllabus" for years.  And at the time of writing, almost all 3.0 resources are still using this 2021 3.0 syllabus.
 
 However, it looks like Hanban now wish to pretend as if the HSK 3.0 syllabus was not released in 2021, and released a modified version of the HSK 3.0 syllabus released in 2025.  To differentiate the two versions, I started (unofficially) calling this 2025 version the HSK 3.1 (since that's how version numbers work).  It would have saved a lot of confusion if they simply gave it a unique version number "3.1", but that's not my decision.
 
