@@ -1,1 +1,0 @@
-The 现代汉语通用字表 (1988) character corpus contains 7000 chracters, originally published by the Ministry of Education in 1988; it was sourced from [WikiSource](https://zh.wiktionary.org/zh-hans/Appendix:%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E9%80%9A%E7%94%A8%E5%AD%97%E8%A1%A8).

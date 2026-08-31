@@ -1,1 +1,3 @@
 《现代汉语常用字表》 is an official character list by the Chinese government's Ministry of Education, published in 1988; it has 3500 of the most frequently used simplified Chinese characters.  We source this list from [Wikisource](https://en.wikisource.org/wiki/Translation:List_of_Frequently_Used_Characters_in_Modern_Chinese), and sort it by unicode, giving `现代汉语常用字表_chars_unicode_order.txt`.
+
+Also included is 《现代汉语常用字表》 (1988), a character corpus contains 7000 chracters, originally published by the Ministry of Education in 1988; it was sourced from [WikiSource](https://zh.wiktionary.org/zh-hans/Appendix:%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E9%80%9A%E7%94%A8%E5%AD%97%E8%A1%A8).  The 3500 characters in 《现代汉语常用字表》 are all included in 《现代汉语常用字表》.

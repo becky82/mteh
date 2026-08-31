@@ -30,7 +30,7 @@ CORPUS_FILES = [
     "通用规范汉字表/通用规范汉字表_level2_chars_unicode_order.txt",
     "通用规范汉字表/通用规范汉字表_level3_chars_unicode_order.txt",
     "现代汉语常用字表/现代汉语常用字表_chars_unicode_order.txt",
-    "现代汉语通用字表1988/现代汉语通用字表1988_unicode_order.txt",
+    "现代汉语常用字表/现代汉语通用字表1988_unicode_order.txt",
     "现代汉语通用字表2013/现代汉语通用字表2013_level1_unicode_order.txt",
     "现代汉语通用字表2013/现代汉语通用字表2013_level2_unicode_order.txt",
     "现代汉语通用字表2013/现代汉语通用字表2013_level3_unicode_order.txt",
