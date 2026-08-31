@@ -32,7 +32,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 8 | [现代汉语常用字表](./sources/现代汉语常用字表) | 3,500 | Ministry of Education (1988) |
 | 9 | [普通话水平测试](./sources/普通话水平测试) | 3,788 | Putonghua Proficiency Test for native Mandarin fluency |
 | 10 | [Taiwan MoE](./sources/TaiwanMoE) | 4,661* | Taiwan Ministry of Education 常用字 | 
-| 11 | [primary school](./sources/primary_school) | 2,468 | China primary schools (2016) |
+| 11 | [primary school](./sources/primary_school) | 2,999 | Zhang et al. (2024) |
 | 12 | [语文](./sources/语文) | 3,500 | China compulsory education 语文 (2022) |
 | 13 | [Singapore](./sources/Singapore_primary_school) | 1,655 | Singapore primary schools (2015) |
 | 14 | [age of acquisition](./sources/age_of_acquisition) | 4,237 | Cai et al. (2022) |
