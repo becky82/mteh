@@ -24,9 +24,7 @@ These HSK7-9 characters (29) do not appear in the word lists:
 
 > 冯 刘 吕 吴 唐 孔 孟 宋 州 曹 杭 欧 沪 洲 浙 浦 淮 渝 潘 澳 秦 粤 蜀 袁 赵 邓 郭 韩 魏
 
-All 3000 characters are included in the MteH corpus.
-
-This is a relatively new corpus (at the time of writing), and there are multiple sources for the vocabulary and characters:
+This was a relatively new corpus (at the time of writing), and there are multiple sources for the vocabulary and characters:
 
 - https://github.com/ivankra/hsk30
 - https://github.com/drkameleon/complete-hsk-vocabulary
@@ -98,14 +96,4 @@ When working with HSK3.0 data sets, we need to be careful:
 
 5. Then there's 儿话音 (-儿 suffix) which is mostly optional.
 
-(And there's also punctuation which needs to be accounted for.)
-
-There are also handwriting lists, but those characters are all in the HSK character lists:
-
-|               | HSK1       | HSK2       | HSK3       | HSK4       | HSK5       | HSK6       | HSK7-9       |
-|---------------|------------|------------|------------|------------|------------|------------|--------------|
-| Elementary    | 273        | 24         | 3          | 0          | 0          | 0          | 0            |
-| Intermediate  | 27         | 262        | 67         | 26         | 12         | 6          | 0            |
-| Advanced      | 0          | 12         | 220        | 161        | 87         | 20         | 0            |
-
-So the HSK 3.0 character list comprises all the HSK 3.0 characters, listed in `HSK3.0_chars.txt`, and are included in MteH v0.1.1.
+There are also handwriting lists, but those characters are all in the HSK character lists.  So the HSK 3.0 character list comprises all the HSK 3.0 characters, listed in `HSK3.0_chars.txt`.
