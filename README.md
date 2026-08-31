@@ -16,50 +16,50 @@ There is also an Anki Deck ([here](./mteh_anki_deck.apkg)) which should already 
 
 ## Summary
 
-The MteH corpus is built to minimize "missing" characters; any characters not included are extremely rare or niche.  Version v0.1.3 merges the following corpora:
+The MteH corpus is built to minimize "missing" characters; any characters not included are extremely rare or niche.  The current in-progress update merges the following corpora (not all of the characters are included):
 
 <div align="left">
 
-| # | Corpus | #chars | #used | Source / Reference |
+| # | Corpus | #chars | Source / Reference |
 |---|---------|---------------|--------------------|--------------------|
-| 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | 2,866 | pre-2010, 11 levels |
-| 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | 2,663 | post-2010, 6 levels |
-| 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 3,000 | 2021 version 3.0 standards, 9 levels |
-| 4 | [HSK 3.1](./sources/HSK3.1) | 3,088 | 3,088 | 2025 version 3.0 standards, 9 levels |
-| 5 | [TOCFL](./sources/TOCFL) | 3,027* | 3,009 | Taiwan's TOCFL 3100 + 33 traditional chars |
-| 6 | [K-5](./sources/K-5) | 1,817 | 1,812 | K-5 word frequency |
-| 7 | [通用规范汉字表](./sources/通用规范汉字表) | 3,500 | 3,495 | Ministry of Education (2013) |
-| 8 | [现代汉语常用字表](./sources/现代汉语常用字表) | 3,500 | 3,491 | Ministry of Education (1988) |
-| 9 | [普通话水平测试](./sources/普通话水平测试) | 3,788 | ? | Putonghua Proficiency Test for native Mandarin fluency |
-| 10 | [Taiwan MoE](./sources/TaiwanMoE) | 4,661* | ? |  | 
-| 11 | [primary school](./sources/primary_school) | 2,468 | 2,467 | China primary schools (2016) |
-| 12 | [Singapore](./sources/Singapore_primary_school) | 1,655 | 1,655 | Singapore primary schools (2015) |
-| 13 | [age of acquisition](./sources/age_of_acquisition) | 4,237 | ? | Cai et al. (2022) |
-| 14 | [psycholinguistic](./sources/psycholinguistic) | 3,253 | ? | Chang et al. (2016) |
-| 15 | [Heisig](./sources/Heisig) | 3,018 | 3,017 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
-| 16 | [Hoenig](./sources/Hoenig) | 2,177 | 2,159 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 17 | [Jun Da](./sources/JunDa) | 4,485* | 4,254 | modern Chinese corpus |
-| 18 | [SUBTLEX](./sources/SUBTLEX) | 4,462* | 4,184 | film and TV subtitle corpus |
-| 19 | [Tsai](./sources/Tsai) | 4,329* | 3,975 | Usenet newsgroups (1993-1994) |
-| 20 | [CKIP](./sources/CKIP) | 3,392* | ? | CKIP (Chinese Knowledge and Information Processing) research group |
-| 21 | [Wikipedia](./sources/Wikipedia) | 3,476* | 3,221 | Chinese Wikipedia |
-| 22 | [Chinese.SE](./sources/ChineseSE) | 4,525* | | Chinese Stack Exchange (Jan 2026) |
-| 23 | [classical](./sources/classical) | 1,968* | 1,867 | prior to the end of the Han dynasty |
-| 24 | [THUOCL](./sources/THUOCL) | 3,421* | 3,222 | mostly Sogou webpages |
-| 25 | [Leeds](./sources/Leeds) | 4,230* | 4,073 | Internet corpus |
-| 26 | [BLCU](./sources/BLCU) | 4,445* | 4,089 | "balanced", written Chinese |
-| 27 | [LWC](./sources/LWC) | 4,130* | 3,961 | Sina Weibo |
-| 28 | [food](./sources/food) | 1,182 | 1,101 | food-related terms |
-| 29 | [species](./sources/species) | 4,086 | 3,211 | species names |
-| 30 | [Chinese surnames](./sources/surnames) | 1,745 | 1,566 | 1,807 Chinese surnames |
-| 31 | [Chinese names](./sources/names) | 2,269 | 1,989 | 1,200,000 Chinese names |
-| 32 | [city-geo](./sources/city-geo) | 1,277 | 1,133 | mainland China city terms |
-| 33 | [company](./sources/company) | 4,363* | 3,645 | company proper nouns |
-| 34 | [med-orgs](./sources/med-orgs) | 4,826 | 3,731 | medical organizations |
-| 35 | [MCT](./sources/MCT) | 1,180 | ? | Medical Chinese Test |
-| 36 | [BCT](./sources/BCT) | 1,752 | ? | Business Chinese Test |
-| 37 | [chengyu convention](./sources/chengyu_convention) | 2,226 | 2,172 | characters in "chengyu convention" chengyu |
-| 38 | [Xinhua](./sources/Xinhua) | 5,357 | 4,081 | Xinhua chengyu and xiehouyu |
+| 1 | [HSK 1.0](./sources/HSK1.0) | 2,866 | pre-2010, 11 levels |
+| 2 | [HSK 2.0](./sources/HSK2.0) | 2,663 | post-2010, 6 levels |
+| 3 | [HSK 3.0](./sources/HSK3.0) | 3,000 | 2021 version 3.0 standards, 9 levels |
+| 4 | [HSK 3.1](./sources/HSK3.1) | 3,088 | 2025 version 3.0 standards, 9 levels |
+| 5 | [TOCFL](./sources/TOCFL) | 3,027* | Taiwan's TOCFL 3100 + 33 traditional chars |
+| 6 | [K-5](./sources/K-5) | 1,817 | K-5 word frequency |
+| 7 | [通用规范汉字表](./sources/通用规范汉字表) | 3,500 | Ministry of Education (2013) |
+| 8 | [现代汉语常用字表](./sources/现代汉语常用字表) | 3,500 | Ministry of Education (1988) |
+| 9 | [普通话水平测试](./sources/普通话水平测试) | 3,788 | Putonghua Proficiency Test for native Mandarin fluency |
+| 10 | [Taiwan MoE](./sources/TaiwanMoE) | 4,661* |  | 
+| 11 | [primary school](./sources/primary_school) | 2,468 | China primary schools (2016) |
+| 12 | [Singapore](./sources/Singapore_primary_school) | 1,655 | Singapore primary schools (2015) |
+| 13 | [age of acquisition](./sources/age_of_acquisition) | 4,237 | Cai et al. (2022) |
+| 14 | [psycholinguistic](./sources/psycholinguistic) | 3,253 | Chang et al. (2016) |
+| 15 | [Heisig](./sources/Heisig) | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
+| 16 | [Hoenig](./sources/Hoenig) | 2,177 | *Learn & Remember 2,178 Characters and Their Meanings* |
+| 17 | [Jun Da](./sources/JunDa) | 4,485* | modern Chinese corpus |
+| 18 | [SUBTLEX](./sources/SUBTLEX) | 4,462* | film and TV subtitle corpus |
+| 19 | [Tsai](./sources/Tsai) | 4,329* | Usenet newsgroups (1993-1994) |
+| 20 | [CKIP](./sources/CKIP) | 3,392* | CKIP (Chinese Knowledge and Information Processing) research group |
+| 21 | [Wikipedia](./sources/Wikipedia) | 3,476* | Chinese Wikipedia |
+| 22 | [Chinese.SE](./sources/ChineseSE) | 4,525* | Chinese Stack Exchange (Jan 2026) |
+| 23 | [classical](./sources/classical) | 1,968* | prior to the end of the Han dynasty |
+| 24 | [THUOCL](./sources/THUOCL) | 3,421* | mostly Sogou webpages |
+| 25 | [Leeds](./sources/Leeds) | 4,230* | Internet corpus |
+| 26 | [BLCU](./sources/BLCU) | 4,445* | "balanced", written Chinese |
+| 27 | [LWC](./sources/LWC) | 4,130* | Sina Weibo |
+| 28 | [food](./sources/food) | 1,182 | food-related terms |
+| 29 | [species](./sources/species) | 4,086 | species names |
+| 30 | [Chinese surnames](./sources/surnames) | 1,745 | 1,807 Chinese surnames |
+| 31 | [Chinese names](./sources/names) | 2,269 | 1,200,000 Chinese names |
+| 32 | [city-geo](./sources/city-geo) | 1,277 | mainland China city terms |
+| 33 | [company](./sources/company) | 4,363* | company proper nouns |
+| 34 | [med-orgs](./sources/med-orgs) | 4,826 | medical organizations |
+| 35 | [MCT](./sources/MCT) | 1,180 | Medical Chinese Test |
+| 36 | [BCT](./sources/BCT) | 1,752 | Business Chinese Test |
+| 37 | [chengyu convention](./sources/chengyu_convention) | 2,226 | characters in "chengyu convention" chengyu |
+| 38 | [Xinhua](./sources/Xinhua) | 5,357 | Xinhua chengyu and xiehouyu |
 
 </div>
 
