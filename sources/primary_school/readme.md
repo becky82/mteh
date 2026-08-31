@@ -1,3 +1,12 @@
-This corpus was generated from [a 2016 Sohu article](https://www.sohu.com/a/62481121_101008) which lists the characters for China's primary school children (grade 1 through 6).  There were 2480 in total, as in `primary_school_2016_unicode_order.txt`.  However these characters (12) were duplicates:
+This corpus was generated from the data for the paper:
 
-> 免 峰 已 忧 懒 拾 篇 翘 耕 臣 色 要
+> Zhang, M., Liu, Z., Botezatu, M.R. et al. A large-scale database of Chinese characters and words collected from elementary school textbooks. Behav Res 56, 4732–4757 (2024). https://doi.org/10.3758/s13428-023-02214-1
+
+The file `primary_school_Zhang_et_al_2024_original_data.txt` is the relevant data from the appended `Character.xlsx`, where the columns are defined as:
+
+> Char The character  
+> Grade The grade the character occurs in (six grades in total, from 1 to 6)  
+> Volume Volumes information of the textbooks (12 volumns in total)  
+> RW Required to be recognized or written (1 for recognized; 2 for written)
+
+The file `primary_school_Zhang_et_al_2024_unicode_order.txt` is the 2999 distinct characters from this corpus.
