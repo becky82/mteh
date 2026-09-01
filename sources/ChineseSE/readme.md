@@ -4,10 +4,8 @@ This corpus was generated from the [Chinese Stack Exchange](https://chinese.stac
 > Last uploaded: Jan 05, 2026  
 > File size: 39.1 MB 
 
-The file `ChineseSE_character_frequency.txt` is the frequency table of characters on Chinese.SE, and `ChineseSE_character_frequency_simplified.txt` is the result when we convert the characters to simplified.
+The command `cat Comments.xml Posts.xml | opencc -c t2s | grep -oP '\p{Han}' | sort | uniq -c | sort -nr | awk '{print $2 " " $1}'` was used on the .xml files to give a character frequency table `ChineseSE_frequency_order.txt` (10597 chars).  The command `head -n 5000 ChineseSE_frequency_order.txt | awk '{print $1}' | sort` was used to get the top 5000 characters.  These were manually removed:
 
-The simplified characters with frequency 7 or more were extracted, and these characters (preceding 一 in Unicode order) were manually removed:
+> 䟠 㧡 㧡 㗎 䄏 㳄 㠯 㧯 䟠 㞢 𫗪 𠮶 𠮶 𠮶 々 〻 〇 〡 不 ⺈ ⺍ ⺗ ⺝ 爫 ⺷ ⺼ ⻍
 
-> 㞢 𠮶 䟠 㗎 㧡 㒼 㠯 㫃 㫬 㖞 𫗪 𬨎 䒑 𫚥 㒳 䏻 㕣 㓥 龺 䄏 𦈡 㠭 䴙 㳄 䌹 龰 䴘 𦈎 㱿 𣐕 𪷽 䍃 𬱖 㗊 㧯
-
-This left a corpus of 4,525 characters, namely `ChineseSE_chars_unicode_order.txt`.
+giving `ChineseSE_5000_chars_unicode_order.txt` (4973 chars).
