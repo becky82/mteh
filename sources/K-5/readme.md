@@ -1,3 +1,3 @@
-The file `K-5 Word Frequency Dictionary Bands XLS format.xls` was originally sourced from `mandarininstitute.org`, but this link seems broken now.  It contains 3349 words from which 1817 characters were extracted, giving `K5_chars_unicode_order.txt`.
+The file `K-5 Word Frequency Dictionary Bands XLS format.xls` was originally sourced from `mandarininstitute.org`, but this link seems broken now.  The word list is stored in `K5_words_original_order.txt` (3349 words), after correcting the "lookalike character" 丟 [#2851] to 丢.
 
-In the Excel spreadsheet, the character 丢 is incorrectly encoded as the "lookalike character" 丟 [#2851].
+The command `grep -oP '[\p{Han}]' K5_words_original_order.txt | sort -u` was used to extract the characters therein, giving `K5_chars_unicode_order.txt` (1817 chars).
