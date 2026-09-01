@@ -49,7 +49,7 @@ CORPUS_FILES = [
     "food/wainshine_food_chars_unicode_order.txt",
     "species/wainshine_species_chars_unicode_order.txt",
     "surnames/surname_all_chars_unicode_order.txt",
-    "names/CNC_chars_unicode_order.txt",
+    "names/CNC_character_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
     "company/wainshine_company_chars_unicode_order.txt",
     "med-orgs/wainshine_med-orgs_chars_unicode_order.txt",
