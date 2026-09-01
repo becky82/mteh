@@ -39,7 +39,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 15 | [psycholinguistic](./sources/psycholinguistic) | 3,253 | Chang et al. (2016) |
 | 16 | [Heisig](./sources/Heisig) | 3,018 | Heisig & Richardson, *Remembering Simplified Hanzi* I–II |
 | 17 | [Hoenig](./sources/Hoenig) | 2,177 | *Learn & Remember 2,178 Characters and Their Meanings* |
-| 18 | [Jun Da](./sources/JunDa) | 4,485* | modern Chinese corpus |
+| 18 | [Jun Da](./sources/JunDa) | 4,486* | modern Chinese corpus |
 | 19 | [SUBTLEX](./sources/SUBTLEX) | 4,462* | film and TV subtitle corpus |
 | 20 | [Tsai](./sources/Tsai) | 4,329* | Usenet newsgroups (1993-1994) |
 | 21 | [CKIP](./sources/CKIP) | 3,392* | CKIP (Chinese Knowledge and Information Processing) research group |
