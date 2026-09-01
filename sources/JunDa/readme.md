@@ -2,4 +2,4 @@ Jun Da's modern corpus was sourced [Jun Da's modern corpus](https://lingua.mtsu.
 
 > 乾 後 徵 捱 摺 於 榘 經 與 藥 這 過 醫 體 麽
 
-We keep 乾 (it's used in simplified Chinese, e.g. 乾隆), and manually delete the other characters, giving `JunDa_modern_top4500_simplified_unicode_order.txt`.
+We keep 乾 (it's used in simplified Chinese, e.g. 乾隆), and manually delete the other characters, giving `JunDa_modern_top4500_simplified_unicode_order.txt` (4486 chars).
