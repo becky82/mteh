@@ -58,7 +58,7 @@ CORPUS_FILES = [
     "surnames/surname_all_chars_unicode_order.txt",
     "names/CNC_chars_unicode_order.txt",
     "city-geo/city-geo_chars_unicode_order.txt",
-    "company/wainshine_company_top_chars_unicode_order.txt",
+    "company/wainshine_company_chars_unicode_order.txt",
     "med-orgs/wainshine_med-orgs_chars_unicode_order.txt",
     "MCT/MCT_chars_unicode_order.txt",
     "BCT/BCT_chars_unicode_order.txt",
