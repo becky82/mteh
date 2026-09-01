@@ -44,7 +44,7 @@ CORPUS_FILES = [
     "classical/classical_top2000_simplified_unicode_order.txt",
     "THUOCL/THUOCL_741docs_chars_unicode_order.txt",
     "Leeds/Leeds_30000words_chars_unicode_order.txt",
-    "BLCU/BLCU_30000words_chars_simplified_unicode_order.txt",
+    "BLCU/BLCU_6000_chars_unicode_order.txt",
     "LWC/LWC_40000words_chars_unicode_order.txt",
     "food/wainshine_food_chars_unicode_order.txt",
     "species/wainshine_species_chars_unicode_order.txt",
