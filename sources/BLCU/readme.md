@@ -6,4 +6,4 @@ The data used was from [Pleco Forums](https://www.plecoforums.com/threads/word-f
 
 We use `opencc -c t2s -i global_wordfreq.release_UTF-8.txt | perl -CSD -lane '$w=$F[0]; $n=$F[1]; $count{$_}+=$n for $w=~/\p{Han}/g; END { print "$_\t$count{$_}" for sort { $count{$b}<=>$count{$a} } keys %count }'` (which uses [OpenCC](https://github.com/BYVoid/OpenCC)) to generate a character frequency table, namely `BLCU_chars_frequency_order.txt` (12220 chars).
 
-We then use `head -n 6000 BLCU_chars_frequency_order.txt | awk '{print $1}' | sort -u` to get the top-6000 characters from this set, giving `BLCU_6000_chars_unicode_order.txt` (6000 chars).
+We then use `head -n 5000 BLCU_chars_frequency_order.txt | awk '{print $1}' | sort -u` to get the top-5000 characters from this set, giving `BLCU_6000_chars_unicode_order.txt` (5000 chars).
