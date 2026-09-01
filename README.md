@@ -55,7 +55,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 31 | [Chinese surnames](./sources/surnames) | 1,745 | 1,807 Chinese surnames |
 | 32 | [Chinese names](./sources/names) | 2,269 | 1,200,000 Chinese names |
 | 33 | [city-geo](./sources/city-geo) | 1,277 | mainland China city terms |
-| 34 | [company](./sources/company) | 4,363* | company proper nouns |
+| 34 | [company](./sources/company) | 5,403* | company proper nouns |
 | 35 | [med-orgs](./sources/med-orgs) | 4,826 | medical organizations |
 | 36 | [MCT](./sources/MCT) | 1,180 | Medical Chinese Test |
 | 37 | [BCT](./sources/BCT) | 1,752 | Business Chinese Test |
