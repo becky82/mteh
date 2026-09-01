@@ -2,9 +2,7 @@ We use a classical Chinese frequency list posted by user [叫我小山 at Chines
 
 > This list was generated from all the texts of the "Pre-Qin and Han" category of the ctext.org website, which includes all of the Classical Chinese corpus prior to the end of the Han dynasty (220 AD). It consists of a base file of 12,236,622 characters. I took this massive data file (5,609 pages!) and sorted it using a character frequency counter online. This method found approximately 14,000 unique characters. After cleaning the data for non-Chinese characters (, . ? ! 1 @ # [ 。、) and etc., I was left with a frequency-sorted list of 13,673 unique characters.
 
-We extract the characters using `awk -F'\t' '$1 ~ /^[一-龥]$/ {print $1}' "Classical Chinese Frequency List.txt"`, giving `classical_original_order.txt` (12403 chars).
-
-The command `head -n 2000 classical_original_order.txt | opencc -c t2s.json | grep -o . | sort -u` (which uses [OpenCC](https://github.com/BYVoid/OpenCC)) was used to select the top-2000 characters, convert to simplified, and sort and remove duplicates, which reduced the number of characters by 63 - 31 = 32:
+We begin by copy/pasting the 13673 characters into `classical_original_order.txt`.  The command `head -n 2000 classical_original_order.txt | opencc -c t2s.json | grep -o . | sort -u` (which uses [OpenCC](https://github.com/BYVoid/OpenCC)) was used to select the top-2000 characters, convert traditional characters to simplified, and sort and remove duplicates, which reduced the number of characters by 63 - 31 = 32:
 
     丑: 丑醜
     于: 于於
