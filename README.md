@@ -48,7 +48,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 24 | [classical](./sources/classical) | 1,968* | prior to the end of the Han dynasty |
 | 25 | [THUOCL](./sources/THUOCL) | 3,469* | mostly Sogou webpages |
 | 26 | [Leeds](./sources/Leeds) | 4,230* | Internet corpus |
-| 27 | [BLCU](./sources/BLCU) | 4,445* | "balanced", written Chinese |
+| 27 | [BLCU](./sources/BLCU) | 5,000* | "balanced", written Chinese |
 | 28 | [LWC](./sources/LWC) | 4,130* | Sina Weibo |
 | 29 | [food](./sources/food) | 1,182 | food-related terms |
 | 30 | [species](./sources/species) | 4,086 | species names |
