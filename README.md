@@ -44,7 +44,7 @@ The MteH corpus is built to minimize "missing" characters; any characters not in
 | 20 | [Tsai](./sources/Tsai) | 4,329* | Usenet newsgroups (1993-1994) |
 | 21 | [CKIP](./sources/CKIP) | 3,392* | CKIP (Chinese Knowledge and Information Processing) research group |
 | 22 | [Wikipedia](./sources/Wikipedia) | 3,476* | Chinese Wikipedia |
-| 23 | [Chinese.SE](./sources/ChineseSE) | 4,525* | Chinese Stack Exchange (Jan 2026) |
+| 23 | [Chinese.SE](./sources/ChineseSE) | 4,973* | Chinese Stack Exchange (Jan 2026) |
 | 24 | [classical](./sources/classical) | 1,968* | prior to the end of the Han dynasty |
 | 25 | [THUOCL](./sources/THUOCL) | 3,469* | mostly Sogou webpages |
 | 26 | [Leeds](./sources/Leeds) | 4,230* | Internet corpus |
