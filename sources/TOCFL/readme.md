@@ -1,6 +1,4 @@
-Taiwan's TOCFL has a list of 3100 traditional characters, sourced from [Github](https://github.com/PSeitz/tocfl/tree/main), who reports sourcing it from [this official source](https://coct.naer.edu.tw/download/tech_report/) although that link seems broken now.
-
-Some lines in this file are like this:
+Taiwan's TOCFL has a list of 3100 traditional characters, which we souce from [Github](https://github.com/PSeitz/tocfl/tree/main) (named `Chinese_Character_List_111-09-20.xlsx`), who reports sourcing it from [this official source](https://coct.naer.edu.tw/download/tech_report/) although that link seems broken now.  We save the original character list as `TOCFL_chars_original.txt`.  In this file, there are these lines:
 
     台／臺
     裡／裏
@@ -36,9 +34,7 @@ Some lines in this file are like this:
     薦／荐
     鑑／鑒
 
-So this results in 3133 traditional characters.
-
-We convert the traditional characters to simplified using [OpenCC](https://github.com/BYVoid/OpenCC) in Python.  These characters mapped to duplicate simplified characters (206 traditional -> 100 simplified):
+So this results in 3133 traditional characters in total.  We use the command `sed 's|／|\n|g' TOCFL_chars_original.txt | opencc -c t2s.json | sort -u` to convert the traditional characters to simplified using [OpenCC](https://github.com/BYVoid/OpenCC).  These characters mapped to duplicate simplified characters (206 traditional -> 100 simplified):
 
     后: 後, 后
     台: 台, 臺, 颱
@@ -141,4 +137,4 @@ We convert the traditional characters to simplified using [OpenCC](https://githu
     荐: 薦, 荐
     鉴: 鑑, 鑒
 
-Thus we obtain a list of 3100 + 33 - 106 = 3027 distinct simplified characters (saved in `TCOFL_simplified_chars.txt`).
+Thus we obtain a list of 3100 + 33 - 106 = 3027 distinct simplified characters, saved in `TOCFL_simplified_chars_unicode_order.txt` (3027 chars).

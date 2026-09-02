@@ -17,7 +17,7 @@ CORPUS_FILES = [
     "HSK2.0/HSK2.0_chars.txt",
     "HSK3.0/HSK3.0_chars.txt",
     "HSK3.1/HSK3.1_chars.txt",
-    "TOCFL/TOCFL_simplified_chars.txt",
+    "TOCFL/TOCFL_simplified_chars_unicode_order.txt",
     "K-5/K5_chars_unicode_order.txt",
     "通用规范汉字表/通用规范汉字表_chars_unicode_order.txt",
     "通用规范汉字表/通用规范汉字表_level2_chars_unicode_order.txt",
