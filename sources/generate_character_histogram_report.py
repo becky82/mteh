@@ -43,7 +43,7 @@ CORPUS_FILES = [
     "ChineseSE/ChineseSE_5000_chars_unicode_order.txt",
     "classical/classical_top2000_simplified_unicode_order.txt",
     "THUOCL/THUOCL_741docs_chars_unicode_order.txt",
-    "Leeds/Leeds_30000words_chars_unicode_order.txt",
+    "Leeds/Leeds_chars_frequency_order.txt",
     "BLCU/BLCU_5000_chars_unicode_order.txt",
     "LWC/LWC_chars_top5000_unicode_order.txt",
     "food/wainshine_food_chars_unicode_order.txt",

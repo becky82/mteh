@@ -1,7 +1,5 @@
-The Leeds Chinese corpus was originally sourced from `corpus.leeds.ac.uk`, but this link seems broken now; it is still downloadable from archive.org via [this link](https://web.archive.org/web/20230607215808/http://corpus.leeds.ac.uk/frqc/internet-zh.num).  It's a list of 50000 "words" (where "words" includes puctuation marks, English words, phrases, and other non-words) sourced from the Internet.
-
-The relevant paper is here:
+The Leeds Chinese corpus was originally sourced from `corpus.leeds.ac.uk`; the relevant paper is here:
 
 > Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, editors, WaCky! Working papers on the Web as Corpus. Gedit, Bologna. [PDF](https://ssharoff.github.io/publications/2006-wacky-paper.pdf) 
 
-The top 30000 "words" were used, and all the Chinese characters therein where extracted, resulting in a list of 4230 characters, namely `Leeds_30000words_chars_unicode_order.txt`.
+However, the link seems broken now, but it is still downloadable from archive.org via [this link](https://web.archive.org/web/20230607215808/http://corpus.leeds.ac.uk/frqc/internet-zh.num) (called `internet-zh`).  It's a list of 50000 "words" (where "words" includes puctuation marks, English words, phrases, and other non-words) sourced from the Internet, along with their frequencies in a 281,660,631-character sample.  We delete the entry `201 442.15  ` which enumerates a whitespace.  The result is given in `Leeds_words_original_order.txt` (49999 terms).  This was converted to a character frequency table using `perl -CSD -lane '$count{$_}+=$F[1] for $F[0]=~/\p{Han}/g; END { print "$_ $count{$_}" for sort {$count{$b}<=>$count{$a}} keys %count }' Leeds_words_frequency_order.txt`, giving `Leeds_chars_frequency_order.txt` (4970 chars).
