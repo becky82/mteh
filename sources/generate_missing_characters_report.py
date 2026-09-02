@@ -52,7 +52,7 @@ CORPUS_FILES = [
     "THUOCL/THUOCL_741docs_chars_unicode_order.txt",
     "Leeds/Leeds_30000words_chars_unicode_order.txt",
     "BLCU/BLCU_5000_chars_unicode_order.txt",
-    "LWC/LWC_40000words_chars_unicode_order.txt",
+    "LWC/LWC_chars_top5000_unicode_order.txt",
     "food/wainshine_food_chars_unicode_order.txt",
     "species/wainshine_species_chars_unicode_order.txt",
     "surnames/surname_all_chars_unicode_order.txt",
