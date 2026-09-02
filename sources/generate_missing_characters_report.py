@@ -42,7 +42,7 @@ CORPUS_FILES = [
     "psycholinguistic/psycholinguistic_simplified_unicode_order.txt",
     "Heisig/Heisig_chars_unicode_order.txt",
     "Hoenig/Hoenig_chars_unicode_order.txt",
-    "JunDa/JunDa_modern_top4500_simplified_unicode_order.txt",
+    "JunDa/JunDa_modern_top5000_simplified_unicode_order.txt",
     "SUBTLEX/SUBTLEX_chars_top4500_simplified_unicode_order.txt",
     "Tsai/Tsai_chars_top5000_unicode_order.txt",
     "CKIP/CKIP_chars_unicode_order.txt",
