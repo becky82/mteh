@@ -44,7 +44,7 @@ CORPUS_FILES = [
     "Hoenig/Hoenig_chars_unicode_order.txt",
     "JunDa/JunDa_modern_top4500_simplified_unicode_order.txt",
     "SUBTLEX/SUBTLEX_chars_top4500_simplified_unicode_order.txt",
-    "Tsai/Tsai_chars_top4500_simplified_unicode_order.txt",
+    "Tsai/Tsai_chars_top5000_unicode_order.txt",
     "CKIP/CKIP_chars_unicode_order.txt",
     "Wikipedia/Wikipedia_chars_top4500_simplified_unicode_order.txt",
     "ChineseSE/ChineseSE_5000_chars_unicode_order.txt",
